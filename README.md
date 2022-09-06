@@ -1,12 +1,12 @@
-# codelijst-somparameter
+# codelijst-sommatie_stoffen
 
 ## Samenvatting
-Lijst van somparameters, zoals die binnen het kader van het OSLO thema omgeving is opgesteld en tools om deze lijst te beheren en om te zetten naar webformaten.
+Lijst van sommaties en groeperingen van chemische stoffen, zoals die binnen het kader van het OSLO thema omgeving is opgesteld en tools om deze lijst te beheren en om te zetten naar webformaten.
 
 
 ## Gebruik
 
-- Voeg een definitie van een nieuwe somparameter toe aan $PROJECT_HOME/src/main/resources/be/vlaanderen/omgeving/data/id/conceptscheme/somparameter/somparameter.csv
+- Voeg een definitie van een nieuwe sommatie of groepering toe toe aan $PROJECT_HOME/src/main/resources/be/vlaanderen/omgeving/data/id/conceptscheme/sommatie_stoffen/sommatie_stoffen.csv
 
 ### csv naar rdf
 ```
@@ -16,7 +16,7 @@ bash csv_to_rfd.sh
 ### rdf naar csv
 ```
 cd $PROJECT_HOME/src/main/sparql
-sparql --results=CSV --data=../resources/be/vlaanderen/omgeving/data/id/conceptscheme/somparameter/somparameter.ttl  --query rdf_to_csv.rq > ../resources/be/vlaanderen/omgeving/data/id/conceptscheme/somparameter/somparameter.csv
+sparql --results=CSV --data=../resources/be/vlaanderen/omgeving/data/id/conceptscheme/sommatie_stoffen/sommatie_stoffen.ttl  --query rdf_to_csv.rq > ../resources/be/vlaanderen/omgeving/data/id/conceptscheme/sommatie_stoffen/sommatie_stoffen.csv
 ```
 
 ## Dependencies
