@@ -1,4 +1,4 @@
-##sparql --results=CSV --data=../resources/be/vlaanderen/omgeving/data/id/conceptscheme/somparameter/somparameter.ttl  --query rdf_to_csv.rq > ../resources/be/vlaanderen/omgeving/data/id/conceptscheme/somparameter/somparameter.csv
+##sparql --results=CSV --data=../resources/be/vlaanderen/omgeving/data/id/conceptscheme/sommatie_stoffen/sommatie_stoffen.ttl  --query rdf_to_csv.rq > ../resources/be/vlaanderen/omgeving/data/id/conceptscheme/sommatie_stoffen/sommatie_stoffen.csv
 
 
 prefix skos:  <http://www.w3.org/2004/02/skos/core#>
