@@ -6,7 +6,9 @@ library(jsonlite)
 
 df <- read.csv(file = "../resources/be/vlaanderen/omgeving/data/id/conceptscheme/sommatie_stoffen/sommatie_stoffen.csv", sep=",", na.strings=c("","NA"))
 
-for (col in list("https://data.omgeving.vlaanderen.be/id/collection/sommatie_stoffen/water")) {
+# members van collection uit "inverse" relatie
+collections <- na.omit(distinct(df['collection']))
+for (col in as.list(collections$collection)) {
   medium <- subset(df, collection == col ,
                    select=c(uri, collection))
   medium_members <- as.list(medium["uri"])
@@ -14,13 +16,16 @@ for (col in list("https://data.omgeving.vlaanderen.be/id/collection/sommatie_sto
   names(df2) <- c("uri","member")
   df <- bind_rows(df, df2)
 }
-
-tco <- subset(df, topConceptOf == 'https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen' ,
-                   select=c(uri, topConceptOf))
-htc <- as.list(tco["uri"])
-df2 <- data.frame('https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen', htc)
-names(df2) <- c("uri","hasTopConcept")
-df <- bind_rows(df, df2)
+# hasTopConcept relatie uit inverse relatie
+schemes <- na.omit(distinct(df['topConceptOf']))
+for (scheme in as.list(schemes$topConceptOf)) {
+  topconceptof <- subset(df, topConceptOf == scheme ,
+                         select=c(uri, topConceptOf))
+  hastopconcept <- as.list(topconceptof["uri"])
+  df2 <- data.frame(scheme, hastopconcept)
+  names(df2) <- c("uri","hasTopConcept")
+  df <- bind_rows(df, df2)
+}
 
 
 df <- df %>%
@@ -32,3 +37,7 @@ df_in_list <- list('@graph' = df, '@context' = context)
 df_in_json <- toJSON(df_in_list, auto_unbox=TRUE)
 write(df_in_json, "/tmp/sommatie_stoffen.jsonld")
 
+# serialiseer jsonld naar mooie turtle en mooie jsonld
+# hiervoor dienen jena cli-tools geinstalleerd, zie README.md
+system("riot --formatted=TURTLE /tmp/sommatie_stoffen.jsonld > ../resources/be/vlaanderen/omgeving/data/id/conceptscheme/sommatie_stoffen/sommatie_stoffen.ttl")
+system("riot --formatted=JSONLD ../resources/be/vlaanderen/omgeving/data/id/conceptscheme/sommatie_stoffen/sommatie_stoffen.ttl > ../resources/be/vlaanderen/omgeving/data/id/conceptscheme/sommatie_stoffen/sommatie_stoffen.jsonld")

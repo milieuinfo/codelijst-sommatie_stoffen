@@ -370,8 +370,6 @@ css:pyrethroïden  a        skos:Concept ;
         dcat:theme         gemet:15179 ;
         cs:vmmParameterId  "1724"^^xsd:int .
 
-[ dcat:theme  gemet:15179 ] .
-
 css:c14dadma  a            skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
         skos:prefLabel     "Ditetradecyldimethylammonium"@nl ;
@@ -555,6 +553,8 @@ css:apeo_c14  a            skos:Concept ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:15179 ;
         cs:vmmParameterId  "1831"^^xsd:int .
+
+[ dcat:theme  gemet:15179 ] .
 
 css:zr_mo  a               skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
