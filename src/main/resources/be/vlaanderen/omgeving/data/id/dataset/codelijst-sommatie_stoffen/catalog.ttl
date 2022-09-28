@@ -58,22 +58,6 @@ omg_distribution:codelijst-sommatie_stoffen_jsonld
         dcat:mediaType        <https://www.iana.org/assignments/media-types/application/ld+json> ;
         foaf:page             <https://data.omgeving.vlaanderen.be/doc/distribution/codelijst-sommatie_stoffen_jsonld.html> .
 
-omg_named_graph:algemeen-catalog-publiek
-        a                   sd:NamedGraph ;
-        rdfs:label          "Graph algemeen-catalog-publiek"@nl ;
-        dc:identifier       "be.vlaanderen.omgeving.data.id.graph.algemeen-catalog-publiek" ;
-        dcterms:identifier  omg_named_graph:algemeen-catalog-publiek ;
-        dcterms:source      omg_package:be.vlaanderen.omgeving.data.id.graph.algemeen-catalog-publiek ;
-        sd:name             omg_graph:algemeen-catalog-publiek .
-
-omg_package:be.vlaanderen.omgeving.data.id.graph.codelijst-sommatie_stoffen
-        a                      spdx:Package ;
-        rdfs:label             "Package algemeen-conceptschemes-publiek"@nl ;
-        spdx:downloadLocation  "https://repo.omgeving.vlaanderen.be/artifactory/release/be/vlaanderen/omgeving/data/id/graph/codelijst-sommatie_stoffen/1.0.1/codelijst-sommatie_stoffen-1.0.1.jar"^^xsd:anyURI ;
-        spdx:packageFileName   "codelijst-sommatie_stoffen-1.0.1.jar" ;
-        spdx:packageName       "be.vlaanderen.omgeving.data.id.graph.codelijst-sommatie_stoffen" ;
-        spdx:versionInfo       "1.0.1" .
-
 omg_distribution:codelijst-sommatie_stoffen_csv
         a                     dcat:Distribution ;
         rdfs:label            "Codelijst Sommatie Stoffen, in text/csv formaat."@nl ;
@@ -115,71 +99,14 @@ omg_dataset:codelijst-sommatie_stoffen
         dcat:theme                  datatheme_be:ENVI , datatheme_eu:ENVI , eurovoc:2407 , gemet:10087 ;
         foaf:page                   <https://data.omgeving.vlaanderen.be/doc/dataset/codelijst-sommatie_stoffen.html> .
 
-omg_package:be.vlaanderen.omgeving.dsi.data.id.graph.algemeen-catalog-publiek
-        a                      spdx:Package ;
-        rdfs:label             "Package algemeen-catalog-publiek"@nl ;
-        spdx:downloadLocation  "https://repo.omgeving.vlaanderen.be/artifactory/release/be/vlaanderen/omgeving/data/id/graph/algemeen-catalog-publiek/1.0.0/algemeen-catalog-publiek-1.0.0.jar"^^xsd:anyURI ;
-        spdx:packageFileName   "algemeen-catalog-publiek-1.0.0.jar" ;
-        spdx:packageName       "be.vlaanderen.omgeving.dsi.data.id.graph.algemeen-catalog-publiek" ;
-        spdx:versionInfo       "1.0.0" .
-
-omg_service:sparqlservice
-        a                     sd:Service ;
-        rdfs:comment          "Een beschrijving, met de verschillende kenmerken, van de sparql service."@nl ;
-        rdfs:label            "Sparql service conform SPARQL 1.1 Protocol."@nl ;
-        sd:availableGraphs    omg_graphcollection:sparqlservice ;
-        sd:defaultDataset     omg_graphcollection:sparqlservice ;
-        sd:endpoint           <https://data.omgeving.vlaanderen.be/sparql> ;
-        sd:feature            sd:UnionDefaultGraph , sd:DereferencesURIs ;
-        sd:resultFormat       formats:SPARQL_Results_JSON , formats:Turtle , formats:SPARQL_Results_XML , formats:SPARQL_Results_CSV , formats:N3 , formats:N-Triples , formats:RDF_XML ;
-        sd:supportedLanguage  sd:SPARQL10Query ;
-        sd:url                <https://data.omgeving.vlaanderen.be/sparql> .
-
-omg_graphcollection:sparqlservice
-        a              sd:GraphCollection , sd:Dataset ;
-        rdfs:label     "De graphen die gebruikt kunnen worden in de constructie van een dataset via SPARQL Protocol."@nl ;
-        sd:namedGraph  omg_named_graph:algemeen-catalog-publiek , omg_named_graph:algemeen-conceptschemes-publiek .
-
 omg_catalog:codelijst
-        a                     dcat:Catalog ;
-        rdfs:label            "Catalogus van datasets, codelijsten, van het domein omgeving."@nl ;
-        dc:identifier         "be.vlaanderen.omgeving.data.id.catalog.codelijst" ;
-        dc:language           "nl"@nl ;
-        dc:source             "Codelijsten omgeving." ;
-        dcterms:alternative   "Dataset catalogus codelijsten omgeving."@nl ;
-        dcterms:description   "De codelijsten met betrekking tot het hele domein omgeving van de Vlaamse Overheid."@nl ;
-        dcterms:identifier    omg_catalog:codelijst ;
-        dcterms:issued        "2022-09-10"^^xsd:date ;
-        dcterms:language      language:NLD ;
-        dcterms:license       <http://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0> ;
-        dcterms:publisher     ovo:OVO003323 ;
-        dcterms:rightsHolder  ovo:OVO003751 ;
-        dcterms:spatial       <https://www.geonames.org/3337388/flanders> , country:BEL ;
-        dcterms:title         "Catalogus van datasets, codelijsten, van het domein omgeving."@nl ;
-        void:rootResource     omg_catalog:dsi ;
-        dcat:contactPoint     omg_vcard:helpdesk ;
-        dcat:dataset          omg_dataset:codelijst-sommatie_stoffen ;
-        dcat:service          omg_dataservice:sparqlendpoint ;
-        sd:namedGraph         omg_named_graph:algemeen-catalog-publiek ;
-        foaf:homepage         <https://data.omgeving.vlaanderen.be/doc/catalog/dsi.html> .
+        a             dcat:Catalog ;
+        dcat:dataset  omg_dataset:codelijst-sommatie_stoffen ;
+        dcat:service  omg_dataservice:sparqlendpoint .
 
 omg_dataservice:sparqlendpoint
-        a                         dcat:DataService ;
-        rdfs:label                "Sparql endpoint DSI datasets"@nl ;
-        dc:identifier             "be.vlaanderen.omgeving.data.id.dataservice.sparqlendpoint" ;
-        dcterms:accessRights      access_right:PUBLIC ;
-        dcterms:conformsTo        <http://www.w3.org/TR/sparql11-protocol/> ;
-        dcterms:description       "Sparql endpoint api op de datasets gepubliceerd onder het DSI domein."@nl ;
-        dcterms:identifier        omg_dataservice:sparqlendpoint ;
-        dcterms:license           <http://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0> ;
-        dcterms:publisher         ovo:OVO003323 ;
-        dcterms:title             "Sparql endpoint DSI datasets"@nl ;
-        dcat:contactPoint         omg_vcard:helpdesk ;
-        dcat:endpointDescription  omg_service:sparqlservice ;
-        dcat:endpointURL          <https://data.omgeving.vlaanderen.be/sparql> ;
-        dcat:landingPage          <https://data.omgeving.vlaanderen.be/#sparqlForm> ;
-        dcat:servesDataset        omg_dataset:codelijst-sommatie_stoffen ;
-        foaf:page                 <https://data.omgeving.vlaanderen.be/doc/dataservice/sparqlendpoint.html> .
+        a                   dcat:DataService ;
+        dcat:servesDataset  omg_dataset:codelijst-sommatie_stoffen .
 
 omg_distribution:codelijst-sommatie_stoffen_ttl
         a                     dcat:Distribution ;
@@ -197,11 +124,3 @@ omg_distribution:codelijst-sommatie_stoffen_ttl
         dcat:downloadURL      <https://github.com/milieuinfo/codelijst-sommatie_stoffen/raw/main/src/main/resources/be/vlaanderen/omgeving/data/id/conceptscheme/sommatie_stoffen/sommatie_stoffen.ttl> ;
         dcat:mediaType        <https://www.iana.org/assignments/media-types/text/turtle> ;
         foaf:page             <https://data.omgeving.vlaanderen.be/doc/distribution/codelijst-sommatie_stoffen_ttl.html> .
-
-omg_named_graph:algemeen-conceptschemes-publiek
-        a                   sd:NamedGraph ;
-        rdfs:label          "Graph algemeen-conceptschemes-publiek"@nl ;
-        dc:identifier       "be.vlaanderen.omgeving.data.id.graph.algemeen-conceptschemes-publiek" ;
-        dcterms:identifier  omg_named_graph:dsi-data-intern ;
-        dcterms:source      omg_package:be.vlaanderen.omgeving.data.id.graph.codelijst-sommatie_stoffen ;
-        sd:name             omg_graph:algemeen-conceptschemes-publiek .
