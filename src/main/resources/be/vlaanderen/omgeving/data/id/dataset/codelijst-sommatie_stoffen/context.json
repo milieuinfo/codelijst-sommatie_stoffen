@@ -107,6 +107,9 @@
     "versionInfo" : {
       "@id" : "http://spdx.org/rdf/terms#versionInfo"
     },
+    "owl.versionInfo" : {
+      "@id" : "http://www.w3.org/2002/07/owl#versionInfo"
+    },
     "packageName" : {
       "@id" : "http://spdx.org/rdf/terms#packageName"
     },
