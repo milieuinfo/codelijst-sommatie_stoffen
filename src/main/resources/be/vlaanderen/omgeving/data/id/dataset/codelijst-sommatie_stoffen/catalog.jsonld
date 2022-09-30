@@ -42,11 +42,12 @@
       "@language" : "nl",
       "@value" : "Thesaurus Sommatie Stoffen"
     },
+    "rootResource" : "vlcs:sommatie_stoffen",
     "label" : {
       "@language" : "nl",
       "@value" : "Dataset Codelijst Sommatie Stoffen"
     },
-    "versionInfo" : "1.0.5",
+    "versionInfo" : "1.0.6",
     "contactPoint" : "omg_vcard:helpdesk",
     "distribution" : [ "omg_distribution:codelijst-sommatie_stoffen_ttl", "omg_distribution:codelijst-sommatie_stoffen_csv", "omg_distribution:codelijst-sommatie_stoffen_jsonld" ],
     "landingPage" : "https://data.omgeving.vlaanderen.be/doc/catalog/codelijst.html",
@@ -75,7 +76,7 @@
       "@language" : "nl",
       "@value" : "Codelijst Sommatie Stoffen, in text/csv formaat."
     },
-    "versionInfo" : "1.0.5",
+    "versionInfo" : "1.0.6",
     "accessURL" : "https://github.com/milieuinfo/codelijst-sommatie_stoffen.git",
     "compressFormat" : "http://www.iana.org/assignments/media-types/application/gzip",
     "downloadURL" : "https://github.com/milieuinfo/codelijst-sommatie_stoffen/raw/main/src/main/resources/be/vlaanderen/omgeving/data/id/conceptscheme/sommatie_stoffen/sommatie_stoffen.csv",
@@ -104,7 +105,7 @@
       "@language" : "nl",
       "@value" : "Codelijst Sommatie Stoffen, in jsonld rdf-formaat."
     },
-    "versionInfo" : "1.0.5",
+    "versionInfo" : "1.0.6",
     "accessURL" : "https://github.com/milieuinfo/codelijst-sommatie_stoffen.git",
     "compressFormat" : "http://www.iana.org/assignments/media-types/application/gzip",
     "downloadURL" : "https://github.com/milieuinfo/codelijst-sommatie_stoffen/raw/main/src/main/resources/be/vlaanderen/omgeving/data/id/conceptscheme/sommatie_stoffen/sommatie_stoffen.jsonld",
@@ -133,7 +134,7 @@
       "@language" : "nl",
       "@value" : "Codelijst Sommatie Stoffen, in Turtle rdf-formaat."
     },
-    "versionInfo" : "1.0.5",
+    "versionInfo" : "1.0.6",
     "accessURL" : "https://github.com/milieuinfo/codelijst-sommatie_stoffen.git",
     "compressFormat" : "http://www.iana.org/assignments/media-types/application/gzip",
     "downloadURL" : "https://github.com/milieuinfo/codelijst-sommatie_stoffen/raw/main/src/main/resources/be/vlaanderen/omgeving/data/id/conceptscheme/sommatie_stoffen/sommatie_stoffen.ttl",
@@ -164,9 +165,6 @@
       "@id" : "http://www.w3.org/ns/dcat#compressFormat",
       "@type" : "@id"
     },
-    "versionInfo" : {
-      "@id" : "http://www.w3.org/2002/07/owl#versionInfo"
-    },
     "label" : {
       "@id" : "http://www.w3.org/2000/01/rdf-schema#label"
     },
@@ -192,15 +190,22 @@
     "title" : {
       "@id" : "http://purl.org/dc/terms/title"
     },
-    "alternative" : {
-      "@id" : "http://purl.org/dc/terms/alternative"
+    "versionInfo" : {
+      "@id" : "http://www.w3.org/2002/07/owl#versionInfo"
     },
     "theme" : {
       "@id" : "http://www.w3.org/ns/dcat#theme",
       "@type" : "@id"
     },
+    "alternative" : {
+      "@id" : "http://purl.org/dc/terms/alternative"
+    },
     "distribution" : {
       "@id" : "http://www.w3.org/ns/dcat#distribution",
+      "@type" : "@id"
+    },
+    "rootResource" : {
+      "@id" : "http://rdfs.org/ns/void#rootResource",
       "@type" : "@id"
     },
     "landingPage" : {
@@ -261,6 +266,7 @@
     "access_right" : "http://publications.europa.eu/resource/authority/access-right/",
     "frequency" : "http://publications.europa.eu/resource/authority/frequency/",
     "sd" : "http://www.w3.org/ns/sparql-service-description#",
+    "vlcs" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/",
     "omg_periodoftime" : "https://data.omgeving.vlaanderen.be/id/periodoftime/",
     "omg_collection" : "https://data.omgeving.vlaanderen.be/id/collection/",
     "file_type" : "http://publications.europa.eu/resource/authority/file-type/",

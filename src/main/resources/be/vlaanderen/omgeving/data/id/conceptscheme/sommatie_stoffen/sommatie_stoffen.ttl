@@ -1607,14 +1607,14 @@ css:dcan_t  a              skos:Concept ;
         dcat:theme         gemet:15179 ;
         cs:vmmParameterId  "888"^^xsd:int .
 
-[ dcat:theme  gemet:15179 ] .
-
 css:anmvos_t  a            skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
         skos:prefLabel     "Aromatische NMVOS, totaal"@nl ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:15179 ;
         cs:vmmParameterId  "1171"^^xsd:int .
+
+[ dcat:theme  gemet:15179 ] .
 
 css:nb_mt  a               skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
