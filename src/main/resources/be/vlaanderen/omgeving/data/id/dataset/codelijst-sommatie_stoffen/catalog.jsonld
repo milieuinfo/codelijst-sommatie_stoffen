@@ -79,7 +79,7 @@
     "versionInfo" : "1.0.6",
     "accessURL" : "https://github.com/milieuinfo/codelijst-sommatie_stoffen.git",
     "compressFormat" : "http://www.iana.org/assignments/media-types/application/gzip",
-    "downloadURL" : "https://github.com/milieuinfo/codelijst-sommatie_stoffen/raw/main/src/main/resources/be/vlaanderen/omgeving/data/id/conceptscheme/sommatie_stoffen/sommatie_stoffen.csv",
+    "downloadURL" : "https://raw.githubusercontent.com/milieuinfo/codelijst-sommatie_stoffen/main/src/main/resources/be/vlaanderen/omgeving/data/id/conceptscheme/sommatie_stoffen/sommatie_stoffen.csv",
     "mediaType" : "https://www.iana.org/assignments/media-types/text/csv",
     "page" : "https://data.omgeving.vlaanderen.be/doc/distribution/codelijst-sommatie_stoffen_csv.html"
   }, {
@@ -108,7 +108,7 @@
     "versionInfo" : "1.0.6",
     "accessURL" : "https://github.com/milieuinfo/codelijst-sommatie_stoffen.git",
     "compressFormat" : "http://www.iana.org/assignments/media-types/application/gzip",
-    "downloadURL" : "https://github.com/milieuinfo/codelijst-sommatie_stoffen/raw/main/src/main/resources/be/vlaanderen/omgeving/data/id/conceptscheme/sommatie_stoffen/sommatie_stoffen.jsonld",
+    "downloadURL" : "https://raw.githubusercontent.com/milieuinfo/codelijst-sommatie_stoffen/main/src/main/resources/be/vlaanderen/omgeving/data/id/conceptscheme/sommatie_stoffen/sommatie_stoffen.jsonld",
     "mediaType" : "https://www.iana.org/assignments/media-types/application/ld+json",
     "page" : "https://data.omgeving.vlaanderen.be/doc/distribution/codelijst-sommatie_stoffen_jsonld.html"
   }, {
@@ -137,7 +137,7 @@
     "versionInfo" : "1.0.6",
     "accessURL" : "https://github.com/milieuinfo/codelijst-sommatie_stoffen.git",
     "compressFormat" : "http://www.iana.org/assignments/media-types/application/gzip",
-    "downloadURL" : "https://github.com/milieuinfo/codelijst-sommatie_stoffen/raw/main/src/main/resources/be/vlaanderen/omgeving/data/id/conceptscheme/sommatie_stoffen/sommatie_stoffen.ttl",
+    "downloadURL" : "https://raw.githubusercontent.com/milieuinfo/codelijst-sommatie_stoffen/main/src/main/resources/be/vlaanderen/omgeving/data/id/conceptscheme/sommatie_stoffen/sommatie_stoffen.ttl",
     "mediaType" : "https://www.iana.org/assignments/media-types/text/turtle",
     "page" : "https://data.omgeving.vlaanderen.be/doc/distribution/codelijst-sommatie_stoffen_ttl.html"
   } ],
@@ -168,10 +168,6 @@
     "label" : {
       "@id" : "http://www.w3.org/2000/01/rdf-schema#label"
     },
-    "downloadURL" : {
-      "@id" : "http://www.w3.org/ns/dcat#downloadURL",
-      "@type" : "@id"
-    },
     "rightsHolder" : {
       "@id" : "http://purl.org/dc/terms/rightsHolder",
       "@type" : "@id"
@@ -189,6 +185,10 @@
     },
     "title" : {
       "@id" : "http://purl.org/dc/terms/title"
+    },
+    "downloadURL" : {
+      "@id" : "http://www.w3.org/ns/dcat#downloadURL",
+      "@type" : "@id"
     },
     "versionInfo" : {
       "@id" : "http://www.w3.org/2002/07/owl#versionInfo"
