@@ -1,664 +1,469 @@
-type,uri,vmmParameterId,notations,prefLabel,inScheme,topConceptOf,theme,collection
-skos:Collection,coss:water,,,Collectie van verzameling stoffen die in water worden gemeten,,,,
-skos:Concept,css:10_metalen_totaal,1751,10 metalen totaal,"som (Cd,Hg,Cu,Zn,Pb,Cr,Ni,As,Se,Ba) totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:111cea_112cea,1735,"(111CEa,112CEa)","Som 1,1,1-Trichloorethaan en 1,1,2-Trichloorethaan",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:11cea__12cea,1715,"(11CEa, 12CEa)","Som van 1,1 dichloorethaan + 1,2 dichloorethaan",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:1235_1245cbz,1457,1235+1245CBz,"1,2,3,5+1,2,4,5-Tetrachloorbenzeen",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:12cbz_13cbz,1761,12CBz+13CBz,"Som van 1,2 + 1,3 Dichloorbenzeen",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:12cbz_14cbz,1778,12CBz+14CBz,"som van 1,2-dichloorbenzeen en 1,4-dichloorbenzeen",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:1buteen__,746,1Buteen (+),"1-Buteen + 1,3-Butadieen",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:1c2_3_4nibzs,1210,1C2+3+4NiBzS,Chloornitrobenzenen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:2_3_4cfol,1779,2+3+4CFol,"som 2-chloorfenol, 3-chloorfenol en 4-chloorfenol",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:23_35myfol_4eyfol,766,23+35MyFol+4EyFol,"2,3+3,5-Dimethylfenol+4-Ethylfenol",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:2345_2346cfol,793,2345+2346CFol,"2,3,4,5+2,3,4,6-Tetrachloorfenol",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:24_25-cfol,922,24+25-CFol,"2,4+2,5-Dichloorfenol",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:24_25myfol,765,24+25MyFol,"2,4+2,5-Dimethylfenol",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:3_4cfol,794,3+4CFol,3+4-Chloorfenol,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:3_4eyfol,785,3+4EyFol,3+4-Ethylfenol,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:3_4myfol,786,3+4MyFol,3+4-Methylfenol,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:4eyfol___35myfol,1668,4EyFol + 35MyFol,"4-ethylfenol + 3,5 dimethylfenol",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:7_metalen_opg_,1707,7 metalen opg.,"som van 7 metalen opgelost ...,Cu,Hg,Pb",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:7_metalen_totaal,1769,7 metalen totaal,"som 7 metalen totaal Cr,Zn,Pb,Ni,As,Mn,Cu",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:8_metalen_totaal,1689,8 metalen totaal,"som van 8 totale metalen Cr,Cu,Pb,Mn,Fe,Zn,Ni,Co",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:9_metalen_totaal,1706,9 metalen totaal,"som van 9 metalen t ...,Sb,Ba,Se,As",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-skos:Concept,css:ac_acrol,1100,Ac+Acrol,Aceton+Acroleïne,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:acrylaatpolymeren,1723,acrylaatpolymeren,acrylaatpolymeren,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:adeidrin,996,ADEIdrin,Aldrin+Dieldrin+Endrin+Isodrin,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:aeo_c10,2103,AEO C10,Alkylethoxylaat C10,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:aeo_c10_vertakt,1837,AEO C10 vertakt,Alkylethoxylaat C10 vertakt,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:aeo_c11,2104,AEO C11,Alkylethoxylaat C11,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:aeo_c11_vertakt,1838,AEO C11 vertakt,Alkylethoxylaat C11 vertakt,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:aeo_c12,2105,AEO C12,Alkylethoxylaat C12,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:aeo_c12_vertakt,1839,AEO C12 vertakt,Alkylethoxylaat C12 vertakt,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:aeo_c13,2106,AEO C13,Alkylethoxylaat C13,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:aeo_c13_vertakt,1840,AEO C13 vertakt,Alkylethoxylaat C13 vertakt,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:aeo_c14,2107,AEO C14,Alkylethoxylaat C14,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:aeo_c14_vertakt,1841,AEO C14 vertakt,Alkylethoxylaat C14 vertakt,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:aeo_c15,2108,AEO C15,Alkylethoxylaat C15,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:aeo_c15_vertakt,1842,AEO C15 vertakt,Alkylethoxylaat C15 vertakt,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:aeo_c16,1843,AEO C16,Alkylethoxylaat C16,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:aeo_c17,2102,AEO C17,Alkylethoxylaat C17,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:aeo_c18,1844,AEO C18,Alkylethoxylaat C18,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:aes,1152,AES,Alkylethersulfaten,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:aisurf,618,AISurf,"Surfactanten, anionische",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:al_comp_,1256,Al.comp.,Alifatische component,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:alcoholen,1719,alcoholen,alcoholen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:alif__ox,1684,alif. OX,alifatische organohalogenen; gehalogeneerde alifat,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:alk__gt_c13,1382,Alk >C13,Alkanen >C13,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:alk_c10-12,1381,Alk C10-12,Alkanen C10-C12,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:alk_c10-14,1856,Alk C10-14,Alkanen C10-C14,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:alkanen_alkenen,1678,Alkanen+Alkenen,Alkanen en Alkenen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-skos:Concept,css:anmvos_t,1171,ANMVOS t,"Aromatische NMVOS, totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:aox,284,AOX,Adsorbeerbare organohalogenen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:apeo,881,APEO,Alkylfenolethoxylaat,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:apeo_c10,1827,APEO C10,Alkylfenolethoxylaat C10,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:apeo_c11,1828,APEO C11,Alkylfenolethoxylaat C11,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:apeo_c12,1829,APEO C12,Alkylfenolethoxylaat C12,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:apeo_c13,1830,APEO C13,Alkylfenolethoxylaat C13,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:apeo_c14,1831,APEO C14,Alkylfenolethoxylaat C14,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:apeo_c15,1832,APEO C15,Alkylfenolethoxylaat C15,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:apeo_c16,1833,APEO C16,Alkylfenolethoxylaat C16,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:apeo_c17,1834,APEO C17,Alkylfenolethoxylaat C17,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:apeo_c18,1835,APEO C18,Alkylfenolethoxylaat C18,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:apeo_c19,1836,APEO C19,Alkylfenolethoxylaat C19,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:apeo_c6,1823,APEO C6,Alkylfenolethoxylaat C6,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:apeo_c7,1824,APEO C7,Alkylfenolethoxylaat C7,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:apeo_c8,1825,APEO C8,Alkylfenolethoxylaat C8,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:apeo_c9,1826,APEO C9,Alkylfenolethoxylaat C9,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:arom__gt_c13,1386,Arom >C13,Aromaten >C13,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:arom_c10,1385,Arom C10,Aromaten C10,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:arom_c9,1384,Arom C9,Aromaten C9,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:arom_c9-c10,1665,Arom C9-C10,C9-C10 aromaten,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:arom_kws__mak___pak,1696,arom KWS = MAK + PAK,aromatische koolwaterstoffen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:arom_vlucht,1734,Arom vlucht,Vluchtige aromaten,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:arom_vlucht_i,1743,Arom vlucht i,"Vluchtige aromaten, individueel",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:aromaten,1729,Aromaten,Aromaten,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:as,1151,AS,Alkylsulfaten,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:asbest,955,Asbest,Asbest,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:au_mo,1988,Au mo,"Goud, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:au_mt,1920,Au mt,"Goud, multi totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:b_rer24_lc,53,B.rer24 LC,Brachydanio rerio - LC50 (24h),vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:b_rer48_lc,54,B.rer48 LC,Brachydanio rerio - LC50 (48h),vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:b_rer96_lc,55,B.rer96 LC,Brachydanio rerio - LC50 (96h),vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:bap___bbflu_som,1787,B(a)P + B(b)Flu som,PAK som benzo(a)pyreen + benzo(b)fluorantheen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:basurf,491,BASurf,"Surfactanten, bio-afbreekbaar",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:bc,1286,BC,Zwarte koolstof,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:bde,919,BDE,Polybroomdifenylether,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:bde_85_154,954,BDE 85+154,BDE 85+154,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:bde_t_6,1388,BDE t (6),"Polybroomdifenylether, totaal (6)",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:be_mo,1995,Be mo,"Beryllium, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-skos:Concept,css:bflu_som,1224,BFlu som,PAK Benzo(b+k)fluorantheen (b),vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-skos:Concept,css:bi_mo,1996,Bi mo,"Bismut, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:bi_mt,1924,Bi mt,"Bismut, multi totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:biociden,1666,biociden,Biociden,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-skos:Concept,css:bjflu_bep,1299,B(j)Flu+B(e)P,Benzo(j)fluorantheen+Benzo(e)pyreen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-,,,,,,,,
-skos:Concept,css:bpe___ip_som,1225,BPe + IP som,"PAK Benzo(g,h,i)peryleen + Indeno(1,2,3-cd)pyreen",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:br-_i-,460,Br-+I-,Bromide + Iodide,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-skos:Concept,css:bs,73,BS,Bezinkbare stoffen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:btbdpe,1000,BTBDPE,bis(Tribroomdifenoxy)-ethaan,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:btex,906,BTEX,"Benzeen, tolueen, ethylbenzeen, xylenen",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:buta_tria_ala_acet,1716,"(Buta,Tria,Ala,Acet)","Som van Butachloor, Triallat,Alachloor,Acetochloor",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:butanol,1760,Butanol,Som van  1-Butanol en 2-Butanol,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-skos:Concept,css:c10eo,1104,C10EO,Decanolpolyethoxylaat,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:c10peo,1113,C10PEO,Decylfenolpolyethoxylaat,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:c11eo,1105,C11EO,Undecanolpolyethoxylaat,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:c12admba,1119,C12ADMBA,Dodecyldimethylbenzylammonium,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:c12eo,1106,C12EO,Dodecanolpolyethoxylaat,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:c12peo,1193,C12PEO,Dodecylfenolpolyethoxylaat,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:c12quin,1134,C12Quin,Dodecylquinolinium,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:c13eo,1107,C13EO,Tridecanolpolyethoxylaat,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:c14admba,1123,C14ADMBA,Tetradecyldimethylbenzylammonium,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:c14atma,1117,C14ATMA,Tetradecyltrimethylammonium,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:c14dadma,1129,C14DADMA,Ditetradecyldimethylammonium,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:c14eo,1108,C14EO,Tetradecanolpolyethoxylaat,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:c14isoquin,1138,C14isoQuin,Tetradecylisoquinolinium,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:c14pyr,1132,C14Pyr,Tetradecylpyridinium,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:c14quin,1135,C14Quin,Tetradecylquinolinium,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:c15eo,1109,C15EO,Pentadecanolpolyethoxylaat,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:c16:1admba,1144,C16:1ADMBA,Hexadecenyldimethylbenzylammonium,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:c16:1atma,1141,C16:1ATMA,Hexadecenyltrimethylammonium,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:c16admba,1126,C16ADMBA,Hexadecyldimethylbenzylammonium,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:c16eo,1110,C16EO,Hexadecanolpolyethoxylaat,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:c16isoquin,1139,C16isoQuin,Hexadecylisoquinolinium,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:c16quin,1136,C16Quin,Hexadecylquinolinium,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:c18:1admba,1145,C18:1ADMBA,Octadecenyldimethylbenzylammonium,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:c18:1atma,1142,C18:1ATMA,Octadecenyltrimethylammonium,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:c18:1dadma,1148,C18:1DADMA,Dioctadecenyldimethylammonium,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:c18:2admba,1146,C18:2ADMBA,Octadecadienyldimethylbenzylammonium,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:c18:2atma,1143,C18:2ATMA,Octadecadienyltrimethylammonium,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:c18:2dadma,1149,C18:2DADMA,Dioctadecadienyldimethylammonium,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:c18admba,1127,C18ADMBA,Octadecyldimethylbenzylammonium,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:c18atma,1124,C18ATMA,Octadecyltrimethylammonium,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:c18dadma,1131,C18DADMA,Dioctadecyldimethylammonium,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:c18eo,1192,C18EO,Octadecanolpolyethoxylaat,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:c18isoquin,1140,C18isoQuin,Octadecylisoquinolinium,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:c18pyr,1133,C18Pyr,Octadecylpyridinium,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:c18quin,1137,C18Quin,Octadecylquinolinium,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:c9peo,1112,C9PEO,Nonylfenolpolyethoxylaat,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:ca_mo,1997,Ca mo,"Calcium, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:calux,1010,Calux,Dr-Calux,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:can_i,1676,CAn i,"Chlooranilines, individueel",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:cans,1206,CAnS,Chlooranilines,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:cbzsom,1218,CBzsom,Dichloorbenzenen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:ccl4,993,CCl4,Koolstoftetrachloride,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:cd_cr_cu_ni_pb_zn,1697,"(Cd,Cr,Cu,Ni,Pb,Zn)","Som van 6 totale metalen Cd,Cr,Cu,Ni,Pb en Zn",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:cd_mo,1998,Cd mo,"Cadmium, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:ce_mo,1999,Ce mo,"Cerium, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-skos:Concept,css:cfk,1173,CFK,Chloorfluorkoolstoffen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:cfk_ind,1754,CFK ind,CFK individueel,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:cfk_tot,1755,CFK tot,CFK totaal,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:cfols,1208,CFolS,Chloorfenolen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:chol,290,Chol,Cholinesteraseremmers,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:cl,887,Cl,Chloor,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:cl__gebonden,1731,"Cl, gebonden","Chloor, gebonden",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:cl_an_,1332,Cl an.,Chloor en zijn anorganische verbindingen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:cl_en_so4,1714,Cl en SO4,Sulfaten en chloriden,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:cl_ot,505,Cl ot,"Chloor, organisch totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:cl_v,23,Cl v,"Chloorresten, vrij",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:cl-verb,1162,Cl-verb,Chloorverbindingen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:clfyl_t,120,Clfyl t,"Chlorofyl, totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-,,,,,,,,
-skos:Concept,css:cnitol,482,CNiTol,Chloornitrotoluenen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:cnyl_t,1103,Cnyl t,"Carbonylverbindingen, totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:co_cr_cu_ni_pb_zn,1712,"(Co,Cr,Cu,Ni,Pb,Zn)","Som van 6 metalen t Co,Cr,Cu,Ni,Pb,Zn",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:co_cr_ni_pb_zn,1753,"(Co,Cr,Ni,Pb,Zn)","Som van 5 metalen t Co,Cr,Ni,Pb,Zn",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:co_mo,2000,Co mo,"Kobalt, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-,,,,,,,,
-skos:Concept,css:cr_cu_ni_pb_zn,1698,"(Cr,Cu,Ni,Pb,Zn)","Som van 5 totale metalen Cr,Cu,Ni,Pb en Zn",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:cr_mo,2002,Cr mo,"Chroom, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:cr_zn_mn_cu,1768,"(Cr,Zn,Mn,Cu)","Som van 4 metalen totaal Cr, Zn, Mn en Cu",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:cresol,485,Cresol,Cresolen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:cresol_c,479,Cresol c,Chloorcresolen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:cs_mo,2004,Cs mo,"Cesium, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:cs_mt,1930,Cs mt,"Cesium, multi totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:ctine,484,CTine,Chloortoluidinen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:ctol,1752,CTol,Chloortolueen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:ctols,1212,CTolS,Chloortoluenen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:cu__pb__ni__zn,1688,"(Cu, Pb, Ni, Zn)","som van 4 totale metalen koper,lood,nikkel en zink",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:cu_mo,2006,Cu mo,"Koper, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:cu_ni_cd_cr_pb,1708,"(Cu,Ni,Cd,Cr,Pb)","som van 5 metalen t Cu,Ni,Cd,Cr,Pb",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:cu_ni_zn_cr,1699,"(Cu,Ni,Zn,Cr)","Som van 4 totale metalen Cu,Ni,Zn,Cr",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:cyalk,1383,cyAlk,Cycloalkanen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-skos:Concept,css:d13c,1326,d13C,Isotopenverhouding koolstof 13 en 12,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:d15n,1327,d15N,Isotopenverhouding stikstof 15 en 14,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:dbysn_som,1216,DBySn som,Dibutyltinverbindingen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:dcan_t,888,DCAn t,"Dichlooranilines, totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:dcbz,1717,DCBz,"Som van 1,2 + 1,3 + 1,4 DiChloorBenzeen",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:dcbzdines,886,DCBzdines,Dichloorbenzidines,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:dcdfytcea,568,DCDFyTCEa,Dichloordifenyltrichlorethanen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:dcee,1741,DCEe,Dichlooretheen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:dcpa,1766,DCPa,dichloorpropaan,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-skos:Concept,css:ddd_e_t,894,DD(D+E+T),DDD+DDE+DDT,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:ddt__dde_en_isom,1710,"DDT, DDE en isom","DDT, DDE en isomeren",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:ddt_2_som,1214,DDT_2 Som,DDT_2,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:ddt_t,907,DDT t,"DDT, totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-skos:Concept,css:det_met_gisting,1680,Det met gisting,"oppervlakteactieve stoffen, met gisting",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:det_zonder_gisting,1681,Det zonder gisting,"Oppervlakteactieve stoffen, zonder gisting",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:dicnibzsom,1219,diCNiBzsom,Dichloornitrobenzenen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:diepte,1290,Diepte,Bemonsteringsdiepte,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-skos:Concept,css:dinyft_didyft,1775,DiNyFt+DiDyFt,Som van di-isononylftalaat en di-isodecylftalaat,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:dinyftofdidyft,1543,DiNyFtofDiDyFt,Som van di-isononylftalaat en di-isodecylftalaat,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:dioxines,1191,Dioxines,Dioxines,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:dmyfol_eyfol_2ipyfol,1786,DMyFol+EyFol+2iPyFol,(DMyFol + EyFol + 2iPyFol),vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:dmyfol_som,1773,DMyFol som,som van de dimethylfenolen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:dn_t,1520,DN t,"Totaal stikstof, opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:doc,302,DOC,"Organische koolstof, opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-skos:Concept,css:dy_mo,2005,Dy mo,"Dysprosium, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:dy_mt,1932,Dy mt,"Dysprosium, multi totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:dyfolet,1054,DyFolEt,Decylfenolpolyethoxylaten,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:eas_ttcee,598,EAS TtCEe,Tetrachloorethyleen extrah.apol.stoffen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-skos:Concept,css:eox,291,EOX,Extraheerbare organohalogenen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:er_mo,2007,Er mo,"Erbium, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:er_mt,1933,Er mt,"Erbium, multi totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:es_ccl4,1674,ES CCL4,CCL4 extraheerbare stoffen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:es_pe,573,ES pe,Petroleumether extraheerbare stoffen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:es_ttcee,599,ES TtCEe,Tetrachloorethyleen extrah.stoffen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:eu_mo,2008,Eu mo,"Europium, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:eu_mt,1934,Eu mt,"Europium, multi totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:extrah__st_,1721,Extrah. St.,Extraheerbare stoffen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:eyfol_som,1772,EyFol som,"som van 2-, 3- en 4-ethylfenol",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:f_an_,1333,F an.,Fluor en zijn anorganische verbindingen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:f-verb,1163,F-verb,Fluorverbindingen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-skos:Concept,css:fe_al,1687,"(Fe,Al)",som van metalen ijzer en aluminium,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:fe_mo,2009,Fe mo,"Ijzer, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-skos:Concept,css:fol_c,582,Fol c,"Fenolen, gechloreerde",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:fol_c__i,1759,"Fol c, i","Gechloreerde fenolen, individueel",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:fol_get_,454,Fol get.,Fenol getal,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:fol_h2o_vlucht,1683,Fol h2o_vlucht,met waterdamp vluchtige fenolen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-skos:Concept,css:ftal,1763,FTAL,"Ftalaten, som",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:ftal_excl_dehp,1762,FTAL excl DEHP,Ftalaten excl. DEHP (=bis-(2-ethylhexyl)-ftalaat),vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:fuh_t,655,FUH t,"Fenylureumherbiciden, totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:furanen,1486,Furanen,Furanen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-,,,,,,,,
-skos:Concept,css:ga_mo,2010,Ga mo,"Gallium, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:ga_mt,1936,Ga mt,"Gallium, multi totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:gamma,449,Gamma,"Radioactiviteit, gamma",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-skos:Concept,css:gd_mo,2011,Gd mo,"Gadolinium, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:gd_mt,1937,Gd mt,"Gadolinium, multi totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:ge_mo,2012,Ge mo,"Germanium, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:ge_mt,1938,Ge mt,"Germanium, multi totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:gechl__arom,1682,gechl. Arom,gechloreerde aromaten,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:gechlor__oplosm_,1700,Gechlor. Oplosm.,Gechloreerde oplosmiddelen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-skos:Concept,css:h3o_,1262,H3O+,Hydroxonium,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-skos:Concept,css:halonen,1177,Halonen,Halonen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:hcdbd_t,1339,HCdBD t,"Hexachloordibenzodioxine, totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:hcdbfur_t,1343,HCdBFur t,"Hexachloordibenzofuran, totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:hcfk,1174,HCFK,Chloorfluorkoolwaterstoffen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:hch,896,HCH,"Hexachloorcyclohexaan, alle isomeren",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:hf_mo,2013,Hf mo,"Hafnium, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:hf_mt,1939,Hf mt,"Hafnium, multi totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:hfk,1175,HFK,Fluorkoolwaterstoffen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:hfpo-da,2098,HFPO-DA,"2,3,3,3tetrafluor-2(heptafluoropropoxy)propaanzuur",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:hg_mo,2014,Hg mo,"Kwik, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:ho_mo,2015,Ho mo,"Holmium, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:ho_mt,1941,Ho mt,"Holmium, multi totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:hpc_epx,948,HpC+Epx,Heptachloor+epoxyde,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:hpcdbd_t,1340,HpCdBD t,"Heptachloordibenzodioxine, totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:hpcepx,784,HpCEpx,Heptachloorepoxyde (cis+trans),vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:hpo3²-,1742,HPO3²-,Fosfonaten,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-skos:Concept,css:in_mo,2016,In mo,"Indium, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:ipytol,917,iPyTol,Isopropyltolueen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-,,,,,,,,
-skos:Concept,css:k_mo,2017,K mo,"Kalium, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:kalk_os,92,Kalk+OS,Kalk en organische stof,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:kisurf,297,KISurf,"Surfactanten, kationische",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:kisurfsom,1846,KISurfSom,"Surfactanten, kationische (berekende som)",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:kjn,298,KjN,Kjeldahlstikstof,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:kjn__f,299,KjN  f,"Kjeldahlstikstof, gefiltreerd",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-skos:Concept,css:kws_al,1294,KWS al,Alifatische koolwaterstoffen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:kws_ap_,286,KWS ap.,Apolaire koolwaterstoffen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:kws_ar,1295,KWS ar,Aromatische koolwaterstoffen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:kws_c10-12,989,KWS C10-12,"Apolaire koolwaterstoffen, fractie C10-C12",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:kws_c12-20,990,KWS C12-20,"Apolaire koolwaterstoffen, fractie C12-C20",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:kws_c20-30,991,KWS C20-30,"Apolaire koolwaterstoffen, fractie C20-C30",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:kws_c30-40,992,KWS C30-40,"Apolaire koolwaterstoffen, fractie C30-C40",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:kws_nm,1268,KWS nm,Niet-methaan koolwaterstoffen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:kws_t,1278,KWS t,"Koolwaterstoffen, totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:kws_t_vlucht,1686,KWS t vlucht,"vluchtige KWS, t",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:la_mo,2018,La mo,"Lanthaan, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:la_mt,1944,La mt,"Lanthaan, multi totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:las/abs,1150,LAS/ABS,"Alkylbenzeensulfonaten, lineaire+vertakte",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:latex,1746,Latex,Latex,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-,,,,,,,gemet:15179,coss:water
-,,,,,,,,
-skos:Concept,css:lu_mo,2019,Lu mo,"Lutetium, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:lu_mt,1945,Lu mt,"Lutetium, multi totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-skos:Concept,css:m_ol_kws,458,M.ol+KWS,Minerale oliën en KWS,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:mak_i,1745,MAK i,Monocyclische aromatische koolwaterstoffen ind. ,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:mak_t,217,MAK t,"Monoaromatische KWS, totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:mbas,285,MBAS,Methyleenblauw actieve stoffen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:mercapt,510,Mercapt,Mercaptanen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:met_ex_zn_fe_mn_pb_a,1725,"Met ex Zn,Fe,Mn,Pb,A","Som metalen zonder Zn,Fe,Mn,Pb,As,Cd",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:met_excl_zn_fe_mn_al,1711,"met excl Zn,Fe,Mn,Al","Som metalen excl Zn,Fe,Mn,Al",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:metalen,1799,Metalen,Metalen screening,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:metalen_excl__al_fe,1690,"metalen excl. Al,Fe",som van metalen excl aluminium en ijzer,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:mg_mo,2020,Mg mo,"Magnesium, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:mg_mt,1946,Mg mt,"Magnesium, multi totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:min_oliec10-c40,1771,Min.olieC10-C40,Minerale olie C10-C40,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:min_oliec6-c10,1770,Min.olieC6-C10,minerale olie C6-C10,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-skos:Concept,css:mn_mo,2021,Mn mo,"Mangaan, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:mno4_k,293,MnO4 k,"Permanganaatverbruik, koud",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:mno4_kf,294,MnO4 kf,"Permanganaatverbruik, koud gefiltreerd",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:mno4_w,295,MnO4 w,"Permanganaatverbruik, warm",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:mno4_wf,296,MnO4 wf,"Permanganaatverbruik, warm gefiltreerd",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:mo_mo,2022,Mo mo,"Molybdeen, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:mpxyl,214,mpXyl,Xylenen (m+p),vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-skos:Concept,css:muc-cl-,2067,MUC-Cl-,"Chloride, MUC project",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-skos:Concept,css:muc-fe_o,2071,MUC-Fe o,"Ijzer, opgelost, MUC project",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:muc-fe_t,2070,MUC-Fe t,"Ijzer, totaal, MUC project",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:muc-n_t,2069,MUC-N t,"Stikstof, totaal, MUC project",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:muc-npoc,2068,MUC-NPOC,"Org.koolstof,n-purgeerbaar,MUC project",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:mucd-cl-,2072,MUCd-Cl-,"Chloride, MUC project",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-skos:Concept,css:mucd-fe_o,2076,MUCd-Fe o,"Ijzer, opgelost, MUC project",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:mucd-fe_t,2075,MUCd-Fe t,"Ijzer, totaal, MUC project",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:mucd-n_t,2074,MUCd-N t,"Stikstof, totaal, MUC project",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:mucd-npoc,2073,MUCd-NPOC,"Org.koolstof,n-purgeerbaar,MUC project",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-,,,,,,,,
-skos:Concept,css:n_n,7,N+N,Nitraat+nitriet,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:n_n_n,1437,N+N+N,Nitraat+nitriet+ammonium,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:n_o,653,N o,"Stikstof, organische",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:n_t,31,N t,"Stikstof, totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-skos:Concept,css:n_t_vito,1525,N t VITO,"Stikstof, totaal VITO",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:n-fenol,1675,n-fenol,n-fenol,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:na_mo,2023,Na mo,"Natrium, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:na-zouten,1720,Na-zouten,Natrium-zouten,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:naftenaten,2125,Naftenaten,Naftenaten,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:nb_mo,2024,Nb mo,"Niobium, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:nb_mt,1951,Nb mt,"Niobium, multi totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-skos:Concept,css:nd_mo,2025,Nd mo,"Neodymium, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:nd_mt,1952,Nd mt,"Neodymium, multi totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-skos:Concept,css:neg_anmvos,1168,neg ANMVOS,Niet eerder genoemde aromatische NMVOS,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:neg_nmvos,1169,neg NMVOS,Niet eerder genoemde NMVOS,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:neg_oasf,1178,neg OASF,Niet eerder genoemde ozonafbrekende stoffen en F-g,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:neg_xnmvos,1167,neg XNMVOS,Niet eerder genoemde gehalogeneerde NMVOS,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:nh3_no2-,1733,NH3+NO2-,"ammoniak, nitrieten",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-skos:Concept,css:nh4_zt,593,NH4 zt,Kwaternaire ammoniumzouten,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:ni_mo,2026,Ni mo,"Nikkel, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:nisurf,300,NISurf,"Surfactanten, niet-ionogene",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:nisurfsom,1845,NISurfSom,"Surfactanten, niet-ionogene (berekende som)",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:nmvos_t,1172,NMVOS t,"NMVOS, totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:nox,1160,NOx,Stikstofoxiden,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:npoc,1484,NPOC,"Organische koolstof, niet purgeerbaar",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:nse,115,nSE,Aantal systematische eenheden,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:nso,1776,NSO,NSO-verbindingen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:nvooc,726,NVOOC,"Organische koolstof, niet vluchtig opgel.",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-skos:Concept,css:nvtoc,725,NVTOC,"Organische koolstof, niet vluchtig totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:nyfol_et,960,NyFol+et,Nonylfenolen + ethoxylaten,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:nyfolet,1053,NyFolEt,Nonylfenolpolyethoxylaten,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:nyfolsom,1222,NyFolsom,Nonylfenolen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-skos:Concept,css:oasf_t,1179,OASF t,"Ozonafbrekende stoffen en F-gassen, totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-skos:Concept,css:oc,1269,OC,Organische koolstof,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:ocp_i,1765,OCP i,Organochloorpesticiden individueel,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:ocp_t,258,OCP t,"Organochloorpesticiden, totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:ol_water,609,Ol.water,Oliehoudende wateren,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:olvt,504,OlVt,Oliën & vetten,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:om,301,OM,Organisch materiaal,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:onp_t,897,ONP t,"Organostikstofpesticiden, totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-skos:Concept,css:opgl__vt,1730,Opgl. Vt,Opgeloste Vetten,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:oplosmiddelen,1728,Oplosmiddelen,Oplosmiddelen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:opp_t,405,OPP t,"Organofosforpesticiden, totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:opvv_t,977,OPVV t,"Organofosforvlamvertragers, totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:os,795,OS,Organische stof,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:os_mo,2027,Os mo,"Osmium, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:os_mt,1954,Os mt,"Osmium, multi totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-skos:Concept,css:oyfol_et,961,OyFol+et,Octylfenolen + ethoxylaten,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:oyfolet,1052,OyFolEt,Octylfenolpolyethoxylaten,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:oyfolsom,1223,OyFolsom,Octylfenolen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:p_esters,506,P esters,"Fosforesters, organische",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:p_mo,2028,P mo,"Fosfor, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-,,,,,,,,
-skos:Concept,css:p_t_-_opo4,1785,P t - oPO4,P totaal andere dan orthofosfaat,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-,,,,,,,,
-skos:Concept,css:pak_10,817,PAK 10,Polyaromatische KWS (10 Vrom),vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:pak_14,1165,PAK 14,Polyaromatische KWS (14 IBS),vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:pak_15,550,PAK 15,Polyaromatische KWS (15 EPA),vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:pak_16,433,PAK 16,Polyaromatische KWS (16 EPA),vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:pak_2,824,PAK 2,Polyaromatische KWS (2 VVP),vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:pak_4,1329,PAK 4,Polyaromatische koolwaterstoffen (PAK's),vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:pak_5,2145,PAK 5,Polyaromatische koolwaterstoffen (PAK 5),vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:pak_6,512,PAK 6,Polyaromatische KWS (6 Borneff),vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:pak_excl_naftaleen,1756,PAK excl naftaleen,PAK exclusief naftaleen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:pak_i,1744,PAK i,"Polycyclische Aromatische KWS, individueel",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-skos:Concept,css:pb_mo,2029,Pb mo,"Lood, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:pbs,951,PBS,Potentieel Bioaccumulerende Stoffen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:pcb_28_31,745,PCB 28+31,"2,4,4' en 2,4',5-Trichloorbifenyl (PCB28+31)",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:pcb_ind,1777,PCB ind,PCB individueel,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:pcb_pct_t,890,PCB+PCT t,"Polychloorbifenyl en polychloorterfenyl, totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:pcb_t_pct_t,1695,"(PCB t,PCT t)",Som van PCB totaal en PCT totaal,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:pcdbd_t,1338,PCdBD t,"Pentachloordibenzodioxine, totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:pcdbfur_t,1342,PCdBFur t,"Pentachloordibenzofuran, totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:pcdd_pcdf,959,PCDD+PCDF,Dioxines+furanen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:pct_t,513,PCT t,"Polychloorterfenyl, totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:pd_mo,2030,Pd mo,"Palladium, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:persist__min__olie,1732,Persist. Min. Olie,Persistente minerale olie,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:persistente_kws,1727,persistente KWS,Persistente KWS,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:pesticiden_t,1722,pesticiden t,som pesticiden,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:pfc_exl_pfos__pfoa,1764,"PFC exl.(PFOS, PFOA)",Perfluortensiden zonder PFOS en PFOA,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:pfoa_som,2144,PFOA som,Som van PFOA vertakt + lineair,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:pfos__pfba__pfbs,1774,"(PFOS, PFBA, PFBS)","Som PFOS, PFBA en PFBS",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:pfos_som,2143,PFOS som,Som van PFOS vertakt + lineair,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:pft_t,1049,PFT t,"Perfluorverbindingen, totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-skos:Concept,css:pox,304,POX,Purgeerbare organohalogenen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:pr_mo,2031,Pr mo,"Praesodymium, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:pr_mt,1958,Pr mt,"Praesodymium, multi totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:profam_benzadol,1692,"(profam,benzadol)","som van chloorprofam, profam en thiabenzadol",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:pt_mo,2032,Pt mo,"Platina, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:pver_o,704,Pver o,Organofosforverbindingen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:pyrethroïden,1724,pyrethroïden,Pyrethroïden,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:rb_mo,2033,Rb mo,"Rubidium, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:rb_mt,1960,Rb mt,"Rubidium, multi totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:re_mo,2034,Re mo,"Renium, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:ru_mo,2035,Ru mo,"Ruthenium, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:ru_mt,1962,Ru mt,"Ruthenium, multi totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:s_mo,2036,S mo,"Zwavel, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:s_t-h2s_rsh,1321,"S t-H2S,RSH","Zwavel totaal - H2S,S-geurcomponenten",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:s_t-sox,1287,S t-SOx,Zwavel totaal - zwaveloxiden,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:s___merc_,1705,S= + merc.,Som van sulfiden en mercaptanen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:sb_mo,2037,Sb mo,"Antimoon, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:sc_mo,2038,Sc mo,"Scandium, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:sc_mt,1965,Sc mt,"Scandium, multi totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:sccp,1465,SCCP,Korte ketting gechloreerde parafinen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:se_mo,2039,Se mo,"Seleen, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:se_v_u_th_te,1709,"(Se,V,U,Th,Te)","som Seleen,Vanadium,Uranium,Thor,Tellurium",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:selenas,782,Selenas,Selenastrum,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:si_mo,2040,Si mo,"Silicium, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:siver_o,613,Siver o,Organosiliciumverbindingen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-skos:Concept,css:sm_mo,2041,Sm mo,"Samarium, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:sm_mt,1968,Sm mt,"Samarium, multi totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:sn_anorg_t,1685,Sn anorg t,"Anorganische tinverbindingen, totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:sn_mo,2042,Sn mo,"Tin, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:sn_t_,1487,Sn t+,"Tin, totaal incl. oxiden",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:snver_ot,693,Snver ot,"Organotinverbindingen, totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:sof,1739,SOF,Opgeloste Organische Fluoriden,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:solvent,305,Solvent,Solventgehalte,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:som_metalen_lijst2,1693,Som metalen lijst2,Som metalen lijst2,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:som129_excl_ox,1694,Som129 excl OX,Som lijst 129 excl Organohalogenen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:sox,1161,SOx,Zwaveloxiden,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:sp_opp_,514,Sp.opp.,Specifiek oppervlak,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:sr_mo,2043,Sr mo,"Strontium, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-skos:Concept,css:stof_t,1181,Stof t,"Stof, totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:stoffr_no,1314,Stoffr no,"Stoffractie, niet-oplosbaar",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:stoffr_o,1315,Stoffr o,"Stoffractie, oplosbaar",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:stoffr_t,1316,Stoffr t,"Stoffractie, totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-skos:Concept,css:surf_ion,1748,Surf ION,"Surfactanten,Ionisch (AISurf+KISurf excl NISurf)",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:surf_kid_nid,1767,Surf KID+NID,"Surfactanten, Kationische + Niet-ionogen",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:surf_t,492,Surf t,"Surfactanten, totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-skos:Concept,css:ta_mo,2044,Ta mo,"Tantaal, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:ta_mt,1971,Ta mt,"Tantaal, multi totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:tam,25,TAM,Alkaliniteit met methyloranje,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:tap,24,TAP,Alkaliniteit met fenolftaleine,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:tas,719,TAS,Tensio actieve stoffen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:tb_mo,2045,Tb mo,"Terbium, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:tb_mt,1972,Tb mt,"Terbium, multi totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:tcee__dcee_tcea,1758,"TCEe, DCEe,TCEa","trichlooretheen, dichlooretheen en trichloorethaan",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:tcee__ttcee__dcma,1737,"(TCEe, TtCEe, DCMa)","Som tri- en tetrachlooretheen, dichloormethaan ",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:tct,58,TCT,Toxichromotest - EC50,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:te_mo,2046,Te mo,"Telluur, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:tetracea,1740,TetraCEa,TetraChloorethaan,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:tfysn_som,1229,TFySn som,"Trifenyltinacetaat, chloride, hydroxide",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:th_mo,2047,Th mo,"Thorium, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:th_mt,1974,Th mt,"Thorium, multi totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-skos:Concept,css:thm_t,390,THM t,Trihalomethanen totaal,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:thm_t_excl_3clethyl,1691,THM t excl 3ClEthyl,Trihalometanen totaal excl trichloorethyleen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:ti_mo,2048,Ti mo,"Titaan, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:ti_t_,1488,Ti t+,"Titaan, totaal incl. oxiden",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:tiverb_ot_-ti,1679,Tiverb ot -Ti,"Ti ovv. organotitaanverbindingen, totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:tl_mo,2050,Tl mo,"Thallium, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:tm_mo,2051,Tm mo,"Thullium, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:tm_mt,1977,Tm mt,"Thullium, multi totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:tmybz,1749,TMyBz,trimethylbenzeen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-,,,,,,,,
-skos:Concept,css:toc,303,TOC,"Organische koolstof, totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:tocl,1677,TOCl,"som (matig-)vluchtige halog.verb., PCB en OCl-pest",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:tox___pver_o,1701,TOX + Pver o,Som v totale Organofosfor en organohalogeenverbind,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-skos:Concept,css:triazine,283,Triazine,"Triazines, totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:tricfolsom,1228,triCFolsom,Trichloorfenolen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:ttcdbd_t,1337,TtCdBD t,"Tetrachloordibenzodioxine, totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:ttcdbfur_t,1341,TtCdBFur t,"Tetrachloordibenzofuran, totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-,,,,,,,,
-skos:Concept,css:tvplds,518,TvPlDs,"Textielvezels, plastiek & drijv. stoffen",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:u_mo,2052,U mo,"Uranium, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:ufp,2085,UFP,Ultrafijn deeltjesaantal 10-100 nm,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:uranimine,862,Uranimine,Uranimine,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-skos:Concept,css:v_mo,2053,V mo,"Vanadium, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:vet,1518,Vet,Vetgehalte,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-skos:Concept,css:vocl_i,1747,VOCL i,Vluchtige OrganoChloor individueel,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:vocl_t,1736,VOCL t,Vluchtige OrganoChloorverbindingen Totaal,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-skos:Concept,css:vos,1380,VOS,Vluchtige organische stoffen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:vox,892,VOX,Vluchtige organische halogeenverbindingen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:vox_i,1750,VOX i,Vluchtige Organische halogenen individueel,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:vs,111,VS,Vluchtige stof,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:w_mo,2054,W mo,"Wolfraam, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:white-spirit,1757,white-spirit,white-spirit,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:xnmvos_t,1170,XNMVOS t,"Gehalogeneerde NMVOS, totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:xyl__eybz,1738,"(Xyl, EyBz)",Som van Xylenen en Ethylbenzeen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:xyl__styr,1718,"(Xyl, Styr)","Som van o,p,m-xyleen + styreen",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:y_mo,2055,Y mo,"Yttrium, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:y_mt,1981,Y mt,"Yttrium, multi totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:yb_mo,2056,Yb mo,"Ytterbium, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:yb_mt,1982,Yb mt,"Ytterbium, multi totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:zn_mo,2057,Zn mo,"Zink, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-skos:Concept,css:zr_mo,2058,Zr mo,"Zirkonium, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:zs,113,ZS,Zwevende stoffen,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-skos:Concept,css:zs_as,72,ZS as,"Zwevende stof, as",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-,,,,,,,,
-,,,,,,,,
-skos:Concept,css:zwarte_rook,1283,Zwarte rook,Zwarte rook,vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:dy_mo,2005,Dy mo,"Dysprosium, multi opgelost",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:Concept,css:dy_mt,1932,Dy mt,"Dysprosium, multi totaal",vlcs:sommatie_stoffen,vlcs:sommatie_stoffen,gemet:15179,coss:water
-skos:ConceptScheme,vlcs:sommatie_stoffen,,,Codelijst groeperingen en sommaties van chemische stoffen,,,,
+type,uri,notation,prefLabel,collection,inScheme,theme,vmmParameterId,topConceptOf,exactMatch,narrowMatch
+skos:Collection,coss:water,,Collectie van verzameling stoffen die in water worden gemeten,,,,,,,
+skos:Concept,css:fosfor_totaal,fosfor totaal,Fosfor totaal,coss:water,vlcs:sommatie_stoffen,gemet:15179,1780,vlcs:sommatie_stoffen,wise:CAS_7723-14-0,
+skos:Concept,css:111cea_112cea,"(111CEa,112CEa)","Som 1,1,1-Trichloorethaan en 1,1,2-Trichloorethaan",coss:water,vlcs:sommatie_stoffen,gemet:15179,1735,vlcs:sommatie_stoffen,,csc:UBOXGVDOUJQMTN-UHFFFAOYSA-N|csc:UOCLXMDMGBRAIB-UHFFFAOYSA-N
+skos:Concept,css:11cea__12cea,"(11CEa, 12CEa)","Som van 1,1 dichloorethaan + 1,2 dichloorethaan",coss:water,vlcs:sommatie_stoffen,gemet:15179,1715,vlcs:sommatie_stoffen,,
+skos:Concept,css:1235_1245cbz,1235+1245CBz,"1,2,3,5+1,2,4,5-Tetrachloorbenzeen",coss:water,vlcs:sommatie_stoffen,gemet:15179,1457,vlcs:sommatie_stoffen,,
+skos:Concept,css:12cbz_13cbz,12CBz+13CBz,"Som van 1,2 + 1,3 Dichloorbenzeen",coss:water,vlcs:sommatie_stoffen,gemet:15179,1761,vlcs:sommatie_stoffen,,
+skos:Concept,css:12cbz_14cbz,12CBz+14CBz,"som van 1,2-dichloorbenzeen en 1,4-dichloorbenzeen",coss:water,vlcs:sommatie_stoffen,gemet:15179,1778,vlcs:sommatie_stoffen,,
+skos:Concept,css:1buteen__,1Buteen (+),"1-Buteen + 1,3-Butadieen",coss:water,vlcs:sommatie_stoffen,gemet:15179,746,vlcs:sommatie_stoffen,,
+skos:Concept,css:1c2_3_4nibzs,1C2+3+4NiBzS,Chloornitrobenzenen,coss:water,vlcs:sommatie_stoffen,gemet:15179,1210,vlcs:sommatie_stoffen,,
+skos:Concept,css:2345_2346cfol,2345+2346CFol,"2,3,4,5+2,3,4,6-Tetrachloorfenol",coss:water,vlcs:sommatie_stoffen,gemet:15179,793,vlcs:sommatie_stoffen,,
+skos:Concept,css:23_35myfol_4eyfol,23+35MyFol+4EyFol,"2,3+3,5-Dimethylfenol+4-Ethylfenol",coss:water,vlcs:sommatie_stoffen,gemet:15179,766,vlcs:sommatie_stoffen,,
+skos:Concept,css:24_25-cfol,24+25-CFol,"2,4+2,5-Dichloorfenol",coss:water,vlcs:sommatie_stoffen,gemet:15179,922,vlcs:sommatie_stoffen,,
+skos:Concept,css:24_25myfol,24+25MyFol,"2,4+2,5-Dimethylfenol",coss:water,vlcs:sommatie_stoffen,gemet:15179,765,vlcs:sommatie_stoffen,,
+skos:Concept,css:2_3_4cfol,2+3+4CFol,"som 2-chloorfenol, 3-chloorfenol en 4-chloorfenol",coss:water,vlcs:sommatie_stoffen,gemet:15179,1779,vlcs:sommatie_stoffen,,
+skos:Concept,css:3_4cfol,3+4CFol,3+4-Chloorfenol,coss:water,vlcs:sommatie_stoffen,gemet:15179,794,vlcs:sommatie_stoffen,,
+skos:Concept,css:3_4eyfol,3+4EyFol,3+4-Ethylfenol,coss:water,vlcs:sommatie_stoffen,gemet:15179,785,vlcs:sommatie_stoffen,,
+skos:Concept,css:3_4myfol,3+4MyFol,3+4-Methylfenol,coss:water,vlcs:sommatie_stoffen,gemet:15179,786,vlcs:sommatie_stoffen,,
+skos:Concept,css:4eyfol___35myfol,4EyFol + 35MyFol,"4-ethylfenol + 3,5 dimethylfenol",coss:water,vlcs:sommatie_stoffen,gemet:15179,1668,vlcs:sommatie_stoffen,,
+skos:Concept,css:7_metalen_opg_,7 metalen opg.,"som van 7 metalen opgelost ...,Cu,Hg,Pb",coss:water,vlcs:sommatie_stoffen,gemet:15179,1707,vlcs:sommatie_stoffen,,
+skos:Concept,css:7_metalen_totaal,7 metalen totaal,"som 7 metalen totaal Cr,Zn,Pb,Ni,As,Mn,Cu",coss:water,vlcs:sommatie_stoffen,gemet:15179,1769,vlcs:sommatie_stoffen,,
+skos:Concept,css:8_metalen_totaal,8 metalen totaal,"som van 8 totale metalen Cr,Cu,Pb,Mn,Fe,Zn,Ni,Co",coss:water,vlcs:sommatie_stoffen,gemet:15179,1689,vlcs:sommatie_stoffen,,
+skos:Concept,css:9_metalen_totaal,9 metalen totaal,"som van 9 metalen t ...,Sb,Ba,Se,As",coss:water,vlcs:sommatie_stoffen,gemet:15179,1706,vlcs:sommatie_stoffen,,
+skos:Concept,css:ac_acrol,Ac+Acrol,Aceton+Acroleïne,coss:water,vlcs:sommatie_stoffen,gemet:15179,1100,vlcs:sommatie_stoffen,,
+skos:Concept,css:acrylaatpolymeren,acrylaatpolymeren,acrylaatpolymeren,coss:water,vlcs:sommatie_stoffen,gemet:15179,1723,vlcs:sommatie_stoffen,,
+skos:Concept,css:adeidrin,ADEIdrin,Aldrin+Dieldrin+Endrin+Isodrin,coss:water,vlcs:sommatie_stoffen,gemet:15179,996,vlcs:sommatie_stoffen,,
+skos:Concept,css:aeo_c10,AEO C10,Alkylethoxylaat C10,coss:water,vlcs:sommatie_stoffen,gemet:15179,2103,vlcs:sommatie_stoffen,,
+skos:Concept,css:aeo_c10_vertakt,AEO C10 vertakt,Alkylethoxylaat C10 vertakt,coss:water,vlcs:sommatie_stoffen,gemet:15179,1837,vlcs:sommatie_stoffen,,
+skos:Concept,css:aeo_c11,AEO C11,Alkylethoxylaat C11,coss:water,vlcs:sommatie_stoffen,gemet:15179,2104,vlcs:sommatie_stoffen,,
+skos:Concept,css:aeo_c11_vertakt,AEO C11 vertakt,Alkylethoxylaat C11 vertakt,coss:water,vlcs:sommatie_stoffen,gemet:15179,1838,vlcs:sommatie_stoffen,,
+skos:Concept,css:aeo_c12,AEO C12,Alkylethoxylaat C12,coss:water,vlcs:sommatie_stoffen,gemet:15179,2105,vlcs:sommatie_stoffen,,
+skos:Concept,css:aeo_c12_vertakt,AEO C12 vertakt,Alkylethoxylaat C12 vertakt,coss:water,vlcs:sommatie_stoffen,gemet:15179,1839,vlcs:sommatie_stoffen,,
+skos:Concept,css:aeo_c13,AEO C13,Alkylethoxylaat C13,coss:water,vlcs:sommatie_stoffen,gemet:15179,2106,vlcs:sommatie_stoffen,,
+skos:Concept,css:aeo_c13_vertakt,AEO C13 vertakt,Alkylethoxylaat C13 vertakt,coss:water,vlcs:sommatie_stoffen,gemet:15179,1840,vlcs:sommatie_stoffen,,
+skos:Concept,css:aeo_c14,AEO C14,Alkylethoxylaat C14,coss:water,vlcs:sommatie_stoffen,gemet:15179,2107,vlcs:sommatie_stoffen,,
+skos:Concept,css:aeo_c14_vertakt,AEO C14 vertakt,Alkylethoxylaat C14 vertakt,coss:water,vlcs:sommatie_stoffen,gemet:15179,1841,vlcs:sommatie_stoffen,,
+skos:Concept,css:aeo_c15,AEO C15,Alkylethoxylaat C15,coss:water,vlcs:sommatie_stoffen,gemet:15179,2108,vlcs:sommatie_stoffen,,
+skos:Concept,css:aeo_c15_vertakt,AEO C15 vertakt,Alkylethoxylaat C15 vertakt,coss:water,vlcs:sommatie_stoffen,gemet:15179,1842,vlcs:sommatie_stoffen,,
+skos:Concept,css:aeo_c16,AEO C16,Alkylethoxylaat C16,coss:water,vlcs:sommatie_stoffen,gemet:15179,1843,vlcs:sommatie_stoffen,,
+skos:Concept,css:aeo_c17,AEO C17,Alkylethoxylaat C17,coss:water,vlcs:sommatie_stoffen,gemet:15179,2102,vlcs:sommatie_stoffen,,
+skos:Concept,css:aeo_c18,AEO C18,Alkylethoxylaat C18,coss:water,vlcs:sommatie_stoffen,gemet:15179,1844,vlcs:sommatie_stoffen,,
+skos:Concept,css:aes,AES,Alkylethersulfaten,coss:water,vlcs:sommatie_stoffen,gemet:15179,1152,vlcs:sommatie_stoffen,,
+skos:Concept,css:aisurf,AISurf,"Surfactanten, anionische",coss:water,vlcs:sommatie_stoffen,gemet:15179,618,vlcs:sommatie_stoffen,,
+skos:Concept,css:al_comp_,Al.comp.,Alifatische component,coss:water,vlcs:sommatie_stoffen,gemet:15179,1256,vlcs:sommatie_stoffen,,
+skos:Concept,css:alcoholen,alcoholen,alcoholen,coss:water,vlcs:sommatie_stoffen,gemet:15179,1719,vlcs:sommatie_stoffen,,
+skos:Concept,css:alif__ox,alif. OX,alifatische organohalogenen; gehalogeneerde alifat,coss:water,vlcs:sommatie_stoffen,gemet:15179,1684,vlcs:sommatie_stoffen,,
+skos:Concept,css:alk__gt_c13,Alk >C13,Alkanen >C13,coss:water,vlcs:sommatie_stoffen,gemet:15179,1382,vlcs:sommatie_stoffen,,
+skos:Concept,css:alk_c10-12,Alk C10-12,Alkanen C10-C12,coss:water,vlcs:sommatie_stoffen,gemet:15179,1381,vlcs:sommatie_stoffen,,
+skos:Concept,css:alk_c10-14,Alk C10-14,Alkanen C10-C14,coss:water,vlcs:sommatie_stoffen,gemet:15179,1856,vlcs:sommatie_stoffen,,
+skos:Concept,css:alkanen_alkenen,Alkanen+Alkenen,Alkanen en Alkenen,coss:water,vlcs:sommatie_stoffen,gemet:15179,1678,vlcs:sommatie_stoffen,,
+skos:Concept,css:anmvos_t,ANMVOS t,"Aromatische NMVOS, totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,1171,vlcs:sommatie_stoffen,,
+skos:Concept,css:aox,AOX,Adsorbeerbare organohalogenen,coss:water,vlcs:sommatie_stoffen,gemet:15179,284,vlcs:sommatie_stoffen,,
+skos:Concept,css:apeo,APEO,Alkylfenolethoxylaat,coss:water,vlcs:sommatie_stoffen,gemet:15179,881,vlcs:sommatie_stoffen,,
+skos:Concept,css:apeo_c10,APEO C10,Alkylfenolethoxylaat C10,coss:water,vlcs:sommatie_stoffen,gemet:15179,1827,vlcs:sommatie_stoffen,,
+skos:Concept,css:apeo_c11,APEO C11,Alkylfenolethoxylaat C11,coss:water,vlcs:sommatie_stoffen,gemet:15179,1828,vlcs:sommatie_stoffen,,
+skos:Concept,css:apeo_c12,APEO C12,Alkylfenolethoxylaat C12,coss:water,vlcs:sommatie_stoffen,gemet:15179,1829,vlcs:sommatie_stoffen,,
+skos:Concept,css:apeo_c13,APEO C13,Alkylfenolethoxylaat C13,coss:water,vlcs:sommatie_stoffen,gemet:15179,1830,vlcs:sommatie_stoffen,,
+skos:Concept,css:apeo_c14,APEO C14,Alkylfenolethoxylaat C14,coss:water,vlcs:sommatie_stoffen,gemet:15179,1831,vlcs:sommatie_stoffen,,
+skos:Concept,css:apeo_c15,APEO C15,Alkylfenolethoxylaat C15,coss:water,vlcs:sommatie_stoffen,gemet:15179,1832,vlcs:sommatie_stoffen,,
+skos:Concept,css:apeo_c16,APEO C16,Alkylfenolethoxylaat C16,coss:water,vlcs:sommatie_stoffen,gemet:15179,1833,vlcs:sommatie_stoffen,,
+skos:Concept,css:apeo_c17,APEO C17,Alkylfenolethoxylaat C17,coss:water,vlcs:sommatie_stoffen,gemet:15179,1834,vlcs:sommatie_stoffen,,
+skos:Concept,css:apeo_c18,APEO C18,Alkylfenolethoxylaat C18,coss:water,vlcs:sommatie_stoffen,gemet:15179,1835,vlcs:sommatie_stoffen,,
+skos:Concept,css:apeo_c19,APEO C19,Alkylfenolethoxylaat C19,coss:water,vlcs:sommatie_stoffen,gemet:15179,1836,vlcs:sommatie_stoffen,,
+skos:Concept,css:apeo_c6,APEO C6,Alkylfenolethoxylaat C6,coss:water,vlcs:sommatie_stoffen,gemet:15179,1823,vlcs:sommatie_stoffen,,
+skos:Concept,css:apeo_c7,APEO C7,Alkylfenolethoxylaat C7,coss:water,vlcs:sommatie_stoffen,gemet:15179,1824,vlcs:sommatie_stoffen,,
+skos:Concept,css:apeo_c8,APEO C8,Alkylfenolethoxylaat C8,coss:water,vlcs:sommatie_stoffen,gemet:15179,1825,vlcs:sommatie_stoffen,,
+skos:Concept,css:apeo_c9,APEO C9,Alkylfenolethoxylaat C9,coss:water,vlcs:sommatie_stoffen,gemet:15179,1826,vlcs:sommatie_stoffen,,
+skos:Concept,css:arom__gt_c13,Arom >C13,Aromaten >C13,coss:water,vlcs:sommatie_stoffen,gemet:15179,1386,vlcs:sommatie_stoffen,,
+skos:Concept,css:arom_c10,Arom C10,Aromaten C10,coss:water,vlcs:sommatie_stoffen,gemet:15179,1385,vlcs:sommatie_stoffen,,
+skos:Concept,css:arom_c9,Arom C9,Aromaten C9,coss:water,vlcs:sommatie_stoffen,gemet:15179,1384,vlcs:sommatie_stoffen,,
+skos:Concept,css:arom_c9-c10,Arom C9-C10,C9-C10 aromaten,coss:water,vlcs:sommatie_stoffen,gemet:15179,1665,vlcs:sommatie_stoffen,,
+skos:Concept,css:arom_kws__mak___pak,arom KWS = MAK + PAK,aromatische koolwaterstoffen,coss:water,vlcs:sommatie_stoffen,gemet:15179,1696,vlcs:sommatie_stoffen,,
+skos:Concept,css:arom_vlucht,Arom vlucht,Vluchtige aromaten,coss:water,vlcs:sommatie_stoffen,gemet:15179,1734,vlcs:sommatie_stoffen,,
+skos:Concept,css:arom_vlucht_i,Arom vlucht i,"Vluchtige aromaten, individueel",coss:water,vlcs:sommatie_stoffen,gemet:15179,1743,vlcs:sommatie_stoffen,,
+skos:Concept,css:aromaten,Aromaten,Aromaten,coss:water,vlcs:sommatie_stoffen,gemet:15179,1729,vlcs:sommatie_stoffen,,
+skos:Concept,css:as,AS,Alkylsulfaten,coss:water,vlcs:sommatie_stoffen,gemet:15179,1151,vlcs:sommatie_stoffen,,
+skos:Concept,css:asbest,Asbest,Asbest,coss:water,vlcs:sommatie_stoffen,gemet:15179,955,vlcs:sommatie_stoffen,,
+skos:Concept,css:au_mo,Au mo,"Goud, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,1988,vlcs:sommatie_stoffen,,
+skos:Concept,css:au_mt,Au mt,"Goud, multi totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,1920,vlcs:sommatie_stoffen,,
+skos:Concept,css:b_rer24_lc,B.rer24 LC,Brachydanio rerio - LC50 (24h),coss:water,vlcs:sommatie_stoffen,gemet:15179,53,vlcs:sommatie_stoffen,,
+skos:Concept,css:b_rer48_lc,B.rer48 LC,Brachydanio rerio - LC50 (48h),coss:water,vlcs:sommatie_stoffen,gemet:15179,54,vlcs:sommatie_stoffen,,
+skos:Concept,css:b_rer96_lc,B.rer96 LC,Brachydanio rerio - LC50 (96h),coss:water,vlcs:sommatie_stoffen,gemet:15179,55,vlcs:sommatie_stoffen,,
+skos:Concept,css:bap___bbflu_som,B(a)P + B(b)Flu som,PAK som benzo(a)pyreen + benzo(b)fluorantheen,coss:water,vlcs:sommatie_stoffen,gemet:15179,1787,vlcs:sommatie_stoffen,,
+skos:Concept,css:basurf,BASurf,"Surfactanten, bio-afbreekbaar",coss:water,vlcs:sommatie_stoffen,gemet:15179,491,vlcs:sommatie_stoffen,,
+skos:Concept,css:bc,BC,Zwarte koolstof,coss:water,vlcs:sommatie_stoffen,gemet:15179,1286,vlcs:sommatie_stoffen,,
+skos:Concept,css:bde,BDE,Polybroomdifenylether,coss:water,vlcs:sommatie_stoffen,gemet:15179,919,vlcs:sommatie_stoffen,,
+skos:Concept,css:bde_85_154,BDE 85+154,BDE 85+154,coss:water,vlcs:sommatie_stoffen,gemet:15179,954,vlcs:sommatie_stoffen,,
+skos:Concept,css:bde_t_6,BDE t (6),"Polybroomdifenylether, totaal (6)",coss:water,vlcs:sommatie_stoffen,gemet:15179,1388,vlcs:sommatie_stoffen,,
+skos:Concept,css:be_mo,Be mo,"Beryllium, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,1995,vlcs:sommatie_stoffen,,
+skos:Concept,css:bflu_som,BFlu som,PAK Benzo(b+k)fluorantheen (b),coss:water,vlcs:sommatie_stoffen,gemet:15179,1224,vlcs:sommatie_stoffen,,
+skos:Concept,css:bi_mo,Bi mo,"Bismut, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,1996,vlcs:sommatie_stoffen,,
+skos:Concept,css:bi_mt,Bi mt,"Bismut, multi totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,1924,vlcs:sommatie_stoffen,,
+skos:Concept,css:biociden,biociden,Biociden,coss:water,vlcs:sommatie_stoffen,gemet:15179,1666,vlcs:sommatie_stoffen,,
+skos:Concept,css:bjflu_bep,B(j)Flu+B(e)P,Benzo(j)fluorantheen+Benzo(e)pyreen,coss:water,vlcs:sommatie_stoffen,gemet:15179,1299,vlcs:sommatie_stoffen,,
+skos:Concept,css:bpe___ip_som,BPe + IP som,"PAK Benzo(g,h,i)peryleen + Indeno(1,2,3-cd)pyreen",coss:water,vlcs:sommatie_stoffen,gemet:15179,1225,vlcs:sommatie_stoffen,,
+skos:Concept,css:br-_i-,Br-+I-,Bromide + Iodide,coss:water,vlcs:sommatie_stoffen,gemet:15179,460,vlcs:sommatie_stoffen,,
+skos:Concept,css:bs,BS,Bezinkbare stoffen,coss:water,vlcs:sommatie_stoffen,gemet:15179,73,vlcs:sommatie_stoffen,,
+skos:Concept,css:btbdpe,BTBDPE,bis(Tribroomdifenoxy)-ethaan,coss:water,vlcs:sommatie_stoffen,gemet:15179,1000,vlcs:sommatie_stoffen,,
+skos:Concept,css:btex,BTEX,"Benzeen, tolueen, ethylbenzeen, xylenen",coss:water,vlcs:sommatie_stoffen,gemet:15179,906,vlcs:sommatie_stoffen,,
+skos:Concept,css:buta_tria_ala_acet,"(Buta,Tria,Ala,Acet)","Som van Butachloor, Triallat,Alachloor,Acetochloor",coss:water,vlcs:sommatie_stoffen,gemet:15179,1716,vlcs:sommatie_stoffen,,
+skos:Concept,css:butanol,Butanol,Som van  1-Butanol en 2-Butanol,coss:water,vlcs:sommatie_stoffen,gemet:15179,1760,vlcs:sommatie_stoffen,,
+skos:Concept,css:c10eo,C10EO,Decanolpolyethoxylaat,coss:water,vlcs:sommatie_stoffen,gemet:15179,1104,vlcs:sommatie_stoffen,,
+skos:Concept,css:c10peo,C10PEO,Decylfenolpolyethoxylaat,coss:water,vlcs:sommatie_stoffen,gemet:15179,1113,vlcs:sommatie_stoffen,,
+skos:Concept,css:c11eo,C11EO,Undecanolpolyethoxylaat,coss:water,vlcs:sommatie_stoffen,gemet:15179,1105,vlcs:sommatie_stoffen,,
+skos:Concept,css:c12admba,C12ADMBA,Dodecyldimethylbenzylammonium,coss:water,vlcs:sommatie_stoffen,gemet:15179,1119,vlcs:sommatie_stoffen,,
+skos:Concept,css:c12eo,C12EO,Dodecanolpolyethoxylaat,coss:water,vlcs:sommatie_stoffen,gemet:15179,1106,vlcs:sommatie_stoffen,,
+skos:Concept,css:c12quin,C12Quin,Dodecylquinolinium,coss:water,vlcs:sommatie_stoffen,gemet:15179,1134,vlcs:sommatie_stoffen,,
+skos:Concept,css:c13eo,C13EO,Tridecanolpolyethoxylaat,coss:water,vlcs:sommatie_stoffen,gemet:15179,1107,vlcs:sommatie_stoffen,,
+skos:Concept,css:c14admba,C14ADMBA,Tetradecyldimethylbenzylammonium,coss:water,vlcs:sommatie_stoffen,gemet:15179,1123,vlcs:sommatie_stoffen,,
+skos:Concept,css:c14atma,C14ATMA,Tetradecyltrimethylammonium,coss:water,vlcs:sommatie_stoffen,gemet:15179,1117,vlcs:sommatie_stoffen,,
+skos:Concept,css:c14dadma,C14DADMA,Ditetradecyldimethylammonium,coss:water,vlcs:sommatie_stoffen,gemet:15179,1129,vlcs:sommatie_stoffen,,
+skos:Concept,css:c14eo,C14EO,Tetradecanolpolyethoxylaat,coss:water,vlcs:sommatie_stoffen,gemet:15179,1108,vlcs:sommatie_stoffen,,
+skos:Concept,css:c14isoquin,C14isoQuin,Tetradecylisoquinolinium,coss:water,vlcs:sommatie_stoffen,gemet:15179,1138,vlcs:sommatie_stoffen,,
+skos:Concept,css:c14pyr,C14Pyr,Tetradecylpyridinium,coss:water,vlcs:sommatie_stoffen,gemet:15179,1132,vlcs:sommatie_stoffen,,
+skos:Concept,css:c14quin,C14Quin,Tetradecylquinolinium,coss:water,vlcs:sommatie_stoffen,gemet:15179,1135,vlcs:sommatie_stoffen,,
+skos:Concept,css:c15eo,C15EO,Pentadecanolpolyethoxylaat,coss:water,vlcs:sommatie_stoffen,gemet:15179,1109,vlcs:sommatie_stoffen,,
+skos:Concept,css:c16:1admba,C16:1ADMBA,Hexadecenyldimethylbenzylammonium,coss:water,vlcs:sommatie_stoffen,gemet:15179,1144,vlcs:sommatie_stoffen,,
+skos:Concept,css:c16:1atma,C16:1ATMA,Hexadecenyltrimethylammonium,coss:water,vlcs:sommatie_stoffen,gemet:15179,1141,vlcs:sommatie_stoffen,,
+skos:Concept,css:c16admba,C16ADMBA,Hexadecyldimethylbenzylammonium,coss:water,vlcs:sommatie_stoffen,gemet:15179,1126,vlcs:sommatie_stoffen,,
+skos:Concept,css:c16eo,C16EO,Hexadecanolpolyethoxylaat,coss:water,vlcs:sommatie_stoffen,gemet:15179,1110,vlcs:sommatie_stoffen,,
+skos:Concept,css:c16isoquin,C16isoQuin,Hexadecylisoquinolinium,coss:water,vlcs:sommatie_stoffen,gemet:15179,1139,vlcs:sommatie_stoffen,,
+skos:Concept,css:c16quin,C16Quin,Hexadecylquinolinium,coss:water,vlcs:sommatie_stoffen,gemet:15179,1136,vlcs:sommatie_stoffen,,
+skos:Concept,css:c18:1admba,C18:1ADMBA,Octadecenyldimethylbenzylammonium,coss:water,vlcs:sommatie_stoffen,gemet:15179,1145,vlcs:sommatie_stoffen,,
+skos:Concept,css:c18:1atma,C18:1ATMA,Octadecenyltrimethylammonium,coss:water,vlcs:sommatie_stoffen,gemet:15179,1142,vlcs:sommatie_stoffen,,
+skos:Concept,css:c18:1dadma,C18:1DADMA,Dioctadecenyldimethylammonium,coss:water,vlcs:sommatie_stoffen,gemet:15179,1148,vlcs:sommatie_stoffen,,
+skos:Concept,css:c18:2admba,C18:2ADMBA,Octadecadienyldimethylbenzylammonium,coss:water,vlcs:sommatie_stoffen,gemet:15179,1146,vlcs:sommatie_stoffen,,
+skos:Concept,css:c18:2atma,C18:2ATMA,Octadecadienyltrimethylammonium,coss:water,vlcs:sommatie_stoffen,gemet:15179,1143,vlcs:sommatie_stoffen,,
+skos:Concept,css:c18:2dadma,C18:2DADMA,Dioctadecadienyldimethylammonium,coss:water,vlcs:sommatie_stoffen,gemet:15179,1149,vlcs:sommatie_stoffen,,
+skos:Concept,css:c18admba,C18ADMBA,Octadecyldimethylbenzylammonium,coss:water,vlcs:sommatie_stoffen,gemet:15179,1127,vlcs:sommatie_stoffen,,
+skos:Concept,css:c18atma,C18ATMA,Octadecyltrimethylammonium,coss:water,vlcs:sommatie_stoffen,gemet:15179,1124,vlcs:sommatie_stoffen,,
+skos:Concept,css:c18dadma,C18DADMA,Dioctadecyldimethylammonium,coss:water,vlcs:sommatie_stoffen,gemet:15179,1131,vlcs:sommatie_stoffen,,
+skos:Concept,css:c18eo,C18EO,Octadecanolpolyethoxylaat,coss:water,vlcs:sommatie_stoffen,gemet:15179,1192,vlcs:sommatie_stoffen,,
+skos:Concept,css:c18isoquin,C18isoQuin,Octadecylisoquinolinium,coss:water,vlcs:sommatie_stoffen,gemet:15179,1140,vlcs:sommatie_stoffen,,
+skos:Concept,css:c18pyr,C18Pyr,Octadecylpyridinium,coss:water,vlcs:sommatie_stoffen,gemet:15179,1133,vlcs:sommatie_stoffen,,
+skos:Concept,css:c18quin,C18Quin,Octadecylquinolinium,coss:water,vlcs:sommatie_stoffen,gemet:15179,1137,vlcs:sommatie_stoffen,,
+skos:Concept,css:c9peo,C9PEO,Nonylfenolpolyethoxylaat,coss:water,vlcs:sommatie_stoffen,gemet:15179,1112,vlcs:sommatie_stoffen,,
+skos:Concept,css:ca_mo,Ca mo,"Calcium, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,1997,vlcs:sommatie_stoffen,,
+skos:Concept,css:calux,Calux,Dr-Calux,coss:water,vlcs:sommatie_stoffen,gemet:15179,1010,vlcs:sommatie_stoffen,,
+skos:Concept,css:can_i,CAn i,"Chlooranilines, individueel",coss:water,vlcs:sommatie_stoffen,gemet:15179,1676,vlcs:sommatie_stoffen,,
+skos:Concept,css:cans,CAnS,Chlooranilines,coss:water,vlcs:sommatie_stoffen,gemet:15179,1206,vlcs:sommatie_stoffen,,
+skos:Concept,css:cbzsom,CBzsom,Dichloorbenzenen,coss:water,vlcs:sommatie_stoffen,gemet:15179,1218,vlcs:sommatie_stoffen,,
+skos:Concept,css:ccl4,CCl4,Koolstoftetrachloride,coss:water,vlcs:sommatie_stoffen,gemet:15179,993,vlcs:sommatie_stoffen,,
+skos:Concept,css:cd_cr_cu_ni_pb_zn,"(Cd,Cr,Cu,Ni,Pb,Zn)","Som van 6 totale metalen Cd,Cr,Cu,Ni,Pb en Zn",coss:water,vlcs:sommatie_stoffen,gemet:15179,1697,vlcs:sommatie_stoffen,,
+skos:Concept,css:cd_mo,Cd mo,"Cadmium, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,1998,vlcs:sommatie_stoffen,,
+skos:Concept,css:ce_mo,Ce mo,"Cerium, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,1999,vlcs:sommatie_stoffen,,
+skos:Concept,css:cfk,CFK,Chloorfluorkoolstoffen,coss:water,vlcs:sommatie_stoffen,gemet:15179,1173,vlcs:sommatie_stoffen,,
+skos:Concept,css:cfk_ind,CFK ind,CFK individueel,coss:water,vlcs:sommatie_stoffen,gemet:15179,1754,vlcs:sommatie_stoffen,,
+skos:Concept,css:cfk_tot,CFK tot,CFK totaal,coss:water,vlcs:sommatie_stoffen,gemet:15179,1755,vlcs:sommatie_stoffen,,
+skos:Concept,css:cfols,CFolS,Chloorfenolen,coss:water,vlcs:sommatie_stoffen,gemet:15179,1208,vlcs:sommatie_stoffen,,
+skos:Concept,css:chol,Chol,Cholinesteraseremmers,coss:water,vlcs:sommatie_stoffen,gemet:15179,290,vlcs:sommatie_stoffen,,
+skos:Concept,css:cl,Cl,Chloor,coss:water,vlcs:sommatie_stoffen,gemet:15179,887,vlcs:sommatie_stoffen,,
+skos:Concept,css:cl-verb,Cl-verb,Chloorverbindingen,coss:water,vlcs:sommatie_stoffen,gemet:15179,1162,vlcs:sommatie_stoffen,,
+skos:Concept,css:cl__gebonden,"Cl, gebonden","Chloor, gebonden",coss:water,vlcs:sommatie_stoffen,gemet:15179,1731,vlcs:sommatie_stoffen,,
+skos:Concept,css:cl_an_,Cl an.,Chloor en zijn anorganische verbindingen,coss:water,vlcs:sommatie_stoffen,gemet:15179,1332,vlcs:sommatie_stoffen,,
+skos:Concept,css:cl_en_so4,Cl en SO4,Sulfaten en chloriden,coss:water,vlcs:sommatie_stoffen,gemet:15179,1714,vlcs:sommatie_stoffen,,
+skos:Concept,css:cl_ot,Cl ot,"Chloor, organisch totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,505,vlcs:sommatie_stoffen,,
+skos:Concept,css:cl_v,Cl v,"Chloorresten, vrij",coss:water,vlcs:sommatie_stoffen,gemet:15179,23,vlcs:sommatie_stoffen,,
+skos:Concept,css:clfyl_t,Clfyl t,"Chlorofyl, totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,120,vlcs:sommatie_stoffen,,
+skos:Concept,css:cnitol,CNiTol,Chloornitrotoluenen,coss:water,vlcs:sommatie_stoffen,gemet:15179,482,vlcs:sommatie_stoffen,,
+skos:Concept,css:cnyl_t,Cnyl t,"Carbonylverbindingen, totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,1103,vlcs:sommatie_stoffen,,
+skos:Concept,css:co_cr_cu_ni_pb_zn,"(Co,Cr,Cu,Ni,Pb,Zn)","Som van 6 metalen t Co,Cr,Cu,Ni,Pb,Zn",coss:water,vlcs:sommatie_stoffen,gemet:15179,1712,vlcs:sommatie_stoffen,,
+skos:Concept,css:co_cr_ni_pb_zn,"(Co,Cr,Ni,Pb,Zn)","Som van 5 metalen t Co,Cr,Ni,Pb,Zn",coss:water,vlcs:sommatie_stoffen,gemet:15179,1753,vlcs:sommatie_stoffen,,
+skos:Concept,css:co_mo,Co mo,"Kobalt, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2000,vlcs:sommatie_stoffen,,
+skos:Concept,css:cr_cu_ni_pb_zn,"(Cr,Cu,Ni,Pb,Zn)","Som van 5 totale metalen Cr,Cu,Ni,Pb en Zn",coss:water,vlcs:sommatie_stoffen,gemet:15179,1698,vlcs:sommatie_stoffen,,
+skos:Concept,css:cr_mo,Cr mo,"Chroom, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2002,vlcs:sommatie_stoffen,,
+skos:Concept,css:cr_zn_mn_cu,"(Cr,Zn,Mn,Cu)","Som van 4 metalen totaal Cr, Zn, Mn en Cu",coss:water,vlcs:sommatie_stoffen,gemet:15179,1768,vlcs:sommatie_stoffen,,
+skos:Concept,css:cresol,Cresol,Cresolen,coss:water,vlcs:sommatie_stoffen,gemet:15179,485,vlcs:sommatie_stoffen,,
+skos:Concept,css:cresol_c,Cresol c,Chloorcresolen,coss:water,vlcs:sommatie_stoffen,gemet:15179,479,vlcs:sommatie_stoffen,,
+skos:Concept,css:cs_mo,Cs mo,"Cesium, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2004,vlcs:sommatie_stoffen,,
+skos:Concept,css:cs_mt,Cs mt,"Cesium, multi totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,1930,vlcs:sommatie_stoffen,,
+skos:Concept,css:ctine,CTine,Chloortoluidinen,coss:water,vlcs:sommatie_stoffen,gemet:15179,484,vlcs:sommatie_stoffen,,
+skos:Concept,css:ctols,CTolS,Chloortoluenen,coss:water,vlcs:sommatie_stoffen,gemet:15179,1212,vlcs:sommatie_stoffen,,
+skos:Concept,css:cu__pb__ni__zn,"(Cu, Pb, Ni, Zn)","som van 4 totale metalen koper,lood,nikkel en zink",coss:water,vlcs:sommatie_stoffen,gemet:15179,1688,vlcs:sommatie_stoffen,,
+skos:Concept,css:cu_mo,Cu mo,"Koper, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2006,vlcs:sommatie_stoffen,,
+skos:Concept,css:cu_ni_cd_cr_pb,"(Cu,Ni,Cd,Cr,Pb)","som van 5 metalen t Cu,Ni,Cd,Cr,Pb",coss:water,vlcs:sommatie_stoffen,gemet:15179,1708,vlcs:sommatie_stoffen,,
+skos:Concept,css:cu_ni_zn_cr,"(Cu,Ni,Zn,Cr)","Som van 4 totale metalen Cu,Ni,Zn,Cr",coss:water,vlcs:sommatie_stoffen,gemet:15179,1699,vlcs:sommatie_stoffen,,
+skos:Concept,css:cyalk,cyAlk,Cycloalkanen,coss:water,vlcs:sommatie_stoffen,gemet:15179,1383,vlcs:sommatie_stoffen,,
+skos:Concept,css:d13c,d13C,Isotopenverhouding koolstof 13 en 12,coss:water,vlcs:sommatie_stoffen,gemet:15179,1326,vlcs:sommatie_stoffen,,
+skos:Concept,css:d15n,d15N,Isotopenverhouding stikstof 15 en 14,coss:water,vlcs:sommatie_stoffen,gemet:15179,1327,vlcs:sommatie_stoffen,,
+skos:Concept,css:dbysn_som,DBySn som,Dibutyltinverbindingen,coss:water,vlcs:sommatie_stoffen,gemet:15179,1216,vlcs:sommatie_stoffen,,
+skos:Concept,css:dcan_t,DCAn t,"Dichlooranilines, totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,888,vlcs:sommatie_stoffen,,
+skos:Concept,css:dcbz,DCBz,"Som van 1,2 + 1,3 + 1,4 DiChloorBenzeen",coss:water,vlcs:sommatie_stoffen,gemet:15179,1717,vlcs:sommatie_stoffen,,
+skos:Concept,css:dcbzdines,DCBzdines,Dichloorbenzidines,coss:water,vlcs:sommatie_stoffen,gemet:15179,886,vlcs:sommatie_stoffen,,
+skos:Concept,css:dcdfytcea,DCDFyTCEa,Dichloordifenyltrichlorethanen,coss:water,vlcs:sommatie_stoffen,gemet:15179,568,vlcs:sommatie_stoffen,,
+skos:Concept,css:dcee,DCEe,Dichlooretheen,coss:water,vlcs:sommatie_stoffen,gemet:15179,1741,vlcs:sommatie_stoffen,,
+skos:Concept,css:dcpa,DCPa,dichloorpropaan,coss:water,vlcs:sommatie_stoffen,gemet:15179,1766,vlcs:sommatie_stoffen,,
+skos:Concept,css:ddd_e_t,DD(D+E+T),DDD+DDE+DDT,coss:water,vlcs:sommatie_stoffen,gemet:15179,894,vlcs:sommatie_stoffen,,
+skos:Concept,css:ddt_2_som,DDT_2 Som,DDT_2,coss:water,vlcs:sommatie_stoffen,gemet:15179,1214,vlcs:sommatie_stoffen,,
+skos:Concept,css:ddt__dde_en_isom,"DDT, DDE en isom","DDT, DDE en isomeren",coss:water,vlcs:sommatie_stoffen,gemet:15179,1710,vlcs:sommatie_stoffen,,
+skos:Concept,css:ddt_t,DDT t,"DDT, totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,907,vlcs:sommatie_stoffen,,
+skos:Concept,css:det_met_gisting,Det met gisting,"oppervlakteactieve stoffen, met gisting",coss:water,vlcs:sommatie_stoffen,gemet:15179,1680,vlcs:sommatie_stoffen,,
+skos:Concept,css:det_zonder_gisting,Det zonder gisting,"Oppervlakteactieve stoffen, zonder gisting",coss:water,vlcs:sommatie_stoffen,gemet:15179,1681,vlcs:sommatie_stoffen,,
+skos:Concept,css:dicnibzsom,diCNiBzsom,Dichloornitrobenzenen,coss:water,vlcs:sommatie_stoffen,gemet:15179,1219,vlcs:sommatie_stoffen,,
+skos:Concept,css:dinyft_didyft,DiNyFt+DiDyFt,Som van di-isononylftalaat en di-isodecylftalaat,coss:water,vlcs:sommatie_stoffen,gemet:15179,1775,vlcs:sommatie_stoffen,,
+skos:Concept,css:dinyftofdidyft,DiNyFtofDiDyFt,Som van di-isononylftalaat en di-isodecylftalaat,coss:water,vlcs:sommatie_stoffen,gemet:15179,1543,vlcs:sommatie_stoffen,,
+skos:Concept,css:dioxines,Dioxines,Dioxines,coss:water,vlcs:sommatie_stoffen,gemet:15179,1191,vlcs:sommatie_stoffen,,
+skos:Concept,css:dmyfol_eyfol_2ipyfol,DMyFol+EyFol+2iPyFol,(DMyFol + EyFol + 2iPyFol),coss:water,vlcs:sommatie_stoffen,gemet:15179,1786,vlcs:sommatie_stoffen,,
+skos:Concept,css:dmyfol_som,DMyFol som,som van de dimethylfenolen,coss:water,vlcs:sommatie_stoffen,gemet:15179,1773,vlcs:sommatie_stoffen,,
+skos:Concept,css:dn_t,DN t,"Totaal stikstof, opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,1520,vlcs:sommatie_stoffen,,
+skos:Concept,css:doc,DOC,"Organische koolstof, opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,302,vlcs:sommatie_stoffen,,
+skos:Concept,css:dy_mo,Dy mo,"Dysprosium, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2005,vlcs:sommatie_stoffen,,
+skos:Concept,css:dy_mt,Dy mt,"Dysprosium, multi totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,1932,vlcs:sommatie_stoffen,,
+skos:Concept,css:dyfolet,DyFolEt,Decylfenolpolyethoxylaten,coss:water,vlcs:sommatie_stoffen,gemet:15179,1054,vlcs:sommatie_stoffen,,
+skos:Concept,css:eas_ttcee,EAS TtCEe,Tetrachloorethyleen extrah.apol.stoffen,coss:water,vlcs:sommatie_stoffen,gemet:15179,598,vlcs:sommatie_stoffen,,
+skos:Concept,css:eox,EOX,Extraheerbare organohalogenen,coss:water,vlcs:sommatie_stoffen,gemet:15179,291,vlcs:sommatie_stoffen,,
+skos:Concept,css:er_mo,Er mo,"Erbium, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2007,vlcs:sommatie_stoffen,,
+skos:Concept,css:er_mt,Er mt,"Erbium, multi totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,1933,vlcs:sommatie_stoffen,,
+skos:Concept,css:es_ccl4,ES CCL4,CCL4 extraheerbare stoffen,coss:water,vlcs:sommatie_stoffen,gemet:15179,1674,vlcs:sommatie_stoffen,,
+skos:Concept,css:es_pe,ES pe,Petroleumether extraheerbare stoffen,coss:water,vlcs:sommatie_stoffen,gemet:15179,573,vlcs:sommatie_stoffen,,
+skos:Concept,css:es_ttcee,ES TtCEe,Tetrachloorethyleen extrah.stoffen,coss:water,vlcs:sommatie_stoffen,gemet:15179,599,vlcs:sommatie_stoffen,,
+skos:Concept,css:eu_mo,Eu mo,"Europium, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2008,vlcs:sommatie_stoffen,,
+skos:Concept,css:eu_mt,Eu mt,"Europium, multi totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,1934,vlcs:sommatie_stoffen,,
+skos:Concept,css:extrah__st_,Extrah. St.,Extraheerbare stoffen,coss:water,vlcs:sommatie_stoffen,gemet:15179,1721,vlcs:sommatie_stoffen,,
+skos:Concept,css:eyfol_som,EyFol som,"som van 2-, 3- en 4-ethylfenol",coss:water,vlcs:sommatie_stoffen,gemet:15179,1772,vlcs:sommatie_stoffen,,
+skos:Concept,css:f-verb,F-verb,Fluorverbindingen,coss:water,vlcs:sommatie_stoffen,gemet:15179,1163,vlcs:sommatie_stoffen,,
+skos:Concept,css:f_an_,F an.,Fluor en zijn anorganische verbindingen,coss:water,vlcs:sommatie_stoffen,gemet:15179,1333,vlcs:sommatie_stoffen,,
+skos:Concept,css:fe_al,"(Fe,Al)",som van metalen ijzer en aluminium,coss:water,vlcs:sommatie_stoffen,gemet:15179,1687,vlcs:sommatie_stoffen,,
+skos:Concept,css:fe_mo,Fe mo,"Ijzer, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2009,vlcs:sommatie_stoffen,,
+skos:Concept,css:fol_c,Fol c,"Fenolen, gechloreerde",coss:water,vlcs:sommatie_stoffen,gemet:15179,582,vlcs:sommatie_stoffen,,
+skos:Concept,css:fol_c__i,"Fol c, i","Gechloreerde fenolen, individueel",coss:water,vlcs:sommatie_stoffen,gemet:15179,1759,vlcs:sommatie_stoffen,,
+skos:Concept,css:fol_get_,Fol get.,Fenol getal,coss:water,vlcs:sommatie_stoffen,gemet:15179,454,vlcs:sommatie_stoffen,,
+skos:Concept,css:fol_h2o_vlucht,Fol h2o_vlucht,met waterdamp vluchtige fenolen,coss:water,vlcs:sommatie_stoffen,gemet:15179,1683,vlcs:sommatie_stoffen,,
+skos:Concept,css:ftal,FTAL,"Ftalaten, som",coss:water,vlcs:sommatie_stoffen,gemet:15179,1763,vlcs:sommatie_stoffen,,
+skos:Concept,css:ftal_excl_dehp,FTAL excl DEHP,Ftalaten excl. DEHP (=bis-(2-ethylhexyl)-ftalaat),coss:water,vlcs:sommatie_stoffen,gemet:15179,1762,vlcs:sommatie_stoffen,,
+skos:Concept,css:fuh_t,FUH t,"Fenylureumherbiciden, totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,655,vlcs:sommatie_stoffen,,
+skos:Concept,css:furanen,Furanen,Furanen,coss:water,vlcs:sommatie_stoffen,gemet:15179,1486,vlcs:sommatie_stoffen,,
+skos:Concept,css:ga_mo,Ga mo,"Gallium, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2010,vlcs:sommatie_stoffen,,
+skos:Concept,css:ga_mt,Ga mt,"Gallium, multi totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,1936,vlcs:sommatie_stoffen,,
+skos:Concept,css:gd_mo,Gd mo,"Gadolinium, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2011,vlcs:sommatie_stoffen,,
+skos:Concept,css:gd_mt,Gd mt,"Gadolinium, multi totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,1937,vlcs:sommatie_stoffen,,
+skos:Concept,css:ge_mo,Ge mo,"Germanium, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2012,vlcs:sommatie_stoffen,,
+skos:Concept,css:ge_mt,Ge mt,"Germanium, multi totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,1938,vlcs:sommatie_stoffen,,
+skos:Concept,css:gechl__arom,gechl. Arom,gechloreerde aromaten,coss:water,vlcs:sommatie_stoffen,gemet:15179,1682,vlcs:sommatie_stoffen,,
+skos:Concept,css:gechlor__oplosm_,Gechlor. Oplosm.,Gechloreerde oplosmiddelen,coss:water,vlcs:sommatie_stoffen,gemet:15179,1700,vlcs:sommatie_stoffen,,
+skos:Concept,css:h3o_,H3O+,Hydroxonium,coss:water,vlcs:sommatie_stoffen,gemet:15179,1262,vlcs:sommatie_stoffen,,
+skos:Concept,css:halonen,Halonen,Halonen,coss:water,vlcs:sommatie_stoffen,gemet:15179,1177,vlcs:sommatie_stoffen,,
+skos:Concept,css:hcdbd_t,HCdBD t,"Hexachloordibenzodioxine, totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,1339,vlcs:sommatie_stoffen,,
+skos:Concept,css:hcdbfur_t,HCdBFur t,"Hexachloordibenzofuran, totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,1343,vlcs:sommatie_stoffen,,
+skos:Concept,css:hcfk,HCFK,Chloorfluorkoolwaterstoffen,coss:water,vlcs:sommatie_stoffen,gemet:15179,1174,vlcs:sommatie_stoffen,,
+skos:Concept,css:hch,HCH,"Hexachloorcyclohexaan, alle isomeren",coss:water,vlcs:sommatie_stoffen,gemet:15179,896,vlcs:sommatie_stoffen,,
+skos:Concept,css:hf_mo,Hf mo,"Hafnium, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2013,vlcs:sommatie_stoffen,,
+skos:Concept,css:hf_mt,Hf mt,"Hafnium, multi totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,1939,vlcs:sommatie_stoffen,,
+skos:Concept,css:hfk,HFK,Fluorkoolwaterstoffen,coss:water,vlcs:sommatie_stoffen,gemet:15179,1175,vlcs:sommatie_stoffen,,
+skos:Concept,css:hg_mo,Hg mo,"Kwik, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2014,vlcs:sommatie_stoffen,,
+skos:Concept,css:ho_mo,Ho mo,"Holmium, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2015,vlcs:sommatie_stoffen,,
+skos:Concept,css:ho_mt,Ho mt,"Holmium, multi totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,1941,vlcs:sommatie_stoffen,,
+skos:Concept,css:hpc_epx,HpC+Epx,Heptachloor+epoxyde,coss:water,vlcs:sommatie_stoffen,gemet:15179,948,vlcs:sommatie_stoffen,,
+skos:Concept,css:hpcdbd_t,HpCdBD t,"Heptachloordibenzodioxine, totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,1340,vlcs:sommatie_stoffen,,
+skos:Concept,css:hpcepx,HpCEpx,Heptachloorepoxyde (cis+trans),coss:water,vlcs:sommatie_stoffen,gemet:15179,784,vlcs:sommatie_stoffen,,
+skos:Concept,css:hpo3²-,HPO3²-,Fosfonaten,coss:water,vlcs:sommatie_stoffen,gemet:15179,1742,vlcs:sommatie_stoffen,,
+skos:Concept,css:in_mo,In mo,"Indium, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2016,vlcs:sommatie_stoffen,,
+skos:Concept,css:ipytol,iPyTol,Isopropyltolueen,coss:water,vlcs:sommatie_stoffen,gemet:15179,917,vlcs:sommatie_stoffen,,
+skos:Concept,css:k_mo,K mo,"Kalium, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2017,vlcs:sommatie_stoffen,,
+skos:Concept,css:kalk_os,Kalk+OS,Kalk en organische stof,coss:water,vlcs:sommatie_stoffen,gemet:15179,92,vlcs:sommatie_stoffen,,
+skos:Concept,css:kisurf,KISurf,"Surfactanten, kationische",coss:water,vlcs:sommatie_stoffen,gemet:15179,297,vlcs:sommatie_stoffen,,
+skos:Concept,css:kisurfsom,KISurfSom,"Surfactanten, kationische (berekende som)",coss:water,vlcs:sommatie_stoffen,gemet:15179,1846,vlcs:sommatie_stoffen,,
+skos:Concept,css:kjn,KjN,Kjeldahlstikstof,coss:water,vlcs:sommatie_stoffen,gemet:15179,298,vlcs:sommatie_stoffen,,
+skos:Concept,css:kjn__f,KjN  f,"Kjeldahlstikstof, gefiltreerd",coss:water,vlcs:sommatie_stoffen,gemet:15179,299,vlcs:sommatie_stoffen,,
+skos:Concept,css:kws_al,KWS al,Alifatische koolwaterstoffen,coss:water,vlcs:sommatie_stoffen,gemet:15179,1294,vlcs:sommatie_stoffen,,
+skos:Concept,css:kws_ap_,KWS ap.,Apolaire koolwaterstoffen,coss:water,vlcs:sommatie_stoffen,gemet:15179,286,vlcs:sommatie_stoffen,,
+skos:Concept,css:kws_ar,KWS ar,Aromatische koolwaterstoffen,coss:water,vlcs:sommatie_stoffen,gemet:15179,1295,vlcs:sommatie_stoffen,,
+skos:Concept,css:kws_c10-12,KWS C10-12,"Apolaire koolwaterstoffen, fractie C10-C12",coss:water,vlcs:sommatie_stoffen,gemet:15179,989,vlcs:sommatie_stoffen,,
+skos:Concept,css:kws_c12-20,KWS C12-20,"Apolaire koolwaterstoffen, fractie C12-C20",coss:water,vlcs:sommatie_stoffen,gemet:15179,990,vlcs:sommatie_stoffen,,
+skos:Concept,css:kws_c20-30,KWS C20-30,"Apolaire koolwaterstoffen, fractie C20-C30",coss:water,vlcs:sommatie_stoffen,gemet:15179,991,vlcs:sommatie_stoffen,,
+skos:Concept,css:kws_c30-40,KWS C30-40,"Apolaire koolwaterstoffen, fractie C30-C40",coss:water,vlcs:sommatie_stoffen,gemet:15179,992,vlcs:sommatie_stoffen,,
+skos:Concept,css:kws_nm,KWS nm,Niet-methaan koolwaterstoffen,coss:water,vlcs:sommatie_stoffen,gemet:15179,1268,vlcs:sommatie_stoffen,,
+skos:Concept,css:kws_t,KWS t,"Koolwaterstoffen, totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,1278,vlcs:sommatie_stoffen,,
+skos:Concept,css:kws_t_vlucht,KWS t vlucht,"vluchtige KWS, t",coss:water,vlcs:sommatie_stoffen,gemet:15179,1686,vlcs:sommatie_stoffen,,
+skos:Concept,css:la_mo,La mo,"Lanthaan, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2018,vlcs:sommatie_stoffen,,
+skos:Concept,css:la_mt,La mt,"Lanthaan, multi totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,1944,vlcs:sommatie_stoffen,,
+skos:Concept,css:las/abs,LAS/ABS,"Alkylbenzeensulfonaten, lineaire+vertakte",coss:water,vlcs:sommatie_stoffen,gemet:15179,1150,vlcs:sommatie_stoffen,,
+skos:Concept,css:latex,Latex,Latex,coss:water,vlcs:sommatie_stoffen,gemet:15179,1746,vlcs:sommatie_stoffen,,
+skos:Concept,css:lu_mo,Lu mo,"Lutetium, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2019,vlcs:sommatie_stoffen,,
+skos:Concept,css:lu_mt,Lu mt,"Lutetium, multi totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,1945,vlcs:sommatie_stoffen,,
+skos:Concept,css:m_ol_kws,M.ol+KWS,Minerale oliën en KWS,coss:water,vlcs:sommatie_stoffen,gemet:15179,458,vlcs:sommatie_stoffen,,
+skos:Concept,css:mak_i,MAK i,Monocyclische aromatische koolwaterstoffen ind. ,coss:water,vlcs:sommatie_stoffen,gemet:15179,1745,vlcs:sommatie_stoffen,,
+skos:Concept,css:mak_t,MAK t,"Monoaromatische KWS, totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,217,vlcs:sommatie_stoffen,,
+skos:Concept,css:mbas,MBAS,Methyleenblauw actieve stoffen,coss:water,vlcs:sommatie_stoffen,gemet:15179,285,vlcs:sommatie_stoffen,,
+skos:Concept,css:mercapt,Mercapt,Mercaptanen,coss:water,vlcs:sommatie_stoffen,gemet:15179,510,vlcs:sommatie_stoffen,,
+skos:Concept,css:met_ex_zn_fe_mn_pb_a,"Met ex Zn,Fe,Mn,Pb,A","Som metalen zonder Zn,Fe,Mn,Pb,As,Cd",coss:water,vlcs:sommatie_stoffen,gemet:15179,1725,vlcs:sommatie_stoffen,,
+skos:Concept,css:met_excl_zn_fe_mn_al,"met excl Zn,Fe,Mn,Al","Som metalen excl Zn,Fe,Mn,Al",coss:water,vlcs:sommatie_stoffen,gemet:15179,1711,vlcs:sommatie_stoffen,,
+skos:Concept,css:metalen_excl__al_fe,"metalen excl. Al,Fe",som van metalen excl aluminium en ijzer,coss:water,vlcs:sommatie_stoffen,gemet:15179,1690,vlcs:sommatie_stoffen,,
+skos:Concept,css:mg_mo,Mg mo,"Magnesium, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2020,vlcs:sommatie_stoffen,,
+skos:Concept,css:mg_mt,Mg mt,"Magnesium, multi totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,1946,vlcs:sommatie_stoffen,,
+skos:Concept,css:min_oliec10-c40,Min.olieC10-C40,Minerale olie C10-C40,coss:water,vlcs:sommatie_stoffen,gemet:15179,1771,vlcs:sommatie_stoffen,,
+skos:Concept,css:min_oliec6-c10,Min.olieC6-C10,minerale olie C6-C10,coss:water,vlcs:sommatie_stoffen,gemet:15179,1770,vlcs:sommatie_stoffen,,
+skos:Concept,css:mn_mo,Mn mo,"Mangaan, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2021,vlcs:sommatie_stoffen,,
+skos:Concept,css:mno4_k,MnO4 k,"Permanganaatverbruik, koud",coss:water,vlcs:sommatie_stoffen,gemet:15179,293,vlcs:sommatie_stoffen,,
+skos:Concept,css:mno4_kf,MnO4 kf,"Permanganaatverbruik, koud gefiltreerd",coss:water,vlcs:sommatie_stoffen,gemet:15179,294,vlcs:sommatie_stoffen,,
+skos:Concept,css:mno4_w,MnO4 w,"Permanganaatverbruik, warm",coss:water,vlcs:sommatie_stoffen,gemet:15179,295,vlcs:sommatie_stoffen,,
+skos:Concept,css:mno4_wf,MnO4 wf,"Permanganaatverbruik, warm gefiltreerd",coss:water,vlcs:sommatie_stoffen,gemet:15179,296,vlcs:sommatie_stoffen,,
+skos:Concept,css:mo_mo,Mo mo,"Molybdeen, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2022,vlcs:sommatie_stoffen,,
+skos:Concept,css:mpxyl,mpXyl,Xylenen (m+p),coss:water,vlcs:sommatie_stoffen,gemet:15179,214,vlcs:sommatie_stoffen,,
+skos:Concept,css:n-fenol,n-fenol,n-fenol,coss:water,vlcs:sommatie_stoffen,gemet:15179,1675,vlcs:sommatie_stoffen,,
+skos:Concept,css:n_n,N+N,Nitraat+nitriet,coss:water,vlcs:sommatie_stoffen,gemet:15179,7,vlcs:sommatie_stoffen,,
+skos:Concept,css:n_n_n,N+N+N,Nitraat+nitriet+ammonium,coss:water,vlcs:sommatie_stoffen,gemet:15179,1437,vlcs:sommatie_stoffen,,
+skos:Concept,css:n_o,N o,"Stikstof, organische",coss:water,vlcs:sommatie_stoffen,gemet:15179,653,vlcs:sommatie_stoffen,,
+skos:Concept,css:n_t,N t,"Stikstof, totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,31,vlcs:sommatie_stoffen,,
+skos:Concept,css:na-zouten,Na-zouten,Natrium-zouten,coss:water,vlcs:sommatie_stoffen,gemet:15179,1720,vlcs:sommatie_stoffen,,
+skos:Concept,css:na_mo,Na mo,"Natrium, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2023,vlcs:sommatie_stoffen,,
+skos:Concept,css:naftenaten,Naftenaten,Naftenaten,coss:water,vlcs:sommatie_stoffen,gemet:15179,2125,vlcs:sommatie_stoffen,,
+skos:Concept,css:nb_mo,Nb mo,"Niobium, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2024,vlcs:sommatie_stoffen,,
+skos:Concept,css:nb_mt,Nb mt,"Niobium, multi totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,1951,vlcs:sommatie_stoffen,,
+skos:Concept,css:nd_mo,Nd mo,"Neodymium, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2025,vlcs:sommatie_stoffen,,
+skos:Concept,css:nd_mt,Nd mt,"Neodymium, multi totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,1952,vlcs:sommatie_stoffen,,
+skos:Concept,css:neg_anmvos,neg ANMVOS,Niet eerder genoemde aromatische NMVOS,coss:water,vlcs:sommatie_stoffen,gemet:15179,1168,vlcs:sommatie_stoffen,,
+skos:Concept,css:neg_nmvos,neg NMVOS,Niet eerder genoemde NMVOS,coss:water,vlcs:sommatie_stoffen,gemet:15179,1169,vlcs:sommatie_stoffen,,
+skos:Concept,css:neg_oasf,neg OASF,Niet eerder genoemde ozonafbrekende stoffen en F-g,coss:water,vlcs:sommatie_stoffen,gemet:15179,1178,vlcs:sommatie_stoffen,,
+skos:Concept,css:neg_xnmvos,neg XNMVOS,Niet eerder genoemde gehalogeneerde NMVOS,coss:water,vlcs:sommatie_stoffen,gemet:15179,1167,vlcs:sommatie_stoffen,,
+skos:Concept,css:nh3_no2-,NH3+NO2-,"ammoniak, nitrieten",coss:water,vlcs:sommatie_stoffen,gemet:15179,1733,vlcs:sommatie_stoffen,,
+skos:Concept,css:nh4_zt,NH4 zt,Kwaternaire ammoniumzouten,coss:water,vlcs:sommatie_stoffen,gemet:15179,593,vlcs:sommatie_stoffen,,
+skos:Concept,css:ni_mo,Ni mo,"Nikkel, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2026,vlcs:sommatie_stoffen,,
+skos:Concept,css:nisurf,NISurf,"Surfactanten, niet-ionogene",coss:water,vlcs:sommatie_stoffen,gemet:15179,300,vlcs:sommatie_stoffen,,
+skos:Concept,css:nisurfsom,NISurfSom,"Surfactanten, niet-ionogene (berekende som)",coss:water,vlcs:sommatie_stoffen,gemet:15179,1845,vlcs:sommatie_stoffen,,
+skos:Concept,css:nmvos_t,NMVOS t,"NMVOS, totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,1172,vlcs:sommatie_stoffen,,
+skos:Concept,css:nox,NOx,Stikstofoxiden,coss:water,vlcs:sommatie_stoffen,gemet:15179,1160,vlcs:sommatie_stoffen,,
+skos:Concept,css:npoc,NPOC,"Organische koolstof, niet purgeerbaar",coss:water,vlcs:sommatie_stoffen,gemet:15179,1484,vlcs:sommatie_stoffen,,
+skos:Concept,css:nso,NSO,NSO-verbindingen,coss:water,vlcs:sommatie_stoffen,gemet:15179,1776,vlcs:sommatie_stoffen,,
+skos:Concept,css:nvooc,NVOOC,"Organische koolstof, niet vluchtig",coss:water,vlcs:sommatie_stoffen,gemet:15179,726,vlcs:sommatie_stoffen,,
+skos:Concept,css:nvtoc,NVTOC,"Organische koolstof, niet vluchtig totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,725,vlcs:sommatie_stoffen,,
+skos:Concept,css:nyfol_et,NyFol+et,Nonylfenolen + ethoxylaten,coss:water,vlcs:sommatie_stoffen,gemet:15179,960,vlcs:sommatie_stoffen,,
+skos:Concept,css:nyfolet,NyFolEt,Nonylfenolpolyethoxylaten,coss:water,vlcs:sommatie_stoffen,gemet:15179,1053,vlcs:sommatie_stoffen,,
+skos:Concept,css:nyfolsom,NyFolsom,Nonylfenolen,coss:water,vlcs:sommatie_stoffen,gemet:15179,1222,vlcs:sommatie_stoffen,,
+skos:Concept,css:oasf_t,OASF t,"Ozonafbrekende stoffen en F-gassen, totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,1179,vlcs:sommatie_stoffen,,
+skos:Concept,css:oc,OC,Organische koolstof,coss:water,vlcs:sommatie_stoffen,gemet:15179,1269,vlcs:sommatie_stoffen,,
+skos:Concept,css:ocp_i,OCP i,Organochloorpesticiden individueel,coss:water,vlcs:sommatie_stoffen,gemet:15179,1765,vlcs:sommatie_stoffen,,
+skos:Concept,css:ocp_t,OCP t,"Organochloorpesticiden, totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,258,vlcs:sommatie_stoffen,,
+skos:Concept,css:ol_water,Ol.water,Oliehoudende wateren,coss:water,vlcs:sommatie_stoffen,gemet:15179,609,vlcs:sommatie_stoffen,,
+skos:Concept,css:om,OM,Organisch materiaal,coss:water,vlcs:sommatie_stoffen,gemet:15179,301,vlcs:sommatie_stoffen,,
+skos:Concept,css:onp_t,ONP t,"Organostikstofpesticiden, totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,897,vlcs:sommatie_stoffen,,
+skos:Concept,css:opgl__vt,Opgl. Vt,Opgeloste Vetten,coss:water,vlcs:sommatie_stoffen,gemet:15179,1730,vlcs:sommatie_stoffen,,
+skos:Concept,css:oplosmiddelen,Oplosmiddelen,Oplosmiddelen,coss:water,vlcs:sommatie_stoffen,gemet:15179,1728,vlcs:sommatie_stoffen,,
+skos:Concept,css:opp_t,OPP t,"Organofosforpesticiden, totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,405,vlcs:sommatie_stoffen,,
+skos:Concept,css:opvv_t,OPVV t,"Organofosforvlamvertragers, totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,977,vlcs:sommatie_stoffen,,
+skos:Concept,css:os,OS,Organische stof,coss:water,vlcs:sommatie_stoffen,gemet:15179,795,vlcs:sommatie_stoffen,,
+skos:Concept,css:os_mo,Os mo,"Osmium, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2027,vlcs:sommatie_stoffen,,
+skos:Concept,css:os_mt,Os mt,"Osmium, multi totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,1954,vlcs:sommatie_stoffen,,
+skos:Concept,css:oyfol_et,OyFol+et,Octylfenolen + ethoxylaten,coss:water,vlcs:sommatie_stoffen,gemet:15179,961,vlcs:sommatie_stoffen,,
+skos:Concept,css:oyfolet,OyFolEt,Octylfenolpolyethoxylaten,coss:water,vlcs:sommatie_stoffen,gemet:15179,1052,vlcs:sommatie_stoffen,,
+skos:Concept,css:oyfolsom,OyFolsom,Octylfenolen,coss:water,vlcs:sommatie_stoffen,gemet:15179,1223,vlcs:sommatie_stoffen,,
+skos:Concept,css:p_esters,P esters,"Fosforesters, organische",coss:water,vlcs:sommatie_stoffen,gemet:15179,506,vlcs:sommatie_stoffen,,
+skos:Concept,css:p_mo,P mo,"Fosfor, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2028,vlcs:sommatie_stoffen,,
+skos:Concept,css:pak_10,PAK 10,Polyaromatische KWS (10 Vrom),coss:water,vlcs:sommatie_stoffen,gemet:15179,817,vlcs:sommatie_stoffen,,
+skos:Concept,css:pak_14,PAK 14,Polyaromatische KWS (14 IBS),coss:water,vlcs:sommatie_stoffen,gemet:15179,1165,vlcs:sommatie_stoffen,,
+skos:Concept,css:pak_15,PAK 15,Polyaromatische KWS (15 EPA),coss:water,vlcs:sommatie_stoffen,gemet:15179,550,vlcs:sommatie_stoffen,,
+skos:Concept,css:pak_16,PAK 16,Polyaromatische KWS (16 EPA),coss:water,vlcs:sommatie_stoffen,gemet:15179,433,vlcs:sommatie_stoffen,,
+skos:Concept,css:pak_2,PAK 2,Polyaromatische KWS (2 VVP),coss:water,vlcs:sommatie_stoffen,gemet:15179,824,vlcs:sommatie_stoffen,,
+skos:Concept,css:pak_4,PAK 4,Polyaromatische koolwaterstoffen (PAK's),coss:water,vlcs:sommatie_stoffen,gemet:15179,1329,vlcs:sommatie_stoffen,,
+skos:Concept,css:pak_5,PAK 5,Polyaromatische koolwaterstoffen (PAK 5),coss:water,vlcs:sommatie_stoffen,gemet:15179,2145,vlcs:sommatie_stoffen,,
+skos:Concept,css:pak_6,PAK 6,Polyaromatische KWS (6 Borneff),coss:water,vlcs:sommatie_stoffen,gemet:15179,512,vlcs:sommatie_stoffen,,
+skos:Concept,css:pak_excl_naftaleen,PAK excl naftaleen,PAK exclusief naftaleen,coss:water,vlcs:sommatie_stoffen,gemet:15179,1756,vlcs:sommatie_stoffen,,
+skos:Concept,css:pak_i,PAK i,"Polycyclische Aromatische KWS, individueel",coss:water,vlcs:sommatie_stoffen,gemet:15179,1744,vlcs:sommatie_stoffen,,
+skos:Concept,css:pb_mo,Pb mo,"Lood, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2029,vlcs:sommatie_stoffen,,
+skos:Concept,css:pbs,PBS,Potentieel Bioaccumulerende Stoffen,coss:water,vlcs:sommatie_stoffen,gemet:15179,951,vlcs:sommatie_stoffen,,
+skos:Concept,css:pcb_28_31,PCB 28+31,"2,4,4' + 2,4',5-Trichloorbifenyl (PCB28+31)",coss:water,vlcs:sommatie_stoffen,gemet:15179,745,vlcs:sommatie_stoffen,,
+skos:Concept,css:pcb_ind,PCB ind,PCB individueel,coss:water,vlcs:sommatie_stoffen,gemet:15179,1777,vlcs:sommatie_stoffen,,
+skos:Concept,css:pcb_pct_t,PCB+PCT t,"Polychloorbifenyl en polychloorterfenyl, totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,890,vlcs:sommatie_stoffen,,
+skos:Concept,css:pcb_t_pct_t,"(PCB t,PCT t)",Som van PCB totaal en PCT totaal,coss:water,vlcs:sommatie_stoffen,gemet:15179,1695,vlcs:sommatie_stoffen,,
+skos:Concept,css:pcdbd_t,PCdBD t,"Pentachloordibenzodioxine, totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,1338,vlcs:sommatie_stoffen,,
+skos:Concept,css:pcdbfur_t,PCdBFur t,"Pentachloordibenzofuran, totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,1342,vlcs:sommatie_stoffen,,
+skos:Concept,css:pcdd_pcdf,PCDD+PCDF,Dioxines+furanen,coss:water,vlcs:sommatie_stoffen,gemet:15179,959,vlcs:sommatie_stoffen,,
+skos:Concept,css:pct_t,PCT t,"Polychloorterfenyl, totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,513,vlcs:sommatie_stoffen,,
+skos:Concept,css:pd_mo,Pd mo,"Palladium, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2030,vlcs:sommatie_stoffen,,
+skos:Concept,css:persist__min__olie,Persist. Min. Olie,Persistente minerale olie,coss:water,vlcs:sommatie_stoffen,gemet:15179,1732,vlcs:sommatie_stoffen,,
+skos:Concept,css:persistente_kws,persistente KWS,Persistente KWS,coss:water,vlcs:sommatie_stoffen,gemet:15179,1727,vlcs:sommatie_stoffen,,
+skos:Concept,css:pesticiden_t,pesticiden t,som pesticiden,coss:water,vlcs:sommatie_stoffen,gemet:15179,1722,vlcs:sommatie_stoffen,,
+skos:Concept,css:pfc_exl_pfos__pfoa,"PFC exl.(PFOS, PFOA)",Perfluortensiden zonder PFOS en PFOA,coss:water,vlcs:sommatie_stoffen,gemet:15179,1764,vlcs:sommatie_stoffen,,
+skos:Concept,css:pfoa_som,PFOA som,Som van PFOA vertakt + lineair,coss:water,vlcs:sommatie_stoffen,gemet:15179,2144,vlcs:sommatie_stoffen,,
+skos:Concept,css:pfos__pfba__pfbs,"(PFOS, PFBA, PFBS)","Som PFOS, PFBA en PFBS",coss:water,vlcs:sommatie_stoffen,gemet:15179,1774,vlcs:sommatie_stoffen,,
+skos:Concept,css:pfos_som,PFOS som,Som van PFOS vertakt + lineair,coss:water,vlcs:sommatie_stoffen,gemet:15179,2143,vlcs:sommatie_stoffen,,
+skos:Concept,css:pft_t,PFT t,"Perfluorverbindingen, totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,1049,vlcs:sommatie_stoffen,,
+skos:Concept,css:pox,POX,Purgeerbare organohalogenen,coss:water,vlcs:sommatie_stoffen,gemet:15179,304,vlcs:sommatie_stoffen,,
+skos:Concept,css:pr_mo,Pr mo,"Praesodymium, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2031,vlcs:sommatie_stoffen,,
+skos:Concept,css:pr_mt,Pr mt,"Praesodymium, multi totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,1958,vlcs:sommatie_stoffen,,
+skos:Concept,css:profam_benzadol,"(profam,benzadol)","som van chloorprofam, profam en thiabenzadol",coss:water,vlcs:sommatie_stoffen,gemet:15179,1692,vlcs:sommatie_stoffen,,
+skos:Concept,css:pt_mo,Pt mo,"Platina, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2032,vlcs:sommatie_stoffen,,
+skos:Concept,css:pver_o,Pver o,Organofosforverbindingen,coss:water,vlcs:sommatie_stoffen,gemet:15179,704,vlcs:sommatie_stoffen,,
+skos:Concept,css:pyrethroïden,pyrethroïden,Pyrethroïden,coss:water,vlcs:sommatie_stoffen,gemet:15179,1724,vlcs:sommatie_stoffen,,
+skos:Concept,css:rb_mo,Rb mo,"Rubidium, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2033,vlcs:sommatie_stoffen,,
+skos:Concept,css:rb_mt,Rb mt,"Rubidium, multi totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,1960,vlcs:sommatie_stoffen,,
+skos:Concept,css:re_mo,Re mo,"Renium, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2034,vlcs:sommatie_stoffen,,
+skos:Concept,css:ru_mo,Ru mo,"Ruthenium, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2035,vlcs:sommatie_stoffen,,
+skos:Concept,css:ru_mt,Ru mt,"Ruthenium, multi totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,1962,vlcs:sommatie_stoffen,,
+skos:Concept,css:s=___merc_,S= + merc.,Som van sulfiden en mercaptanen,coss:water,vlcs:sommatie_stoffen,gemet:15179,1705,vlcs:sommatie_stoffen,,
+skos:Concept,css:s_mo,S mo,"Zwavel, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2036,vlcs:sommatie_stoffen,,
+skos:Concept,css:s_t-h2s_rsh,"S t-H2S,RSH","Zwavel totaal - H2S,S-geurcomponenten",coss:water,vlcs:sommatie_stoffen,gemet:15179,1321,vlcs:sommatie_stoffen,,
+skos:Concept,css:s_t-sox,S t-SOx,Zwavel totaal - zwaveloxiden,coss:water,vlcs:sommatie_stoffen,gemet:15179,1287,vlcs:sommatie_stoffen,,
+skos:Concept,css:sb_mo,Sb mo,"Antimoon, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2037,vlcs:sommatie_stoffen,,
+skos:Concept,css:sc_mo,Sc mo,"Scandium, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2038,vlcs:sommatie_stoffen,,
+skos:Concept,css:sc_mt,Sc mt,"Scandium, multi totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,1965,vlcs:sommatie_stoffen,,
+skos:Concept,css:sccp,SCCP,Korte ketting gechloreerde parafinen,coss:water,vlcs:sommatie_stoffen,gemet:15179,1465,vlcs:sommatie_stoffen,,
+skos:Concept,css:se_mo,Se mo,"Seleen, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2039,vlcs:sommatie_stoffen,,
+skos:Concept,css:se_v_u_th_te,"(Se,V,U,Th,Te)","som Seleen,Vanadium,Uranium,Thor,Tellurium",coss:water,vlcs:sommatie_stoffen,gemet:15179,1709,vlcs:sommatie_stoffen,,
+skos:Concept,css:selenas,Selenas,Selenastrum,coss:water,vlcs:sommatie_stoffen,gemet:15179,782,vlcs:sommatie_stoffen,,
+skos:Concept,css:si_mo,Si mo,"Silicium, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2040,vlcs:sommatie_stoffen,,
+skos:Concept,css:siver_o,Siver o,Organosiliciumverbindingen,coss:water,vlcs:sommatie_stoffen,gemet:15179,613,vlcs:sommatie_stoffen,,
+skos:Concept,css:sm_mo,Sm mo,"Samarium, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2041,vlcs:sommatie_stoffen,,
+skos:Concept,css:sm_mt,Sm mt,"Samarium, multi totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,1968,vlcs:sommatie_stoffen,,
+skos:Concept,css:sn_anorg_t,Sn anorg t,"Anorganische tinverbindingen, totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,1685,vlcs:sommatie_stoffen,,
+skos:Concept,css:sn_mo,Sn mo,"Tin, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2042,vlcs:sommatie_stoffen,,
+skos:Concept,css:sn_t_,Sn t+,"Tin, totaal incl. oxiden",coss:water,vlcs:sommatie_stoffen,gemet:15179,1487,vlcs:sommatie_stoffen,,
+skos:Concept,css:snver_ot,Snver ot,"Organotinverbindingen, totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,693,vlcs:sommatie_stoffen,,
+skos:Concept,css:sof,SOF,Opgeloste Organische Fluoriden,coss:water,vlcs:sommatie_stoffen,gemet:15179,1739,vlcs:sommatie_stoffen,,
+skos:Concept,css:solvent,Solvent,Solventgehalte,coss:water,vlcs:sommatie_stoffen,gemet:15179,305,vlcs:sommatie_stoffen,,
+skos:Concept,css:som129_excl_ox,Som129 excl OX,Som lijst 129 excl Organohalogenen,coss:water,vlcs:sommatie_stoffen,gemet:15179,1694,vlcs:sommatie_stoffen,,
+skos:Concept,css:sox,SOx,Zwaveloxiden,coss:water,vlcs:sommatie_stoffen,gemet:15179,1161,vlcs:sommatie_stoffen,,
+skos:Concept,css:sp_opp_,Sp.opp.,Specifiek oppervlak,coss:water,vlcs:sommatie_stoffen,gemet:15179,514,vlcs:sommatie_stoffen,,
+skos:Concept,css:sr_mo,Sr mo,"Strontium, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2043,vlcs:sommatie_stoffen,,
+skos:Concept,css:stof_t,Stof t,"Stof, totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,1181,vlcs:sommatie_stoffen,,
+skos:Concept,css:stoffr_no,Stoffr no,"Stoffractie, niet-oplosbaar",coss:water,vlcs:sommatie_stoffen,gemet:15179,1314,vlcs:sommatie_stoffen,,
+skos:Concept,css:stoffr_o,Stoffr o,"Stoffractie, oplosbaar",coss:water,vlcs:sommatie_stoffen,gemet:15179,1315,vlcs:sommatie_stoffen,,
+skos:Concept,css:stoffr_t,Stoffr t,"Stoffractie, totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,1316,vlcs:sommatie_stoffen,,
+skos:Concept,css:surf_ion,Surf ION,"Surfactanten,Ionisch (AISurf+KISurf excl NISurf)",coss:water,vlcs:sommatie_stoffen,gemet:15179,1748,vlcs:sommatie_stoffen,,
+skos:Concept,css:surf_kid_nid,Surf KID+NID,"Surfactanten, Kationische + Niet-ionogen",coss:water,vlcs:sommatie_stoffen,gemet:15179,1767,vlcs:sommatie_stoffen,,
+skos:Concept,css:surf_t,Surf t,"Surfactanten, totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,492,vlcs:sommatie_stoffen,,
+skos:Concept,css:ta_mo,Ta mo,"Tantaal, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2044,vlcs:sommatie_stoffen,,
+skos:Concept,css:ta_mt,Ta mt,"Tantaal, multi totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,1971,vlcs:sommatie_stoffen,,
+skos:Concept,css:tam,TAM,Alkaliniteit met methyloranje,coss:water,vlcs:sommatie_stoffen,gemet:15179,25,vlcs:sommatie_stoffen,,
+skos:Concept,css:tap,TAP,Alkaliniteit met fenolftaleine,coss:water,vlcs:sommatie_stoffen,gemet:15179,24,vlcs:sommatie_stoffen,,
+skos:Concept,css:tas,TAS,Tensio actieve stoffen,coss:water,vlcs:sommatie_stoffen,gemet:15179,719,vlcs:sommatie_stoffen,,
+skos:Concept,css:tb_mo,Tb mo,"Terbium, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2045,vlcs:sommatie_stoffen,,
+skos:Concept,css:tb_mt,Tb mt,"Terbium, multi totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,1972,vlcs:sommatie_stoffen,,
+skos:Concept,css:tcee__dcee_tcea,"TCEe, DCEe,TCEa","trichlooretheen, dichlooretheen en trichloorethaan",coss:water,vlcs:sommatie_stoffen,gemet:15179,1758,vlcs:sommatie_stoffen,,
+skos:Concept,css:tcee__ttcee__dcma,"(TCEe, TtCEe, DCMa)","Som tri- en tetrachlooretheen, dichloormethaan ",coss:water,vlcs:sommatie_stoffen,gemet:15179,1737,vlcs:sommatie_stoffen,,
+skos:Concept,css:tct,TCT,Toxichromotest - EC50,coss:water,vlcs:sommatie_stoffen,gemet:15179,58,vlcs:sommatie_stoffen,,
+skos:Concept,css:te_mo,Te mo,"Telluur, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2046,vlcs:sommatie_stoffen,,
+skos:Concept,css:tetracea,TetraCEa,TetraChloorethaan,coss:water,vlcs:sommatie_stoffen,gemet:15179,1740,vlcs:sommatie_stoffen,,
+skos:Concept,css:tfysn_som,TFySn som,"Trifenyltinacetaat, chloride, hydroxide",coss:water,vlcs:sommatie_stoffen,gemet:15179,1229,vlcs:sommatie_stoffen,,
+skos:Concept,css:th_mo,Th mo,"Thorium, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2047,vlcs:sommatie_stoffen,,
+skos:Concept,css:th_mt,Th mt,"Thorium, multi totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,1974,vlcs:sommatie_stoffen,,
+skos:Concept,css:thm_t,THM t,Trihalomethanen totaal,coss:water,vlcs:sommatie_stoffen,gemet:15179,390,vlcs:sommatie_stoffen,,
+skos:Concept,css:thm_t_excl_3clethyl,THM t excl 3ClEthyl,Trihalometanen totaal excl trichloorethyleen,coss:water,vlcs:sommatie_stoffen,gemet:15179,1691,vlcs:sommatie_stoffen,,
+skos:Concept,css:ti_mo,Ti mo,"Titaan, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2048,vlcs:sommatie_stoffen,,
+skos:Concept,css:ti_t_,Ti t+,"Titaan, totaal incl. oxiden",coss:water,vlcs:sommatie_stoffen,gemet:15179,1488,vlcs:sommatie_stoffen,,
+skos:Concept,css:tiverb_ot_-ti,Tiverb ot -Ti,"Ti ovv. organotitaanverbindingen, totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,1679,vlcs:sommatie_stoffen,,
+skos:Concept,css:tl_mo,Tl mo,"Thallium, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2050,vlcs:sommatie_stoffen,,
+skos:Concept,css:tm_mo,Tm mo,"Thullium, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2051,vlcs:sommatie_stoffen,,
+skos:Concept,css:tm_mt,Tm mt,"Thullium, multi totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,1977,vlcs:sommatie_stoffen,,
+skos:Concept,css:tmybz,TMyBz,trimethylbenzeen,coss:water,vlcs:sommatie_stoffen,gemet:15179,1749,vlcs:sommatie_stoffen,,
+skos:Concept,css:toc,TOC,"Organische koolstof, totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,303,vlcs:sommatie_stoffen,,
+skos:Concept,css:tocl,TOCl,"som (matig-)vluchtige halog.verb., PCB en OCl-pest",coss:water,vlcs:sommatie_stoffen,gemet:15179,1677,vlcs:sommatie_stoffen,,
+skos:Concept,css:tox___pver_o,TOX + Pver o,Som van totale Organofosfor en organohalogeenverbinding,coss:water,vlcs:sommatie_stoffen,gemet:15179,1701,vlcs:sommatie_stoffen,,
+skos:Concept,css:triazine,Triazine,"Triazines, totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,283,vlcs:sommatie_stoffen,,
+skos:Concept,css:tricfolsom,triCFolsom,Trichloorfenolen,coss:water,vlcs:sommatie_stoffen,gemet:15179,1228,vlcs:sommatie_stoffen,,
+skos:Concept,css:ttcdbd_t,TtCdBD t,"Tetrachloordibenzodioxine, totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,1337,vlcs:sommatie_stoffen,,
+skos:Concept,css:ttcdbfur_t,TtCdBFur t,"Tetrachloordibenzofuran, totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,1341,vlcs:sommatie_stoffen,,
+skos:Concept,css:tvplds,TvPlDs,"Textielvezels, plastiek & drijv. stoffen",coss:water,vlcs:sommatie_stoffen,gemet:15179,518,vlcs:sommatie_stoffen,,
+skos:Concept,css:u_mo,U mo,"Uranium, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2052,vlcs:sommatie_stoffen,,
+skos:Concept,css:uranimine,Uranimine,Uranimine,coss:water,vlcs:sommatie_stoffen,gemet:15179,862,vlcs:sommatie_stoffen,,
+skos:Concept,css:v_mo,V mo,"Vanadium, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2053,vlcs:sommatie_stoffen,,
+skos:Concept,css:vocl_i,VOCL i,Vluchtige OrganoChloor individueel,coss:water,vlcs:sommatie_stoffen,gemet:15179,1747,vlcs:sommatie_stoffen,,
+skos:Concept,css:vocl_t,VOCL t,Vluchtige OrganoChloorverbindingen Totaal,coss:water,vlcs:sommatie_stoffen,gemet:15179,1736,vlcs:sommatie_stoffen,,
+skos:Concept,css:vos,VOS,Vluchtige organische stoffen,coss:water,vlcs:sommatie_stoffen,gemet:15179,1380,vlcs:sommatie_stoffen,,
+skos:Concept,css:vox,VOX,Vluchtige organische halogeenverbindingen,coss:water,vlcs:sommatie_stoffen,gemet:15179,892,vlcs:sommatie_stoffen,,
+skos:Concept,css:vox_i,VOX i,Vluchtige Organische halogenen individueel,coss:water,vlcs:sommatie_stoffen,gemet:15179,1750,vlcs:sommatie_stoffen,,
+skos:Concept,css:w_mo,W mo,"Wolfraam, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2054,vlcs:sommatie_stoffen,,
+skos:Concept,css:white-spirit,white-spirit,white-spirit,coss:water,vlcs:sommatie_stoffen,gemet:15179,1757,vlcs:sommatie_stoffen,,
+skos:Concept,css:xnmvos_t,XNMVOS t,"Gehalogeneerde NMVOS, totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,1170,vlcs:sommatie_stoffen,,
+skos:Concept,css:xyl__eybz,"(Xyl, EyBz)",Som van Xylenen en Ethylbenzeen,coss:water,vlcs:sommatie_stoffen,gemet:15179,1738,vlcs:sommatie_stoffen,,
+skos:Concept,css:xyl__styr,"(Xyl, Styr)","Som van o,p,m-xyleen + styreen",coss:water,vlcs:sommatie_stoffen,gemet:15179,1718,vlcs:sommatie_stoffen,,
+skos:Concept,css:y_mo,Y mo,"Yttrium, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2055,vlcs:sommatie_stoffen,,
+skos:Concept,css:y_mt,Y mt,"Yttrium, multi totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,1981,vlcs:sommatie_stoffen,,
+skos:Concept,css:yb_mo,Yb mo,"Ytterbium, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2056,vlcs:sommatie_stoffen,,
+skos:Concept,css:yb_mt,Yb mt,"Ytterbium, multi totaal",coss:water,vlcs:sommatie_stoffen,gemet:15179,1982,vlcs:sommatie_stoffen,,
+skos:Concept,css:zn_mo,Zn mo,"Zink, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2057,vlcs:sommatie_stoffen,,
+skos:Concept,css:zr_mo,Zr mo,"Zirkonium, multi opgelost",coss:water,vlcs:sommatie_stoffen,gemet:15179,2058,vlcs:sommatie_stoffen,,
+skos:Concept,css:zs,ZS,Zwevende stoffen,coss:water,vlcs:sommatie_stoffen,gemet:15179,113,vlcs:sommatie_stoffen,,
+skos:Concept,css:zs_as,ZS as,"Zwevende stof, as",coss:water,vlcs:sommatie_stoffen,gemet:15179,72,vlcs:sommatie_stoffen,,
+skos:ConceptScheme,vlcs:sommatie_stoffen,,Codelijst groeperingen en sommaties van chemische stoffen,,,,,,,
