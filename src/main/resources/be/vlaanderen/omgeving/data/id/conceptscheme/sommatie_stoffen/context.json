@@ -58,7 +58,13 @@
       "@id" : "https://data.vlaanderen.be/ns/chemische_stof#vmmParameterId",
       "@type" : "http://www.w3.org/2001/XMLSchema#int"
     },
+    "casNumber" : {
+      "@id" : "http://dbpedia.org/ontology/casNumber",
+      "@type" : "http://www.w3.org/2001/XMLSchema#string"
+    },
     "xsd" : "http://www.w3.org/2001/XMLSchema#",
+    "dbo" : "http://dbpedia.org/ontology/",
+    "compound" : "https://pubchem.ncbi.nlm.nih.gov/compound/",
     "skos" : "http://www.w3.org/2004/02/skos/core#",
     "rdfs" : "http://www.w3.org/2000/01/rdf-schema#",
     "vlcs" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/",
