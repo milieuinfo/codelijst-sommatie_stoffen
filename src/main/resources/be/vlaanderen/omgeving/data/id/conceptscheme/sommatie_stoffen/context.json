@@ -26,6 +26,10 @@
       "@id" : "http://www.w3.org/2004/02/skos/core#prefLabel",
       "@language" : "nl"
     },
+    "prefLabel_en" : {
+      "@id" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "@language" : "en"
+    },
     "notation" : {
       "@id" : "http://www.w3.org/2004/02/skos/core#notation",
       "@type" : "http://www.w3.org/2001/XMLSchema#string"

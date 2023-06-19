@@ -334,13 +334,16 @@
                     "@id": "css:pr_mo"
                 },
                 {
-                    "@id": "css:apeo_c7"
-                },
-                {
                     "@id": "css:nd_mo"
                 },
                 {
+                    "@id": "css:apeo_c7"
+                },
+                {
                     "@id": "css:c16eo"
+                },
+                {
+                    "@id": "css:fol_t"
                 },
                 {
                     "@id": "css:sn_t_"
@@ -4334,6 +4337,84 @@
             "@type": "skos:Concept"
         },
         {
+            "@id": "css:fol_t",
+            "skos:narrowMatch": [
+                {
+                    "@id": "csc:CHEMONTID_0000139"
+                },
+                {
+                    "@id": "csc:CHEMONTID_0004628"
+                },
+                {
+                    "@id": "csc:CHEMONTID_0004647"
+                },
+                {
+                    "@id": "csc:CHEMONTID_0000190"
+                },
+                {
+                    "@id": "csc:CHEMONTID_0001286"
+                },
+                {
+                    "@id": "csc:CHEMONTID_0004646"
+                },
+                {
+                    "@id": "csc:CHEMONTID_0000141"
+                },
+                {
+                    "@id": "csc:CHEMONTID_0002320"
+                },
+                {
+                    "@id": "csc:CHEMONTID_0001272"
+                }
+            ],
+            "skos:exactMatch": [
+                {
+                    "@id": "csc:CHEMONTID_0000134"
+                },
+                {
+                    "@id": "wise:CAS_64743-03-9"
+                }
+            ],
+            "@type": "skos:Concept",
+            "skos:prefLabel": [
+                {
+                    "@language": "nl",
+                    "@value": "Fenolen totaal"
+                },
+                {
+                    "@language": "en",
+                    "@value": "Phenols"
+                }
+            ],
+            "dcat:theme": [
+                {
+                    "@id": "gemet:2912"
+                },
+                {
+                    "@id": "gemet:9214"
+                }
+            ],
+            "skos:topConceptOf": {
+                "@id": "vlcs:sommatie_stoffen"
+            },
+            "skos:altLabel": {
+                "@language": "nl",
+                "@value": "fenolen"
+            },
+            "skos:inScheme": {
+                "@id": "vlcs:sommatie_stoffen"
+            },
+            "skos:broadMatch": {
+                "@id": "csc:CHEMONTID_0002448"
+            },
+            "cs:vmmParameterId": {
+                "@value": "949",
+                "@type": "xsd:int"
+            },
+            "dbo:casNumber": "64743-03-9",
+            "skos:notation": "Fol t"
+        },
+        {
             "@id": "css:v_mo",
             "cs:vmmParameterId": {
                 "@value": "2053",
@@ -5498,15 +5579,6 @@
             "@type": "skos:Concept"
         },
         {
-            "@id": "css:apolairekoolwaterstoffen,fractiec10-c12",
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Apolaire koolwaterstoffen, fractie C10-C12"
-            },
-            "skos:notation": "Apolairekoolwaterstoffen,fractieC10-C12",
-            "@type": "skos:Concept"
-        },
-        {
             "@id": "css:tam",
             "cs:vmmParameterId": {
                 "@value": "25",
@@ -5619,15 +5691,6 @@
             "@type": "skos:Concept"
         },
         {
-            "@id": "css:apolairekoolwaterstoffen,fractiec30-c40",
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Apolaire koolwaterstoffen, fractie C30-C40"
-            },
-            "skos:notation": "Apolairekoolwaterstoffen,fractieC30-C40",
-            "@type": "skos:Concept"
-        },
-        {
             "@id": "css:hpo3²-",
             "cs:vmmParameterId": {
                 "@value": "1742",
@@ -5667,6 +5730,16 @@
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
+            "skos:prefLabel": [
+                {
+                    "@language": "en",
+                    "@value": "Chloroalkanes C10-13"
+                },
+                {
+                    "@language": "nl",
+                    "@value": "Gechloreerde alkanen C10-13"
+                }
+            ],
             "@type": "skos:Concept",
             "dcat:theme": [
                 {
@@ -5676,14 +5749,6 @@
                     "@id": "gemet:2912"
                 }
             ],
-            "skos:altLabel": {
-                "@language": "nl",
-                "@value": "Chloroalkanes C10-13"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Gechloreerde alkanen C10-13"
-            },
             "skos:exactMatch": {
                 "@id": "wise:CAS_85535-84-8"
             },
@@ -5691,15 +5756,6 @@
                 "@id": "csc:CHEMONTID_0001026"
             },
             "dbo:casNumber": "85535-84-8"
-        },
-        {
-            "@id": "css:apolairekoolwaterstoffen,fractiec12-c20",
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Apolaire koolwaterstoffen, fractie C12-C20"
-            },
-            "skos:notation": "Apolairekoolwaterstoffen,fractieC12-C20",
-            "@type": "skos:Concept"
         },
         {
             "@id": "css:opp_t",
@@ -7576,6 +7632,9 @@
                 },
                 {
                     "@id": "css:thm_t_excl_3clethyl"
+                },
+                {
+                    "@id": "css:fol_t"
                 },
                 {
                     "@id": "css:24_25myfol"
@@ -18406,15 +18465,6 @@
             "@type": "skos:Concept"
         },
         {
-            "@id": "css:perfluorverbindingen,totaal",
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Perfluorverbindingen, totaal"
-            },
-            "skos:notation": "Perfluorverbindingen,totaal",
-            "@type": "skos:Concept"
-        },
-        {
             "@id": "css:onbekendestikstofverbinding",
             "dcat:theme": [
                 {
@@ -18691,15 +18741,6 @@
             "@type": "skos:Concept"
         },
         {
-            "@id": "css:apolairekoolwaterstoffen,fractiec20-c30",
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Apolaire koolwaterstoffen, fractie C20-C30"
-            },
-            "skos:notation": "Apolairekoolwaterstoffen,fractieC20-C30",
-            "@type": "skos:Concept"
-        },
-        {
             "@id": "css:alifatengroterdanec10totec12",
             "dcat:theme": [
                 {
@@ -18876,6 +18917,24 @@
                 "@value": "Aromaten groter dan EC12 tot EC13"
             },
             "skos:notation": "AromatengroterdanEC12totEC13",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "css:apolairekoolwaterstoffen_fractiec30-c40",
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Apolaire koolwaterstoffen, fractie C30-C40"
+            },
+            "skos:notation": "Apolairekoolwaterstoffen,fractieC30-C40",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "css:apolairekoolwaterstoffen_fractiec12-c20",
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Apolaire koolwaterstoffen, fractie C12-C20"
+            },
+            "skos:notation": "Apolairekoolwaterstoffen,fractieC12-C20",
             "@type": "skos:Concept"
         },
         {
@@ -19541,6 +19600,15 @@
             "@type": "skos:Concept"
         },
         {
+            "@id": "css:apolairekoolwaterstoffen_fractiec10-c12",
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Apolaire koolwaterstoffen, fractie C10-C12"
+            },
+            "skos:notation": "Apolairekoolwaterstoffen,fractieC10-C12",
+            "@type": "skos:Concept"
+        },
+        {
             "@id": "css:aromatenc9som",
             "dcat:theme": [
                 {
@@ -19584,6 +19652,15 @@
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "css:apolairekoolwaterstoffen_fractiec20-c30",
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Apolaire koolwaterstoffen, fractie C20-C30"
+            },
+            "skos:notation": "Apolairekoolwaterstoffen,fractieC20-C30",
             "@type": "skos:Concept"
         },
         {
@@ -19671,6 +19748,15 @@
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "css:perfluorverbindingen_totaal",
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Perfluorverbindingen, totaal"
+            },
+            "skos:notation": "Perfluorverbindingen,totaal",
             "@type": "skos:Concept"
         },
         {
