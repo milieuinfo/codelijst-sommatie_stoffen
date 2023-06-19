@@ -1684,6 +1684,9 @@
                     "@id": "css:opgelostebestanddelentds"
                 },
                 {
+                    "@id": "css:ocp_t_imjv"
+                },
+                {
                     "@id": "css:ta_mt"
                 },
                 {
@@ -6277,6 +6280,29 @@
             "@type": "skos:Concept"
         },
         {
+            "@id": "css:onbekendecycloalkaan",
+            "dcat:theme": [
+                {
+                    "@id": "gemet:9214"
+                },
+                {
+                    "@id": "gemet:2912"
+                }
+            ],
+            "skos:topConceptOf": {
+                "@id": "vlcs:sommatie_stoffen"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Onbekende cycloalkaan"
+            },
+            "skos:notation": "Onbekendecycloalkaan",
+            "skos:inScheme": {
+                "@id": "vlcs:sommatie_stoffen"
+            },
+            "@type": "skos:Concept"
+        },
+        {
             "@id": "css:cresol",
             "cs:vmmParameterId": {
                 "@value": "485",
@@ -6385,7 +6411,7 @@
             "@type": "skos:Concept"
         },
         {
-            "@id": "css:onbekendecycloalkaan",
+            "@id": "css:mineraleoliec10-c12",
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -6399,9 +6425,9 @@
             },
             "skos:prefLabel": {
                 "@language": "nl",
-                "@value": "Onbekende cycloalkaan"
+                "@value": "Minerale olie C10 - C12"
             },
-            "skos:notation": "Onbekendecycloalkaan",
+            "skos:notation": "MineraleolieC10-C12",
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
@@ -6462,29 +6488,6 @@
             "@type": "skos:Concept"
         },
         {
-            "@id": "css:mineraleoliec10-c12",
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Minerale olie C10 - C12"
-            },
-            "skos:notation": "MineraleolieC10-C12",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
             "@id": "css:co_cr_ni_pb_zn",
             "cs:vmmParameterId": {
                 "@value": "1753",
@@ -6508,6 +6511,37 @@
             "skos:notation": "(Co,Cr,Ni,Pb,Zn)",
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
+            },
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "css:ocp_t_imjv",
+            "cs:vmmParameterId": {
+                "@value": "258",
+                "@type": "xsd:int"
+            },
+            "dcat:theme": [
+                {
+                    "@id": "gemet:9214"
+                },
+                {
+                    "@id": "gemet:2912"
+                }
+            ],
+            "skos:topConceptOf": {
+                "@id": "vlcs:sommatie_stoffen"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Organochloorpesticiden, totaal (IMJV)"
+            },
+            "skos:notation": "OCP t (IMJV)",
+            "skos:inScheme": {
+                "@id": "vlcs:sommatie_stoffen"
+            },
+            "skos:altLabel": {
+                "@language": "nl",
+                "@value": "Totaal organochloorpesticiden waarvan individuele drempelwaarde = 0,1 kg/jaar"
             },
             "@type": "skos:Concept"
         },
@@ -7288,6 +7322,9 @@
                 },
                 {
                     "@id": "css:zr_mo"
+                },
+                {
+                    "@id": "css:ocp_t_imjv"
                 },
                 {
                     "@id": "css:pyrethroïden"

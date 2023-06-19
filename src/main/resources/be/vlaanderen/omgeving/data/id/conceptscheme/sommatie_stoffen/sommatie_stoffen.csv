@@ -325,6 +325,7 @@ skos:Concept,css:nyfolsom,NyFolsom,Nonylfenolen,,coss:water,vlcs:sommatie_stoffe
 skos:Concept,css:oasf_t,OASF t,"Ozonafbrekende stoffen en F-gassen, totaal",,coss:water,vlcs:sommatie_stoffen,gemet:9214|gemet:2912,1179,vlcs:sommatie_stoffen,,,,,
 skos:Concept,css:oc,OC,Organische koolstof,,coss:water,vlcs:sommatie_stoffen,gemet:9214|gemet:2912,1269,vlcs:sommatie_stoffen,,,,,
 skos:Concept,css:ocp_i,OCP i,Organochloorpesticiden individueel,,coss:water,vlcs:sommatie_stoffen,gemet:9214|gemet:2912,1765,vlcs:sommatie_stoffen,,,,,
+skos:Concept,css:ocp_t_imjv,OCP t (IMJV),"Organochloorpesticiden, totaal (IMJV)","Totaal organochloorpesticiden waarvan individuele drempelwaarde = 0,1 kg/jaar",coss:water,vlcs:sommatie_stoffen,gemet:9214|gemet:2912,258,vlcs:sommatie_stoffen,,,,,
 skos:Concept,css:ocp_t,OCP t,"Organochloorpesticiden, totaal",,coss:water,vlcs:sommatie_stoffen,gemet:9214|gemet:2912,258,vlcs:sommatie_stoffen,,,,,
 skos:Concept,css:ol_water,Ol.water,Oliehoudende wateren,,coss:water,vlcs:sommatie_stoffen,gemet:9214|gemet:2912,609,vlcs:sommatie_stoffen,,,,,
 skos:Concept,css:om,OM,Organisch materiaal,,coss:water,vlcs:sommatie_stoffen,gemet:9214|gemet:2912,301,vlcs:sommatie_stoffen,,,,,
