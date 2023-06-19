@@ -1,5 +1,6 @@
 type,uri,notation,prefLabel,altLabel,collection,inScheme,theme,vmmParameterId,topConceptOf,broader,exactMatch,narrowMatch,seeAlso,casNumber
 skos:Collection,coss:water,,Collectie van verzameling stoffen die in water worden gemeten,,,,,,,,,,,
+skos:Concept,css:alk_c,Alk c,Gechloreerde alkanen C10-13,Chloroalkanes C10-13,coss:water,vlcs:sommatie_stoffen,gemet:9214|gemet:2912,949,vlcs:sommatie_stoffen,,wise:CAS_85535-84-8,,,85535-84-8
 skos:Concept,css:ompxyl,ompXyl,xyleen,dimethylbenzeen|methyltolueen|xylenen (o+m+p)|xylenen,coss:water,vlcs:sommatie_stoffen,gemet:9214|gemet:2912,526,vlcs:sommatie_stoffen,,wise:CAS_1330-20-7,csc:CTQNGGLPUBDAKN-UHFFFAOYSA-N|csc:IVSZLXZYQVIEFR-UHFFFAOYSA-N|csc:URLKBWYHVLBVBO-UHFFFAOYSA-N,compound:Xylene,1330-20-7
 skos:Concept,css:fosfor_totaal,fosfor totaal,Fosfor totaal,,coss:water,vlcs:sommatie_stoffen,gemet:9214|gemet:2912,1780,vlcs:sommatie_stoffen,,wise:CAS_7723-14-0,,,7723-14-0
 skos:Concept,css:111cea_112cea,"(111CEa,112CEa)","Som 1,1,1-Trichloorethaan en 1,1,2-Trichloorethaan",,coss:water,vlcs:sommatie_stoffen,gemet:9214|gemet:2912,1735,vlcs:sommatie_stoffen,,,csc:UBOXGVDOUJQMTN-UHFFFAOYSA-N|csc:UOCLXMDMGBRAIB-UHFFFAOYSA-N,,

@@ -205,6 +205,9 @@
                     "@id": "css:pt_mo"
                 },
                 {
+                    "@id": "css:alk_c"
+                },
+                {
                     "@id": "css:nh4_zt"
                 },
                 {
@@ -949,10 +952,10 @@
                     "@id": "css:ga_mo"
                 },
                 {
-                    "@id": "css:alifatengroterdanec16totec21"
+                    "@id": "css:pfoa_som"
                 },
                 {
-                    "@id": "css:pfoa_som"
+                    "@id": "css:alifatengroterdanec16totec21"
                 },
                 {
                     "@id": "css:c14admba"
@@ -5652,6 +5655,41 @@
             "@type": "skos:Concept"
         },
         {
+            "@id": "css:alk_c",
+            "cs:vmmParameterId": {
+                "@value": "949",
+                "@type": "xsd:int"
+            },
+            "skos:notation": "Alk c",
+            "skos:topConceptOf": {
+                "@id": "vlcs:sommatie_stoffen"
+            },
+            "skos:inScheme": {
+                "@id": "vlcs:sommatie_stoffen"
+            },
+            "@type": "skos:Concept",
+            "dcat:theme": [
+                {
+                    "@id": "gemet:9214"
+                },
+                {
+                    "@id": "gemet:2912"
+                }
+            ],
+            "skos:altLabel": {
+                "@language": "nl",
+                "@value": "Chloroalkanes C10-13"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Gechloreerde alkanen C10-13"
+            },
+            "skos:exactMatch": {
+                "@id": "wise:CAS_85535-84-8"
+            },
+            "dbo:casNumber": "85535-84-8"
+        },
+        {
             "@id": "css:apolairekoolwaterstoffen,fractiec12-c20",
             "skos:prefLabel": {
                 "@language": "nl",
@@ -7424,6 +7462,9 @@
                 },
                 {
                     "@id": "css:aeo_c12_vertakt"
+                },
+                {
+                    "@id": "css:alk_c"
                 },
                 {
                     "@id": "css:dmyfol_eyfol_2ipyfol"
