@@ -5687,6 +5687,9 @@
             "skos:exactMatch": {
                 "@id": "wise:CAS_85535-84-8"
             },
+            "skos:broadMatch": {
+                "@id": "csc:CHEMONTID_0001026"
+            },
             "dbo:casNumber": "85535-84-8"
         },
         {

@@ -1199,6 +1199,7 @@ css:hpc_epx  a             skos:Concept ;
 css:alk_c  a               skos:Concept ;
         dbo:casNumber      "85535-84-8" ;
         skos:altLabel      "Chloroalkanes C10-13"@nl ;
+        skos:broadMatch    csc:CHEMONTID_0001026 ;
         skos:exactMatch    wise:CAS_85535-84-8 ;
         skos:inScheme      vlcs:sommatie_stoffen ;
         skos:notation      "Alk c" ;
