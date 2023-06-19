@@ -106,6 +106,9 @@
                     "@id": "css:mak_t"
                 },
                 {
+                    "@id": "css:clfvfs"
+                },
+                {
                     "@id": "css:anionischeoppervlakteactievestoffen"
                 },
                 {
@@ -7631,6 +7634,9 @@
                     "@id": "css:n_o"
                 },
                 {
+                    "@id": "css:clfvfs"
+                },
+                {
                     "@id": "css:thm_t_excl_3clethyl"
                 },
                 {
@@ -13272,6 +13278,49 @@
                 "@id": "vlcs:sommatie_stoffen"
             },
             "@type": "skos:Concept"
+        },
+        {
+            "@id": "css:clfvfs",
+            "skos:narrowMatch": [
+                {
+                    "@id": "csc:FSAVDKDHPDSCTO-XYOKQWHBSA-N"
+                },
+                {
+                    "@id": "csc:FSAVDKDHPDSCTO-WQLSENKSSA-N"
+                }
+            ],
+            "skos:notation": "Clfvfs",
+            "skos:inScheme": {
+                "@id": "vlcs:sommatie_stoffen"
+            },
+            "cs:vmmParameterId": {
+                "@value": "675",
+                "@type": "xsd:int"
+            },
+            "dcat:theme": [
+                {
+                    "@id": "gemet:9214"
+                },
+                {
+                    "@id": "gemet:2912"
+                }
+            ],
+            "rdfs:seeAlso": {
+                "@id": "compound:Chlorfenvinphos"
+            },
+            "skos:altLabel": {
+                "@language": "nl",
+                "@value": "Cfvinfos"
+            },
+            "skos:topConceptOf": {
+                "@id": "vlcs:sommatie_stoffen"
+            },
+            "@type": "skos:Concept",
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Chloorfenvinfos"
+            },
+            "dbo:casNumber": "470-90-6"
         },
         {
             "@id": "css:24_25myfol",
