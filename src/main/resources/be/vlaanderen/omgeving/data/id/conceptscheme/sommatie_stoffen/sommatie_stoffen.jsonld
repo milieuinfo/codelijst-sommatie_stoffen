@@ -1132,6 +1132,9 @@
                     "@id": "css:alifatengroterdanec12totec16"
                 },
                 {
+                    "@id": "css:pcb_t"
+                },
+                {
                     "@id": "css:stoffr_t"
                 },
                 {
@@ -4418,6 +4421,33 @@
             "skos:notation": "Fol t"
         },
         {
+            "@id": "css:mpxyl",
+            "cs:vmmParameterId": {
+                "@value": "214",
+                "@type": "xsd:int"
+            },
+            "dcat:theme": [
+                {
+                    "@id": "gemet:9214"
+                },
+                {
+                    "@id": "gemet:2912"
+                }
+            ],
+            "skos:topConceptOf": {
+                "@id": "vlcs:sommatie_stoffen"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Xylenen (m+p)"
+            },
+            "skos:notation": "mpXyl",
+            "skos:inScheme": {
+                "@id": "vlcs:sommatie_stoffen"
+            },
+            "@type": "skos:Concept"
+        },
+        {
             "@id": "css:v_mo",
             "cs:vmmParameterId": {
                 "@value": "2053",
@@ -4466,33 +4496,6 @@
                 "@value": "Kalium, multi opgelost"
             },
             "skos:notation": "K mo",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:mpxyl",
-            "cs:vmmParameterId": {
-                "@value": "214",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Xylenen (m+p)"
-            },
-            "skos:notation": "mpXyl",
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
@@ -4551,6 +4554,74 @@
                 "@id": "vlcs:sommatie_stoffen"
             },
             "@type": "skos:Concept"
+        },
+        {
+            "@id": "css:pcb_t",
+            "skos:notation": "PCB t",
+            "skos:inScheme": {
+                "@id": "vlcs:sommatie_stoffen"
+            },
+            "skos:narrowMatch": [
+                {
+                    "@id": "csc:MVWHGTYKUMDIHL-UHFFFAOYSA-N"
+                },
+                {
+                    "@id": "csc:HCWZEPKLWVAEOV-UHFFFAOYSA-N"
+                },
+                {
+                    "@id": "csc:RPUMZMSNLZHIGZ-UHFFFAOYSA-N"
+                },
+                {
+                    "@id": "csc:IUTPYMGCWINGEY-UHFFFAOYSA-N"
+                },
+                {
+                    "@id": "csc:LAHWLEDBADHJGA-UHFFFAOYSA-N"
+                },
+                {
+                    "@id": "csc:WBHQEUPUMONIKF-UHFFFAOYSA-N"
+                },
+                {
+                    "@id": "csc:BZTYNSQSZHARAZ-UHFFFAOYSA-N"
+                }
+            ],
+            "skos:exactMatch": {
+                "@id": "wise:EEA_33-38-5"
+            },
+            "dct:isReferencedBy": {
+                "@id": "co:CMA_3_I"
+            },
+            "skos:altLabel": {
+                "@language": "nl",
+                "@value": "(7 PCB: 28,52,101,118,138,153,180)"
+            },
+            "skos:broadMatch": [
+                {
+                    "@id": "csc:CHEMONTID_0003030"
+                },
+                {
+                    "@id": "wise:CAS_1336-36-3"
+                }
+            ],
+            "@type": "skos:Concept",
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "PCB totaal"
+            },
+            "cs:vmmParameterId": {
+                "@value": "445",
+                "@type": "xsd:int"
+            },
+            "skos:topConceptOf": {
+                "@id": "vlcs:sommatie_stoffen"
+            },
+            "dcat:theme": [
+                {
+                    "@id": "gemet:2912"
+                },
+                {
+                    "@id": "gemet:9214"
+                }
+            ]
         },
         {
             "@id": "css:re_mo",
@@ -8106,6 +8177,9 @@
                 },
                 {
                     "@id": "css:fosfor_totaal"
+                },
+                {
+                    "@id": "css:pcb_t"
                 },
                 {
                     "@id": "css:na-zouten"
@@ -20141,6 +20215,7 @@
         "xsd": "http://www.w3.org/2001/XMLSchema#",
         "skos": "http://www.w3.org/2004/02/skos/core#",
         "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "co": "https://data.omgeving.vlaanderen.be/id/concept/observatieprocedure/",
         "compound": "https://pubchem.ncbi.nlm.nih.gov/compound/",
         "cs": "https://data.vlaanderen.be/ns/chemische_stof#",
         "dbo": "http://dbpedia.org/ontology/",
