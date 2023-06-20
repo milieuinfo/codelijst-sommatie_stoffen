@@ -172,12 +172,6 @@
                     "@id": "css:fuh_t"
                 },
                 {
-                    "@id": "css:b_rer48_lc"
-                },
-                {
-                    "@id": "css:b_rer24_lc"
-                },
-                {
                     "@id": "css:metalen_excl__al_fe"
                 },
                 {
@@ -526,9 +520,6 @@
                     "@id": "css:fe_mo"
                 },
                 {
-                    "@id": "css:nisurfsom"
-                },
-                {
                     "@id": "css:aeo_c13_vertakt"
                 },
                 {
@@ -620,9 +611,6 @@
                 },
                 {
                     "@id": "css:trs-s_so2-s"
-                },
-                {
-                    "@id": "css:kisurfsom"
                 },
                 {
                     "@id": "css:aromatengroteredanec8totec10"
@@ -916,9 +904,6 @@
                     "@id": "css:7_metalen_totaal"
                 },
                 {
-                    "@id": "css:b_rer96_lc"
-                },
-                {
                     "@id": "css:ti_mo"
                 },
                 {
@@ -958,10 +943,10 @@
                     "@id": "css:ga_mo"
                 },
                 {
-                    "@id": "css:pfoa_som"
+                    "@id": "css:alifatengroterdanec16totec21"
                 },
                 {
-                    "@id": "css:alifatengroterdanec16totec21"
+                    "@id": "css:pfoa_som"
                 },
                 {
                     "@id": "css:c14admba"
@@ -4421,33 +4406,6 @@
             "skos:notation": "Fol t"
         },
         {
-            "@id": "css:mpxyl",
-            "cs:vmmParameterId": {
-                "@value": "214",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Xylenen (m+p)"
-            },
-            "skos:notation": "mpXyl",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
             "@id": "css:v_mo",
             "cs:vmmParameterId": {
                 "@value": "2053",
@@ -4496,6 +4454,33 @@
                 "@value": "Kalium, multi opgelost"
             },
             "skos:notation": "K mo",
+            "skos:inScheme": {
+                "@id": "vlcs:sommatie_stoffen"
+            },
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "css:mpxyl",
+            "cs:vmmParameterId": {
+                "@value": "214",
+                "@type": "xsd:int"
+            },
+            "dcat:theme": [
+                {
+                    "@id": "gemet:9214"
+                },
+                {
+                    "@id": "gemet:2912"
+                }
+            ],
+            "skos:topConceptOf": {
+                "@id": "vlcs:sommatie_stoffen"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Xylenen (m+p)"
+            },
+            "skos:notation": "mpXyl",
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
@@ -4645,33 +4630,6 @@
                 "@value": "Renium, multi opgelost"
             },
             "skos:notation": "Re mo",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:kisurfsom",
-            "cs:vmmParameterId": {
-                "@value": "1846",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Surfactanten, kationische (berekende som)"
-            },
-            "skos:notation": "KISurfSom",
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
@@ -7183,9 +7141,6 @@
                     "@id": "css:nyfolsom"
                 },
                 {
-                    "@id": "css:kisurfsom"
-                },
-                {
                     "@id": "css:tas"
                 },
                 {
@@ -7792,9 +7747,6 @@
                     "@id": "css:k_mo"
                 },
                 {
-                    "@id": "css:b_rer96_lc"
-                },
-                {
                     "@id": "css:zs_as"
                 },
                 {
@@ -7882,9 +7834,6 @@
                     "@id": "css:arom_c9"
                 },
                 {
-                    "@id": "css:b_rer24_lc"
-                },
-                {
                     "@id": "css:n_n_n"
                 },
                 {
@@ -7940,9 +7889,6 @@
                 },
                 {
                     "@id": "css:neg_xnmvos"
-                },
-                {
-                    "@id": "css:b_rer48_lc"
                 },
                 {
                     "@id": "css:pb_mo"
@@ -8402,9 +8348,6 @@
                 },
                 {
                     "@id": "css:halonen"
-                },
-                {
-                    "@id": "css:nisurfsom"
                 },
                 {
                     "@id": "css:oyfol_et"
@@ -13783,33 +13726,6 @@
             "@type": "skos:Concept"
         },
         {
-            "@id": "css:b_rer96_lc",
-            "cs:vmmParameterId": {
-                "@value": "55",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Brachydanio rerio - LC50 (96h)"
-            },
-            "skos:notation": "B.rer96 LC",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
             "@id": "css:zs_as",
             "cs:vmmParameterId": {
                 "@value": "72",
@@ -14346,33 +14262,6 @@
             "@type": "skos:Concept"
         },
         {
-            "@id": "css:b_rer24_lc",
-            "cs:vmmParameterId": {
-                "@value": "53",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Brachydanio rerio - LC50 (24h)"
-            },
-            "skos:notation": "B.rer24 LC",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
             "@id": "css:y_mt",
             "cs:vmmParameterId": {
                 "@value": "1981",
@@ -14718,33 +14607,6 @@
                 "@value": "Niet eerder genoemde gehalogeneerde NMVOS"
             },
             "skos:notation": "neg XNMVOS",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:b_rer48_lc",
-            "cs:vmmParameterId": {
-                "@value": "54",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Brachydanio rerio - LC50 (48h)"
-            },
-            "skos:notation": "B.rer48 LC",
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
@@ -17636,33 +17498,6 @@
                 "@value": "Halonen"
             },
             "skos:notation": "Halonen",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:nisurfsom",
-            "cs:vmmParameterId": {
-                "@value": "1845",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Surfactanten, niet-ionogene (berekende som)"
-            },
-            "skos:notation": "NISurfSom",
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
