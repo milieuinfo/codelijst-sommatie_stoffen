@@ -23,14 +23,6 @@ css:na-zouten  a           skos:Concept ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "1720"^^xsd:int .
 
-css:hg_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Hg mo" ;
-        skos:prefLabel     "Kwik, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2014"^^xsd:int .
-
 css:btbdpe  a              skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
         skos:notation      "BTBDPE" ;
@@ -64,22 +56,6 @@ css:2_3_4cfol  a           skos:Concept ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:9214 , gemet:2912 ;
         cs:vmmParameterId  "1779"^^xsd:int .
-
-css:th_mt  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Th mt" ;
-        skos:prefLabel     "Thorium, multi totaal"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "1974"^^xsd:int .
-
-css:pb_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Pb mo" ;
-        skos:prefLabel     "Lood, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2029"^^xsd:int .
 
 css:aromatenc10som  a      skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
@@ -175,14 +151,6 @@ css:nisurf  a              skos:Concept ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "300"^^xsd:int .
 
-css:cs_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Cs mo" ;
-        skos:prefLabel     "Cesium, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2004"^^xsd:int .
-
 css:as_co_ni_cd_se_cr.vi_sb_pb_cr.iii_cu_mn_v_sn
         a                  skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
@@ -190,14 +158,6 @@ css:as_co_ni_cd_se_cr.vi_sb_pb_cr.iii_cu_mn_v_sn
         skos:prefLabel     "som As+Co+Ni+Cd+Se+Cr(VI)+Sb+Pb+Cr(III)+Cu+Mn+V+Sn"@nl ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 .
-
-css:mg_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Mg mo" ;
-        skos:prefLabel     "Magnesium, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2020"^^xsd:int .
 
 css:bs  a                  skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
@@ -214,14 +174,6 @@ css:alk_c10-14  a          skos:Concept ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "1856"^^xsd:int .
-
-css:surf_ion  a            skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Surf ION" ;
-        skos:prefLabel     "Surfactanten,Ionisch (AISurf+KISurf excl NISurf)"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "1748"^^xsd:int .
 
 css:nyfol_et  a            skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
@@ -246,13 +198,13 @@ css:mineraleoliec22-c30
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 .
 
-css:se_mo  a               skos:Concept ;
+css:surf_ion  a            skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Se mo" ;
-        skos:prefLabel     "Seleen, multi opgelost"@nl ;
+        skos:notation      "Surf ION" ;
+        skos:prefLabel     "Surfactanten,Ionisch (AISurf+KISurf excl NISurf)"@nl ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2039"^^xsd:int .
+        cs:vmmParameterId  "1748"^^xsd:int .
 
 css:tfysn_som  a           skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
@@ -303,14 +255,6 @@ css:neg_nmvos  a           skos:Concept ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "1169"^^xsd:int .
 
-css:ca_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Ca mo" ;
-        skos:prefLabel     "Calcium, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "1997"^^xsd:int .
-
 css:alkanen_alkenen  a     skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
         skos:notation      "Alkanen+Alkenen" ;
@@ -351,14 +295,6 @@ css:fol_c  a               skos:Concept ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "582"^^xsd:int .
-
-css:sc_mt  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Sc mt" ;
-        skos:prefLabel     "Scandium, multi totaal"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "1965"^^xsd:int .
 
 css:aes  a                 skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
@@ -423,14 +359,6 @@ css:tmybz  a               skos:Concept ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "1749"^^xsd:int .
 
-css:organischkoolstof
-        a                  skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Organischkoolstof" ;
-        skos:prefLabel     "Organisch koolstof"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 .
-
 css:apeo_c8  a             skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
         skos:notation      "APEO C8" ;
@@ -448,13 +376,13 @@ css:1buteen__  a           skos:Concept ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "746"^^xsd:int .
 
-css:hf_mt  a               skos:Concept ;
+css:organischkoolstof
+        a                  skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Hf mt" ;
-        skos:prefLabel     "Hafnium, multi totaal"@nl ;
+        skos:notation      "Organischkoolstof" ;
+        skos:prefLabel     "Organisch koolstof"@nl ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "1939"^^xsd:int .
+        dcat:theme         gemet:2912 , gemet:9214 .
 
 css:nox  a                 skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
@@ -464,22 +392,6 @@ css:nox  a                 skos:Concept ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "1160"^^xsd:int .
 
-css:nd_mt  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Nd mt" ;
-        skos:prefLabel     "Neodymium, multi totaal"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "1952"^^xsd:int .
-
-css:th_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Th mo" ;
-        skos:prefLabel     "Thorium, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2047"^^xsd:int .
-
 css:som129_excl_ox  a      skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
         skos:notation      "Som129 excl OX" ;
@@ -487,14 +399,6 @@ css:som129_excl_ox  a      skos:Concept ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "1694"^^xsd:int .
-
-css:tb_mt  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Tb mt" ;
-        skos:prefLabel     "Terbium, multi totaal"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "1972"^^xsd:int .
 
 css:nso  a                 skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
@@ -567,14 +471,6 @@ css:c14admba  a            skos:Concept ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "1123"^^xsd:int .
-
-css:au_mt  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Au mt" ;
-        skos:prefLabel     "Goud, multi totaal"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "1920"^^xsd:int .
 
 css:buta_tria_ala_acet
         a                  skos:Concept ;
@@ -680,14 +576,6 @@ css:arom_vlucht_i  a       skos:Concept ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "1743"^^xsd:int .
 
-css:yb_mt  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Yb mt" ;
-        skos:prefLabel     "Ytterbium, multi totaal"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "1982"^^xsd:int .
-
 css:ipytol  a              skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
         skos:notation      "iPyTol" ;
@@ -695,22 +583,6 @@ css:ipytol  a              skos:Concept ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "917"^^xsd:int .
-
-css:ga_mt  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Ga mt" ;
-        skos:prefLabel     "Gallium, multi totaal"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "1936"^^xsd:int .
-
-css:sc_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Sc mo" ;
-        skos:prefLabel     "Scandium, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2038"^^xsd:int .
 
 css:acrylaatpolymeren
         a                  skos:Concept ;
@@ -767,14 +639,6 @@ css:nyfolet  a             skos:Concept ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "1053"^^xsd:int .
 
-css:ti_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Ti mo" ;
-        skos:prefLabel     "Titaan, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2048"^^xsd:int .
-
 css:apeo_c14  a            skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
         skos:notation      "APEO C14" ;
@@ -782,14 +646,6 @@ css:apeo_c14  a            skos:Concept ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "1831"^^xsd:int .
-
-css:zr_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Zr mo" ;
-        skos:prefLabel     "Zirkonium, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2058"^^xsd:int .
 
 css:fol_t  a               skos:Concept ;
         dbo:casNumber      "64743-03-9" ;
@@ -804,22 +660,6 @@ css:fol_t  a               skos:Concept ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "949"^^xsd:int .
 
-css:v_mo  a                skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "V mo" ;
-        skos:prefLabel     "Vanadium, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2053"^^xsd:int .
-
-css:k_mo  a                skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "K mo" ;
-        skos:prefLabel     "Kalium, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2017"^^xsd:int .
-
 css:thm_t_excl_3clethyl
         a                  skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
@@ -828,14 +668,6 @@ css:thm_t_excl_3clethyl
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "1691"^^xsd:int .
-
-css:re_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Re mo" ;
-        skos:prefLabel     "Renium, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2034"^^xsd:int .
 
 css:pcb_t  a                skos:Concept ;
         dct:isReferencedBy  co:CMA_3_I ;
@@ -858,22 +690,6 @@ css:mpxyl  a               skos:Concept ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "214"^^xsd:int .
 
-css:la_mt  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "La mt" ;
-        skos:prefLabel     "Lanthaan, multi totaal"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "1944"^^xsd:int .
-
-css:hf_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Hf mo" ;
-        skos:prefLabel     "Hafnium, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2013"^^xsd:int .
-
 css:mineraleoliec6-c12
         a                  skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
@@ -890,14 +706,6 @@ css:tbt  a                 skos:Concept ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 .
 
-css:nd_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Nd mo" ;
-        skos:prefLabel     "Neodymium, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2025"^^xsd:int .
-
 css:onbekendealifatischeverbinding
         a                  skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
@@ -905,14 +713,6 @@ css:onbekendealifatischeverbinding
         skos:prefLabel     "Onbekende alifatische verbinding"@nl ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 .
-
-css:tb_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Tb mo" ;
-        skos:prefLabel     "Terbium, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2045"^^xsd:int .
 
 css:mineraleoliec32-c36
         a                  skos:Concept ;
@@ -929,14 +729,6 @@ css:c16:1atma  a           skos:Concept ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "1141"^^xsd:int .
-
-css:au_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Au mo" ;
-        skos:prefLabel     "Goud, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "1988"^^xsd:int .
 
 css:pak_5  a               skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
@@ -1009,14 +801,6 @@ css:vl_sol  a              skos:Concept ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 .
 
-css:cr_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Cr mo" ;
-        skos:prefLabel     "Chroom, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2002"^^xsd:int .
-
 css:c18atma  a             skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
         skos:notation      "C18ATMA" ;
@@ -1024,14 +808,6 @@ css:c18atma  a             skos:Concept ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "1124"^^xsd:int .
-
-css:yb_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Yb mo" ;
-        skos:prefLabel     "Ytterbium, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2056"^^xsd:int .
 
 css:xyl__eybz  a           skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
@@ -1129,14 +905,6 @@ css:mineraleoliec34-c40
         skos:prefLabel     "Minerale olie C34 - C40"@nl ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 .
-
-css:ga_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Ga mo" ;
-        skos:prefLabel     "Gallium, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2010"^^xsd:int .
 
 css:mineraleoliec16-c20
         a                  skos:Concept ;
@@ -1249,37 +1017,6 @@ css:111cea_112cea  a       skos:Concept ;
         dcat:theme         gemet:9214 , gemet:2912 ;
         cs:vmmParameterId  "1735"^^xsd:int .
 
-css:pr_mt  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Pr mt" ;
-        skos:prefLabel     "Praesodymium, multi totaal"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "1958"^^xsd:int .
-
-css:p_mo  a                skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "P mo" ;
-        skos:prefLabel     "Fosfor, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2028"^^xsd:int .
-
-css:mineraleoliec17  a     skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "MineraleolieC17" ;
-        skos:prefLabel     "Minerale olie C17"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 .
-
-css:la_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "La mo" ;
-        skos:prefLabel     "Lanthaan, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2018"^^xsd:int .
-
 css:c14eo  a               skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
         skos:notation      "C14EO" ;
@@ -1287,6 +1024,13 @@ css:c14eo  a               skos:Concept ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "1108"^^xsd:int .
+
+css:mineraleoliec17  a     skos:Concept ;
+        skos:inScheme      vlcs:sommatie_stoffen ;
+        skos:notation      "MineraleolieC17" ;
+        skos:prefLabel     "Minerale olie C17"@nl ;
+        skos:topConceptOf  vlcs:sommatie_stoffen ;
+        dcat:theme         gemet:2912 , gemet:9214 .
 
 css:1235_1245cbz  a        skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
@@ -1296,14 +1040,6 @@ css:1235_1245cbz  a        skos:Concept ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:9214 , gemet:2912 ;
         cs:vmmParameterId  "1457"^^xsd:int .
-
-css:ni_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Ni mo" ;
-        skos:prefLabel     "Nikkel, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2026"^^xsd:int .
 
 css:apeo_c9  a             skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
@@ -1346,14 +1082,6 @@ css:tcee__ttcee__dcma
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "1737"^^xsd:int .
 
-css:ta_mt  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Ta mt" ;
-        skos:prefLabel     "Tantaal, multi totaal"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "1971"^^xsd:int .
-
 css:ompxyl  a              skos:Concept ;
         rdfs:seeAlso       compound:Xylene ;
         dbo:casNumber      "1330-20-7" ;
@@ -1392,14 +1120,6 @@ css:c18:2atma  a           skos:Concept ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "1143"^^xsd:int .
 
-css:pcb_ind  a             skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "PCB ind" ;
-        skos:prefLabel     "PCB individueel"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "1777"^^xsd:int .
-
 css:cresol  a              skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
         skos:notation      "Cresol" ;
@@ -1424,13 +1144,13 @@ css:c18pyr  a              skos:Concept ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "1133"^^xsd:int .
 
-css:eu_mt  a               skos:Concept ;
+css:pcb_ind  a             skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Eu mt" ;
-        skos:prefLabel     "Europium, multi totaal"@nl ;
+        skos:notation      "PCB ind" ;
+        skos:prefLabel     "PCB individueel"@nl ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "1934"^^xsd:int .
+        cs:vmmParameterId  "1777"^^xsd:int .
 
 css:onbekendecycloalkaan
         a                  skos:Concept ;
@@ -1489,14 +1209,6 @@ css:hfk  a                 skos:Concept ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "1175"^^xsd:int .
 
-css:mineraleoliec24-c28
-        a                  skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "MineraleolieC24-C28" ;
-        skos:prefLabel     "Minerale olie C24 - C28"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 .
-
 css:c9peo  a               skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
         skos:notation      "C9PEO" ;
@@ -1504,6 +1216,14 @@ css:c9peo  a               skos:Concept ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "1112"^^xsd:int .
+
+css:mineraleoliec24-c28
+        a                  skos:Concept ;
+        skos:inScheme      vlcs:sommatie_stoffen ;
+        skos:notation      "MineraleolieC24-C28" ;
+        skos:prefLabel     "Minerale olie C24 - C28"@nl ;
+        skos:topConceptOf  vlcs:sommatie_stoffen ;
+        dcat:theme         gemet:2912 , gemet:9214 .
 
 css:mineraleoliec30-c40
         a                  skos:Concept ;
@@ -1545,14 +1265,6 @@ css:c18isoquin  a          skos:Concept ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "1140"^^xsd:int .
 
-css:si_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Si mo" ;
-        skos:prefLabel     "Silicium, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2040"^^xsd:int .
-
 css:kws_nm  a              skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
         skos:notation      "KWS nm" ;
@@ -1578,7 +1290,7 @@ css:stoffr_o  a            skos:Concept ;
         cs:vmmParameterId  "1315"^^xsd:int .
 
 coss:water  a           skos:Collection ;
-        skos:member     css:tcee__ttcee__dcma , css:triazine , css:eu_mt , css:cl-verb , css:c14atma , css:cfk_ind , css:apeo_c13 , css:c14dadma , css:ge_mt , css:in_mo , css:cs_mt , css:apeo_c15 , css:kws_t_vlucht , css:snver_ot , css:arom_kws__mak___pak , css:c18eo , css:f_an_ , css:met_ex_zn_fe_mn_pb_a , css:neg_anmvos , css:sr_mo , css:c14quin , css:basurf , css:8_metalen_totaal , css:arom__gt_c13 , css:mno4_kf , css:tam , css:eox , css:ocp_i , css:apeo_c12 , css:pcdd_pcdf , css:nox , css:hg_mo , css:3_4eyfol , css:npoc , css:adeidrin , css:rb_mt , css:pox , css:dcbzdines , css:kws_ap_ , css:nyfolsom , css:tas , css:sox , css:cbzsom , css:apeo_c18 , css:kws_t , css:sox_so2 , css:th_mo , css:sp_opp_ , css:nmvos_t , css:be_mo , css:xnmvos_t , css:kws_c30-40 , css:aox , css:pft_t , css:ta_mo , css:pak_15 , css:cfk , css:trs-s_so2-s , css:ftal , css:bc , css:sc_mt , css:c18isoquin , css:hcfk , css:fuh_t , css:te_mo , css:ompxyl , css:mno4_k , css:os_mt , css:metalen_excl__al_fe , css:alk__gt_c13 , css:tb_mt , css:alif__ox , css:c14eo , css:white-spirit , css:23_35myfol_4eyfol , css:sn_mo , css:cl , css:v_mo , css:ti_mo , css:pcb_pct_t , css:dicnibzsom , css:aeo_c13 , css:alkanen_alkenen , css:c18:1admba , css:ga_mo , css:c16eo , css:aeo_c15 , css:nox_no2 , css:sb_as_pb_cr_co_cu_mn_ni_v , css:ho_mt , css:se_mo , css:aeo_c11_vertakt , css:arom_c10 , css:al_comp_ , css:tmybz , css:la_mt , css:extrah__st_ , css:si_mo , css:cd_cr_cu_ni_pb_zn , css:fe_al , css:lu_mt , css:fol_c , css:se_v_u_th_te , css:w_mo , css:apeo_c8 , css:n_n , css:apeo_c19 , css:det_met_gisting , css:oyfolsom , css:bi_mt , css:gd_mo , css:pr_mo , css:3_4myfol , css:hf_mt , css:calux , css:stoffr_o , css:pt_mo , css:gd_mt , css:ac_acrol , css:es_pe , css:tm_mt , css:mg_mo , css:rb_mo , css:tvplds , css:arseentrioxideenarseenpentoxide_as , css:cl_ot , css:tiverb_ot_-ti , css:tfysn_som , css:bap___bbflu_som , css:dcee , css:ga_mt , css:kjn , css:mno4_w , css:pcb_ind , css:mak_i , css:surf_kid_nid , css:ru_mt , css:kisurf , css:cd_mo , css:1_2-dichloorethaan_vinylchloride , css:met_excl_zn_fe_mn_al , css:surf_t , css:zr_mo , css:pyrethroïden , css:ocp_t_imjv , css:sb_as_pb_cr_co_cu_mn_ni_v_sn , css:dioxines , css:sc_mo , css:cans , css:cfols , css:pak_6 , css:pak_14 , css:siver_o , css:tcee__dcee_tcea , css:yb_mo , css:dy_mo , css:bjflu_bep , css:pd_mo , css:sb_pb_cr_cu_mn_v_sn , css:p_mo , css:bflu_som , css:u_mo , css:mg_mt , css:sn_t_ , css:ti_t_ , css:thm_t , css:persist__min__olie , css:kws_c12-20 , <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/s=___merc_> , css:nb_mo , css:dmyfol_som , css:sb_mo , css:aeo_c12 , css:la_mo , css:nisurf , css:24_25-cfol , css:aeo_c12_vertakt , css:alk_c , css:dmyfol_eyfol_2ipyfol , css:ddt_2_som , css:cd_tl , <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/las/abs> , css:aeo_c14 , css:na_mo , css:solvent , css:ctine , css:ddt_t , css:hch , css:cnyl_t , css:vos , css:dioxineachtigepcb , css:tricfolsom , css:trs , css:dcpa , css:dy_mt , css:vocl_t , css:ttcdbfur_t , css:apeo_c7 , css:nyfolet , css:3_4cfol , css:f-verb , css:hfk , css:hcdbfur_t , css:min_oliec6-c10 , css:furanen , css:butanol , css:c14admba , css:apeo_c9 , css:hcdbd_t , css:persistente_kws , css:bde_t_6 , css:apeo_c11 , css:n_o , css:clfvfs , css:thm_t_excl_3clethyl , css:fol_t , css:24_25myfol , css:toc , css:cu_ni_zn_cr , css:nb_mt , css:mno4_wf , css:gechl__arom , css:tap , css:surf_ion , css:pcb_28_31 , css:arom_vlucht_i , css:m_ol_kws , css:nvooc , css:opvv_t , css:arom_c9-c10 , css:pr_mt , css:pver_o , css:oplosmiddelen , css:apeo_c17 , css:chol , css:ccl4 , css:c12admba , css:neg_nmvos , css:pfc_exl_pfos__pfoa , css:c18:2atma , css:nh4_zt , css:k_mo , css:zs_as , css:det_zonder_gisting , css:nd_mo , css:tb_mo , css:som129_excl_ox , css:ftal_excl_dehp , css:c18:1dadma , css:dinyft_didyft , css:c10eo , css:pak_5 , css:ash3_sbh3 , css:cr_cu_ni_pb_zn , css:tocl , css:th_mt , css:hpcepx , css:2345_2346cfol , css:kalk_os , css:c12eo , css:ce_mo , css:opgl__vt , css:ddd_e_t , css:bde , css:min_oliec10-c40 , css:h3o_ , css:es_ccl4 , css:cr_mo , css:gechlor__oplosm_ , css:selenas , css:arom_c9 , css:n_n_n , css:y_mt , css:aes , css:1235_1245cbz , css:kws_c10-12 , css:mercapt , css:nvtoc , css:aeo_c13_vertakt , css:cl_en_so4 , css:c18pyr , css:bpe___ip_som , css:pesticiden_t , css:dcan_t , css:biociden , css:pct_t , css:ol_water , css:tct , css:profam_benzadol , css:neg_xnmvos , css:pb_mo , css:c14pyr , css:kws_nm , css:arom_vlucht , css:neg_oasf , css:pfoa_som , css:cl__gebonden , css:co_mo , css:nd_mt , css:dinyftofdidyft , css:s_t-h2s_rsh , css:aeo_c10_vertakt , css:cfk_tot , css:os , css:1buteen__ , css:btbdpe , css:yb_mt , css:apeo_c10 , css:c18:2admba , css:co_cr_ni_pb_zn , css:br-_i- , css:tm_mo , css:aisurf , css:c18:1atma , css:as_co_ni_cd_se_cr.vi , css:as , css:oyfolet , css:kws_c20-30 , css:cs_mo , css:pcdbd_t , css:aeo_c17 , css:stof_t , css:xyl__eybz , css:c16quin , css:naftenaten , css:cu__pb__ni__zn , css:eyfol_som , css:c16:1admba , css:tox___pver_o , css:apeo_c14 , css:7_metalen_totaal , css:c15eo , css:sn_anorg_t , css:sm_mo , css:latex , css:hpcdbd_t , css:c18atma , css:mn_mo , css:nh3_no2- , css:apeo_c16 , css:vox , css:7_metalen_opg_ , css:11cea__12cea , css:aromaten , css:dioxinenenfuranen , css:ctols , css:d15n , css:doc , css:uranimine , css:sccp , css:tl_mo , css:pcb_t_pct_t , css:dcdfytcea , css:ta_mt , css:alk_c10-12 , css:tetracea , css:pak_tot , css:dbysn_som , css:aeo_c11 , css:som1_1_1-trichloorethaan_per-_tri-entetrachloorethyleen , css:eas_ttcee , css:kjn__f , css:alk_c10-14 , css:c14isoquin , css:btex , css:p_esters , css:anmvos_t , css:fosfor_totaal , css:pcb_t , css:na-zouten , css:can_i , css:sm_mt , css:au_mt , css:c16:1atma , css:cresol , css:os_mo , css:cu_mo , css:ni_mo , css:1c2_3_4nibzs , css:c18dadma , css:alcoholen , css:pbs , css:metalenenmetalloidenmetuitzonderingvankwik , css:c10peo , css:pak_16 , css:fol_c__i , css:apeo_c6 , css:mo_mo , css:c18:2dadma , css:sof , css:vox_i , css:bs , css:c11eo , css:ca_mo , <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/hpo3²-> , css:pak_i , css:nyfol_et , css:ipytol , css:111cea_112cea , css:dcbz , css:ddt__dde_en_isom , css:ocp_t , css:cnitol , css:9_metalen_totaal , css:cu_ni_cd_cr_pb , css:dn_t , css:c16admba , css:om , css:stoffr_t , css:aeo_c16 , css:c18quin , css:oasf_t , css:n-fenol , css:zn_mo , css:es_ttcee , css:ttcdbd_t , css:aeo_c18 , css:hf_mo , css:n_t , css:12cbz_13cbz , css:stoffr_no , css:nso , css:buta_tria_ala_acet , css:cresol_c , css:mbas , css:s_t-sox , css:4eyfol___35myfol , css:pak_2 , css:au_mo , css:pak_10 , css:co_cr_cu_ni_pb_zn , css:kws_ar , css:2_3_4cfol , css:ru_mo , css:asbest , css:pak_4 , css:oc , css:pcdbfur_t , css:cl_v , css:d13c , css:fol_get_ , css:apeo , css:halonen , css:oyfol_et , css:fe_mo , css:eu_mo , css:aeo_c10 , css:ho_mo , css:fol_h2o_vlucht , css:mpxyl , css:pfos__pfba__pfbs , css:vocl_i , css:aeo_c14_vertakt , css:cyalk , css:aeo_c15_vertakt , css:ge_mo , css:re_mo , css:xyl__styr , css:dyfolet , css:zs , css:c13eo , css:acrylaatpolymeren , css:c9peo , css:c12quin , css:er_mo , css:lu_mo , css:hpc_epx , css:clfyl_t , css:er_mt , css:bi_mo , css:c18admba , css:pfos_som , css:kws_al , css:as_co_ni_cd_se_cr.vi_sb_pb_cr.iii_cu_mn_v_sn , css:onp_t , css:bde_85_154 , css:y_mo , css:pak_excl_naftaleen , css:c16isoquin , css:cr_zn_mn_cu , css:s_mo , css:opp_t , css:12cbz_14cbz , css:cl_an_ , css:mak_t ;
+        skos:member     css:tcee__ttcee__dcma , css:triazine , css:cl-verb , css:c14atma , css:cfk_ind , css:apeo_c13 , css:c14dadma , css:apeo_c15 , css:kws_t_vlucht , css:snver_ot , css:arom_kws__mak___pak , css:c18eo , css:f_an_ , css:met_ex_zn_fe_mn_pb_a , css:neg_anmvos , css:c14quin , css:basurf , css:8_metalen_totaal , css:arom__gt_c13 , css:mno4_kf , css:tam , css:eox , css:ocp_i , css:apeo_c12 , css:pcdd_pcdf , css:nox , css:3_4eyfol , css:npoc , css:adeidrin , css:pox , css:dcbzdines , css:kws_ap_ , css:nyfolsom , css:tas , css:sox , css:cbzsom , css:apeo_c18 , css:kws_t , css:sox_so2 , css:sp_opp_ , css:nmvos_t , css:xnmvos_t , css:kws_c30-40 , css:aox , css:pft_t , css:pak_15 , css:cfk , css:ftal , css:bc , css:trs-s_so2-s , css:c18isoquin , css:hcfk , css:fuh_t , css:ompxyl , css:mno4_k , css:metalen_excl__al_fe , css:alk__gt_c13 , css:alif__ox , css:c14eo , css:white-spirit , css:23_35myfol_4eyfol , css:cl , css:dicnibzsom , css:pcb_pct_t , css:aeo_c13 , css:alkanen_alkenen , css:c18:1admba , css:c16eo , css:aeo_c15 , css:nox_no2 , css:sb_as_pb_cr_co_cu_mn_ni_v , css:aeo_c11_vertakt , css:arom_c10 , css:al_comp_ , css:tmybz , css:extrah__st_ , css:cd_cr_cu_ni_pb_zn , css:fe_al , css:fol_c , css:se_v_u_th_te , css:apeo_c8 , css:n_n , css:apeo_c19 , css:det_met_gisting , css:oyfolsom , css:3_4myfol , css:calux , css:stoffr_o , css:ac_acrol , css:es_pe , css:tvplds , css:arseentrioxideenarseenpentoxide_as , css:cl_ot , css:tiverb_ot_-ti , css:tfysn_som , css:bap___bbflu_som , css:dcee , css:kjn , css:mno4_w , css:pcb_ind , css:mak_i , css:surf_kid_nid , css:kisurf , css:1_2-dichloorethaan_vinylchloride , css:met_excl_zn_fe_mn_al , css:surf_t , css:pyrethroïden , css:ocp_t_imjv , css:sb_as_pb_cr_co_cu_mn_ni_v_sn , css:dioxines , css:cans , css:cfols , css:pak_6 , css:pak_14 , css:siver_o , css:tcee__dcee_tcea , css:bjflu_bep , css:sb_pb_cr_cu_mn_v_sn , css:bflu_som , css:sn_t_ , css:ti_t_ , css:persist__min__olie , css:kws_c12-20 , css:thm_t , <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/s=___merc_> , css:dmyfol_som , css:aeo_c12 , css:nisurf , css:24_25-cfol , css:aeo_c12_vertakt , css:alk_c , css:dmyfol_eyfol_2ipyfol , css:ddt_2_som , css:cd_tl , <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/las/abs> , css:aeo_c14 , css:solvent , css:ctine , css:ddt_t , css:hch , css:cnyl_t , css:vos , css:dioxineachtigepcb , css:tricfolsom , css:trs , css:dcpa , css:vocl_t , css:ttcdbfur_t , css:apeo_c7 , css:3_4cfol , css:nyfolet , css:f-verb , css:hfk , css:hcdbfur_t , css:min_oliec6-c10 , css:furanen , css:butanol , css:c14admba , css:apeo_c9 , css:hcdbd_t , css:persistente_kws , css:bde_t_6 , css:apeo_c11 , css:n_o , css:clfvfs , css:thm_t_excl_3clethyl , css:fol_t , css:24_25myfol , css:toc , css:cu_ni_zn_cr , css:mno4_wf , css:gechl__arom , css:tap , css:surf_ion , css:pcb_28_31 , css:arom_vlucht_i , css:m_ol_kws , css:nvooc , css:opvv_t , css:arom_c9-c10 , css:pver_o , css:oplosmiddelen , css:apeo_c17 , css:chol , css:ccl4 , css:c12admba , css:neg_nmvos , css:pfc_exl_pfos__pfoa , css:c18:2atma , css:nh4_zt , css:zs_as , css:det_zonder_gisting , css:som129_excl_ox , css:ftal_excl_dehp , css:c18:1dadma , css:dinyft_didyft , css:c10eo , css:pak_5 , css:ash3_sbh3 , css:cr_cu_ni_pb_zn , css:tocl , css:hpcepx , css:2345_2346cfol , css:kalk_os , css:c12eo , css:opgl__vt , css:ddd_e_t , css:bde , css:min_oliec10-c40 , css:h3o_ , css:es_ccl4 , css:gechlor__oplosm_ , css:selenas , css:arom_c9 , css:n_n_n , css:aes , css:1235_1245cbz , css:kws_c10-12 , css:mercapt , css:aeo_c13_vertakt , css:nvtoc , css:cl_en_so4 , css:c18pyr , css:bpe___ip_som , css:pesticiden_t , css:dcan_t , css:biociden , css:pct_t , css:ol_water , css:tct , css:profam_benzadol , css:neg_xnmvos , css:c14pyr , css:kws_nm , css:arom_vlucht , css:neg_oasf , css:pfoa_som , css:cl__gebonden , css:dinyftofdidyft , css:s_t-h2s_rsh , css:aeo_c10_vertakt , css:cfk_tot , css:os , css:1buteen__ , css:btbdpe , css:apeo_c10 , css:c18:2admba , css:co_cr_ni_pb_zn , css:br-_i- , css:aisurf , css:c18:1atma , css:as_co_ni_cd_se_cr.vi , css:as , css:oyfolet , css:kws_c20-30 , css:pcdbd_t , css:aeo_c17 , css:stof_t , css:xyl__eybz , css:c16quin , css:naftenaten , css:cu__pb__ni__zn , css:eyfol_som , css:c16:1admba , css:tox___pver_o , css:apeo_c14 , css:7_metalen_totaal , css:c15eo , css:sn_anorg_t , css:latex , css:hpcdbd_t , css:c18atma , css:nh3_no2- , css:apeo_c16 , css:vox , css:7_metalen_opg_ , css:11cea__12cea , css:aromaten , css:dioxinenenfuranen , css:ctols , css:d15n , css:doc , css:uranimine , css:sccp , css:pcb_t_pct_t , css:dcdfytcea , css:alk_c10-12 , css:tetracea , css:pak_tot , css:dbysn_som , css:aeo_c11 , css:som1_1_1-trichloorethaan_per-_tri-entetrachloorethyleen , css:eas_ttcee , css:kjn__f , css:alk_c10-14 , css:c14isoquin , css:btex , css:p_esters , css:anmvos_t , css:fosfor_totaal , css:pcb_t , css:na-zouten , css:can_i , css:c16:1atma , css:cresol , css:1c2_3_4nibzs , css:c18dadma , css:alcoholen , css:pbs , css:metalenenmetalloidenmetuitzonderingvankwik , css:c10peo , css:fol_c__i , css:apeo_c6 , css:pak_16 , css:c18:2dadma , css:sof , css:vox_i , css:bs , css:c11eo , <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/hpo3²-> , css:pak_i , css:nyfol_et , css:ipytol , css:111cea_112cea , css:dcbz , css:ddt__dde_en_isom , css:ocp_t , css:cnitol , css:9_metalen_totaal , css:cu_ni_cd_cr_pb , css:dn_t , css:c16admba , css:om , css:stoffr_t , css:aeo_c16 , css:c18quin , css:n-fenol , css:oasf_t , css:es_ttcee , css:ttcdbd_t , css:aeo_c18 , css:n_t , css:12cbz_13cbz , css:stoffr_no , css:nso , css:buta_tria_ala_acet , css:cresol_c , css:mbas , css:s_t-sox , css:4eyfol___35myfol , css:pak_2 , css:pak_10 , css:co_cr_cu_ni_pb_zn , css:kws_ar , css:2_3_4cfol , css:asbest , css:pak_4 , css:oc , css:pcdbfur_t , css:cl_v , css:d13c , css:fol_get_ , css:apeo , css:halonen , css:oyfol_et , css:aeo_c10 , css:fol_h2o_vlucht , css:mpxyl , css:pfos__pfba__pfbs , css:vocl_i , css:aeo_c14_vertakt , css:cyalk , css:aeo_c15_vertakt , css:xyl__styr , css:dyfolet , css:zs , css:c13eo , css:acrylaatpolymeren , css:c9peo , css:c12quin , css:hpc_epx , css:clfyl_t , css:c18admba , css:pfos_som , css:kws_al , css:as_co_ni_cd_se_cr.vi_sb_pb_cr.iii_cu_mn_v_sn , css:bde_85_154 , css:onp_t , css:c16isoquin , css:pak_excl_naftaleen , css:cr_zn_mn_cu , css:opp_t , css:12cbz_14cbz , css:cl_an_ , css:mak_t ;
         skos:prefLabel  "Collectie van verzameling stoffen die in water worden gemeten"@nl .
 
 css:tcee__dcee_tcea  a     skos:Concept ;
@@ -1612,14 +1324,6 @@ css:c18:2dadma  a          skos:Concept ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "1149"^^xsd:int .
-
-css:sb_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Sb mo" ;
-        skos:prefLabel     "Antimoon, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2037"^^xsd:int .
 
 css:chol  a                skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
@@ -1677,14 +1381,6 @@ css:arom_c10  a            skos:Concept ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "1385"^^xsd:int .
 
-css:white-spirit  a        skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "white-spirit" ;
-        skos:prefLabel     "white-spirit"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "1757"^^xsd:int .
-
 css:s_t-sox  a             skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
         skos:notation      "S t-SOx" ;
@@ -1701,21 +1397,13 @@ css:apeo_c15  a            skos:Concept ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "1832"^^xsd:int .
 
-css:tm_mt  a               skos:Concept ;
+css:white-spirit  a        skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Tm mt" ;
-        skos:prefLabel     "Thullium, multi totaal"@nl ;
+        skos:notation      "white-spirit" ;
+        skos:prefLabel     "white-spirit"@nl ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "1977"^^xsd:int .
-
-css:pr_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Pr mo" ;
-        skos:prefLabel     "Praesodymium, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2031"^^xsd:int .
+        cs:vmmParameterId  "1757"^^xsd:int .
 
 css:vpktotaal  a        skos:Concept ;
         skos:notation   "VPKtotaal" ;
@@ -1736,14 +1424,6 @@ css:cl_an_  a              skos:Concept ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "1332"^^xsd:int .
-
-css:u_mo  a                skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "U mo" ;
-        skos:prefLabel     "Uranium, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2052"^^xsd:int .
 
 css:mineraleoliec6-c8
         a                  skos:Concept ;
@@ -1794,28 +1474,12 @@ css:pcb_t_pct_t  a         skos:Concept ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "1695"^^xsd:int .
 
-css:ta_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Ta mo" ;
-        skos:prefLabel     "Tantaal, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2044"^^xsd:int .
-
 css:vrijkoolzuur  a        skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
         skos:notation      "Vrijkoolzuur" ;
         skos:prefLabel     "Vrij koolzuur"@nl ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 .
-
-css:eu_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Eu mo" ;
-        skos:prefLabel     "Europium, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2008"^^xsd:int .
 
 css:f-verb  a              skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
@@ -1835,13 +1499,13 @@ css:3_4cfol  a             skos:Concept ;
         dcat:theme         gemet:9214 , gemet:2912 ;
         cs:vmmParameterId  "794"^^xsd:int .
 
-css:mak_i  a               skos:Concept ;
+css:fe_al  a               skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "MAK i" ;
-        skos:prefLabel     "Monocyclische aromatische koolwaterstoffen ind. "@nl ;
+        skos:notation      "(Fe,Al)" ;
+        skos:prefLabel     "som van metalen ijzer en aluminium"@nl ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "1745"^^xsd:int .
+        cs:vmmParameterId  "1687"^^xsd:int .
 
 css:hcdbd_t  a             skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
@@ -1867,13 +1531,13 @@ css:asbest  a              skos:Concept ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "955"^^xsd:int .
 
-css:fe_al  a               skos:Concept ;
+css:mak_i  a               skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "(Fe,Al)" ;
-        skos:prefLabel     "som van metalen ijzer en aluminium"@nl ;
+        skos:notation      "MAK i" ;
+        skos:prefLabel     "Monocyclische aromatische koolwaterstoffen ind. "@nl ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "1687"^^xsd:int .
+        cs:vmmParameterId  "1745"^^xsd:int .
 
 css:pak_6  a               skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
@@ -1932,14 +1596,6 @@ css:nmvos_t  a             skos:Concept ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "1172"^^xsd:int .
 
-css:mak_t  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "MAK t" ;
-        skos:prefLabel     "Monoaromatische KWS, totaal"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "217"^^xsd:int .
-
 css:3_4myfol  a            skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
         skos:narrowMatch   csc:RLSSMJSEOOYNOY-UHFFFAOYSA-N , csc:IWDCLRJOBJJRNH-UHFFFAOYSA-N ;
@@ -1949,6 +1605,14 @@ css:3_4myfol  a            skos:Concept ;
         dcat:theme         gemet:9214 , gemet:2912 ;
         cs:vmmParameterId  "786"^^xsd:int .
 
+css:mak_t  a               skos:Concept ;
+        skos:inScheme      vlcs:sommatie_stoffen ;
+        skos:notation      "MAK t" ;
+        skos:prefLabel     "Monoaromatische KWS, totaal"@nl ;
+        skos:topConceptOf  vlcs:sommatie_stoffen ;
+        dcat:theme         gemet:2912 , gemet:9214 ;
+        cs:vmmParameterId  "217"^^xsd:int .
+
 css:ftal  a                skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
         skos:notation      "FTAL" ;
@@ -1956,14 +1620,6 @@ css:ftal  a                skos:Concept ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "1763"^^xsd:int .
-
-css:sn_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Sn mo" ;
-        skos:prefLabel     "Tin, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2042"^^xsd:int .
 
 css:pcdd_pcdf  a           skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
@@ -2036,14 +1692,6 @@ css:pfoa_som  a            skos:Concept ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "2144"^^xsd:int .
 
-css:ge_mt  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Ge mt" ;
-        skos:prefLabel     "Germanium, multi totaal"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "1938"^^xsd:int .
-
 css:mno4_k  a              skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
         skos:notation      "MnO4 k" ;
@@ -2076,14 +1724,6 @@ css:bde  a                 skos:Concept ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "919"^^xsd:int .
 
-css:ru_mt  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Ru mt" ;
-        skos:prefLabel     "Ruthenium, multi totaal"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "1962"^^xsd:int .
-
 css:niet-ionogeneenkationischeoppervlakteactievestoffen
         a                  skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
@@ -2108,14 +1748,6 @@ css:4eyfol___35myfol  a    skos:Concept ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "1668"^^xsd:int .
-
-css:tm_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Tm mo" ;
-        skos:prefLabel     "Thullium, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2051"^^xsd:int .
 
 css:s_t-h2s_rsh  a         skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
@@ -2214,14 +1846,6 @@ css:anmvos_t  a            skos:Concept ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "1171"^^xsd:int .
 
-css:nb_mt  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Nb mt" ;
-        skos:prefLabel     "Niobium, multi totaal"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "1951"^^xsd:int .
-
 css:onbekendezuurstofverbinding
         a                  skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
@@ -2229,14 +1853,6 @@ css:onbekendezuurstofverbinding
         skos:prefLabel     "Onbekende zuurstofverbinding"@nl ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 .
-
-css:os_mt  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Os mt" ;
-        skos:prefLabel     "Osmium, multi totaal"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "1954"^^xsd:int .
 
 css:tetracea  a            skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
@@ -2318,14 +1934,6 @@ css:nvooc  a               skos:Concept ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "726"^^xsd:int .
 
-css:mineraleoliec12-c16
-        a                  skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "MineraleolieC12-C16" ;
-        skos:prefLabel     "Minerale olie C12 - C16"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 .
-
 css:c16admba  a            skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
         skos:notation      "C16ADMBA" ;
@@ -2334,13 +1942,13 @@ css:c16admba  a            skos:Concept ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "1126"^^xsd:int .
 
-css:sm_mt  a               skos:Concept ;
+css:mineraleoliec12-c16
+        a                  skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Sm mt" ;
-        skos:prefLabel     "Samarium, multi totaal"@nl ;
+        skos:notation      "MineraleolieC12-C16" ;
+        skos:prefLabel     "Minerale olie C12 - C16"@nl ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "1968"^^xsd:int .
+        dcat:theme         gemet:2912 , gemet:9214 .
 
 css:onbekendereeksftalaten
         a                  skos:Concept ;
@@ -2386,14 +1994,6 @@ css:c14isoquin  a          skos:Concept ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "1138"^^xsd:int .
 
-css:ge_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Ge mo" ;
-        skos:prefLabel     "Germanium, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2012"^^xsd:int .
-
 css:kws_ap_  a             skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
         skos:notation      "KWS ap." ;
@@ -2426,14 +2026,6 @@ css:dyfolet  a             skos:Concept ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "1054"^^xsd:int .
 
-css:cd_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Cd mo" ;
-        skos:prefLabel     "Cadmium, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "1998"^^xsd:int .
-
 css:persistente_kws  a     skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
         skos:notation      "persistente KWS" ;
@@ -2465,14 +2057,6 @@ css:bap___bbflu_som  a     skos:Concept ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "1787"^^xsd:int .
-
-css:ru_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Ru mo" ;
-        skos:prefLabel     "Ruthenium, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2035"^^xsd:int .
 
 css:vox_i  a               skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
@@ -2521,14 +2105,6 @@ css:apeo_c16  a            skos:Concept ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "1833"^^xsd:int .
-
-css:y_mt  a                skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Y mt" ;
-        skos:prefLabel     "Yttrium, multi totaal"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "1981"^^xsd:int .
 
 css:npoc  a                skos:Concept ;
         skos:altLabel      "Niet-purgeerbare organische koolstof"@nl ;
@@ -2629,6 +2205,11 @@ css:pcb_pct_t  a           skos:Concept ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "890"^^xsd:int .
 
+css:alifatengroterdanec21totec35
+        a               skos:Concept ;
+        skos:notation   "AlifatengroterdanEC21totEC35" ;
+        skos:prefLabel  "Alifaten groter dan EC21 tot EC35"@nl .
+
 css:tocl  a                skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
         skos:notation      "TOCl" ;
@@ -2636,19 +2217,6 @@ css:tocl  a                skos:Concept ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "1677"^^xsd:int .
-
-css:alifatengroterdanec21totec35
-        a               skos:Concept ;
-        skos:notation   "AlifatengroterdanEC21totEC35" ;
-        skos:prefLabel  "Alifaten groter dan EC21 tot EC35"@nl .
-
-css:nb_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Nb mo" ;
-        skos:prefLabel     "Niobium, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2024"^^xsd:int .
 
 css:vetvrij  a             skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
@@ -2696,14 +2264,6 @@ css:metalenenmetalloidenmetuitzonderingvankwik
         skos:prefLabel     "metalen en metalloïden met uitzondering van\nkwik (As, Cd, Co, Cr, Cu, Mn, Ni, Pb, Sb, Se, Tl,\nV, Zn)"@nl ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 .
-
-css:os_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Os mo" ;
-        skos:prefLabel     "Osmium, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2027"^^xsd:int .
 
 css:om  a                  skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
@@ -2758,22 +2318,6 @@ css:aeo_c13  a             skos:Concept ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "2106"^^xsd:int .
 
-css:mo_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Mo mo" ;
-        skos:prefLabel     "Molybdeen, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2022"^^xsd:int .
-
-css:ce_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Ce mo" ;
-        skos:prefLabel     "Cerium, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "1999"^^xsd:int .
-
 css:aeo_c13_vertakt  a     skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
         skos:notation      "AEO C13 vertakt" ;
@@ -2790,14 +2334,6 @@ css:stof_t  a              skos:Concept ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "1181"^^xsd:int .
 
-css:in_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "In mo" ;
-        skos:prefLabel     "Indium, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2016"^^xsd:int .
-
 css:es_ccl4  a             skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
         skos:notation      "ES CCL4" ;
@@ -2805,14 +2341,6 @@ css:es_ccl4  a             skos:Concept ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "1674"^^xsd:int .
-
-css:sm_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Sm mo" ;
-        skos:prefLabel     "Samarium, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2041"^^xsd:int .
 
 css:apolairekoolwaterstoffen_fractiec30-c40
         a               skos:Concept ;
@@ -2910,14 +2438,6 @@ css:kws_ar  a              skos:Concept ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "1295"^^xsd:int .
-
-css:gd_mt  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Gd mt" ;
-        skos:prefLabel     "Gadolinium, multi totaal"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "1937"^^xsd:int .
 
 css:mineraleoliec16-c22
         a                  skos:Concept ;
@@ -3038,14 +2558,6 @@ css:apeo_c11  a            skos:Concept ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "1828"^^xsd:int .
 
-css:tl_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Tl mo" ;
-        skos:prefLabel     "Thallium, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2050"^^xsd:int .
-
 css:trs  a                 skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
         skos:notation      "TRS" ;
@@ -3078,14 +2590,6 @@ css:ttcdbd_t  a            skos:Concept ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "1337"^^xsd:int .
 
-css:y_mo  a                skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Y mo" ;
-        skos:prefLabel     "Yttrium, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2055"^^xsd:int .
-
 css:aeo_c12_vertakt  a     skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
         skos:notation      "AEO C12 vertakt" ;
@@ -3110,14 +2614,6 @@ css:clfyl_t  a             skos:Concept ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "120"^^xsd:int .
 
-css:rb_mt  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Rb mt" ;
-        skos:prefLabel     "Rubidium, multi totaal"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "1960"^^xsd:int .
-
 css:sb_as_pb_cr_co_cu_mn_ni_v
         a                  skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
@@ -3134,14 +2630,6 @@ css:hcfk  a                skos:Concept ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "1174"^^xsd:int .
 
-css:te_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Te mo" ;
-        skos:prefLabel     "Telluur, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2046"^^xsd:int .
-
 css:n_n  a                 skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
         skos:notation      "N+N" ;
@@ -3149,14 +2637,6 @@ css:n_n  a                 skos:Concept ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "7"^^xsd:int .
-
-css:pd_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Pd mo" ;
-        skos:prefLabel     "Palladium, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2030"^^xsd:int .
 
 css:alifatengroterdanec8totec10
         a                  skos:Concept ;
@@ -3237,14 +2717,6 @@ css:arom_c9-c10  a         skos:Concept ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "1665"^^xsd:int .
 
-css:cu_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Cu mo" ;
-        skos:prefLabel     "Koper, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2006"^^xsd:int .
-
 css:alk_c10-12  a          skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
         skos:notation      "Alk C10-12" ;
@@ -3284,14 +2756,6 @@ css:latex  a               skos:Concept ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "1746"^^xsd:int .
-
-css:sr_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Sr mo" ;
-        skos:prefLabel     "Strontium, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2043"^^xsd:int .
 
 css:dioxineachtigepcb
         a                  skos:Concept ;
@@ -3395,14 +2859,6 @@ css:dcdfytcea  a           skos:Concept ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "568"^^xsd:int .
 
-css:gd_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Gd mo" ;
-        skos:prefLabel     "Gadolinium, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2011"^^xsd:int .
-
 css:det_met_gisting  a     skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
         skos:notation      "Det met gisting" ;
@@ -3451,14 +2907,6 @@ css:pbs  a                 skos:Concept ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "951"^^xsd:int .
 
-css:ho_mt  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Ho mt" ;
-        skos:prefLabel     "Holmium, multi totaal"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "1941"^^xsd:int .
-
 css:pak_i  a               skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
         skos:notation      "PAK i" ;
@@ -3483,14 +2931,6 @@ css:onbekendearomatischeverbinding
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 .
 
-css:dy_mt  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Dy mt" ;
-        skos:prefLabel     "Dysprosium, multi totaal"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "1932"^^xsd:int .
-
 css:trs-s_so2-s  a         skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
         skos:notation      "TRS-S+SO2-S" ;
@@ -3511,14 +2951,6 @@ css:epkaromatentotaal
         skos:notation   "EPKAromatentotaal" ;
         skos:prefLabel  "EPK Aromaten totaal"@nl .
 
-css:s_mo  a                skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "S mo" ;
-        skos:prefLabel     "Zwavel, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2036"^^xsd:int .
-
 css:mineraleoliec2-c6
         a                  skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
@@ -3527,14 +2959,6 @@ css:mineraleoliec2-c6
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 .
 
-css:be_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Be mo" ;
-        skos:prefLabel     "Beryllium, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "1995"^^xsd:int .
-
 css:mineraleoliec5-c9
         a                  skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
@@ -3542,14 +2966,6 @@ css:mineraleoliec5-c9
         skos:prefLabel     "Minerale olie C5 - C9"@nl ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 .
-
-css:rb_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Rb mo" ;
-        skos:prefLabel     "Rubidium, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2033"^^xsd:int .
 
 css:apeo_c6  a             skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
@@ -3574,14 +2990,6 @@ css:sb_pb_cr_cu_mn_v_sn
         skos:prefLabel     "Sb + Pb + Cr + Cu + Mn + V + Sn"@nl ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 .
-
-css:na_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Na mo" ;
-        skos:prefLabel     "Natrium, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2023"^^xsd:int .
 
 css:kationischedetergenten
         a                  skos:Concept ;
@@ -3662,22 +3070,6 @@ css:onbekendealkaanachtigeverbinding
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 .
 
-css:zs_as  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "ZS as" ;
-        skos:prefLabel     "Zwevende stof, as"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "72"^^xsd:int .
-
-css:onbekendechloorverbinding
-        a                  skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Onbekendechloorverbinding" ;
-        skos:prefLabel     "Onbekende chloorverbinding"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 .
-
 css:kalk_os  a             skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
         skos:notation      "Kalk+OS" ;
@@ -3694,26 +3086,26 @@ css:aeo_c14  a             skos:Concept ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "2107"^^xsd:int .
 
-css:mn_mo  a               skos:Concept ;
+css:zs_as  a               skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Mn mo" ;
-        skos:prefLabel     "Mangaan, multi opgelost"@nl ;
+        skos:notation      "ZS as" ;
+        skos:prefLabel     "Zwevende stof, as"@nl ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2021"^^xsd:int .
+        cs:vmmParameterId  "72"^^xsd:int .
+
+css:diesel  a              skos:Concept ;
+        skos:inScheme      vlcs:sommatie_stoffen ;
+        skos:notation      "diesel" ;
+        skos:prefLabel     "Minerale olie (als diesel)"@nl ;
+        skos:topConceptOf  vlcs:sommatie_stoffen ;
+        dcat:theme         gemet:2912 , gemet:9214 .
 
 css:mineraleoliec20-c26
         a                  skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
         skos:notation      "MineraleolieC20-C26" ;
         skos:prefLabel     "Minerale olie C20 - C26"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 .
-
-css:diesel  a              skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "diesel" ;
-        skos:prefLabel     "Minerale olie (als diesel)"@nl ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 .
 
@@ -3725,13 +3117,13 @@ css:extrah__st_  a         skos:Concept ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "1721"^^xsd:int .
 
-css:co_mo  a               skos:Concept ;
+css:onbekendechloorverbinding
+        a                  skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Co mo" ;
-        skos:prefLabel     "Kobalt, multi opgelost"@nl ;
+        skos:notation      "Onbekendechloorverbinding" ;
+        skos:prefLabel     "Onbekende chloorverbinding"@nl ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2000"^^xsd:int .
+        dcat:theme         gemet:2912 , gemet:9214 .
 
 css:hch  a                 skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
@@ -3895,22 +3287,6 @@ css:tap  a                 skos:Concept ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "24"^^xsd:int .
 
-css:lu_mt  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Lu mt" ;
-        skos:prefLabel     "Lutetium, multi totaal"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "1945"^^xsd:int .
-
-css:ho_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Ho mo" ;
-        skos:prefLabel     "Holmium, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2015"^^xsd:int .
-
 css:stoffr_no  a           skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
         skos:notation      "Stoffr no" ;
@@ -3925,14 +3301,6 @@ css:aromatenc11  a         skos:Concept ;
         skos:prefLabel     "Aromaten C11"@nl ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 .
-
-css:dy_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Dy mo" ;
-        skos:prefLabel     "Dysprosium, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2005"^^xsd:int .
 
 css:apeo_c12  a            skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
@@ -4048,14 +3416,6 @@ css:wasbenzine  a          skos:Concept ;
         skos:prefLabel     "Wasbenzine"@nl ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 .
-
-css:er_mt  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Er mt" ;
-        skos:prefLabel     "Erbium, multi totaal"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "1933"^^xsd:int .
 
 css:c15eo  a               skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
@@ -4222,14 +3582,6 @@ css:dmyfol_som  a          skos:Concept ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "1773"^^xsd:int .
 
-css:lu_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Lu mo" ;
-        skos:prefLabel     "Lutetium, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2019"^^xsd:int .
-
 css:tcees  a               skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
         skos:notation      "tcees" ;
@@ -4306,22 +3658,6 @@ css:ttcdbfur_t  a          skos:Concept ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "1341"^^xsd:int .
 
-css:zn_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Zn mo" ;
-        skos:prefLabel     "Zink, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2057"^^xsd:int .
-
-css:fe_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Fe mo" ;
-        skos:prefLabel     "Ijzer, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2009"^^xsd:int .
-
 css:alk__gt_c13  a         skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
         skos:notation      "Alk >C13" ;
@@ -4354,14 +3690,6 @@ css:tpht  a                skos:Concept ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 .
 
-css:profam_benzadol  a     skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "(profam,benzadol)" ;
-        skos:prefLabel     "som van chloorprofam, profam en thiabenzadol"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "1692"^^xsd:int .
-
 css:oyfolet  a             skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
         skos:notation      "OyFolEt" ;
@@ -4375,13 +3703,13 @@ css:perfluorverbindingen_totaal
         skos:notation   "Perfluorverbindingen,totaal" ;
         skos:prefLabel  "Perfluorverbindingen, totaal"@nl .
 
-css:bi_mt  a               skos:Concept ;
+css:profam_benzadol  a     skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Bi mt" ;
-        skos:prefLabel     "Bismut, multi totaal"@nl ;
+        skos:notation      "(profam,benzadol)" ;
+        skos:prefLabel     "som van chloorprofam, profam en thiabenzadol"@nl ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "1924"^^xsd:int .
+        cs:vmmParameterId  "1692"^^xsd:int .
 
 css:es_pe  a               skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
@@ -4401,7 +3729,7 @@ css:biociden  a            skos:Concept ;
 
 vlcs:sommatie_stoffen
         a                   skos:ConceptScheme ;
-        skos:hasTopConcept  css:bde , css:th_mt , css:c14atma , css:clfyl_t , css:2_3_4cfol , css:mineraleoliec20-c26 , css:gd_mo , css:mineraleoliec30-c36 , css:kws_c20-30 , css:mineraleoliec25-c40 , css:adeidrin , css:onbekendereeksftalaten , css:os_mo , css:metalenenmetalloidenmetuitzonderingvankwik , css:det_zonder_gisting , css:aeo_c12_vertakt , css:triazine , css:tvplds , css:cans , css:mpxyl , css:ash3_sbh3 , css:ol_water , css:apeo_c13 , css:mineraleoliec12-c14 , css:anionischeoppervlakteactievestoffen , css:clfvfs , css:mak_t , css:eyfol_som , css:c16:1admba , css:pct_t , css:yb_mt , css:c11eo , css:siver_o , css:white-spirit , css:u_mo , css:c18:2admba , css:er_mt , css:n_n , css:nb_mo , css:dioxineachtigepcb , css:bpe___ip_som , css:kws_nm , css:gechlor__oplosm_ , css:onopgelostebestanddelen , css:2345_2346cfol , css:mg_mt , css:fuh_t , css:metalen_excl__al_fe , css:mineraleoliec34-c40 , css:cs_mt , css:sb_pb_cr_cu_mn_v_sn , css:tb_mo , css:sof , css:mineraleoliec10-c16 , css:pt_mo , css:hch , css:ftal_excl_dehp , css:alk_c , css:nh4_zt , css:br-_i- , css:cfk_tot , css:mineraleoliec20-c24 , css:tfysn_som , css:pcb_pct_t , css:bi_mo , css:aromatengroterdanec16totec21 , css:onbekendearomatischeverbinding , css:aeo_c10_vertakt , css:tcee__ttcee__dcma , css:si_mo , css:11cea__12cea , css:tetracea , css:nox , css:yb_mo , css:ti_t_ , css:co_cr_cu_ni_pb_zn , css:aeo_c14 , css:7_metalen_opg_ , css:pr_mt , css:vetzurensom , css:alifatengroterdanec10totec12 , css:p_mo , css:niet-ionogeneenkationischeoppervlakteactievestoffen , css:ttcdbfur_t , css:eas_ttcee , css:oc , css:tricfolsom , css:tas , css:re_mo , css:hpcepx , css:cnitol , css:ho_mt , css:mineraleoliec6-c16 , css:wateroplosbarestof , css:vox , css:os , css:vluchtigeverbindingen , css:surf_t , css:kws_c10-12 , css:sn_t_ , css:pr_mo , css:apeo_c7 , css:c16eo , css:fol_t , css:nd_mo , css:ctine , css:dioxinenenfuranen , css:onbekendecycloalkaan , css:som129_excl_ox , css:fol_c__i , css:mercapt , css:ddd_e_t , css:nox_no2 , css:dcdfytcea , css:sox , css:alcoholen , css:sp_opp_ , css:mno4_wf , css:mno4_kf , css:cfk_ind , css:ocp_t , css:vrijkoolzuur , css:dy_mt , css:c16quin , css:dioxines , css:aeo_c11 , css:pver_o , css:diesel , css:cr_mo , css:sb_mo , css:mn_mo , css:cr_zn_mn_cu , css:c14pyr , css:tap , css:hcfk , css:sc_mt , css:c10peo , css:y_mt , css:c18:1admba , css:lu_mt , css:n_n_n , css:1235_1245cbz , css:cs_mo , css:pcb_t_pct_t , css:mineraleoliec12-c16 , css:m_ol_kws , css:tcee__dcee_tcea , css:uranimine , css:cbzsom , css:pcdbd_t , css:arom_vlucht_i , css:arom_kws__mak___pak , css:alifatengroterdanec6totec8 , css:mineraleoliec22-c30 , css:pfos_som , css:sox_so2 , css:pak_16 , css:dbt , css:eox , css:se_v_u_th_te , css:min_oliec6-c10 , css:c18:2dadma , css:fe_mo , css:aeo_c13_vertakt , css:zs_as , css:dcpa , css:trs , css:vox_i , css:ru_mo , css:vetzurenvluchtig , css:onbekendeverbinding , css:ddt_2_som , css:neg_anmvos , css:nvtoc , css:lu_mo , css:alifatenec5totec6 , css:onbekendealkaanachtigeverbinding , css:mno4_w , css:pb_mo , css:hpcdbd_t , css:surf_ion , css:oyfol_et , css:c16isoquin , css:mineraleoliec14-c20 , css:aeo_c16 , css:nyfolsom , css:se_mo , css:pak_4 , css:tct , css:can_i , css:mineraleoliec6-c8 , css:mineraleoliec10-c40 , css:onbekendereekspropoxyverbindingen , css:trs-s_so2-s , css:aromatengroteredanec8totec10 , css:nvooc , css:mineraleoliec24-c28 , css:nisurf , css:pak_i , css:pak_excl_naftaleen , css:apeo_c9 , css:dmyfol_eyfol_2ipyfol , css:aromatenc11 , css:apeo_c12 , css:sr_mo , css:c13eo , css:hcdbd_t , css:as_co_ni_cd_se_cr.vi_sb_pb_cr.iii_cu_mn_v_sn , css:ctols , css:cresol , css:tiverb_ot_-ti , css:sc_mo , css:xyl__styr , css:mineraleoliec12-c22 , css:btex , css:aeo_c15_vertakt , css:cd_tl , css:hf_mt , css:c12admba , css:cu__pb__ni__zn , css:cu_ni_cd_cr_pb , css:vocl_i , css:btbdpe , css:dbysn_som , css:es_ccl4 , css:c18:2atma , css:bi_mt , css:pox , css:thm_t , css:gd_mt , css:c18pyr , css:sn_anorg_t , css:pfc_exl_pfos__pfoa , css:aromatengroterdanec10totec12 , css:aromatenc9som , css:stof_t , css:apeo_c14 , css:surf_kid_nid , css:sn_mo , css:pak_2 , css:bflu_som , css:oplosmiddelen , css:organischestofvandefractiekleinerdan2mm , css:aromatenc10som , css:opgelostorganischkoolstofdoc , css:mo_mo , css:mak_i , css:au_mt , css:organischestofhumus , css:n_o , css:pcb_28_31 , css:c15eo , css:ru_mt , css:alk_c10-12 , css:th_mo , css:pak_tot , css:oyfolsom , css:te_mo , css:kjn , css:omethoaat , css:xnmvos_t , css:furanen , css:mbas , css:arom_c10 , css:24_25myfol , css:rb_mt , css:dicnibzsom , css:aromatengroterdanec21totec35 , css:mineraleoliec6-c40 , css:cl-verb , css:mineraleoliec30-c40 , css:asbest , css:dcbz , css:pfos__pfba__pfbs , css:dyfolet , css:alkanen_alkenen , css:kws_al , css:fol_get_ , css:arom__gt_c13 , css:f-verb , css:vluchtigeveturenalsazijnzuur , css:mineraleolievluchtigtotaal , css:tm_mt , css:aeo_c17 , css:la_mt , css:bc , css:apeo_c17 , css:basurf , css:gechl__arom , css:stoffr_no , css:7_metalen_totaal , css:ti_mo , css:3_4eyfol , css:k_mo , css:mineraleoliec16-c22 , css:tbt , css:cl__gebonden , css:cfk , css:tcees , css:cu_mo , css:nmvos_t , css:dn_t , css:aox , css:ga_mo , css:alifatengroterdanec16totec21 , css:pfoa_som , css:aromatenc12 , css:mineraleoliec6-c12 , css:kws_t , css:c14admba , css:vetextraheerbaar , css:kalk_os , css:oyfolet , css:alif__ox , css:onbekendezuurstofverbinding , css:butanol , css:w_mo , css:extrah__st_ , css:mineraleoliec10-c20 , css:ta_mo , css:min_oliec10-c40 , css:arom_c9-c10 , css:kationischedetergenten , css:arom_c9 , css:dmyfol_som , css:vluchtigechloorkoolwaterstoffensom , css:c18atma , css:wasbenzine , css:bjflu_bep , css:xyl__eybz , css:tocl , css:aeo_c12 , css:neg_xnmvos , css:al_comp_ , css:kws_c30-40 , css:c18admba , css:n_t , css:kws_ap_ , css:tox___pver_o , <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/s=___merc_> , css:npoc , css:mineraleoliec5-c8 , css:4eyfol___35myfol , css:chol , css:hfk , css:os_mt , css:zs , css:neg_oasf , css:apeo_c15 , css:dcbzdines , css:24_25-cfol , css:be_mo , css:mineraleoliec26-c34 , css:c18eo , css:arom_vlucht , css:ipytol , css:s_t-sox , css:ni_mo , css:c18:1atma , css:cl , css:alifatengroterdanec12totec16 , css:dcee , css:pcb_t , css:stoffr_t , css:onp_t , css:as_co_ni_cd_se_cr.vi , css:pft_t , css:rb_mo , css:mineraleoliec10-c12 , css:cu_ni_zn_cr , css:hg_mo , css:sm_mo , css:h3o_ , css:biociden , css:s_t-h2s_rsh , css:naftenaten , css:fol_c , css:c12quin , css:aisurf , css:c18isoquin , css:kws_c12-20 , css:vetvrij , css:co_cr_ni_pb_zn , css:organischkoolstof , css:ga_mt , css:zr_mo , css:alk__gt_c13 , css:solvent , css:bs , css:vetzurenwaterdampvluchtig , css:sccp , css:aeo_c10 , css:tmybz , css:opvv_t , css:snver_ot , css:d15n , css:neg_nmvos , css:persistente_kws , css:onbekendereekszuurstofverbindingen , css:mineraleoliec2-c6 , css:er_mo , css:8_metalen_totaal , css:oliezuur , css:c16:1atma , css:mineraleoliec36-c40 , css:pak_5 , css:d13c , css:aes , css:cnyl_t , css:eu_mo , css:fe_al , css:kjn__f , css:pcdbfur_t , css:pak_14 , <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/hpo3²-> , css:mineraleoliec10-c25 , css:vl_sol , css:fol_h2o_vlucht , css:mineraleoliec32-c36 , css:kws_t_vlucht , css:bde_t_6 , css:vocl_t , css:es_pe , css:c10eo , css:p_esters , css:onbekendestikstofverbinding , css:dinyftofdidyft , css:tpht , css:mineraleoliec9-c15 , css:mineraleoliec20-c30 , css:ont_s , css:sm_mt , css:selenas , css:12cbz_13cbz , css:pbs , css:ftal , css:mineraleoliegroterdanc15 , css:opp_t , css:buta_tria_ala_acet , css:nso , css:bde_85_154 , css:sb_as_pb_cr_co_cu_mn_ni_v , css:aeo_c13 , css:1_2-dichloorethaan_vinylchloride , css:dieselolie , css:olie , css:profam_benzadol , css:9_metalen_totaal , css:sb_as_pb_cr_co_cu_mn_ni_v_sn , css:aeo_c11_vertakt , css:mineraleoliec5-c9 , css:oasf_t , css:ompxyl , css:c12eo , css:kws_ar , css:pcdd_pcdf , css:cl_en_so4 , css:apeo_c6 , css:apeo , css:23_35myfol_4eyfol , css:halonen , css:apeo_c19 , css:es_ttcee , css:ge_mt , css:kisurf , css:nyfol_et , css:apeo_c10 , css:eu_mt , css:ccl4 , css:det_met_gisting , css:onbekendebroomverbinding , css:mineraleoliec8-c10 , css:cl_v , css:dy_mo , css:arseentrioxideenarseenpentoxide_as , css:v_mo , css:acrylaatpolymeren , css:met_ex_zn_fe_mn_pb_a , css:ce_mo , css:ac_acrol , css:hf_mo , css:onbekendechloorverbinding , css:c16admba , css:aromatengroterdanec12totec16 , css:cfols , css:anmvos_t , css:tm_mo , css:cr_cu_ni_pb_zn , css:thm_t_excl_3clethyl , css:pesticiden_t , css:c18:1dadma , css:dinyft_didyft , css:calux , css:zn_mo , css:y_mo , css:doc , css:ho_mo , css:cyalk , css:la_mo , css:1buteen__ , css:mineraleoliekleinerdanc25 , css:opgl__vt , css:as , css:vos , css:nh3_no2- , css:cd_mo , css:au_mo , css:mineraleoliec8-c12 , css:fosfor_totaal , css:onbekendealifatischeverbinding , css:ddt_t , css:aeo_c18 , css:c14quin , css:ca_mo , css:apeo_c18 , css:hpc_epx , css:pak_6 , css:persist__min__olie , css:c14eo , css:hcdbfur_t , css:vrijalkali , css:c18dadma , css:cl_ot , css:pak_15 , css:ddt__dde_en_isom , css:ocp_i , css:nb_mt , css:c18quin , css:cl_an_ , <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/las/abs> , css:3_4myfol , css:cd_cr_cu_ni_pb_zn , css:1c2_3_4nibzs , css:mno4_k , css:om , css:c9peo , css:toc , css:pcb_ind , css:12cbz_14cbz , css:benzine , css:aromatenc13 , css:latex , css:tb_mt , css:s_mo , css:in_mo , css:cresol_c , css:nyfolet , css:alifatengroterdanec8totec10 , css:f_an_ , css:opgelostebestanddelentds , css:ocp_t_imjv , css:ta_mt , css:3_4cfol , css:tl_mo , css:stoffr_o , css:c14isoquin , css:pd_mo , css:som1_1_1-trichloorethaan_per-_tri-entetrachloorethyleen , css:aeo_c15 , css:pak_10 , css:111cea_112cea , css:pyrethroïden , css:apeo_c16 , css:c14dadma , css:mineraleoliec28-c32 , css:ttcdbd_t , css:mg_mo , css:bap___bbflu_som , css:mineraleoliec16-c20 , css:ge_mo , css:na-zouten , css:n-fenol , css:anionischedetergenten , css:co_mo , css:tam , css:aeo_c14_vertakt , css:apeo_c8 , css:nd_mt , css:dcan_t , css:oliënenvetten , css:mineraleoliec6-c10 , css:mineraleoliec17 , css:met_excl_zn_fe_mn_al , css:apeo_c11 , css:aromaten , css:alk_c10-14 , css:niet-ionischedetergenten , css:na_mo ;
+        skos:hasTopConcept  css:bde , css:c14atma , css:clfyl_t , css:2_3_4cfol , css:mineraleoliec20-c26 , css:mineraleoliec30-c36 , css:kws_c20-30 , css:mineraleoliec25-c40 , css:adeidrin , css:onbekendereeksftalaten , css:metalenenmetalloidenmetuitzonderingvankwik , css:det_zonder_gisting , css:aeo_c12_vertakt , css:triazine , css:tvplds , css:cans , css:mpxyl , css:ash3_sbh3 , css:ol_water , css:apeo_c13 , css:mineraleoliec12-c14 , css:anionischeoppervlakteactievestoffen , css:clfvfs , css:mak_t , css:eyfol_som , css:c16:1admba , css:pct_t , css:c11eo , css:siver_o , css:white-spirit , css:c18:2admba , css:n_n , css:dioxineachtigepcb , css:bpe___ip_som , css:kws_nm , css:gechlor__oplosm_ , css:2345_2346cfol , css:onopgelostebestanddelen , css:fuh_t , css:metalen_excl__al_fe , css:mineraleoliec34-c40 , css:sb_pb_cr_cu_mn_v_sn , css:sof , css:mineraleoliec10-c16 , css:hch , css:ftal_excl_dehp , css:alk_c , css:nh4_zt , css:br-_i- , css:cfk_tot , css:mineraleoliec20-c24 , css:tfysn_som , css:pcb_pct_t , css:aromatengroterdanec16totec21 , css:onbekendearomatischeverbinding , css:aeo_c10_vertakt , css:tcee__ttcee__dcma , css:11cea__12cea , css:tetracea , css:nox , css:ti_t_ , css:co_cr_cu_ni_pb_zn , css:aeo_c14 , css:7_metalen_opg_ , css:vetzurensom , css:alifatengroterdanec10totec12 , css:niet-ionogeneenkationischeoppervlakteactievestoffen , css:ttcdbfur_t , css:eas_ttcee , css:oc , css:tricfolsom , css:tas , css:cnitol , css:hpcepx , css:mineraleoliec6-c16 , css:wateroplosbarestof , css:vox , css:os , css:vluchtigeverbindingen , css:surf_t , css:kws_c10-12 , css:apeo_c7 , css:sn_t_ , css:fol_t , css:c16eo , css:ctine , css:dioxinenenfuranen , css:onbekendecycloalkaan , css:som129_excl_ox , css:fol_c__i , css:mercapt , css:ddd_e_t , css:nox_no2 , css:dcdfytcea , css:sox , css:alcoholen , css:sp_opp_ , css:mno4_wf , css:mno4_kf , css:cfk_ind , css:ocp_t , css:vrijkoolzuur , css:c16quin , css:dioxines , css:aeo_c11 , css:pver_o , css:diesel , css:cr_zn_mn_cu , css:c14pyr , css:hcfk , css:tap , css:c10peo , css:c18:1admba , css:n_n_n , css:1235_1245cbz , css:pcb_t_pct_t , css:mineraleoliec12-c16 , css:m_ol_kws , css:tcee__dcee_tcea , css:uranimine , css:cbzsom , css:pcdbd_t , css:arom_vlucht_i , css:arom_kws__mak___pak , css:alifatengroterdanec6totec8 , css:mineraleoliec22-c30 , css:pfos_som , css:sox_so2 , css:pak_16 , css:dbt , css:eox , css:se_v_u_th_te , css:min_oliec6-c10 , css:c18:2dadma , css:aeo_c13_vertakt , css:zs_as , css:dcpa , css:trs , css:vox_i , css:vetzurenvluchtig , css:onbekendeverbinding , css:ddt_2_som , css:neg_anmvos , css:nvtoc , css:alifatenec5totec6 , css:onbekendealkaanachtigeverbinding , css:mno4_w , css:hpcdbd_t , css:surf_ion , css:oyfol_et , css:c16isoquin , css:mineraleoliec14-c20 , css:aeo_c16 , css:nyfolsom , css:pak_4 , css:tct , css:can_i , css:mineraleoliec6-c8 , css:mineraleoliec10-c40 , css:onbekendereekspropoxyverbindingen , css:trs-s_so2-s , css:aromatengroteredanec8totec10 , css:nvooc , css:mineraleoliec24-c28 , css:nisurf , css:pak_i , css:pak_excl_naftaleen , css:apeo_c9 , css:dmyfol_eyfol_2ipyfol , css:aromatenc11 , css:apeo_c12 , css:c13eo , css:hcdbd_t , css:as_co_ni_cd_se_cr.vi_sb_pb_cr.iii_cu_mn_v_sn , css:ctols , css:cresol , css:tiverb_ot_-ti , css:xyl__styr , css:mineraleoliec12-c22 , css:btex , css:aeo_c15_vertakt , css:cd_tl , css:c12admba , css:cu__pb__ni__zn , css:cu_ni_cd_cr_pb , css:vocl_i , css:btbdpe , css:dbysn_som , css:es_ccl4 , css:c18:2atma , css:pox , css:thm_t , css:c18pyr , css:sn_anorg_t , css:pfc_exl_pfos__pfoa , css:aromatenc9som , css:stof_t , css:apeo_c14 , css:aromatengroterdanec10totec12 , css:surf_kid_nid , css:pak_2 , css:bflu_som , css:oplosmiddelen , css:organischestofvandefractiekleinerdan2mm , css:aromatenc10som , css:opgelostorganischkoolstofdoc , css:mak_i , css:organischestofhumus , css:n_o , css:c15eo , css:pcb_28_31 , css:alk_c10-12 , css:pak_tot , css:oyfolsom , css:kjn , css:omethoaat , css:xnmvos_t , css:furanen , css:mbas , css:arom_c10 , css:24_25myfol , css:dicnibzsom , css:aromatengroterdanec21totec35 , css:mineraleoliec6-c40 , css:cl-verb , css:mineraleoliec30-c40 , css:asbest , css:dcbz , css:pfos__pfba__pfbs , css:dyfolet , css:alkanen_alkenen , css:kws_al , css:fol_get_ , css:arom__gt_c13 , css:f-verb , css:vluchtigeveturenalsazijnzuur , css:mineraleolievluchtigtotaal , css:aeo_c17 , css:bc , css:apeo_c17 , css:basurf , css:gechl__arom , css:stoffr_no , css:7_metalen_totaal , css:3_4eyfol , css:mineraleoliec16-c22 , css:tbt , css:cl__gebonden , css:cfk , css:tcees , css:dn_t , css:nmvos_t , css:aox , css:alifatengroterdanec16totec21 , css:pfoa_som , css:aromatenc12 , css:mineraleoliec6-c12 , css:kws_t , css:c14admba , css:vetextraheerbaar , css:kalk_os , css:oyfolet , css:alif__ox , css:butanol , css:onbekendezuurstofverbinding , css:extrah__st_ , css:mineraleoliec10-c20 , css:min_oliec10-c40 , css:arom_c9-c10 , css:kationischedetergenten , css:arom_c9 , css:dmyfol_som , css:vluchtigechloorkoolwaterstoffensom , css:c18atma , css:wasbenzine , css:bjflu_bep , css:xyl__eybz , css:tocl , css:aeo_c12 , css:neg_xnmvos , css:al_comp_ , css:kws_c30-40 , css:c18admba , css:n_t , css:kws_ap_ , css:tox___pver_o , <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/s=___merc_> , css:npoc , css:mineraleoliec5-c8 , css:4eyfol___35myfol , css:chol , css:hfk , css:zs , css:neg_oasf , css:apeo_c15 , css:dcbzdines , css:24_25-cfol , css:mineraleoliec26-c34 , css:c18eo , css:arom_vlucht , css:ipytol , css:s_t-sox , css:c18:1atma , css:cl , css:alifatengroterdanec12totec16 , css:dcee , css:pcb_t , css:stoffr_t , css:onp_t , css:as_co_ni_cd_se_cr.vi , css:pft_t , css:mineraleoliec10-c12 , css:cu_ni_zn_cr , css:h3o_ , css:biociden , css:s_t-h2s_rsh , css:naftenaten , css:fol_c , css:c12quin , css:aisurf , css:c18isoquin , css:kws_c12-20 , css:vetvrij , css:co_cr_ni_pb_zn , css:organischkoolstof , css:alk__gt_c13 , css:solvent , css:bs , css:vetzurenwaterdampvluchtig , css:sccp , css:aeo_c10 , css:tmybz , css:opvv_t , css:snver_ot , css:d15n , css:neg_nmvos , css:persistente_kws , css:onbekendereekszuurstofverbindingen , css:mineraleoliec2-c6 , css:8_metalen_totaal , css:oliezuur , css:c16:1atma , css:mineraleoliec36-c40 , css:aes , css:d13c , css:pak_5 , css:cnyl_t , css:fe_al , css:kjn__f , css:pcdbfur_t , css:pak_14 , <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/hpo3²-> , css:mineraleoliec10-c25 , css:vl_sol , css:fol_h2o_vlucht , css:mineraleoliec32-c36 , css:kws_t_vlucht , css:bde_t_6 , css:vocl_t , css:es_pe , css:c10eo , css:p_esters , css:onbekendestikstofverbinding , css:dinyftofdidyft , css:tpht , css:mineraleoliec9-c15 , css:mineraleoliec20-c30 , css:ont_s , css:selenas , css:12cbz_13cbz , css:pbs , css:ftal , css:mineraleoliegroterdanc15 , css:buta_tria_ala_acet , css:nso , css:bde_85_154 , css:opp_t , css:sb_as_pb_cr_co_cu_mn_ni_v , css:aeo_c13 , css:1_2-dichloorethaan_vinylchloride , css:dieselolie , css:olie , css:profam_benzadol , css:9_metalen_totaal , css:sb_as_pb_cr_co_cu_mn_ni_v_sn , css:aeo_c11_vertakt , css:mineraleoliec5-c9 , css:oasf_t , css:ompxyl , css:c12eo , css:kws_ar , css:pcdd_pcdf , css:cl_en_so4 , css:apeo_c6 , css:apeo , css:23_35myfol_4eyfol , css:halonen , css:apeo_c19 , css:es_ttcee , css:kisurf , css:nyfol_et , css:apeo_c10 , css:ccl4 , css:det_met_gisting , css:onbekendebroomverbinding , css:mineraleoliec8-c10 , css:cl_v , css:arseentrioxideenarseenpentoxide_as , css:acrylaatpolymeren , css:met_ex_zn_fe_mn_pb_a , css:ac_acrol , css:onbekendechloorverbinding , css:c16admba , css:aromatengroterdanec12totec16 , css:cfols , css:anmvos_t , css:cr_cu_ni_pb_zn , css:thm_t_excl_3clethyl , css:pesticiden_t , css:c18:1dadma , css:dinyft_didyft , css:calux , css:doc , css:cyalk , css:1buteen__ , css:mineraleoliekleinerdanc25 , css:opgl__vt , css:as , css:vos , css:nh3_no2- , css:mineraleoliec8-c12 , css:fosfor_totaal , css:ddt_t , css:onbekendealifatischeverbinding , css:aeo_c18 , css:c14quin , css:apeo_c18 , css:hpc_epx , css:pak_6 , css:persist__min__olie , css:c14eo , css:hcdbfur_t , css:vrijalkali , css:c18dadma , css:cl_ot , css:ddt__dde_en_isom , css:ocp_i , css:c18quin , css:pak_15 , css:cl_an_ , <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/las/abs> , css:3_4myfol , css:cd_cr_cu_ni_pb_zn , css:1c2_3_4nibzs , css:mno4_k , css:om , css:c9peo , css:toc , css:pcb_ind , css:12cbz_14cbz , css:benzine , css:aromatenc13 , css:latex , css:cresol_c , css:nyfolet , css:alifatengroterdanec8totec10 , css:f_an_ , css:opgelostebestanddelentds , css:ocp_t_imjv , css:3_4cfol , css:stoffr_o , css:c14isoquin , css:som1_1_1-trichloorethaan_per-_tri-entetrachloorethyleen , css:aeo_c15 , css:pak_10 , css:111cea_112cea , css:pyrethroïden , css:apeo_c16 , css:c14dadma , css:mineraleoliec28-c32 , css:ttcdbd_t , css:bap___bbflu_som , css:mineraleoliec16-c20 , css:na-zouten , css:n-fenol , css:anionischedetergenten , css:tam , css:apeo_c8 , css:aeo_c14_vertakt , css:dcan_t , css:oliënenvetten , css:mineraleoliec6-c10 , css:mineraleoliec17 , css:met_excl_zn_fe_mn_al , css:apeo_c11 , css:aromaten , css:alk_c10-14 , css:niet-ionischedetergenten ;
         skos:prefLabel      "Codelijst groeperingen en sommaties van chemische stoffen"@nl .
 
 css:vpkaromatentotaal
@@ -4499,14 +3827,6 @@ css:mineraleoliec10-c40
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 .
 
-css:er_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Er mo" ;
-        skos:prefLabel     "Erbium, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2007"^^xsd:int .
-
 css:triazine  a            skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
         skos:notation      "Triazine" ;
@@ -4515,13 +3835,12 @@ css:triazine  a            skos:Concept ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "283"^^xsd:int .
 
-css:min_oliec6-c10  a      skos:Concept ;
+css:dieselolie  a          skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Min.olieC6-C10" ;
-        skos:prefLabel     "minerale olie C6-C10"@nl ;
+        skos:notation      "dieselolie" ;
+        skos:prefLabel     "Minerale olie (als dieselolie)"@nl ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "1770"^^xsd:int .
+        dcat:theme         gemet:2912 , gemet:9214 .
 
 css:cans  a                skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
@@ -4540,13 +3859,6 @@ css:met_excl_zn_fe_mn_al
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "1711"^^xsd:int .
 
-css:dieselolie  a          skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "dieselolie" ;
-        skos:prefLabel     "Minerale olie (als dieselolie)"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 .
-
 css:aeo_c11_vertakt  a     skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
         skos:notation      "AEO C11 vertakt" ;
@@ -4554,6 +3866,14 @@ css:aeo_c11_vertakt  a     skos:Concept ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "1838"^^xsd:int .
+
+css:min_oliec6-c10  a      skos:Concept ;
+        skos:inScheme      vlcs:sommatie_stoffen ;
+        skos:notation      "Min.olieC6-C10" ;
+        skos:prefLabel     "minerale olie C6-C10"@nl ;
+        skos:topConceptOf  vlcs:sommatie_stoffen ;
+        dcat:theme         gemet:2912 , gemet:9214 ;
+        cs:vmmParameterId  "1770"^^xsd:int .
 
 css:n-fenol  a             skos:Concept ;
         skos:inScheme      vlcs:sommatie_stoffen ;
@@ -4620,22 +3940,6 @@ css:mineraleoliec36-c40
         skos:prefLabel     "Minerale olie C36 - C40"@nl ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 .
-
-css:cs_mt  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Cs mt" ;
-        skos:prefLabel     "Cesium, multi totaal"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "1930"^^xsd:int .
-
-css:mg_mt  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Mg mt" ;
-        skos:prefLabel     "Magnesium, multi totaal"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "1946"^^xsd:int .
 
 css:dmyfol_eyfol_2ipyfol
         a                  skos:Concept ;
@@ -4805,14 +4109,6 @@ css:apeo_c13  a            skos:Concept ;
         dcat:theme         gemet:2912 , gemet:9214 ;
         cs:vmmParameterId  "1830"^^xsd:int .
 
-css:pt_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Pt mo" ;
-        skos:prefLabel     "Platina, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2032"^^xsd:int .
-
 css:dbt  a                 skos:Concept ;
         skos:altLabel      "DBT"@nl ;
         skos:inScheme      vlcs:sommatie_stoffen ;
@@ -4820,19 +4116,3 @@ css:dbt  a                 skos:Concept ;
         skos:prefLabel     "Dibutyltinverbindingen (DBT)"@nl ;
         skos:topConceptOf  vlcs:sommatie_stoffen ;
         dcat:theme         gemet:2912 , gemet:9214 .
-
-css:w_mo  a                skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "W mo" ;
-        skos:prefLabel     "Wolfraam, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "2054"^^xsd:int .
-
-css:bi_mo  a               skos:Concept ;
-        skos:inScheme      vlcs:sommatie_stoffen ;
-        skos:notation      "Bi mo" ;
-        skos:prefLabel     "Bismut, multi opgelost"@nl ;
-        skos:topConceptOf  vlcs:sommatie_stoffen ;
-        dcat:theme         gemet:2912 , gemet:9214 ;
-        cs:vmmParameterId  "1996"^^xsd:int .

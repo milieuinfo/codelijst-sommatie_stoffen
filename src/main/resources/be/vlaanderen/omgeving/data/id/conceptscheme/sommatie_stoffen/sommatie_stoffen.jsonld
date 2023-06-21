@@ -34,9 +34,6 @@
                     "@id": "css:bde"
                 },
                 {
-                    "@id": "css:th_mt"
-                },
-                {
                     "@id": "css:c14atma"
                 },
                 {
@@ -47,9 +44,6 @@
                 },
                 {
                     "@id": "css:mineraleoliec20-c26"
-                },
-                {
-                    "@id": "css:gd_mo"
                 },
                 {
                     "@id": "css:mineraleoliec30-c36"
@@ -65,9 +59,6 @@
                 },
                 {
                     "@id": "css:metalenenmetalloidenmetuitzonderingvankwik"
-                },
-                {
-                    "@id": "css:os_mo"
                 },
                 {
                     "@id": "css:onbekendereeksftalaten"
@@ -121,16 +112,10 @@
                     "@id": "css:pct_t"
                 },
                 {
-                    "@id": "css:yb_mt"
-                },
-                {
                     "@id": "css:c11eo"
                 },
                 {
                     "@id": "css:siver_o"
-                },
-                {
-                    "@id": "css:u_mo"
                 },
                 {
                     "@id": "css:white-spirit"
@@ -139,13 +124,7 @@
                     "@id": "css:c18:2admba"
                 },
                 {
-                    "@id": "css:er_mt"
-                },
-                {
                     "@id": "css:n_n"
-                },
-                {
-                    "@id": "css:nb_mo"
                 },
                 {
                     "@id": "css:dioxineachtigepcb"
@@ -160,13 +139,10 @@
                     "@id": "css:gechlor__oplosm_"
                 },
                 {
-                    "@id": "css:onopgelostebestanddelen"
-                },
-                {
                     "@id": "css:2345_2346cfol"
                 },
                 {
-                    "@id": "css:mg_mt"
+                    "@id": "css:onopgelostebestanddelen"
                 },
                 {
                     "@id": "css:fuh_t"
@@ -178,28 +154,19 @@
                     "@id": "css:sb_pb_cr_cu_mn_v_sn"
                 },
                 {
-                    "@id": "css:cs_mt"
-                },
-                {
-                    "@id": "css:tb_mo"
-                },
-                {
                     "@id": "css:mineraleoliec34-c40"
                 },
                 {
                     "@id": "css:sof"
                 },
                 {
-                    "@id": "css:hch"
-                },
-                {
                     "@id": "css:mineraleoliec10-c16"
                 },
                 {
-                    "@id": "css:ftal_excl_dehp"
+                    "@id": "css:hch"
                 },
                 {
-                    "@id": "css:pt_mo"
+                    "@id": "css:ftal_excl_dehp"
                 },
                 {
                     "@id": "css:alk_c"
@@ -212,9 +179,6 @@
                 },
                 {
                     "@id": "css:cfk_tot"
-                },
-                {
-                    "@id": "css:bi_mo"
                 },
                 {
                     "@id": "css:mineraleoliec20-c24"
@@ -238,9 +202,6 @@
                     "@id": "css:tcee__ttcee__dcma"
                 },
                 {
-                    "@id": "css:si_mo"
-                },
-                {
                     "@id": "css:11cea__12cea"
                 },
                 {
@@ -253,9 +214,6 @@
                     "@id": "css:ti_t_"
                 },
                 {
-                    "@id": "css:yb_mo"
-                },
-                {
                     "@id": "css:co_cr_cu_ni_pb_zn"
                 },
                 {
@@ -265,13 +223,7 @@
                     "@id": "css:7_metalen_opg_"
                 },
                 {
-                    "@id": "css:pr_mt"
-                },
-                {
                     "@id": "css:vetzurensom"
-                },
-                {
-                    "@id": "css:p_mo"
                 },
                 {
                     "@id": "css:alifatengroterdanec10totec12"
@@ -292,19 +244,13 @@
                     "@id": "css:tricfolsom"
                 },
                 {
-                    "@id": "css:hpcepx"
-                },
-                {
                     "@id": "css:tas"
-                },
-                {
-                    "@id": "css:re_mo"
                 },
                 {
                     "@id": "css:cnitol"
                 },
                 {
-                    "@id": "css:ho_mt"
+                    "@id": "css:hpcepx"
                 },
                 {
                     "@id": "css:mineraleoliec6-c16"
@@ -326,12 +272,6 @@
                 },
                 {
                     "@id": "css:surf_t"
-                },
-                {
-                    "@id": "css:pr_mo"
-                },
-                {
-                    "@id": "css:nd_mo"
                 },
                 {
                     "@id": "css:apeo_c7"
@@ -397,9 +337,6 @@
                     "@id": "css:vrijkoolzuur"
                 },
                 {
-                    "@id": "css:dy_mt"
-                },
-                {
                     "@id": "css:c16quin"
                 },
                 {
@@ -415,22 +352,10 @@
                     "@id": "css:diesel"
                 },
                 {
-                    "@id": "css:cr_mo"
-                },
-                {
-                    "@id": "css:mn_mo"
-                },
-                {
-                    "@id": "css:sb_mo"
-                },
-                {
                     "@id": "css:cr_zn_mn_cu"
                 },
                 {
                     "@id": "css:c14pyr"
-                },
-                {
-                    "@id": "css:sc_mt"
                 },
                 {
                     "@id": "css:hcfk"
@@ -442,22 +367,13 @@
                     "@id": "css:c10peo"
                 },
                 {
-                    "@id": "css:y_mt"
-                },
-                {
                     "@id": "css:c18:1admba"
-                },
-                {
-                    "@id": "css:lu_mt"
                 },
                 {
                     "@id": "css:n_n_n"
                 },
                 {
                     "@id": "css:1235_1245cbz"
-                },
-                {
-                    "@id": "css:cs_mo"
                 },
                 {
                     "@id": "css:pcb_t_pct_t"
@@ -517,9 +433,6 @@
                     "@id": "css:se_v_u_th_te"
                 },
                 {
-                    "@id": "css:fe_mo"
-                },
-                {
                     "@id": "css:aeo_c13_vertakt"
                 },
                 {
@@ -530,9 +443,6 @@
                 },
                 {
                     "@id": "css:trs"
-                },
-                {
-                    "@id": "css:ru_mo"
                 },
                 {
                     "@id": "css:vox_i"
@@ -553,9 +463,6 @@
                     "@id": "css:nvtoc"
                 },
                 {
-                    "@id": "css:lu_mo"
-                },
-                {
                     "@id": "css:onbekendealkaanachtigeverbinding"
                 },
                 {
@@ -563,9 +470,6 @@
                 },
                 {
                     "@id": "css:mno4_w"
-                },
-                {
-                    "@id": "css:pb_mo"
                 },
                 {
                     "@id": "css:hpcdbd_t"
@@ -587,9 +491,6 @@
                 },
                 {
                     "@id": "css:nyfolsom"
-                },
-                {
-                    "@id": "css:se_mo"
                 },
                 {
                     "@id": "css:pak_4"
@@ -643,9 +544,6 @@
                     "@id": "css:apeo_c12"
                 },
                 {
-                    "@id": "css:sr_mo"
-                },
-                {
                     "@id": "css:c13eo"
                 },
                 {
@@ -661,9 +559,6 @@
                     "@id": "css:cresol"
                 },
                 {
-                    "@id": "css:sc_mo"
-                },
-                {
                     "@id": "css:tiverb_ot_-ti"
                 },
                 {
@@ -677,9 +572,6 @@
                 },
                 {
                     "@id": "css:aeo_c15_vertakt"
-                },
-                {
-                    "@id": "css:hf_mt"
                 },
                 {
                     "@id": "css:cd_tl"
@@ -709,16 +601,10 @@
                     "@id": "css:c18:2atma"
                 },
                 {
-                    "@id": "css:bi_mt"
-                },
-                {
                     "@id": "css:pox"
                 },
                 {
                     "@id": "css:thm_t"
-                },
-                {
-                    "@id": "css:gd_mt"
                 },
                 {
                     "@id": "css:c18pyr"
@@ -728,9 +614,6 @@
                 },
                 {
                     "@id": "css:pfc_exl_pfos__pfoa"
-                },
-                {
-                    "@id": "css:sn_mo"
                 },
                 {
                     "@id": "css:aromatenc9som"
@@ -766,13 +649,7 @@
                     "@id": "css:opgelostorganischkoolstofdoc"
                 },
                 {
-                    "@id": "css:mo_mo"
-                },
-                {
                     "@id": "css:mak_i"
-                },
-                {
-                    "@id": "css:au_mt"
                 },
                 {
                     "@id": "css:organischestofhumus"
@@ -787,22 +664,13 @@
                     "@id": "css:pcb_28_31"
                 },
                 {
-                    "@id": "css:ru_mt"
-                },
-                {
                     "@id": "css:alk_c10-12"
-                },
-                {
-                    "@id": "css:th_mo"
                 },
                 {
                     "@id": "css:pak_tot"
                 },
                 {
                     "@id": "css:oyfolsom"
-                },
-                {
-                    "@id": "css:te_mo"
                 },
                 {
                     "@id": "css:kjn"
@@ -824,9 +692,6 @@
                 },
                 {
                     "@id": "css:24_25myfol"
-                },
-                {
-                    "@id": "css:rb_mt"
                 },
                 {
                     "@id": "css:dicnibzsom"
@@ -874,13 +739,7 @@
                     "@id": "css:vluchtigeveturenalsazijnzuur"
                 },
                 {
-                    "@id": "css:tm_mt"
-                },
-                {
                     "@id": "css:aeo_c17"
-                },
-                {
-                    "@id": "css:la_mt"
                 },
                 {
                     "@id": "css:mineraleolievluchtigtotaal"
@@ -904,13 +763,7 @@
                     "@id": "css:7_metalen_totaal"
                 },
                 {
-                    "@id": "css:ti_mo"
-                },
-                {
                     "@id": "css:3_4eyfol"
-                },
-                {
-                    "@id": "css:k_mo"
                 },
                 {
                     "@id": "css:mineraleoliec16-c22"
@@ -928,9 +781,6 @@
                     "@id": "css:tcees"
                 },
                 {
-                    "@id": "css:cu_mo"
-                },
-                {
                     "@id": "css:dn_t"
                 },
                 {
@@ -940,16 +790,13 @@
                     "@id": "css:aox"
                 },
                 {
-                    "@id": "css:ga_mo"
-                },
-                {
                     "@id": "css:alifatengroterdanec16totec21"
                 },
                 {
                     "@id": "css:pfoa_som"
                 },
                 {
-                    "@id": "css:c14admba"
+                    "@id": "css:aromatenc12"
                 },
                 {
                     "@id": "css:kws_t"
@@ -958,7 +805,7 @@
                     "@id": "css:mineraleoliec6-c12"
                 },
                 {
-                    "@id": "css:aromatenc12"
+                    "@id": "css:c14admba"
                 },
                 {
                     "@id": "css:vetextraheerbaar"
@@ -973,13 +820,10 @@
                     "@id": "css:alif__ox"
                 },
                 {
-                    "@id": "css:extrah__st_"
-                },
-                {
                     "@id": "css:butanol"
                 },
                 {
-                    "@id": "css:w_mo"
+                    "@id": "css:extrah__st_"
                 },
                 {
                     "@id": "css:onbekendezuurstofverbinding"
@@ -988,16 +832,10 @@
                     "@id": "css:mineraleoliec10-c20"
                 },
                 {
-                    "@id": "css:ta_mo"
-                },
-                {
                     "@id": "css:min_oliec10-c40"
                 },
                 {
                     "@id": "css:arom_c9-c10"
-                },
-                {
-                    "@id": "css:dmyfol_som"
                 },
                 {
                     "@id": "css:kationischedetergenten"
@@ -1006,40 +844,43 @@
                     "@id": "css:arom_c9"
                 },
                 {
+                    "@id": "css:dmyfol_som"
+                },
+                {
                     "@id": "css:vluchtigechloorkoolwaterstoffensom"
                 },
                 {
                     "@id": "css:c18atma"
                 },
                 {
-                    "@id": "css:al_comp_"
+                    "@id": "css:neg_xnmvos"
                 },
                 {
                     "@id": "css:bjflu_bep"
                 },
                 {
-                    "@id": "css:neg_xnmvos"
+                    "@id": "css:aeo_c12"
                 },
                 {
                     "@id": "css:wasbenzine"
                 },
                 {
-                    "@id": "css:aeo_c12"
+                    "@id": "css:tocl"
                 },
                 {
                     "@id": "css:xyl__eybz"
                 },
                 {
-                    "@id": "css:tocl"
+                    "@id": "css:al_comp_"
                 },
                 {
                     "@id": "css:kws_c30-40"
                 },
                 {
-                    "@id": "css:n_t"
+                    "@id": "css:c18admba"
                 },
                 {
-                    "@id": "css:c18admba"
+                    "@id": "css:n_t"
                 },
                 {
                     "@id": "css:kws_ap_"
@@ -1066,25 +907,19 @@
                     "@id": "css:hfk"
                 },
                 {
-                    "@id": "css:os_mt"
-                },
-                {
                     "@id": "css:zs"
                 },
                 {
                     "@id": "css:neg_oasf"
                 },
                 {
-                    "@id": "css:24_25-cfol"
+                    "@id": "css:apeo_c15"
                 },
                 {
                     "@id": "css:dcbzdines"
                 },
                 {
-                    "@id": "css:apeo_c15"
-                },
-                {
-                    "@id": "css:be_mo"
+                    "@id": "css:24_25-cfol"
                 },
                 {
                     "@id": "css:mineraleoliec26-c34"
@@ -1105,16 +940,13 @@
                     "@id": "css:c18:1atma"
                 },
                 {
-                    "@id": "css:ni_mo"
-                },
-                {
                     "@id": "css:cl"
                 },
                 {
-                    "@id": "css:dcee"
+                    "@id": "css:alifatengroterdanec12totec16"
                 },
                 {
-                    "@id": "css:alifatengroterdanec12totec16"
+                    "@id": "css:dcee"
                 },
                 {
                     "@id": "css:pcb_t"
@@ -1132,19 +964,10 @@
                     "@id": "css:as_co_ni_cd_se_cr.vi"
                 },
                 {
-                    "@id": "css:rb_mo"
-                },
-                {
                     "@id": "css:cu_ni_zn_cr"
                 },
                 {
                     "@id": "css:mineraleoliec10-c12"
-                },
-                {
-                    "@id": "css:hg_mo"
-                },
-                {
-                    "@id": "css:sm_mo"
                 },
                 {
                     "@id": "css:h3o_"
@@ -1183,12 +1006,6 @@
                     "@id": "css:vetvrij"
                 },
                 {
-                    "@id": "css:ga_mt"
-                },
-                {
-                    "@id": "css:zr_mo"
-                },
-                {
                     "@id": "css:alk__gt_c13"
                 },
                 {
@@ -1225,13 +1042,10 @@
                     "@id": "css:persistente_kws"
                 },
                 {
-                    "@id": "css:8_metalen_totaal"
-                },
-                {
                     "@id": "css:onbekendereekszuurstofverbindingen"
                 },
                 {
-                    "@id": "css:er_mo"
+                    "@id": "css:8_metalen_totaal"
                 },
                 {
                     "@id": "css:mineraleoliec2-c6"
@@ -1246,19 +1060,16 @@
                     "@id": "css:mineraleoliec36-c40"
                 },
                 {
-                    "@id": "css:aes"
+                    "@id": "css:pak_5"
                 },
                 {
                     "@id": "css:d13c"
                 },
                 {
-                    "@id": "css:pak_5"
+                    "@id": "css:aes"
                 },
                 {
                     "@id": "css:cnyl_t"
-                },
-                {
-                    "@id": "css:eu_mo"
                 },
                 {
                     "@id": "css:kjn__f"
@@ -1324,9 +1135,6 @@
                     "@id": "css:ont_s"
                 },
                 {
-                    "@id": "css:sm_mt"
-                },
-                {
                     "@id": "css:12cbz_13cbz"
                 },
                 {
@@ -1339,16 +1147,16 @@
                     "@id": "css:pbs"
                 },
                 {
-                    "@id": "css:bde_85_154"
+                    "@id": "css:opp_t"
                 },
                 {
-                    "@id": "css:nso"
+                    "@id": "css:bde_85_154"
                 },
                 {
                     "@id": "css:buta_tria_ala_acet"
                 },
                 {
-                    "@id": "css:opp_t"
+                    "@id": "css:nso"
                 },
                 {
                     "@id": "css:mineraleoliegroterdanc15"
@@ -1417,9 +1225,6 @@
                     "@id": "css:halonen"
                 },
                 {
-                    "@id": "css:ge_mt"
-                },
-                {
                     "@id": "css:es_ttcee"
                 },
                 {
@@ -1430,9 +1235,6 @@
                 },
                 {
                     "@id": "css:ccl4"
-                },
-                {
-                    "@id": "css:eu_mt"
                 },
                 {
                     "@id": "css:apeo_c10"
@@ -1447,16 +1249,10 @@
                     "@id": "css:mineraleoliec8-c10"
                 },
                 {
-                    "@id": "css:dy_mo"
-                },
-                {
                     "@id": "css:cl_v"
                 },
                 {
                     "@id": "css:acrylaatpolymeren"
-                },
-                {
-                    "@id": "css:v_mo"
                 },
                 {
                     "@id": "css:arseentrioxideenarseenpentoxide_as"
@@ -1465,13 +1261,7 @@
                     "@id": "css:ac_acrol"
                 },
                 {
-                    "@id": "css:ce_mo"
-                },
-                {
                     "@id": "css:met_ex_zn_fe_mn_pb_a"
-                },
-                {
-                    "@id": "css:hf_mo"
                 },
                 {
                     "@id": "css:c16admba"
@@ -1487,9 +1277,6 @@
                 },
                 {
                     "@id": "css:anmvos_t"
-                },
-                {
-                    "@id": "css:tm_mo"
                 },
                 {
                     "@id": "css:cr_cu_ni_pb_zn"
@@ -1510,25 +1297,13 @@
                     "@id": "css:calux"
                 },
                 {
-                    "@id": "css:zn_mo"
-                },
-                {
-                    "@id": "css:y_mo"
-                },
-                {
                     "@id": "css:doc"
-                },
-                {
-                    "@id": "css:ho_mo"
                 },
                 {
                     "@id": "css:cyalk"
                 },
                 {
                     "@id": "css:1buteen__"
-                },
-                {
-                    "@id": "css:la_mo"
                 },
                 {
                     "@id": "css:mineraleoliekleinerdanc25"
@@ -1543,13 +1318,7 @@
                     "@id": "css:vos"
                 },
                 {
-                    "@id": "css:cd_mo"
-                },
-                {
                     "@id": "css:nh3_no2-"
-                },
-                {
-                    "@id": "css:au_mo"
                 },
                 {
                     "@id": "css:mineraleoliec8-c12"
@@ -1558,19 +1327,16 @@
                     "@id": "css:fosfor_totaal"
                 },
                 {
-                    "@id": "css:hpc_epx"
-                },
-                {
                     "@id": "css:ddt_t"
                 },
                 {
-                    "@id": "css:apeo_c18"
+                    "@id": "css:hpc_epx"
                 },
                 {
                     "@id": "css:aeo_c18"
                 },
                 {
-                    "@id": "css:ca_mo"
+                    "@id": "css:apeo_c18"
                 },
                 {
                     "@id": "css:c14quin"
@@ -1600,9 +1366,6 @@
                     "@id": "css:cl_ot"
                 },
                 {
-                    "@id": "css:3_4myfol"
-                },
-                {
                     "@id": "css:ddt__dde_en_isom"
                 },
                 {
@@ -1618,10 +1381,10 @@
                     "@id": "css:c18quin"
                 },
                 {
-                    "@id": "css:las/abs"
+                    "@id": "css:3_4myfol"
                 },
                 {
-                    "@id": "css:nb_mt"
+                    "@id": "css:las/abs"
                 },
                 {
                     "@id": "css:cd_cr_cu_ni_pb_zn"
@@ -1657,15 +1420,6 @@
                     "@id": "css:latex"
                 },
                 {
-                    "@id": "css:s_mo"
-                },
-                {
-                    "@id": "css:tb_mt"
-                },
-                {
-                    "@id": "css:in_mo"
-                },
-                {
                     "@id": "css:cresol_c"
                 },
                 {
@@ -1684,22 +1438,13 @@
                     "@id": "css:ocp_t_imjv"
                 },
                 {
-                    "@id": "css:ta_mt"
-                },
-                {
                     "@id": "css:3_4cfol"
-                },
-                {
-                    "@id": "css:tl_mo"
                 },
                 {
                     "@id": "css:stoffr_o"
                 },
                 {
                     "@id": "css:c14isoquin"
-                },
-                {
-                    "@id": "css:pd_mo"
                 },
                 {
                     "@id": "css:aeo_c15"
@@ -1729,16 +1474,10 @@
                     "@id": "css:ttcdbd_t"
                 },
                 {
-                    "@id": "css:mg_mo"
-                },
-                {
                     "@id": "css:bap___bbflu_som"
                 },
                 {
                     "@id": "css:mineraleoliec16-c20"
-                },
-                {
-                    "@id": "css:ge_mo"
                 },
                 {
                     "@id": "css:na-zouten"
@@ -1747,16 +1486,10 @@
                     "@id": "css:n-fenol"
                 },
                 {
-                    "@id": "css:co_mo"
-                },
-                {
                     "@id": "css:anionischedetergenten"
                 },
                 {
                     "@id": "css:tam"
-                },
-                {
-                    "@id": "css:nd_mt"
                 },
                 {
                     "@id": "css:apeo_c8"
@@ -1790,9 +1523,6 @@
                 },
                 {
                     "@id": "css:niet-ionischedetergenten"
-                },
-                {
-                    "@id": "css:na_mo"
                 }
             ],
             "skos:prefLabel": {
@@ -1800,33 +1530,6 @@
                 "@value": "Codelijst groeperingen en sommaties van chemische stoffen"
             },
             "@type": "skos:ConceptScheme"
-        },
-        {
-            "@id": "css:hg_mo",
-            "cs:vmmParameterId": {
-                "@value": "2014",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Kwik, multi opgelost"
-            },
-            "skos:notation": "Hg mo",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
         },
         {
             "@id": "css:btbdpe",
@@ -1942,60 +1645,6 @@
                 "@value": "1779",
                 "@type": "xsd:int"
             }
-        },
-        {
-            "@id": "css:th_mt",
-            "cs:vmmParameterId": {
-                "@value": "1974",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Thorium, multi totaal"
-            },
-            "skos:notation": "Th mt",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:pb_mo",
-            "cs:vmmParameterId": {
-                "@value": "2029",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Lood, multi opgelost"
-            },
-            "skos:notation": "Pb mo",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
         },
         {
             "@id": "css:aromatenc10som",
@@ -2298,33 +1947,6 @@
             "@type": "skos:Concept"
         },
         {
-            "@id": "css:cs_mo",
-            "cs:vmmParameterId": {
-                "@value": "2004",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Cesium, multi opgelost"
-            },
-            "skos:notation": "Cs mo",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
             "@id": "css:nisurf",
             "cs:vmmParameterId": {
                 "@value": "300",
@@ -2346,33 +1968,6 @@
                 "@value": "Surfactanten, niet-ionogene"
             },
             "skos:notation": "NISurf",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:mg_mo",
-            "cs:vmmParameterId": {
-                "@value": "2020",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Magnesium, multi opgelost"
-            },
-            "skos:notation": "Mg mo",
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
@@ -2454,33 +2049,6 @@
                 "@value": "Nonylfenolen + ethoxylaten"
             },
             "skos:notation": "NyFol+et",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:se_mo",
-            "cs:vmmParameterId": {
-                "@value": "2039",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Seleen, multi opgelost"
-            },
-            "skos:notation": "Se mo",
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
@@ -2714,33 +2282,6 @@
             "@type": "skos:Concept"
         },
         {
-            "@id": "css:ca_mo",
-            "cs:vmmParameterId": {
-                "@value": "1997",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Calcium, multi opgelost"
-            },
-            "skos:notation": "Ca mo",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
             "@id": "css:alkanen_alkenen",
             "cs:vmmParameterId": {
                 "@value": "1678",
@@ -2866,33 +2407,6 @@
                 "@value": "Fenolen, gechloreerde"
             },
             "skos:notation": "Fol c",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:sc_mt",
-            "cs:vmmParameterId": {
-                "@value": "1965",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Scandium, multi totaal"
-            },
-            "skos:notation": "Sc mt",
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
@@ -3084,33 +2598,6 @@
             "@type": "skos:Concept"
         },
         {
-            "@id": "css:hf_mt",
-            "cs:vmmParameterId": {
-                "@value": "1939",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Hafnium, multi totaal"
-            },
-            "skos:notation": "Hf mt",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
             "@id": "css:tmybz",
             "cs:vmmParameterId": {
                 "@value": "1749",
@@ -3245,60 +2732,6 @@
             "@type": "skos:Concept"
         },
         {
-            "@id": "css:nd_mt",
-            "cs:vmmParameterId": {
-                "@value": "1952",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Neodymium, multi totaal"
-            },
-            "skos:notation": "Nd mt",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:th_mo",
-            "cs:vmmParameterId": {
-                "@value": "2047",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Thorium, multi opgelost"
-            },
-            "skos:notation": "Th mo",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
             "@id": "css:som129_excl_ox",
             "cs:vmmParameterId": {
                 "@value": "1694",
@@ -3382,33 +2815,6 @@
                 "@value": "NSO-verbindingen"
             },
             "skos:notation": "NSO",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:tb_mt",
-            "cs:vmmParameterId": {
-                "@value": "1972",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Terbium, multi totaal"
-            },
-            "skos:notation": "Tb mt",
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
@@ -3594,33 +3000,6 @@
                 "@value": "Kwaternaire ammoniumzouten"
             },
             "skos:notation": "NH4 zt",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:au_mt",
-            "cs:vmmParameterId": {
-                "@value": "1920",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Goud, multi totaal"
-            },
-            "skos:notation": "Au mt",
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
@@ -3966,33 +3345,6 @@
             "@type": "skos:Concept"
         },
         {
-            "@id": "css:yb_mt",
-            "cs:vmmParameterId": {
-                "@value": "1982",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Ytterbium, multi totaal"
-            },
-            "skos:notation": "Yb mt",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
             "@id": "css:ipytol",
             "cs:vmmParameterId": {
                 "@value": "917",
@@ -4014,60 +3366,6 @@
                 "@value": "Isopropyltolueen"
             },
             "skos:notation": "iPyTol",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:ga_mt",
-            "cs:vmmParameterId": {
-                "@value": "1936",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Gallium, multi totaal"
-            },
-            "skos:notation": "Ga mt",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:sc_mo",
-            "cs:vmmParameterId": {
-                "@value": "2038",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Scandium, multi opgelost"
-            },
-            "skos:notation": "Sc mo",
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
@@ -4247,33 +3545,6 @@
             "@type": "skos:Concept"
         },
         {
-            "@id": "css:ti_mo",
-            "cs:vmmParameterId": {
-                "@value": "2048",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Titaan, multi opgelost"
-            },
-            "skos:notation": "Ti mo",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
             "@id": "css:apeo_c14",
             "cs:vmmParameterId": {
                 "@value": "1831",
@@ -4295,33 +3566,6 @@
                 "@value": "Alkylfenolethoxylaat C14"
             },
             "skos:notation": "APEO C14",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:zr_mo",
-            "cs:vmmParameterId": {
-                "@value": "2058",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Zirkonium, multi opgelost"
-            },
-            "skos:notation": "Zr mo",
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
@@ -4404,114 +3648,6 @@
             },
             "dbo:casNumber": "64743-03-9",
             "skos:notation": "Fol t"
-        },
-        {
-            "@id": "css:v_mo",
-            "cs:vmmParameterId": {
-                "@value": "2053",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Vanadium, multi opgelost"
-            },
-            "skos:notation": "V mo",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:k_mo",
-            "cs:vmmParameterId": {
-                "@value": "2017",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Kalium, multi opgelost"
-            },
-            "skos:notation": "K mo",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:mpxyl",
-            "cs:vmmParameterId": {
-                "@value": "214",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Xylenen (m+p)"
-            },
-            "skos:notation": "mpXyl",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:la_mt",
-            "cs:vmmParameterId": {
-                "@value": "1944",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Lanthaan, multi totaal"
-            },
-            "skos:notation": "La mt",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
         },
         {
             "@id": "css:thm_t_excl_3clethyl",
@@ -4609,9 +3745,9 @@
             ]
         },
         {
-            "@id": "css:re_mo",
+            "@id": "css:mpxyl",
             "cs:vmmParameterId": {
-                "@value": "2034",
+                "@value": "214",
                 "@type": "xsd:int"
             },
             "dcat:theme": [
@@ -4627,36 +3763,9 @@
             },
             "skos:prefLabel": {
                 "@language": "nl",
-                "@value": "Renium, multi opgelost"
+                "@value": "Xylenen (m+p)"
             },
-            "skos:notation": "Re mo",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:hf_mo",
-            "cs:vmmParameterId": {
-                "@value": "2013",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Hafnium, multi opgelost"
-            },
-            "skos:notation": "Hf mo",
+            "skos:notation": "mpXyl",
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
@@ -4713,33 +3822,6 @@
             "@type": "skos:Concept"
         },
         {
-            "@id": "css:nd_mo",
-            "cs:vmmParameterId": {
-                "@value": "2025",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Neodymium, multi opgelost"
-            },
-            "skos:notation": "Nd mo",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
             "@id": "css:onbekendealifatischeverbinding",
             "dcat:theme": [
                 {
@@ -4757,33 +3839,6 @@
                 "@value": "Onbekende alifatische verbinding"
             },
             "skos:notation": "Onbekendealifatischeverbinding",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:tb_mo",
-            "cs:vmmParameterId": {
-                "@value": "2045",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Terbium, multi opgelost"
-            },
-            "skos:notation": "Tb mo",
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
@@ -4834,33 +3889,6 @@
                 "@value": "Minerale olie C32 - C36"
             },
             "skos:notation": "MineraleolieC32-C36",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:au_mo",
-            "cs:vmmParameterId": {
-                "@value": "1988",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Goud, multi opgelost"
-            },
-            "skos:notation": "Au mo",
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
@@ -5102,33 +4130,6 @@
             "@type": "skos:Concept"
         },
         {
-            "@id": "css:cr_mo",
-            "cs:vmmParameterId": {
-                "@value": "2002",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Chroom, multi opgelost"
-            },
-            "skos:notation": "Cr mo",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
             "@id": "css:c18atma",
             "cs:vmmParameterId": {
                 "@value": "1124",
@@ -5177,33 +4178,6 @@
                 "@value": "Stoffractie, totaal"
             },
             "skos:notation": "Stoffr t",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:aeo_c10_vertakt",
-            "cs:vmmParameterId": {
-                "@value": "1837",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Alkylethoxylaat C10 vertakt"
-            },
-            "skos:notation": "AEO C10 vertakt",
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
@@ -5260,9 +4234,9 @@
             "@type": "skos:Concept"
         },
         {
-            "@id": "css:yb_mo",
+            "@id": "css:aeo_c10_vertakt",
             "cs:vmmParameterId": {
-                "@value": "2056",
+                "@value": "1837",
                 "@type": "xsd:int"
             },
             "dcat:theme": [
@@ -5278,9 +4252,9 @@
             },
             "skos:prefLabel": {
                 "@language": "nl",
-                "@value": "Ytterbium, multi opgelost"
+                "@value": "Alkylethoxylaat C10 vertakt"
             },
-            "skos:notation": "Yb mo",
+            "skos:notation": "AEO C10 vertakt",
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
@@ -5501,33 +4475,6 @@
                 "@value": "Som van Xylenen en Ethylbenzeen"
             },
             "skos:notation": "(Xyl, EyBz)",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:ga_mo",
-            "cs:vmmParameterId": {
-                "@value": "2010",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Gallium, multi opgelost"
-            },
-            "skos:notation": "Ga mo",
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
@@ -5906,87 +4853,6 @@
             }
         },
         {
-            "@id": "css:la_mo",
-            "cs:vmmParameterId": {
-                "@value": "2018",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Lanthaan, multi opgelost"
-            },
-            "skos:notation": "La mo",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:pr_mt",
-            "cs:vmmParameterId": {
-                "@value": "1958",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Praesodymium, multi totaal"
-            },
-            "skos:notation": "Pr mt",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:p_mo",
-            "cs:vmmParameterId": {
-                "@value": "2028",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Fosfor, multi opgelost"
-            },
-            "skos:notation": "P mo",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
             "@id": "css:c14eo",
             "cs:vmmParameterId": {
                 "@value": "1108",
@@ -6070,33 +4936,6 @@
             },
             "@type": "skos:Concept",
             "skos:notation": "1235+1245CBz"
-        },
-        {
-            "@id": "css:ni_mo",
-            "cs:vmmParameterId": {
-                "@value": "2026",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Nikkel, multi opgelost"
-            },
-            "skos:notation": "Ni mo",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
         },
         {
             "@id": "css:apeo_c9",
@@ -6201,41 +5040,6 @@
                 "@id": "vlcs:sommatie_stoffen"
             },
             "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:3_4eyfol",
-            "skos:narrowMatch": [
-                {
-                    "@id": "csc:HXDOZKJGKXYMEW-UHFFFAOYSA-N"
-                },
-                {
-                    "@id": "csc:HMNKTRSOROOSPP-UHFFFAOYSA-N"
-                }
-            ],
-            "cs:vmmParameterId": {
-                "@value": "785",
-                "@type": "xsd:int"
-            },
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "3+4-Ethylfenol"
-            },
-            "@type": "skos:Concept",
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:notation": "3+4EyFol",
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            }
         },
         {
             "@id": "css:tcee__ttcee__dcma",
@@ -6355,11 +5159,27 @@
             "@type": "skos:Concept"
         },
         {
-            "@id": "css:ta_mt",
+            "@id": "css:3_4eyfol",
+            "skos:narrowMatch": [
+                {
+                    "@id": "csc:HXDOZKJGKXYMEW-UHFFFAOYSA-N"
+                },
+                {
+                    "@id": "csc:HMNKTRSOROOSPP-UHFFFAOYSA-N"
+                }
+            ],
             "cs:vmmParameterId": {
-                "@value": "1971",
+                "@value": "785",
                 "@type": "xsd:int"
             },
+            "skos:inScheme": {
+                "@id": "vlcs:sommatie_stoffen"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "3+4-Ethylfenol"
+            },
+            "@type": "skos:Concept",
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -6368,18 +5188,10 @@
                     "@id": "gemet:2912"
                 }
             ],
+            "skos:notation": "3+4EyFol",
             "skos:topConceptOf": {
                 "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Tantaal, multi totaal"
-            },
-            "skos:notation": "Ta mt",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
+            }
         },
         {
             "@id": "css:c18:2atma",
@@ -6403,29 +5215,6 @@
                 "@value": "Octadecadienyltrimethylammonium"
             },
             "skos:notation": "C18:2ATMA",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:onbekendecycloalkaan",
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Onbekende cycloalkaan"
-            },
-            "skos:notation": "Onbekendecycloalkaan",
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
@@ -6513,11 +5302,7 @@
             "@type": "skos:Concept"
         },
         {
-            "@id": "css:eu_mt",
-            "cs:vmmParameterId": {
-                "@value": "1934",
-                "@type": "xsd:int"
-            },
+            "@id": "css:onbekendecycloalkaan",
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -6531,9 +5316,9 @@
             },
             "skos:prefLabel": {
                 "@language": "nl",
-                "@value": "Europium, multi totaal"
+                "@value": "Onbekende cycloalkaan"
             },
-            "skos:notation": "Eu mt",
+            "skos:notation": "Onbekendecycloalkaan",
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
@@ -6910,33 +5695,6 @@
             "@type": "skos:Concept"
         },
         {
-            "@id": "css:si_mo",
-            "cs:vmmParameterId": {
-                "@value": "2040",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Silicium, multi opgelost"
-            },
-            "skos:notation": "Si mo",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
             "@id": "css:kws_nm",
             "cs:vmmParameterId": {
                 "@value": "1268",
@@ -7027,9 +5785,6 @@
                     "@id": "css:triazine"
                 },
                 {
-                    "@id": "css:eu_mt"
-                },
-                {
                     "@id": "css:cl-verb"
                 },
                 {
@@ -7043,15 +5798,6 @@
                 },
                 {
                     "@id": "css:c14dadma"
-                },
-                {
-                    "@id": "css:ge_mt"
-                },
-                {
-                    "@id": "css:in_mo"
-                },
-                {
-                    "@id": "css:cs_mt"
                 },
                 {
                     "@id": "css:apeo_c15"
@@ -7076,9 +5822,6 @@
                 },
                 {
                     "@id": "css:neg_anmvos"
-                },
-                {
-                    "@id": "css:sr_mo"
                 },
                 {
                     "@id": "css:c14quin"
@@ -7111,9 +5854,6 @@
                     "@id": "css:nox"
                 },
                 {
-                    "@id": "css:hg_mo"
-                },
-                {
                     "@id": "css:pcdd_pcdf"
                 },
                 {
@@ -7124,9 +5864,6 @@
                 },
                 {
                     "@id": "css:adeidrin"
-                },
-                {
-                    "@id": "css:rb_mt"
                 },
                 {
                     "@id": "css:pox"
@@ -7162,13 +5899,7 @@
                     "@id": "css:sp_opp_"
                 },
                 {
-                    "@id": "css:th_mo"
-                },
-                {
                     "@id": "css:nmvos_t"
-                },
-                {
-                    "@id": "css:be_mo"
                 },
                 {
                     "@id": "css:xnmvos_t"
@@ -7186,19 +5917,13 @@
                     "@id": "css:pak_15"
                 },
                 {
-                    "@id": "css:ta_mo"
-                },
-                {
                     "@id": "css:cfk"
-                },
-                {
-                    "@id": "css:bc"
                 },
                 {
                     "@id": "css:ftal"
                 },
                 {
-                    "@id": "css:sc_mt"
+                    "@id": "css:bc"
                 },
                 {
                     "@id": "css:trs-s_so2-s"
@@ -7213,16 +5938,10 @@
                     "@id": "css:fuh_t"
                 },
                 {
-                    "@id": "css:te_mo"
-                },
-                {
                     "@id": "css:ompxyl"
                 },
                 {
                     "@id": "css:mno4_k"
-                },
-                {
-                    "@id": "css:os_mt"
                 },
                 {
                     "@id": "css:metalen_excl__al_fe"
@@ -7231,13 +5950,10 @@
                     "@id": "css:alk__gt_c13"
                 },
                 {
-                    "@id": "css:c14eo"
-                },
-                {
                     "@id": "css:alif__ox"
                 },
                 {
-                    "@id": "css:tb_mt"
+                    "@id": "css:c14eo"
                 },
                 {
                     "@id": "css:white-spirit"
@@ -7246,19 +5962,10 @@
                     "@id": "css:23_35myfol_4eyfol"
                 },
                 {
-                    "@id": "css:sn_mo"
-                },
-                {
                     "@id": "css:cl"
                 },
                 {
-                    "@id": "css:v_mo"
-                },
-                {
                     "@id": "css:dicnibzsom"
-                },
-                {
-                    "@id": "css:ti_mo"
                 },
                 {
                     "@id": "css:pcb_pct_t"
@@ -7273,9 +5980,6 @@
                     "@id": "css:c18:1admba"
                 },
                 {
-                    "@id": "css:ga_mo"
-                },
-                {
                     "@id": "css:c16eo"
                 },
                 {
@@ -7286,12 +5990,6 @@
                 },
                 {
                     "@id": "css:sb_as_pb_cr_co_cu_mn_ni_v"
-                },
-                {
-                    "@id": "css:ho_mt"
-                },
-                {
-                    "@id": "css:se_mo"
                 },
                 {
                     "@id": "css:aeo_c11_vertakt"
@@ -7306,13 +6004,7 @@
                     "@id": "css:tmybz"
                 },
                 {
-                    "@id": "css:la_mt"
-                },
-                {
                     "@id": "css:extrah__st_"
-                },
-                {
-                    "@id": "css:si_mo"
                 },
                 {
                     "@id": "css:cd_cr_cu_ni_pb_zn"
@@ -7321,16 +6013,10 @@
                     "@id": "css:fe_al"
                 },
                 {
-                    "@id": "css:lu_mt"
-                },
-                {
                     "@id": "css:fol_c"
                 },
                 {
                     "@id": "css:se_v_u_th_te"
-                },
-                {
-                    "@id": "css:w_mo"
                 },
                 {
                     "@id": "css:apeo_c8"
@@ -7348,19 +6034,7 @@
                     "@id": "css:oyfolsom"
                 },
                 {
-                    "@id": "css:bi_mt"
-                },
-                {
-                    "@id": "css:gd_mo"
-                },
-                {
-                    "@id": "css:pr_mo"
-                },
-                {
                     "@id": "css:3_4myfol"
-                },
-                {
-                    "@id": "css:hf_mt"
                 },
                 {
                     "@id": "css:calux"
@@ -7369,25 +6043,10 @@
                     "@id": "css:stoffr_o"
                 },
                 {
-                    "@id": "css:pt_mo"
-                },
-                {
-                    "@id": "css:gd_mt"
-                },
-                {
                     "@id": "css:ac_acrol"
                 },
                 {
                     "@id": "css:es_pe"
-                },
-                {
-                    "@id": "css:mg_mo"
-                },
-                {
-                    "@id": "css:tm_mt"
-                },
-                {
-                    "@id": "css:rb_mo"
                 },
                 {
                     "@id": "css:tvplds"
@@ -7411,9 +6070,6 @@
                     "@id": "css:dcee"
                 },
                 {
-                    "@id": "css:ga_mt"
-                },
-                {
                     "@id": "css:kjn"
                 },
                 {
@@ -7429,13 +6085,7 @@
                     "@id": "css:surf_kid_nid"
                 },
                 {
-                    "@id": "css:ru_mt"
-                },
-                {
                     "@id": "css:kisurf"
-                },
-                {
-                    "@id": "css:cd_mo"
                 },
                 {
                     "@id": "css:met_excl_zn_fe_mn_al"
@@ -7445,9 +6095,6 @@
                 },
                 {
                     "@id": "css:surf_t"
-                },
-                {
-                    "@id": "css:zr_mo"
                 },
                 {
                     "@id": "css:ocp_t_imjv"
@@ -7460,9 +6107,6 @@
                 },
                 {
                     "@id": "css:dioxines"
-                },
-                {
-                    "@id": "css:sc_mo"
                 },
                 {
                     "@id": "css:cans"
@@ -7483,19 +6127,7 @@
                     "@id": "css:tcee__dcee_tcea"
                 },
                 {
-                    "@id": "css:pd_mo"
-                },
-                {
-                    "@id": "css:dy_mo"
-                },
-                {
                     "@id": "css:bjflu_bep"
-                },
-                {
-                    "@id": "css:yb_mo"
-                },
-                {
-                    "@id": "css:p_mo"
                 },
                 {
                     "@id": "css:bflu_som"
@@ -7504,28 +6136,19 @@
                     "@id": "css:sb_pb_cr_cu_mn_v_sn"
                 },
                 {
-                    "@id": "css:u_mo"
-                },
-                {
-                    "@id": "css:mg_mt"
-                },
-                {
                     "@id": "css:sn_t_"
                 },
                 {
                     "@id": "css:ti_t_"
                 },
                 {
-                    "@id": "css:kws_c12-20"
-                },
-                {
                     "@id": "css:persist__min__olie"
                 },
                 {
-                    "@id": "css:thm_t"
+                    "@id": "css:kws_c12-20"
                 },
                 {
-                    "@id": "css:nb_mo"
+                    "@id": "css:thm_t"
                 },
                 {
                     "@id": "css:s=___merc_"
@@ -7534,13 +6157,7 @@
                     "@id": "css:dmyfol_som"
                 },
                 {
-                    "@id": "css:sb_mo"
-                },
-                {
                     "@id": "css:aeo_c12"
-                },
-                {
-                    "@id": "css:la_mo"
                 },
                 {
                     "@id": "css:nisurf"
@@ -7568,9 +6185,6 @@
                 },
                 {
                     "@id": "css:aeo_c14"
-                },
-                {
-                    "@id": "css:na_mo"
                 },
                 {
                     "@id": "css:solvent"
@@ -7601,9 +6215,6 @@
                 },
                 {
                     "@id": "css:trs"
-                },
-                {
-                    "@id": "css:dy_mt"
                 },
                 {
                     "@id": "css:vocl_t"
@@ -7678,9 +6289,6 @@
                     "@id": "css:cu_ni_zn_cr"
                 },
                 {
-                    "@id": "css:nb_mt"
-                },
-                {
                     "@id": "css:mno4_wf"
                 },
                 {
@@ -7709,9 +6317,6 @@
                 },
                 {
                     "@id": "css:arom_c9-c10"
-                },
-                {
-                    "@id": "css:pr_mt"
                 },
                 {
                     "@id": "css:pver_o"
@@ -7744,19 +6349,10 @@
                     "@id": "css:nh4_zt"
                 },
                 {
-                    "@id": "css:k_mo"
-                },
-                {
                     "@id": "css:zs_as"
                 },
                 {
                     "@id": "css:det_zonder_gisting"
-                },
-                {
-                    "@id": "css:nd_mo"
-                },
-                {
-                    "@id": "css:tb_mo"
                 },
                 {
                     "@id": "css:som129_excl_ox"
@@ -7786,9 +6382,6 @@
                     "@id": "css:tocl"
                 },
                 {
-                    "@id": "css:th_mt"
-                },
-                {
                     "@id": "css:hpcepx"
                 },
                 {
@@ -7799,9 +6392,6 @@
                 },
                 {
                     "@id": "css:c12eo"
-                },
-                {
-                    "@id": "css:ce_mo"
                 },
                 {
                     "@id": "css:opgl__vt"
@@ -7822,9 +6412,6 @@
                     "@id": "css:es_ccl4"
                 },
                 {
-                    "@id": "css:cr_mo"
-                },
-                {
                     "@id": "css:gechlor__oplosm_"
                 },
                 {
@@ -7837,13 +6424,10 @@
                     "@id": "css:n_n_n"
                 },
                 {
-                    "@id": "css:1235_1245cbz"
-                },
-                {
                     "@id": "css:aes"
                 },
                 {
-                    "@id": "css:y_mt"
+                    "@id": "css:1235_1245cbz"
                 },
                 {
                     "@id": "css:kws_c10-12"
@@ -7891,9 +6475,6 @@
                     "@id": "css:neg_xnmvos"
                 },
                 {
-                    "@id": "css:pb_mo"
-                },
-                {
                     "@id": "css:c14pyr"
                 },
                 {
@@ -7910,12 +6491,6 @@
                 },
                 {
                     "@id": "css:cl__gebonden"
-                },
-                {
-                    "@id": "css:co_mo"
-                },
-                {
-                    "@id": "css:nd_mt"
                 },
                 {
                     "@id": "css:dinyftofdidyft"
@@ -7939,9 +6514,6 @@
                     "@id": "css:btbdpe"
                 },
                 {
-                    "@id": "css:yb_mt"
-                },
-                {
                     "@id": "css:apeo_c10"
                 },
                 {
@@ -7952,9 +6524,6 @@
                 },
                 {
                     "@id": "css:br-_i-"
-                },
-                {
-                    "@id": "css:tm_mo"
                 },
                 {
                     "@id": "css:aisurf"
@@ -7969,13 +6538,10 @@
                     "@id": "css:as_co_ni_cd_se_cr.vi"
                 },
                 {
-                    "@id": "css:kws_c20-30"
-                },
-                {
                     "@id": "css:oyfolet"
                 },
                 {
-                    "@id": "css:cs_mo"
+                    "@id": "css:kws_c20-30"
                 },
                 {
                     "@id": "css:pcdbd_t"
@@ -7987,13 +6553,13 @@
                     "@id": "css:stof_t"
                 },
                 {
-                    "@id": "css:naftenaten"
+                    "@id": "css:c16quin"
                 },
                 {
                     "@id": "css:xyl__eybz"
                 },
                 {
-                    "@id": "css:c16quin"
+                    "@id": "css:naftenaten"
                 },
                 {
                     "@id": "css:cu__pb__ni__zn"
@@ -8020,9 +6586,6 @@
                     "@id": "css:latex"
                 },
                 {
-                    "@id": "css:sm_mo"
-                },
-                {
                     "@id": "css:sn_anorg_t"
                 },
                 {
@@ -8030,9 +6593,6 @@
                 },
                 {
                     "@id": "css:c18atma"
-                },
-                {
-                    "@id": "css:mn_mo"
                 },
                 {
                     "@id": "css:nh3_no2-"
@@ -8071,16 +6631,10 @@
                     "@id": "css:sccp"
                 },
                 {
-                    "@id": "css:tl_mo"
-                },
-                {
                     "@id": "css:pcb_t_pct_t"
                 },
                 {
                     "@id": "css:dcdfytcea"
-                },
-                {
-                    "@id": "css:ta_mt"
                 },
                 {
                     "@id": "css:alk_c10-12"
@@ -8104,10 +6658,10 @@
                     "@id": "css:som1_1_1-trichloorethaan_per-_tri-entetrachloorethyleen"
                 },
                 {
-                    "@id": "css:alk_c10-14"
+                    "@id": "css:kjn__f"
                 },
                 {
-                    "@id": "css:kjn__f"
+                    "@id": "css:alk_c10-14"
                 },
                 {
                     "@id": "css:c14isoquin"
@@ -8134,31 +6688,16 @@
                     "@id": "css:can_i"
                 },
                 {
-                    "@id": "css:sm_mt"
-                },
-                {
-                    "@id": "css:au_mt"
-                },
-                {
                     "@id": "css:c16:1atma"
                 },
                 {
                     "@id": "css:cresol"
                 },
                 {
-                    "@id": "css:ni_mo"
-                },
-                {
-                    "@id": "css:cu_mo"
-                },
-                {
-                    "@id": "css:os_mo"
+                    "@id": "css:1c2_3_4nibzs"
                 },
                 {
                     "@id": "css:c18dadma"
-                },
-                {
-                    "@id": "css:1c2_3_4nibzs"
                 },
                 {
                     "@id": "css:alcoholen"
@@ -8173,16 +6712,13 @@
                     "@id": "css:c10peo"
                 },
                 {
-                    "@id": "css:c18:2dadma"
-                },
-                {
                     "@id": "css:fol_c__i"
                 },
                 {
                     "@id": "css:apeo_c6"
                 },
                 {
-                    "@id": "css:mo_mo"
+                    "@id": "css:c18:2dadma"
                 },
                 {
                     "@id": "css:pak_16"
@@ -8198,9 +6734,6 @@
                 },
                 {
                     "@id": "css:vox_i"
-                },
-                {
-                    "@id": "css:ca_mo"
                 },
                 {
                     "@id": "css:hpo3²-"
@@ -8254,25 +6787,19 @@
                     "@id": "css:c18quin"
                 },
                 {
-                    "@id": "css:n-fenol"
-                },
-                {
                     "@id": "css:oasf_t"
                 },
                 {
-                    "@id": "css:es_ttcee"
+                    "@id": "css:n-fenol"
                 },
                 {
-                    "@id": "css:zn_mo"
+                    "@id": "css:es_ttcee"
                 },
                 {
                     "@id": "css:ttcdbd_t"
                 },
                 {
                     "@id": "css:aeo_c18"
-                },
-                {
-                    "@id": "css:hf_mo"
                 },
                 {
                     "@id": "css:n_t"
@@ -8305,9 +6832,6 @@
                     "@id": "css:pak_2"
                 },
                 {
-                    "@id": "css:au_mo"
-                },
-                {
                     "@id": "css:pak_10"
                 },
                 {
@@ -8321,9 +6845,6 @@
                 },
                 {
                     "@id": "css:asbest"
-                },
-                {
-                    "@id": "css:ru_mo"
                 },
                 {
                     "@id": "css:pak_4"
@@ -8353,22 +6874,13 @@
                     "@id": "css:oyfol_et"
                 },
                 {
-                    "@id": "css:fe_mo"
-                },
-                {
-                    "@id": "css:eu_mo"
-                },
-                {
                     "@id": "css:aeo_c10"
-                },
-                {
-                    "@id": "css:mpxyl"
                 },
                 {
                     "@id": "css:fol_h2o_vlucht"
                 },
                 {
-                    "@id": "css:ho_mo"
+                    "@id": "css:mpxyl"
                 },
                 {
                     "@id": "css:pfos__pfba__pfbs"
@@ -8384,12 +6896,6 @@
                 },
                 {
                     "@id": "css:aeo_c15_vertakt"
-                },
-                {
-                    "@id": "css:ge_mo"
-                },
-                {
-                    "@id": "css:re_mo"
                 },
                 {
                     "@id": "css:xyl__styr"
@@ -8416,19 +6922,7 @@
                     "@id": "css:hpc_epx"
                 },
                 {
-                    "@id": "css:lu_mo"
-                },
-                {
-                    "@id": "css:er_mo"
-                },
-                {
                     "@id": "css:clfyl_t"
-                },
-                {
-                    "@id": "css:er_mt"
-                },
-                {
-                    "@id": "css:bi_mo"
                 },
                 {
                     "@id": "css:c18admba"
@@ -8443,25 +6937,19 @@
                     "@id": "css:as_co_ni_cd_se_cr.vi_sb_pb_cr.iii_cu_mn_v_sn"
                 },
                 {
-                    "@id": "css:bde_85_154"
-                },
-                {
                     "@id": "css:onp_t"
                 },
                 {
-                    "@id": "css:c16isoquin"
+                    "@id": "css:bde_85_154"
                 },
                 {
                     "@id": "css:pak_excl_naftaleen"
                 },
                 {
-                    "@id": "css:y_mo"
+                    "@id": "css:c16isoquin"
                 },
                 {
                     "@id": "css:cr_zn_mn_cu"
-                },
-                {
-                    "@id": "css:s_mo"
                 },
                 {
                     "@id": "css:mak_t"
@@ -8558,87 +7046,6 @@
                 "@value": "Alkylfenolethoxylaat C13"
             },
             "skos:notation": "APEO C13",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:ge_mt",
-            "cs:vmmParameterId": {
-                "@value": "1938",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Germanium, multi totaal"
-            },
-            "skos:notation": "Ge mt",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:in_mo",
-            "cs:vmmParameterId": {
-                "@value": "2016",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Indium, multi opgelost"
-            },
-            "skos:notation": "In mo",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:cs_mt",
-            "cs:vmmParameterId": {
-                "@value": "1930",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Cesium, multi totaal"
-            },
-            "skos:notation": "Cs mt",
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
@@ -8774,33 +7181,6 @@
                 "@value": "Fluor en zijn anorganische verbindingen"
             },
             "skos:notation": "F an.",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:sr_mo",
-            "cs:vmmParameterId": {
-                "@value": "2043",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Strontium, multi opgelost"
-            },
-            "skos:notation": "Sr mo",
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
@@ -9094,33 +7474,6 @@
                 "@language": "nl",
                 "@value": "Aldrin+Dieldrin+Endrin+Isodrin"
             }
-        },
-        {
-            "@id": "css:rb_mt",
-            "cs:vmmParameterId": {
-                "@value": "1960",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Rubidium, multi totaal"
-            },
-            "skos:notation": "Rb mt",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
         },
         {
             "@id": "css:dcbzdines",
@@ -9433,33 +7786,6 @@
             "@type": "skos:Concept"
         },
         {
-            "@id": "css:be_mo",
-            "cs:vmmParameterId": {
-                "@value": "1995",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Beryllium, multi opgelost"
-            },
-            "skos:notation": "Be mo",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
             "@id": "css:kws_c30-40",
             "cs:vmmParameterId": {
                 "@value": "992",
@@ -9539,33 +7865,6 @@
                 "@value": "Polyaromatische KWS (15 EPA)"
             },
             "skos:notation": "PAK 15",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:ta_mo",
-            "cs:vmmParameterId": {
-                "@value": "2044",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Tantaal, multi opgelost"
-            },
-            "skos:notation": "Ta mo",
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
@@ -9703,33 +8002,6 @@
             "@type": "skos:Concept"
         },
         {
-            "@id": "css:te_mo",
-            "cs:vmmParameterId": {
-                "@value": "2046",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Telluur, multi opgelost"
-            },
-            "skos:notation": "Te mo",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
             "@id": "css:mno4_k",
             "cs:vmmParameterId": {
                 "@value": "293",
@@ -9751,33 +8023,6 @@
                 "@value": "Permanganaatverbruik, koud"
             },
             "skos:notation": "MnO4 k",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:os_mt",
-            "cs:vmmParameterId": {
-                "@value": "1954",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Osmium, multi totaal"
-            },
-            "skos:notation": "Os mt",
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
@@ -9898,33 +8143,6 @@
                 "@value": "2,3+3,5-Dimethylfenol+4-Ethylfenol"
             },
             "skos:notation": "23+35MyFol+4EyFol"
-        },
-        {
-            "@id": "css:sn_mo",
-            "cs:vmmParameterId": {
-                "@value": "2042",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Tin, multi opgelost"
-            },
-            "skos:notation": "Sn mo",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
         },
         {
             "@id": "css:cl",
@@ -10135,33 +8353,6 @@
             "@type": "skos:Concept"
         },
         {
-            "@id": "css:ho_mt",
-            "cs:vmmParameterId": {
-                "@value": "1941",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Holmium, multi totaal"
-            },
-            "skos:notation": "Ho mt",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
             "@id": "css:aeo_c11_vertakt",
             "cs:vmmParameterId": {
                 "@value": "1838",
@@ -10270,60 +8461,6 @@
             "@type": "skos:Concept"
         },
         {
-            "@id": "css:lu_mt",
-            "cs:vmmParameterId": {
-                "@value": "1945",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Lutetium, multi totaal"
-            },
-            "skos:notation": "Lu mt",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:w_mo",
-            "cs:vmmParameterId": {
-                "@value": "2054",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Wolfraam, multi opgelost"
-            },
-            "skos:notation": "W mo",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
             "@id": "css:n_n",
             "cs:vmmParameterId": {
                 "@value": "7",
@@ -10405,87 +8542,6 @@
             "@type": "skos:Concept"
         },
         {
-            "@id": "css:bi_mt",
-            "cs:vmmParameterId": {
-                "@value": "1924",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Bismut, multi totaal"
-            },
-            "skos:notation": "Bi mt",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:gd_mo",
-            "cs:vmmParameterId": {
-                "@value": "2011",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Gadolinium, multi opgelost"
-            },
-            "skos:notation": "Gd mo",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:pr_mo",
-            "cs:vmmParameterId": {
-                "@value": "2031",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Praesodymium, multi opgelost"
-            },
-            "skos:notation": "Pr mo",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
             "@id": "css:3_4myfol",
             "dcat:theme": [
                 {
@@ -10548,60 +8604,6 @@
             "@type": "skos:Concept"
         },
         {
-            "@id": "css:pt_mo",
-            "cs:vmmParameterId": {
-                "@value": "2032",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Platina, multi opgelost"
-            },
-            "skos:notation": "Pt mo",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:gd_mt",
-            "cs:vmmParameterId": {
-                "@value": "1937",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Gadolinium, multi totaal"
-            },
-            "skos:notation": "Gd mt",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
             "@id": "css:ac_acrol",
             "cs:vmmParameterId": {
                 "@value": "1100",
@@ -10653,60 +8655,6 @@
                 "@value": "Petroleumether extraheerbare stoffen"
             },
             "skos:notation": "ES pe",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:tm_mt",
-            "cs:vmmParameterId": {
-                "@value": "1977",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Thullium, multi totaal"
-            },
-            "skos:notation": "Tm mt",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:rb_mo",
-            "cs:vmmParameterId": {
-                "@value": "2033",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Rubidium, multi opgelost"
-            },
-            "skos:notation": "Rb mo",
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
@@ -10969,33 +8917,6 @@
             "@type": "skos:Concept"
         },
         {
-            "@id": "css:ru_mt",
-            "cs:vmmParameterId": {
-                "@value": "1962",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Ruthenium, multi totaal"
-            },
-            "skos:notation": "Ru mt",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
             "@id": "css:kisurf",
             "cs:vmmParameterId": {
                 "@value": "297",
@@ -11017,33 +8938,6 @@
                 "@value": "Surfactanten, kationische"
             },
             "skos:notation": "KISurf",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:cd_mo",
-            "cs:vmmParameterId": {
-                "@value": "1998",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Cadmium, multi opgelost"
-            },
-            "skos:notation": "Cd mo",
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
@@ -11405,60 +9299,6 @@
             "@type": "skos:Concept"
         },
         {
-            "@id": "css:pd_mo",
-            "cs:vmmParameterId": {
-                "@value": "2030",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Palladium, multi opgelost"
-            },
-            "skos:notation": "Pd mo",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:dy_mo",
-            "cs:vmmParameterId": {
-                "@value": "2005",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Dysprosium, multi opgelost"
-            },
-            "skos:notation": "Dy mo",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
             "@id": "css:bjflu_bep",
             "cs:vmmParameterId": {
                 "@value": "1299",
@@ -11536,60 +9376,6 @@
             "@type": "skos:Concept"
         },
         {
-            "@id": "css:u_mo",
-            "cs:vmmParameterId": {
-                "@value": "2052",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Uranium, multi opgelost"
-            },
-            "skos:notation": "U mo",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:mg_mt",
-            "cs:vmmParameterId": {
-                "@value": "1946",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Magnesium, multi totaal"
-            },
-            "skos:notation": "Mg mt",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
             "@id": "css:ti_t_",
             "cs:vmmParameterId": {
                 "@value": "1488",
@@ -11611,33 +9397,6 @@
                 "@value": "Titaan, totaal incl. oxiden"
             },
             "skos:notation": "Ti t+",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:kws_c12-20",
-            "cs:vmmParameterId": {
-                "@value": "990",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Apolaire koolwaterstoffen, fractie C12-C20"
-            },
-            "skos:notation": "KWS C12-20",
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
@@ -11671,6 +9430,33 @@
             "@type": "skos:Concept"
         },
         {
+            "@id": "css:kws_c12-20",
+            "cs:vmmParameterId": {
+                "@value": "990",
+                "@type": "xsd:int"
+            },
+            "dcat:theme": [
+                {
+                    "@id": "gemet:9214"
+                },
+                {
+                    "@id": "gemet:2912"
+                }
+            ],
+            "skos:topConceptOf": {
+                "@id": "vlcs:sommatie_stoffen"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Apolaire koolwaterstoffen, fractie C12-C20"
+            },
+            "skos:notation": "KWS C12-20",
+            "skos:inScheme": {
+                "@id": "vlcs:sommatie_stoffen"
+            },
+            "@type": "skos:Concept"
+        },
+        {
             "@id": "css:thm_t",
             "cs:vmmParameterId": {
                 "@value": "390",
@@ -11698,33 +9484,6 @@
             "@type": "skos:Concept"
         },
         {
-            "@id": "css:nb_mo",
-            "cs:vmmParameterId": {
-                "@value": "2024",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Niobium, multi opgelost"
-            },
-            "skos:notation": "Nb mo",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
             "@id": "css:dmyfol_som",
             "cs:vmmParameterId": {
                 "@value": "1773",
@@ -11746,33 +9505,6 @@
                 "@value": "som van de dimethylfenolen"
             },
             "skos:notation": "DMyFol som",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:sb_mo",
-            "cs:vmmParameterId": {
-                "@value": "2037",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Antimoon, multi opgelost"
-            },
-            "skos:notation": "Sb mo",
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
@@ -11931,33 +9663,6 @@
                 "@value": "Alkylethoxylaat C14"
             },
             "skos:notation": "AEO C14",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:na_mo",
-            "cs:vmmParameterId": {
-                "@value": "2023",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Natrium, multi opgelost"
-            },
-            "skos:notation": "Na mo",
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
@@ -12207,33 +9912,6 @@
                 "@value": "Totaal gereduceerde zwavel (TRS)"
             },
             "skos:notation": "TRS",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:dy_mt",
-            "cs:vmmParameterId": {
-                "@value": "1932",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Dysprosium, multi totaal"
-            },
-            "skos:notation": "Dy mt",
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
@@ -13429,33 +11107,6 @@
             "@type": "skos:Concept"
         },
         {
-            "@id": "css:nb_mt",
-            "cs:vmmParameterId": {
-                "@value": "1951",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Niobium, multi totaal"
-            },
-            "skos:notation": "Nb mt",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
             "@id": "css:gechl__arom",
             "cs:vmmParameterId": {
                 "@value": "1682",
@@ -13992,33 +11643,6 @@
             "@type": "skos:Concept"
         },
         {
-            "@id": "css:ce_mo",
-            "cs:vmmParameterId": {
-                "@value": "1999",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Cerium, multi opgelost"
-            },
-            "skos:notation": "Ce mo",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
             "@id": "css:opgl__vt",
             "cs:vmmParameterId": {
                 "@value": "1730",
@@ -14256,33 +11880,6 @@
                 "@value": "Aromaten C9"
             },
             "skos:notation": "Arom C9",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:y_mt",
-            "cs:vmmParameterId": {
-                "@value": "1981",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Yttrium, multi totaal"
-            },
-            "skos:notation": "Y mt",
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
@@ -14748,33 +12345,6 @@
             "@type": "skos:Concept"
         },
         {
-            "@id": "css:co_mo",
-            "cs:vmmParameterId": {
-                "@value": "2000",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Kobalt, multi opgelost"
-            },
-            "skos:notation": "Co mo",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
             "@id": "css:dinyftofdidyft",
             "cs:vmmParameterId": {
                 "@value": "1543",
@@ -14958,33 +12528,6 @@
                 "@value": "Bromide + Iodide"
             },
             "skos:notation": "Br-+I-",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:tm_mo",
-            "cs:vmmParameterId": {
-                "@value": "2051",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Thullium, multi opgelost"
-            },
-            "skos:notation": "Tm mo",
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
@@ -15176,33 +12719,6 @@
             "@type": "skos:Concept"
         },
         {
-            "@id": "css:naftenaten",
-            "cs:vmmParameterId": {
-                "@value": "2125",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Naftenaten"
-            },
-            "skos:notation": "Naftenaten",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
             "@id": "css:c16quin",
             "cs:vmmParameterId": {
                 "@value": "1136",
@@ -15224,6 +12740,33 @@
                 "@value": "Hexadecylquinolinium"
             },
             "skos:notation": "C16Quin",
+            "skos:inScheme": {
+                "@id": "vlcs:sommatie_stoffen"
+            },
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "css:naftenaten",
+            "cs:vmmParameterId": {
+                "@value": "2125",
+                "@type": "xsd:int"
+            },
+            "dcat:theme": [
+                {
+                    "@id": "gemet:9214"
+                },
+                {
+                    "@id": "gemet:2912"
+                }
+            ],
+            "skos:topConceptOf": {
+                "@id": "vlcs:sommatie_stoffen"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Naftenaten"
+            },
+            "skos:notation": "Naftenaten",
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
@@ -15392,33 +12935,6 @@
             "@type": "skos:Concept"
         },
         {
-            "@id": "css:sm_mo",
-            "cs:vmmParameterId": {
-                "@value": "2041",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Samarium, multi opgelost"
-            },
-            "skos:notation": "Sm mo",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
             "@id": "css:sn_anorg_t",
             "cs:vmmParameterId": {
                 "@value": "1685",
@@ -15467,33 +12983,6 @@
                 "@value": "Heptachloordibenzodioxine, totaal"
             },
             "skos:notation": "HpCdBD t",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:mn_mo",
-            "cs:vmmParameterId": {
-                "@value": "2021",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Mangaan, multi opgelost"
-            },
-            "skos:notation": "Mn mo",
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
@@ -15768,33 +13257,6 @@
                 "@value": "Korte ketting gechloreerde parafinen"
             },
             "skos:notation": "SCCP",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:tl_mo",
-            "cs:vmmParameterId": {
-                "@value": "2050",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Thallium, multi opgelost"
-            },
-            "skos:notation": "Tl mo",
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
@@ -16152,114 +13614,6 @@
             "skos:notation": "fosfor totaal"
         },
         {
-            "@id": "css:sm_mt",
-            "cs:vmmParameterId": {
-                "@value": "1968",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Samarium, multi totaal"
-            },
-            "skos:notation": "Sm mt",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:cu_mo",
-            "cs:vmmParameterId": {
-                "@value": "2006",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Koper, multi opgelost"
-            },
-            "skos:notation": "Cu mo",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:os_mo",
-            "cs:vmmParameterId": {
-                "@value": "2027",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Osmium, multi opgelost"
-            },
-            "skos:notation": "Os mo",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:c18dadma",
-            "cs:vmmParameterId": {
-                "@value": "1131",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Dioctadecyldimethylammonium"
-            },
-            "skos:notation": "C18DADMA",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
             "@id": "css:1c2_3_4nibzs",
             "skos:narrowMatch": [
                 {
@@ -16356,6 +13710,33 @@
                 "@language": "nl",
                 "@value": "Chloornitrobenzenen"
             }
+        },
+        {
+            "@id": "css:c18dadma",
+            "cs:vmmParameterId": {
+                "@value": "1131",
+                "@type": "xsd:int"
+            },
+            "dcat:theme": [
+                {
+                    "@id": "gemet:9214"
+                },
+                {
+                    "@id": "gemet:2912"
+                }
+            ],
+            "skos:topConceptOf": {
+                "@id": "vlcs:sommatie_stoffen"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Dioctadecyldimethylammonium"
+            },
+            "skos:notation": "C18DADMA",
+            "skos:inScheme": {
+                "@id": "vlcs:sommatie_stoffen"
+            },
+            "@type": "skos:Concept"
         },
         {
             "@id": "css:alcoholen",
@@ -16462,33 +13843,6 @@
             "@type": "skos:Concept"
         },
         {
-            "@id": "css:c18:2dadma",
-            "cs:vmmParameterId": {
-                "@value": "1149",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Dioctadecadienyldimethylammonium"
-            },
-            "skos:notation": "C18:2DADMA",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
             "@id": "css:fol_c__i",
             "cs:vmmParameterId": {
                 "@value": "1759",
@@ -16543,9 +13897,9 @@
             "@type": "skos:Concept"
         },
         {
-            "@id": "css:mo_mo",
+            "@id": "css:c18:2dadma",
             "cs:vmmParameterId": {
-                "@value": "2022",
+                "@value": "1149",
                 "@type": "xsd:int"
             },
             "dcat:theme": [
@@ -16561,9 +13915,9 @@
             },
             "skos:prefLabel": {
                 "@language": "nl",
-                "@value": "Molybdeen, multi opgelost"
+                "@value": "Dioctadecadienyldimethylammonium"
             },
-            "skos:notation": "Mo mo",
+            "skos:notation": "C18:2DADMA",
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
@@ -16948,33 +14302,6 @@
             "@type": "skos:Concept"
         },
         {
-            "@id": "css:zn_mo",
-            "cs:vmmParameterId": {
-                "@value": "2057",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Zink, multi opgelost"
-            },
-            "skos:notation": "Zn mo",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
             "@id": "css:ttcdbd_t",
             "cs:vmmParameterId": {
                 "@value": "1337",
@@ -17342,33 +14669,6 @@
             "@type": "skos:Concept"
         },
         {
-            "@id": "css:ru_mo",
-            "cs:vmmParameterId": {
-                "@value": "2035",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Ruthenium, multi opgelost"
-            },
-            "skos:notation": "Ru mo",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
             "@id": "css:oc",
             "cs:vmmParameterId": {
                 "@value": "1269",
@@ -17531,60 +14831,6 @@
             "@type": "skos:Concept"
         },
         {
-            "@id": "css:fe_mo",
-            "cs:vmmParameterId": {
-                "@value": "2009",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Ijzer, multi opgelost"
-            },
-            "skos:notation": "Fe mo",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:eu_mo",
-            "cs:vmmParameterId": {
-                "@value": "2008",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Europium, multi opgelost"
-            },
-            "skos:notation": "Eu mo",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
             "@id": "css:fol_h2o_vlucht",
             "cs:vmmParameterId": {
                 "@value": "1683",
@@ -17606,33 +14852,6 @@
                 "@value": "met waterdamp vluchtige fenolen"
             },
             "skos:notation": "Fol h2o_vlucht",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:ho_mo",
-            "cs:vmmParameterId": {
-                "@value": "2015",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Holmium, multi opgelost"
-            },
-            "skos:notation": "Ho mo",
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
@@ -17687,33 +14906,6 @@
                 "@value": "Cycloalkanen"
             },
             "skos:notation": "cyAlk",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:ge_mo",
-            "cs:vmmParameterId": {
-                "@value": "2012",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Germanium, multi opgelost"
-            },
-            "skos:notation": "Ge mo",
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
@@ -17828,60 +15020,6 @@
             "@type": "skos:Concept"
         },
         {
-            "@id": "css:lu_mo",
-            "cs:vmmParameterId": {
-                "@value": "2019",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Lutetium, multi opgelost"
-            },
-            "skos:notation": "Lu mo",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:er_mo",
-            "cs:vmmParameterId": {
-                "@value": "2007",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Erbium, multi opgelost"
-            },
-            "skos:notation": "Er mo",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
             "@id": "css:clfyl_t",
             "cs:vmmParameterId": {
                 "@value": "120",
@@ -17903,60 +15041,6 @@
                 "@value": "Chlorofyl, totaal"
             },
             "skos:notation": "Clfyl t",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:er_mt",
-            "cs:vmmParameterId": {
-                "@value": "1933",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Erbium, multi totaal"
-            },
-            "skos:notation": "Er mt",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:bi_mo",
-            "cs:vmmParameterId": {
-                "@value": "1996",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Bismut, multi opgelost"
-            },
-            "skos:notation": "Bi mo",
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
@@ -18044,33 +15128,6 @@
             "@type": "skos:Concept"
         },
         {
-            "@id": "css:bde_85_154",
-            "cs:vmmParameterId": {
-                "@value": "954",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "BDE 85+154"
-            },
-            "skos:notation": "BDE 85+154",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
             "@id": "css:onp_t",
             "cs:vmmParameterId": {
                 "@value": "897",
@@ -18098,9 +15155,9 @@
             "@type": "skos:Concept"
         },
         {
-            "@id": "css:c16isoquin",
+            "@id": "css:bde_85_154",
             "cs:vmmParameterId": {
-                "@value": "1139",
+                "@value": "954",
                 "@type": "xsd:int"
             },
             "dcat:theme": [
@@ -18116,9 +15173,9 @@
             },
             "skos:prefLabel": {
                 "@language": "nl",
-                "@value": "Hexadecylisoquinolinium"
+                "@value": "BDE 85+154"
             },
-            "skos:notation": "C16isoQuin",
+            "skos:notation": "BDE 85+154",
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
@@ -18152,9 +15209,9 @@
             "@type": "skos:Concept"
         },
         {
-            "@id": "css:y_mo",
+            "@id": "css:c16isoquin",
             "cs:vmmParameterId": {
-                "@value": "2055",
+                "@value": "1139",
                 "@type": "xsd:int"
             },
             "dcat:theme": [
@@ -18170,9 +15227,9 @@
             },
             "skos:prefLabel": {
                 "@language": "nl",
-                "@value": "Yttrium, multi opgelost"
+                "@value": "Hexadecylisoquinolinium"
             },
-            "skos:notation": "Y mo",
+            "skos:notation": "C16isoQuin",
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
@@ -18200,33 +15257,6 @@
                 "@value": "Som van 4 metalen totaal Cr, Zn, Mn en Cu"
             },
             "skos:notation": "(Cr,Zn,Mn,Cu)",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "css:s_mo",
-            "cs:vmmParameterId": {
-                "@value": "2036",
-                "@type": "xsd:int"
-            },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Zwavel, multi opgelost"
-            },
-            "skos:notation": "S mo",
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
@@ -18823,29 +15853,6 @@
             "@type": "skos:Concept"
         },
         {
-            "@id": "css:anionischedetergenten",
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Anionische detergenten"
-            },
-            "skos:notation": "Anionischedetergenten",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
             "@id": "css:mineraleoliegroterdanc15",
             "dcat:theme": [
                 {
@@ -18863,6 +15870,29 @@
                 "@value": "Minerale olie groter dan C15"
             },
             "skos:notation": "MineraleoliegroterdanC15",
+            "skos:inScheme": {
+                "@id": "vlcs:sommatie_stoffen"
+            },
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "css:anionischedetergenten",
+            "dcat:theme": [
+                {
+                    "@id": "gemet:9214"
+                },
+                {
+                    "@id": "gemet:2912"
+                }
+            ],
+            "skos:topConceptOf": {
+                "@id": "vlcs:sommatie_stoffen"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Anionische detergenten"
+            },
+            "skos:notation": "Anionischedetergenten",
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
@@ -19351,29 +16381,6 @@
             "@type": "skos:Concept"
         },
         {
-            "@id": "css:diesel",
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Minerale olie (als diesel)"
-            },
-            "skos:notation": "diesel",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept"
-        },
-        {
             "@id": "css:mineraleoliec20-c26",
             "dcat:theme": [
                 {
@@ -19391,6 +16398,29 @@
                 "@value": "Minerale olie C20 - C26"
             },
             "skos:notation": "MineraleolieC20-C26",
+            "skos:inScheme": {
+                "@id": "vlcs:sommatie_stoffen"
+            },
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "css:diesel",
+            "dcat:theme": [
+                {
+                    "@id": "gemet:9214"
+                },
+                {
+                    "@id": "gemet:2912"
+                }
+            ],
+            "skos:topConceptOf": {
+                "@id": "vlcs:sommatie_stoffen"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Minerale olie (als diesel)"
+            },
+            "skos:notation": "diesel",
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
