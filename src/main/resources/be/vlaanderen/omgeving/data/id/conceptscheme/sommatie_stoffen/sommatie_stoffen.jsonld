@@ -2,10 +2,6 @@
     "@graph": [
         {
             "@id": "css:na-zouten",
-            "cs:vmmParameterId": {
-                "@value": "1720",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -1533,10 +1529,6 @@
         },
         {
             "@id": "css:btbdpe",
-            "cs:vmmParameterId": {
-                "@value": "1000",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -1560,10 +1552,6 @@
         },
         {
             "@id": "css:cd_cr_cu_ni_pb_zn",
-            "cs:vmmParameterId": {
-                "@value": "1697",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -1640,11 +1628,7 @@
                 "@language": "nl",
                 "@value": "som 2-chloorfenol, 3-chloorfenol en 4-chloorfenol"
             },
-            "skos:notation": "2+3+4CFol",
-            "cs:vmmParameterId": {
-                "@value": "1779",
-                "@type": "xsd:int"
-            }
+            "skos:notation": "2+3+4CFol"
         },
         {
             "@id": "css:aromatenc10som",
@@ -1671,10 +1655,6 @@
         },
         {
             "@id": "css:c18:1dadma",
-            "cs:vmmParameterId": {
-                "@value": "1148",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -1721,10 +1701,6 @@
         },
         {
             "@id": "css:c18:1admba",
-            "cs:vmmParameterId": {
-                "@value": "1145",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -1748,10 +1724,6 @@
         },
         {
             "@id": "css:aeo_c10",
-            "cs:vmmParameterId": {
-                "@value": "2103",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -1775,10 +1747,6 @@
         },
         {
             "@id": "css:pak_4",
-            "cs:vmmParameterId": {
-                "@value": "1329",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -1825,10 +1793,6 @@
         },
         {
             "@id": "css:kws_t_vlucht",
-            "cs:vmmParameterId": {
-                "@value": "1686",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -1875,10 +1839,6 @@
         },
         {
             "@id": "css:alif__ox",
-            "cs:vmmParameterId": {
-                "@value": "1684",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -1948,10 +1908,6 @@
         },
         {
             "@id": "css:nisurf",
-            "cs:vmmParameterId": {
-                "@value": "300",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -1975,10 +1931,6 @@
         },
         {
             "@id": "css:bs",
-            "cs:vmmParameterId": {
-                "@value": "73",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -2002,10 +1954,6 @@
         },
         {
             "@id": "css:alk_c10-14",
-            "cs:vmmParameterId": {
-                "@value": "1856",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -2029,10 +1977,6 @@
         },
         {
             "@id": "css:nyfol_et",
-            "cs:vmmParameterId": {
-                "@value": "960",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -2102,10 +2046,6 @@
         },
         {
             "@id": "css:surf_ion",
-            "cs:vmmParameterId": {
-                "@value": "1748",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -2129,10 +2069,6 @@
         },
         {
             "@id": "css:pfc_exl_pfos__pfoa",
-            "cs:vmmParameterId": {
-                "@value": "1764",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -2156,10 +2092,6 @@
         },
         {
             "@id": "css:tfysn_som",
-            "cs:vmmParameterId": {
-                "@value": "1229",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -2183,10 +2115,6 @@
         },
         {
             "@id": "css:ddt_2_som",
-            "cs:vmmParameterId": {
-                "@value": "1214",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -2256,10 +2184,6 @@
         },
         {
             "@id": "css:neg_nmvos",
-            "cs:vmmParameterId": {
-                "@value": "1169",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -2283,10 +2207,6 @@
         },
         {
             "@id": "css:alkanen_alkenen",
-            "cs:vmmParameterId": {
-                "@value": "1678",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -2310,10 +2230,6 @@
         },
         {
             "@id": "css:ddt_t",
-            "cs:vmmParameterId": {
-                "@value": "907",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -2337,10 +2253,6 @@
         },
         {
             "@id": "css:met_ex_zn_fe_mn_pb_a",
-            "cs:vmmParameterId": {
-                "@value": "1725",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -2387,10 +2299,6 @@
         },
         {
             "@id": "css:fol_c",
-            "cs:vmmParameterId": {
-                "@value": "582",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -2414,10 +2322,6 @@
         },
         {
             "@id": "css:aes",
-            "cs:vmmParameterId": {
-                "@value": "1152",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -2441,10 +2345,6 @@
         },
         {
             "@id": "css:cfk_ind",
-            "cs:vmmParameterId": {
-                "@value": "1754",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -2468,10 +2368,6 @@
         },
         {
             "@id": "css:d13c",
-            "cs:vmmParameterId": {
-                "@value": "1326",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -2495,10 +2391,6 @@
         },
         {
             "@id": "css:apeo_c19",
-            "cs:vmmParameterId": {
-                "@value": "1836",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -2545,10 +2437,6 @@
         },
         {
             "@id": "css:mercapt",
-            "cs:vmmParameterId": {
-                "@value": "510",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -2572,10 +2460,6 @@
         },
         {
             "@id": "css:mno4_wf",
-            "cs:vmmParameterId": {
-                "@value": "296",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -2599,10 +2483,6 @@
         },
         {
             "@id": "css:tmybz",
-            "cs:vmmParameterId": {
-                "@value": "1749",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -2626,10 +2506,6 @@
         },
         {
             "@id": "css:apeo_c8",
-            "cs:vmmParameterId": {
-                "@value": "1825",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -2653,10 +2529,6 @@
         },
         {
             "@id": "css:1buteen__",
-            "cs:vmmParameterId": {
-                "@value": "746",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -2706,10 +2578,6 @@
         },
         {
             "@id": "css:nox",
-            "cs:vmmParameterId": {
-                "@value": "1160",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -2733,10 +2601,6 @@
         },
         {
             "@id": "css:som129_excl_ox",
-            "cs:vmmParameterId": {
-                "@value": "1694",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -2760,11 +2624,6 @@
         },
         {
             "@id": "css:24_25-cfol",
-            "skos:notation": "24+25-CFol",
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "2,4+2,5-Dichloorfenol"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -2776,29 +2635,26 @@
             "skos:topConceptOf": {
                 "@id": "vlcs:sommatie_stoffen"
             },
-            "@type": "skos:Concept",
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "2,4+2,5-Dichloorfenol"
+            },
+            "skos:notation": "24+25-CFol",
             "skos:narrowMatch": [
                 {
-                    "@id": "csc:RANCECPPZPIPNO-UHFFFAOYSA-N"
+                    "@id": "csc:HFZWRUODUSTPEG-UHFFFAOYSA-N"
                 },
                 {
-                    "@id": "csc:HFZWRUODUSTPEG-UHFFFAOYSA-N"
+                    "@id": "csc:RANCECPPZPIPNO-UHFFFAOYSA-N"
                 }
             ],
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
-            "cs:vmmParameterId": {
-                "@value": "922",
-                "@type": "xsd:int"
-            }
+            "@type": "skos:Concept"
         },
         {
             "@id": "css:nso",
-            "cs:vmmParameterId": {
-                "@value": "1776",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -2822,10 +2678,6 @@
         },
         {
             "@id": "css:pyrethroïden",
-            "cs:vmmParameterId": {
-                "@value": "1724",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -2849,10 +2701,6 @@
         },
         {
             "@id": "css:c14dadma",
-            "cs:vmmParameterId": {
-                "@value": "1129",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -2899,10 +2747,6 @@
         },
         {
             "@id": "css:bc",
-            "cs:vmmParameterId": {
-                "@value": "1286",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -2926,10 +2770,6 @@
         },
         {
             "@id": "css:ctols",
-            "cs:vmmParameterId": {
-                "@value": "1212",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -2953,10 +2793,6 @@
         },
         {
             "@id": "css:c14admba",
-            "cs:vmmParameterId": {
-                "@value": "1123",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -2980,10 +2816,6 @@
         },
         {
             "@id": "css:nh4_zt",
-            "cs:vmmParameterId": {
-                "@value": "593",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -3007,10 +2839,6 @@
         },
         {
             "@id": "css:buta_tria_ala_acet",
-            "cs:vmmParameterId": {
-                "@value": "1716",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -3034,10 +2862,6 @@
         },
         {
             "@id": "css:c12eo",
-            "cs:vmmParameterId": {
-                "@value": "1106",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -3061,10 +2885,6 @@
         },
         {
             "@id": "css:furanen",
-            "cs:vmmParameterId": {
-                "@value": "1486",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -3111,10 +2931,6 @@
         },
         {
             "@id": "css:aeo_c16",
-            "cs:vmmParameterId": {
-                "@value": "1843",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -3138,10 +2954,6 @@
         },
         {
             "@id": "css:m_ol_kws",
-            "cs:vmmParameterId": {
-                "@value": "458",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -3165,10 +2977,6 @@
         },
         {
             "@id": "css:sn_t_",
-            "cs:vmmParameterId": {
-                "@value": "1487",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -3192,10 +3000,6 @@
         },
         {
             "@id": "css:mno4_kf",
-            "cs:vmmParameterId": {
-                "@value": "294",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -3219,10 +3023,6 @@
         },
         {
             "@id": "css:c16:1admba",
-            "cs:vmmParameterId": {
-                "@value": "1144",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -3269,10 +3069,6 @@
         },
         {
             "@id": "css:hcdbfur_t",
-            "cs:vmmParameterId": {
-                "@value": "1343",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -3319,10 +3115,6 @@
         },
         {
             "@id": "css:arom_vlucht_i",
-            "cs:vmmParameterId": {
-                "@value": "1743",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -3346,10 +3138,6 @@
         },
         {
             "@id": "css:ipytol",
-            "cs:vmmParameterId": {
-                "@value": "917",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -3373,10 +3161,6 @@
         },
         {
             "@id": "css:acrylaatpolymeren",
-            "cs:vmmParameterId": {
-                "@value": "1723",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -3446,10 +3230,6 @@
         },
         {
             "@id": "css:pver_o",
-            "cs:vmmParameterId": {
-                "@value": "704",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -3519,10 +3299,6 @@
         },
         {
             "@id": "css:nyfolet",
-            "cs:vmmParameterId": {
-                "@value": "1053",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -3546,10 +3322,6 @@
         },
         {
             "@id": "css:apeo_c14",
-            "cs:vmmParameterId": {
-                "@value": "1831",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -3642,19 +3414,11 @@
             "skos:broadMatch": {
                 "@id": "csc:CHEMONTID_0002448"
             },
-            "cs:vmmParameterId": {
-                "@value": "949",
-                "@type": "xsd:int"
-            },
             "dbo:casNumber": "64743-03-9",
             "skos:notation": "Fol t"
         },
         {
             "@id": "css:thm_t_excl_3clethyl",
-            "cs:vmmParameterId": {
-                "@value": "1691",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -3728,10 +3492,6 @@
                 "@language": "nl",
                 "@value": "PCB totaal"
             },
-            "cs:vmmParameterId": {
-                "@value": "445",
-                "@type": "xsd:int"
-            },
             "skos:topConceptOf": {
                 "@id": "vlcs:sommatie_stoffen"
             },
@@ -3746,10 +3506,6 @@
         },
         {
             "@id": "css:mpxyl",
-            "cs:vmmParameterId": {
-                "@value": "214",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -3846,10 +3602,6 @@
         },
         {
             "@id": "css:c16:1atma",
-            "cs:vmmParameterId": {
-                "@value": "1141",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -3896,10 +3648,6 @@
         },
         {
             "@id": "css:c12quin",
-            "cs:vmmParameterId": {
-                "@value": "1134",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -3923,10 +3671,6 @@
         },
         {
             "@id": "css:aeo_c11",
-            "cs:vmmParameterId": {
-                "@value": "2104",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -3950,10 +3694,6 @@
         },
         {
             "@id": "css:pak_5",
-            "cs:vmmParameterId": {
-                "@value": "2145",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -4000,10 +3740,6 @@
         },
         {
             "@id": "css:cnitol",
-            "cs:vmmParameterId": {
-                "@value": "482",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -4027,10 +3763,6 @@
         },
         {
             "@id": "css:9_metalen_totaal",
-            "cs:vmmParameterId": {
-                "@value": "1706",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -4054,10 +3786,6 @@
         },
         {
             "@id": "css:apeo",
-            "cs:vmmParameterId": {
-                "@value": "881",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -4081,10 +3809,6 @@
         },
         {
             "@id": "css:dcbz",
-            "cs:vmmParameterId": {
-                "@value": "1717",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -4131,10 +3855,6 @@
         },
         {
             "@id": "css:c18atma",
-            "cs:vmmParameterId": {
-                "@value": "1124",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -4158,10 +3878,6 @@
         },
         {
             "@id": "css:stoffr_t",
-            "cs:vmmParameterId": {
-                "@value": "1316",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -4208,10 +3924,6 @@
         },
         {
             "@id": "css:ol_water",
-            "cs:vmmParameterId": {
-                "@value": "609",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -4235,10 +3947,6 @@
         },
         {
             "@id": "css:aeo_c10_vertakt",
-            "cs:vmmParameterId": {
-                "@value": "1837",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -4262,10 +3970,6 @@
         },
         {
             "@id": "css:kjn",
-            "cs:vmmParameterId": {
-                "@value": "298",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -4289,10 +3993,6 @@
         },
         {
             "@id": "css:pft_t",
-            "cs:vmmParameterId": {
-                "@value": "1049",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -4316,10 +4016,6 @@
         },
         {
             "@id": "css:nh3_no2-",
-            "cs:vmmParameterId": {
-                "@value": "1733",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -4343,10 +4039,6 @@
         },
         {
             "@id": "css:pfos__pfba__pfbs",
-            "cs:vmmParameterId": {
-                "@value": "1774",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -4370,10 +4062,6 @@
         },
         {
             "@id": "css:aeo_c15_vertakt",
-            "cs:vmmParameterId": {
-                "@value": "1842",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -4397,23 +4085,6 @@
         },
         {
             "@id": "css:2345_2346cfol",
-            "skos:narrowMatch": [
-                {
-                    "@id": "csc:RULKYXXCCZZKDZ-UHFFFAOYSA-N"
-                },
-                {
-                    "@id": "csc:VGVRPFIJEJYOFN-UHFFFAOYSA-N"
-                }
-            ],
-            "@type": "skos:Concept",
-            "skos:notation": "2345+2346CFol",
-            "cs:vmmParameterId": {
-                "@value": "793",
-                "@type": "xsd:int"
-            },
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -4428,7 +4099,20 @@
             "skos:prefLabel": {
                 "@language": "nl",
                 "@value": "2,3,4,5+2,3,4,6-Tetrachloorfenol"
-            }
+            },
+            "skos:notation": "2345+2346CFol",
+            "skos:narrowMatch": [
+                {
+                    "@id": "csc:VGVRPFIJEJYOFN-UHFFFAOYSA-N"
+                },
+                {
+                    "@id": "csc:RULKYXXCCZZKDZ-UHFFFAOYSA-N"
+                }
+            ],
+            "skos:inScheme": {
+                "@id": "vlcs:sommatie_stoffen"
+            },
+            "@type": "skos:Concept"
         },
         {
             "@id": "css:mineraleoliec34-c40",
@@ -4455,10 +4139,6 @@
         },
         {
             "@id": "css:xyl__eybz",
-            "cs:vmmParameterId": {
-                "@value": "1738",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -4505,10 +4185,6 @@
         },
         {
             "@id": "css:s=___merc_",
-            "cs:vmmParameterId": {
-                "@value": "1705",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -4532,10 +4208,6 @@
         },
         {
             "@id": "css:ccl4",
-            "cs:vmmParameterId": {
-                "@value": "993",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -4559,10 +4231,6 @@
         },
         {
             "@id": "css:tam",
-            "cs:vmmParameterId": {
-                "@value": "25",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -4586,10 +4254,6 @@
         },
         {
             "@id": "css:n_n_n",
-            "cs:vmmParameterId": {
-                "@value": "1437",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -4613,10 +4277,6 @@
         },
         {
             "@id": "css:pox",
-            "cs:vmmParameterId": {
-                "@value": "304",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -4644,10 +4304,6 @@
         },
         {
             "@id": "css:hpc_epx",
-            "cs:vmmParameterId": {
-                "@value": "948",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -4671,10 +4327,6 @@
         },
         {
             "@id": "css:hpo3²-",
-            "cs:vmmParameterId": {
-                "@value": "1742",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -4698,10 +4350,6 @@
         },
         {
             "@id": "css:alk_c",
-            "cs:vmmParameterId": {
-                "@value": "949",
-                "@type": "xsd:int"
-            },
             "skos:notation": "Alk c",
             "skos:topConceptOf": {
                 "@id": "vlcs:sommatie_stoffen"
@@ -4738,10 +4386,6 @@
         },
         {
             "@id": "css:opp_t",
-            "cs:vmmParameterId": {
-                "@value": "405",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -4765,10 +4409,6 @@
         },
         {
             "@id": "css:kws_c20-30",
-            "cs:vmmParameterId": {
-                "@value": "991",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -4792,10 +4432,6 @@
         },
         {
             "@id": "css:se_v_u_th_te",
-            "cs:vmmParameterId": {
-                "@value": "1709",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -4819,14 +4455,6 @@
         },
         {
             "@id": "css:111cea_112cea",
-            "skos:narrowMatch": [
-                {
-                    "@id": "csc:UOCLXMDMGBRAIB-UHFFFAOYSA-N"
-                },
-                {
-                    "@id": "csc:UBOXGVDOUJQMTN-UHFFFAOYSA-N"
-                }
-            ],
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -4835,29 +4463,29 @@
                     "@id": "gemet:2912"
                 }
             ],
-            "skos:inScheme": {
+            "skos:topConceptOf": {
                 "@id": "vlcs:sommatie_stoffen"
             },
-            "skos:notation": "(111CEa,112CEa)",
             "skos:prefLabel": {
                 "@language": "nl",
                 "@value": "Som 1,1,1-Trichloorethaan en 1,1,2-Trichloorethaan"
             },
-            "@type": "skos:Concept",
-            "cs:vmmParameterId": {
-                "@value": "1735",
-                "@type": "xsd:int"
-            },
-            "skos:topConceptOf": {
+            "skos:notation": "(111CEa,112CEa)",
+            "skos:narrowMatch": [
+                {
+                    "@id": "csc:UBOXGVDOUJQMTN-UHFFFAOYSA-N"
+                },
+                {
+                    "@id": "csc:UOCLXMDMGBRAIB-UHFFFAOYSA-N"
+                }
+            ],
+            "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
-            }
+            },
+            "@type": "skos:Concept"
         },
         {
             "@id": "css:c14eo",
-            "cs:vmmParameterId": {
-                "@value": "1108",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -4904,10 +4532,6 @@
         },
         {
             "@id": "css:1235_1245cbz",
-            "cs:vmmParameterId": {
-                "@value": "1457",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -4916,33 +4540,29 @@
                     "@id": "gemet:2912"
                 }
             ],
-            "skos:narrowMatch": [
-                {
-                    "@id": "csc:QZYNWJQFTJXIRN-UHFFFAOYSA-N"
-                },
-                {
-                    "@id": "csc:JHBKHLUZVFWLAG-UHFFFAOYSA-N"
-                }
-            ],
+            "skos:topConceptOf": {
+                "@id": "vlcs:sommatie_stoffen"
+            },
             "skos:prefLabel": {
                 "@language": "nl",
                 "@value": "1,2,3,5+1,2,4,5-Tetrachloorbenzeen"
             },
+            "skos:notation": "1235+1245CBz",
+            "skos:narrowMatch": [
+                {
+                    "@id": "csc:JHBKHLUZVFWLAG-UHFFFAOYSA-N"
+                },
+                {
+                    "@id": "csc:QZYNWJQFTJXIRN-UHFFFAOYSA-N"
+                }
+            ],
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept",
-            "skos:notation": "1235+1245CBz"
+            "@type": "skos:Concept"
         },
         {
             "@id": "css:apeo_c9",
-            "cs:vmmParameterId": {
-                "@value": "1826",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -4966,10 +4586,6 @@
         },
         {
             "@id": "css:bde_t_6",
-            "cs:vmmParameterId": {
-                "@value": "1388",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -5016,10 +4632,6 @@
         },
         {
             "@id": "css:aeo_c14_vertakt",
-            "cs:vmmParameterId": {
-                "@value": "1841",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -5043,10 +4655,6 @@
         },
         {
             "@id": "css:tcee__ttcee__dcma",
-            "cs:vmmParameterId": {
-                "@value": "1737",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -5070,10 +4678,6 @@
         },
         {
             "@id": "css:ompxyl",
-            "cs:vmmParameterId": {
-                "@value": "526",
-                "@type": "xsd:int"
-            },
             "skos:prefLabel": {
                 "@language": "nl",
                 "@value": "xyleen"
@@ -5133,10 +4737,6 @@
         },
         {
             "@id": "css:c14atma",
-            "cs:vmmParameterId": {
-                "@value": "1117",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -5160,26 +4760,6 @@
         },
         {
             "@id": "css:3_4eyfol",
-            "skos:narrowMatch": [
-                {
-                    "@id": "csc:HXDOZKJGKXYMEW-UHFFFAOYSA-N"
-                },
-                {
-                    "@id": "csc:HMNKTRSOROOSPP-UHFFFAOYSA-N"
-                }
-            ],
-            "cs:vmmParameterId": {
-                "@value": "785",
-                "@type": "xsd:int"
-            },
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "3+4-Ethylfenol"
-            },
-            "@type": "skos:Concept",
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -5188,17 +4768,29 @@
                     "@id": "gemet:2912"
                 }
             ],
-            "skos:notation": "3+4EyFol",
             "skos:topConceptOf": {
                 "@id": "vlcs:sommatie_stoffen"
-            }
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "3+4-Ethylfenol"
+            },
+            "skos:notation": "3+4EyFol",
+            "skos:narrowMatch": [
+                {
+                    "@id": "csc:HMNKTRSOROOSPP-UHFFFAOYSA-N"
+                },
+                {
+                    "@id": "csc:HXDOZKJGKXYMEW-UHFFFAOYSA-N"
+                }
+            ],
+            "skos:inScheme": {
+                "@id": "vlcs:sommatie_stoffen"
+            },
+            "@type": "skos:Concept"
         },
         {
             "@id": "css:c18:2atma",
-            "cs:vmmParameterId": {
-                "@value": "1143",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -5222,10 +4814,6 @@
         },
         {
             "@id": "css:cresol",
-            "cs:vmmParameterId": {
-                "@value": "485",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -5249,10 +4837,6 @@
         },
         {
             "@id": "css:can_i",
-            "cs:vmmParameterId": {
-                "@value": "1676",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -5276,10 +4860,6 @@
         },
         {
             "@id": "css:c18pyr",
-            "cs:vmmParameterId": {
-                "@value": "1133",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -5349,10 +4929,6 @@
         },
         {
             "@id": "css:al_comp_",
-            "cs:vmmParameterId": {
-                "@value": "1256",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -5376,10 +4952,6 @@
         },
         {
             "@id": "css:pcb_ind",
-            "cs:vmmParameterId": {
-                "@value": "1777",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -5403,10 +4975,6 @@
         },
         {
             "@id": "css:co_cr_ni_pb_zn",
-            "cs:vmmParameterId": {
-                "@value": "1753",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -5430,10 +4998,6 @@
         },
         {
             "@id": "css:ocp_t_imjv",
-            "cs:vmmParameterId": {
-                "@value": "258",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -5461,10 +5025,6 @@
         },
         {
             "@id": "css:hfk",
-            "cs:vmmParameterId": {
-                "@value": "1175",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -5488,10 +5048,6 @@
         },
         {
             "@id": "css:c9peo",
-            "cs:vmmParameterId": {
-                "@value": "1112",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -5515,10 +5071,6 @@
         },
         {
             "@id": "css:neg_anmvos",
-            "cs:vmmParameterId": {
-                "@value": "1168",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -5588,10 +5140,6 @@
         },
         {
             "@id": "css:aeo_c17",
-            "cs:vmmParameterId": {
-                "@value": "2102",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -5615,10 +5163,6 @@
         },
         {
             "@id": "css:mbas",
-            "cs:vmmParameterId": {
-                "@value": "285",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -5642,10 +5186,6 @@
         },
         {
             "@id": "css:xnmvos_t",
-            "cs:vmmParameterId": {
-                "@value": "1170",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -5669,10 +5209,6 @@
         },
         {
             "@id": "css:c18isoquin",
-            "cs:vmmParameterId": {
-                "@value": "1140",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -5696,10 +5232,6 @@
         },
         {
             "@id": "css:kws_nm",
-            "cs:vmmParameterId": {
-                "@value": "1268",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -5723,10 +5255,6 @@
         },
         {
             "@id": "css:oasf_t",
-            "cs:vmmParameterId": {
-                "@value": "1179",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -5750,10 +5278,6 @@
         },
         {
             "@id": "css:stoffr_o",
-            "cs:vmmParameterId": {
-                "@value": "1315",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -6972,10 +6496,6 @@
         },
         {
             "@id": "css:triazine",
-            "cs:vmmParameterId": {
-                "@value": "283",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -6999,10 +6519,6 @@
         },
         {
             "@id": "css:cl-verb",
-            "cs:vmmParameterId": {
-                "@value": "1162",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -7026,10 +6542,6 @@
         },
         {
             "@id": "css:apeo_c13",
-            "cs:vmmParameterId": {
-                "@value": "1830",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -7053,10 +6565,6 @@
         },
         {
             "@id": "css:apeo_c15",
-            "cs:vmmParameterId": {
-                "@value": "1832",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -7080,10 +6588,6 @@
         },
         {
             "@id": "css:snver_ot",
-            "cs:vmmParameterId": {
-                "@value": "693",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -7107,10 +6611,6 @@
         },
         {
             "@id": "css:arom_kws__mak___pak",
-            "cs:vmmParameterId": {
-                "@value": "1696",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -7134,10 +6634,6 @@
         },
         {
             "@id": "css:c18eo",
-            "cs:vmmParameterId": {
-                "@value": "1192",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -7161,10 +6657,6 @@
         },
         {
             "@id": "css:f_an_",
-            "cs:vmmParameterId": {
-                "@value": "1333",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -7188,10 +6680,6 @@
         },
         {
             "@id": "css:c14quin",
-            "cs:vmmParameterId": {
-                "@value": "1135",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -7215,10 +6703,6 @@
         },
         {
             "@id": "css:basurf",
-            "cs:vmmParameterId": {
-                "@value": "491",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -7242,10 +6726,6 @@
         },
         {
             "@id": "css:8_metalen_totaal",
-            "cs:vmmParameterId": {
-                "@value": "1689",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -7269,10 +6749,6 @@
         },
         {
             "@id": "css:arom__gt_c13",
-            "cs:vmmParameterId": {
-                "@value": "1386",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -7296,10 +6772,6 @@
         },
         {
             "@id": "css:eox",
-            "cs:vmmParameterId": {
-                "@value": "291",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -7327,10 +6799,6 @@
         },
         {
             "@id": "css:ocp_i",
-            "cs:vmmParameterId": {
-                "@value": "1765",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -7354,10 +6822,6 @@
         },
         {
             "@id": "css:apeo_c12",
-            "cs:vmmParameterId": {
-                "@value": "1829",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -7381,10 +6845,6 @@
         },
         {
             "@id": "css:pcdd_pcdf",
-            "cs:vmmParameterId": {
-                "@value": "959",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -7408,10 +6868,6 @@
         },
         {
             "@id": "css:npoc",
-            "cs:vmmParameterId": {
-                "@value": "1484",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -7452,10 +6908,6 @@
             ],
             "skos:topConceptOf": {
                 "@id": "vlcs:sommatie_stoffen"
-            },
-            "cs:vmmParameterId": {
-                "@value": "996",
-                "@type": "xsd:int"
             },
             "skos:notation": "ADEIdrin",
             "dcat:theme": [
@@ -7513,18 +6965,10 @@
             "skos:notation": "DCBzdines",
             "skos:topConceptOf": {
                 "@id": "vlcs:sommatie_stoffen"
-            },
-            "cs:vmmParameterId": {
-                "@value": "886",
-                "@type": "xsd:int"
             }
         },
         {
             "@id": "css:kws_ap_",
-            "cs:vmmParameterId": {
-                "@value": "286",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -7548,10 +6992,6 @@
         },
         {
             "@id": "css:nyfolsom",
-            "cs:vmmParameterId": {
-                "@value": "1222",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -7575,10 +7015,6 @@
         },
         {
             "@id": "css:tas",
-            "cs:vmmParameterId": {
-                "@value": "719",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -7602,10 +7038,6 @@
         },
         {
             "@id": "css:sox",
-            "cs:vmmParameterId": {
-                "@value": "1161",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -7629,10 +7061,6 @@
         },
         {
             "@id": "css:cbzsom",
-            "cs:vmmParameterId": {
-                "@value": "1218",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -7656,10 +7084,6 @@
         },
         {
             "@id": "css:apeo_c18",
-            "cs:vmmParameterId": {
-                "@value": "1835",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -7683,10 +7107,6 @@
         },
         {
             "@id": "css:kws_t",
-            "cs:vmmParameterId": {
-                "@value": "1278",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -7733,10 +7153,6 @@
         },
         {
             "@id": "css:sp_opp_",
-            "cs:vmmParameterId": {
-                "@value": "514",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -7760,10 +7176,6 @@
         },
         {
             "@id": "css:nmvos_t",
-            "cs:vmmParameterId": {
-                "@value": "1172",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -7787,10 +7199,6 @@
         },
         {
             "@id": "css:kws_c30-40",
-            "cs:vmmParameterId": {
-                "@value": "992",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -7814,10 +7222,6 @@
         },
         {
             "@id": "css:aox",
-            "cs:vmmParameterId": {
-                "@value": "284",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -7845,10 +7249,6 @@
         },
         {
             "@id": "css:pak_15",
-            "cs:vmmParameterId": {
-                "@value": "550",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -7872,10 +7272,6 @@
         },
         {
             "@id": "css:cfk",
-            "cs:vmmParameterId": {
-                "@value": "1173",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -7899,10 +7295,6 @@
         },
         {
             "@id": "css:ftal",
-            "cs:vmmParameterId": {
-                "@value": "1763",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -7949,10 +7341,6 @@
         },
         {
             "@id": "css:hcfk",
-            "cs:vmmParameterId": {
-                "@value": "1174",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -7976,10 +7364,6 @@
         },
         {
             "@id": "css:fuh_t",
-            "cs:vmmParameterId": {
-                "@value": "655",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -8003,10 +7387,6 @@
         },
         {
             "@id": "css:mno4_k",
-            "cs:vmmParameterId": {
-                "@value": "293",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -8030,10 +7410,6 @@
         },
         {
             "@id": "css:metalen_excl__al_fe",
-            "cs:vmmParameterId": {
-                "@value": "1690",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -8057,10 +7433,6 @@
         },
         {
             "@id": "css:alk__gt_c13",
-            "cs:vmmParameterId": {
-                "@value": "1382",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -8084,10 +7456,6 @@
         },
         {
             "@id": "css:white-spirit",
-            "cs:vmmParameterId": {
-                "@value": "1757",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -8113,23 +7481,20 @@
             "@id": "css:23_35myfol_4eyfol",
             "dcat:theme": [
                 {
-                    "@id": "gemet:2912"
+                    "@id": "gemet:9214"
                 },
                 {
-                    "@id": "gemet:9214"
+                    "@id": "gemet:2912"
                 }
             ],
-            "@type": "skos:Concept",
-            "cs:vmmParameterId": {
-                "@value": "766",
-                "@type": "xsd:int"
-            },
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
             "skos:topConceptOf": {
                 "@id": "vlcs:sommatie_stoffen"
             },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "2,3+3,5-Dimethylfenol+4-Ethylfenol"
+            },
+            "skos:notation": "23+35MyFol+4EyFol",
             "skos:narrowMatch": [
                 {
                     "@id": "csc:HXDOZKJGKXYMEW-UHFFFAOYSA-N"
@@ -8138,18 +7503,13 @@
                     "@id": "csc:QWBBPBRQALCEIZ-UHFFFAOYSA-N"
                 }
             ],
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "2,3+3,5-Dimethylfenol+4-Ethylfenol"
+            "skos:inScheme": {
+                "@id": "vlcs:sommatie_stoffen"
             },
-            "skos:notation": "23+35MyFol+4EyFol"
+            "@type": "skos:Concept"
         },
         {
             "@id": "css:cl",
-            "cs:vmmParameterId": {
-                "@value": "887",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -8173,10 +7533,6 @@
         },
         {
             "@id": "css:dicnibzsom",
-            "cs:vmmParameterId": {
-                "@value": "1219",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -8200,10 +7556,6 @@
         },
         {
             "@id": "css:pcb_pct_t",
-            "cs:vmmParameterId": {
-                "@value": "890",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -8227,10 +7579,6 @@
         },
         {
             "@id": "css:aeo_c13",
-            "cs:vmmParameterId": {
-                "@value": "2106",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -8254,10 +7602,6 @@
         },
         {
             "@id": "css:c16eo",
-            "cs:vmmParameterId": {
-                "@value": "1110",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -8281,10 +7625,6 @@
         },
         {
             "@id": "css:aeo_c15",
-            "cs:vmmParameterId": {
-                "@value": "2108",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -8354,10 +7694,6 @@
         },
         {
             "@id": "css:aeo_c11_vertakt",
-            "cs:vmmParameterId": {
-                "@value": "1838",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -8381,10 +7717,6 @@
         },
         {
             "@id": "css:arom_c10",
-            "cs:vmmParameterId": {
-                "@value": "1385",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -8408,10 +7740,6 @@
         },
         {
             "@id": "css:extrah__st_",
-            "cs:vmmParameterId": {
-                "@value": "1721",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -8435,10 +7763,6 @@
         },
         {
             "@id": "css:fe_al",
-            "cs:vmmParameterId": {
-                "@value": "1687",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -8462,10 +7786,6 @@
         },
         {
             "@id": "css:n_n",
-            "cs:vmmParameterId": {
-                "@value": "7",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -8489,10 +7809,6 @@
         },
         {
             "@id": "css:det_met_gisting",
-            "cs:vmmParameterId": {
-                "@value": "1680",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -8516,10 +7832,6 @@
         },
         {
             "@id": "css:oyfolsom",
-            "cs:vmmParameterId": {
-                "@value": "1223",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -8551,13 +7863,8 @@
                     "@id": "gemet:2912"
                 }
             ],
-            "@type": "skos:Concept",
             "skos:topConceptOf": {
                 "@id": "vlcs:sommatie_stoffen"
-            },
-            "cs:vmmParameterId": {
-                "@value": "786",
-                "@type": "xsd:int"
             },
             "skos:prefLabel": {
                 "@language": "nl",
@@ -8566,22 +7873,19 @@
             "skos:notation": "3+4MyFol",
             "skos:narrowMatch": [
                 {
-                    "@id": "csc:RLSSMJSEOOYNOY-UHFFFAOYSA-N"
+                    "@id": "csc:IWDCLRJOBJJRNH-UHFFFAOYSA-N"
                 },
                 {
-                    "@id": "csc:IWDCLRJOBJJRNH-UHFFFAOYSA-N"
+                    "@id": "csc:RLSSMJSEOOYNOY-UHFFFAOYSA-N"
                 }
             ],
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
-            }
+            },
+            "@type": "skos:Concept"
         },
         {
             "@id": "css:calux",
-            "cs:vmmParameterId": {
-                "@value": "1010",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -8605,10 +7909,6 @@
         },
         {
             "@id": "css:ac_acrol",
-            "cs:vmmParameterId": {
-                "@value": "1100",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -8635,10 +7935,6 @@
         },
         {
             "@id": "css:es_pe",
-            "cs:vmmParameterId": {
-                "@value": "573",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -8662,10 +7958,6 @@
         },
         {
             "@id": "css:tvplds",
-            "cs:vmmParameterId": {
-                "@value": "518",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -8689,10 +7981,6 @@
         },
         {
             "@id": "css:cl_ot",
-            "cs:vmmParameterId": {
-                "@value": "505",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -8739,10 +8027,6 @@
         },
         {
             "@id": "css:bap___bbflu_som",
-            "cs:vmmParameterId": {
-                "@value": "1787",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -8766,10 +8050,6 @@
         },
         {
             "@id": "css:tiverb_ot_-ti",
-            "cs:vmmParameterId": {
-                "@value": "1679",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -8793,10 +8073,6 @@
         },
         {
             "@id": "css:dcee",
-            "cs:vmmParameterId": {
-                "@value": "1741",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:2912"
@@ -8837,10 +8113,6 @@
         },
         {
             "@id": "css:mno4_w",
-            "cs:vmmParameterId": {
-                "@value": "295",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -8864,10 +8136,6 @@
         },
         {
             "@id": "css:mak_i",
-            "cs:vmmParameterId": {
-                "@value": "1745",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -8891,10 +8159,6 @@
         },
         {
             "@id": "css:surf_kid_nid",
-            "cs:vmmParameterId": {
-                "@value": "1767",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -8918,10 +8182,6 @@
         },
         {
             "@id": "css:kisurf",
-            "cs:vmmParameterId": {
-                "@value": "297",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -8945,10 +8205,6 @@
         },
         {
             "@id": "css:met_excl_zn_fe_mn_al",
-            "cs:vmmParameterId": {
-                "@value": "1711",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -8995,10 +8251,6 @@
         },
         {
             "@id": "css:surf_t",
-            "cs:vmmParameterId": {
-                "@value": "492",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -9130,18 +8382,10 @@
             },
             "skos:topConceptOf": {
                 "@id": "vlcs:sommatie_stoffen"
-            },
-            "cs:vmmParameterId": {
-                "@value": "1191",
-                "@type": "xsd:int"
             }
         },
         {
             "@id": "css:cans",
-            "cs:vmmParameterId": {
-                "@value": "1206",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -9165,10 +8409,6 @@
         },
         {
             "@id": "css:cfols",
-            "cs:vmmParameterId": {
-                "@value": "1208",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -9192,10 +8432,6 @@
         },
         {
             "@id": "css:pak_6",
-            "cs:vmmParameterId": {
-                "@value": "512",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -9219,10 +8455,6 @@
         },
         {
             "@id": "css:pak_14",
-            "cs:vmmParameterId": {
-                "@value": "1165",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -9246,10 +8478,6 @@
         },
         {
             "@id": "css:siver_o",
-            "cs:vmmParameterId": {
-                "@value": "613",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -9273,10 +8501,6 @@
         },
         {
             "@id": "css:tcee__dcee_tcea",
-            "cs:vmmParameterId": {
-                "@value": "1758",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -9300,10 +8524,6 @@
         },
         {
             "@id": "css:bjflu_bep",
-            "cs:vmmParameterId": {
-                "@value": "1299",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -9327,10 +8547,6 @@
         },
         {
             "@id": "css:bflu_som",
-            "cs:vmmParameterId": {
-                "@value": "1224",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -9377,10 +8593,6 @@
         },
         {
             "@id": "css:ti_t_",
-            "cs:vmmParameterId": {
-                "@value": "1488",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -9404,10 +8616,6 @@
         },
         {
             "@id": "css:persist__min__olie",
-            "cs:vmmParameterId": {
-                "@value": "1732",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -9431,10 +8639,6 @@
         },
         {
             "@id": "css:kws_c12-20",
-            "cs:vmmParameterId": {
-                "@value": "990",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -9458,10 +8662,6 @@
         },
         {
             "@id": "css:thm_t",
-            "cs:vmmParameterId": {
-                "@value": "390",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -9485,10 +8685,6 @@
         },
         {
             "@id": "css:dmyfol_som",
-            "cs:vmmParameterId": {
-                "@value": "1773",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -9512,10 +8708,6 @@
         },
         {
             "@id": "css:aeo_c12",
-            "cs:vmmParameterId": {
-                "@value": "2105",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -9539,10 +8731,6 @@
         },
         {
             "@id": "css:aeo_c12_vertakt",
-            "cs:vmmParameterId": {
-                "@value": "1839",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -9566,10 +8754,6 @@
         },
         {
             "@id": "css:dmyfol_eyfol_2ipyfol",
-            "cs:vmmParameterId": {
-                "@value": "1786",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -9616,10 +8800,6 @@
         },
         {
             "@id": "css:las/abs",
-            "cs:vmmParameterId": {
-                "@value": "1150",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -9643,10 +8823,6 @@
         },
         {
             "@id": "css:aeo_c14",
-            "cs:vmmParameterId": {
-                "@value": "2107",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -9670,10 +8846,6 @@
         },
         {
             "@id": "css:solvent",
-            "cs:vmmParameterId": {
-                "@value": "305",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -9697,10 +8869,6 @@
         },
         {
             "@id": "css:ctine",
-            "cs:vmmParameterId": {
-                "@value": "484",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -9724,10 +8892,6 @@
         },
         {
             "@id": "css:hch",
-            "cs:vmmParameterId": {
-                "@value": "896",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -9751,10 +8915,6 @@
         },
         {
             "@id": "css:cnyl_t",
-            "cs:vmmParameterId": {
-                "@value": "1103",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -9778,10 +8938,6 @@
         },
         {
             "@id": "css:vos",
-            "cs:vmmParameterId": {
-                "@value": "1380",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -9828,10 +8984,6 @@
         },
         {
             "@id": "css:tricfolsom",
-            "cs:vmmParameterId": {
-                "@value": "1228",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -9869,10 +9021,6 @@
                     "@id": "csc:WIHMGGWNMISDNJ-UHFFFAOYSA-N"
                 }
             ],
-            "cs:vmmParameterId": {
-                "@value": "1766",
-                "@type": "xsd:int"
-            },
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
@@ -9919,10 +9067,6 @@
         },
         {
             "@id": "css:vocl_t",
-            "cs:vmmParameterId": {
-                "@value": "1736",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -9946,10 +9090,6 @@
         },
         {
             "@id": "css:ttcdbfur_t",
-            "cs:vmmParameterId": {
-                "@value": "1341",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -9973,10 +9113,6 @@
         },
         {
             "@id": "css:apeo_c7",
-            "cs:vmmParameterId": {
-                "@value": "1824",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -10000,24 +9136,6 @@
         },
         {
             "@id": "css:3_4cfol",
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "3+4-Chloorfenol"
-            },
-            "skos:narrowMatch": [
-                {
-                    "@id": "csc:HORNXRXVQWOLPJ-UHFFFAOYSA-N"
-                },
-                {
-                    "@id": "csc:WXNZTHHGJRFXKQ-UHFFFAOYSA-N"
-                }
-            ],
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -10026,12 +9144,26 @@
                     "@id": "gemet:2912"
                 }
             ],
-            "@type": "skos:Concept",
+            "skos:topConceptOf": {
+                "@id": "vlcs:sommatie_stoffen"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "3+4-Chloorfenol"
+            },
             "skos:notation": "3+4CFol",
-            "cs:vmmParameterId": {
-                "@value": "794",
-                "@type": "xsd:int"
-            }
+            "skos:narrowMatch": [
+                {
+                    "@id": "csc:HORNXRXVQWOLPJ-UHFFFAOYSA-N"
+                },
+                {
+                    "@id": "csc:WXNZTHHGJRFXKQ-UHFFFAOYSA-N"
+                }
+            ],
+            "skos:inScheme": {
+                "@id": "vlcs:sommatie_stoffen"
+            },
+            "@type": "skos:Concept"
         },
         {
             "@id": "css:f-verb",
@@ -10799,10 +9931,6 @@
                 "@language": "nl",
                 "@value": "Fluorverbindingen"
             },
-            "cs:vmmParameterId": {
-                "@value": "1163",
-                "@type": "xsd:int"
-            },
             "skos:topConceptOf": {
                 "@id": "vlcs:sommatie_stoffen"
             },
@@ -10814,10 +9942,6 @@
         },
         {
             "@id": "css:min_oliec6-c10",
-            "cs:vmmParameterId": {
-                "@value": "1770",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -10841,10 +9965,6 @@
         },
         {
             "@id": "css:butanol",
-            "cs:vmmParameterId": {
-                "@value": "1760",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -10868,10 +9988,6 @@
         },
         {
             "@id": "css:hcdbd_t",
-            "cs:vmmParameterId": {
-                "@value": "1339",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -10895,10 +10011,6 @@
         },
         {
             "@id": "css:persistente_kws",
-            "cs:vmmParameterId": {
-                "@value": "1727",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -10922,10 +10034,6 @@
         },
         {
             "@id": "css:apeo_c11",
-            "cs:vmmParameterId": {
-                "@value": "1828",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -10949,10 +10057,6 @@
         },
         {
             "@id": "css:n_o",
-            "cs:vmmParameterId": {
-                "@value": "653",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -10988,10 +10092,6 @@
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
-            "cs:vmmParameterId": {
-                "@value": "675",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -11019,29 +10119,6 @@
         },
         {
             "@id": "css:24_25myfol",
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "2,4+2,5-Dimethylfenol"
-            },
-            "@type": "skos:Concept",
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:narrowMatch": [
-                {
-                    "@id": "csc:NKTOLZVEWDHZMU-UHFFFAOYSA-N"
-                },
-                {
-                    "@id": "csc:KUFFULVDNCHOFZ-UHFFFAOYSA-N"
-                }
-            ],
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "cs:vmmParameterId": {
-                "@value": "765",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -11050,14 +10127,29 @@
                     "@id": "gemet:2912"
                 }
             ],
-            "skos:notation": "24+25MyFol"
+            "skos:topConceptOf": {
+                "@id": "vlcs:sommatie_stoffen"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "2,4+2,5-Dimethylfenol"
+            },
+            "skos:notation": "24+25MyFol",
+            "skos:narrowMatch": [
+                {
+                    "@id": "csc:KUFFULVDNCHOFZ-UHFFFAOYSA-N"
+                },
+                {
+                    "@id": "csc:NKTOLZVEWDHZMU-UHFFFAOYSA-N"
+                }
+            ],
+            "skos:inScheme": {
+                "@id": "vlcs:sommatie_stoffen"
+            },
+            "@type": "skos:Concept"
         },
         {
             "@id": "css:toc",
-            "cs:vmmParameterId": {
-                "@value": "303",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -11081,10 +10173,6 @@
         },
         {
             "@id": "css:cu_ni_zn_cr",
-            "cs:vmmParameterId": {
-                "@value": "1699",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -11108,10 +10196,6 @@
         },
         {
             "@id": "css:gechl__arom",
-            "cs:vmmParameterId": {
-                "@value": "1682",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -11135,10 +10219,6 @@
         },
         {
             "@id": "css:tap",
-            "cs:vmmParameterId": {
-                "@value": "24",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -11162,10 +10242,6 @@
         },
         {
             "@id": "css:pcb_28_31",
-            "cs:vmmParameterId": {
-                "@value": "745",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -11189,10 +10265,6 @@
         },
         {
             "@id": "css:nvooc",
-            "cs:vmmParameterId": {
-                "@value": "726",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -11216,10 +10288,6 @@
         },
         {
             "@id": "css:opvv_t",
-            "cs:vmmParameterId": {
-                "@value": "977",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -11243,10 +10311,6 @@
         },
         {
             "@id": "css:arom_c9-c10",
-            "cs:vmmParameterId": {
-                "@value": "1665",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -11270,10 +10334,6 @@
         },
         {
             "@id": "css:oplosmiddelen",
-            "cs:vmmParameterId": {
-                "@value": "1728",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -11297,10 +10357,6 @@
         },
         {
             "@id": "css:apeo_c17",
-            "cs:vmmParameterId": {
-                "@value": "1834",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -11324,10 +10380,6 @@
         },
         {
             "@id": "css:chol",
-            "cs:vmmParameterId": {
-                "@value": "290",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -11351,10 +10403,6 @@
         },
         {
             "@id": "css:c12admba",
-            "cs:vmmParameterId": {
-                "@value": "1119",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -11378,10 +10426,6 @@
         },
         {
             "@id": "css:zs_as",
-            "cs:vmmParameterId": {
-                "@value": "72",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -11405,10 +10449,6 @@
         },
         {
             "@id": "css:det_zonder_gisting",
-            "cs:vmmParameterId": {
-                "@value": "1681",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -11432,10 +10472,6 @@
         },
         {
             "@id": "css:ftal_excl_dehp",
-            "cs:vmmParameterId": {
-                "@value": "1762",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -11459,10 +10495,6 @@
         },
         {
             "@id": "css:dinyft_didyft",
-            "cs:vmmParameterId": {
-                "@value": "1775",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -11486,10 +10518,6 @@
         },
         {
             "@id": "css:c10eo",
-            "cs:vmmParameterId": {
-                "@value": "1104",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -11536,10 +10564,6 @@
         },
         {
             "@id": "css:cr_cu_ni_pb_zn",
-            "cs:vmmParameterId": {
-                "@value": "1698",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -11563,10 +10587,6 @@
         },
         {
             "@id": "css:tocl",
-            "cs:vmmParameterId": {
-                "@value": "1677",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -11590,10 +10610,6 @@
         },
         {
             "@id": "css:hpcepx",
-            "cs:vmmParameterId": {
-                "@value": "784",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -11617,10 +10633,6 @@
         },
         {
             "@id": "css:kalk_os",
-            "cs:vmmParameterId": {
-                "@value": "92",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -11644,10 +10656,6 @@
         },
         {
             "@id": "css:opgl__vt",
-            "cs:vmmParameterId": {
-                "@value": "1730",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -11671,10 +10679,6 @@
         },
         {
             "@id": "css:ddd_e_t",
-            "cs:vmmParameterId": {
-                "@value": "894",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -11698,10 +10702,6 @@
         },
         {
             "@id": "css:bde",
-            "cs:vmmParameterId": {
-                "@value": "919",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -11725,10 +10725,6 @@
         },
         {
             "@id": "css:min_oliec10-c40",
-            "cs:vmmParameterId": {
-                "@value": "1771",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -11752,10 +10748,6 @@
         },
         {
             "@id": "css:h3o_",
-            "cs:vmmParameterId": {
-                "@value": "1262",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -11779,10 +10771,6 @@
         },
         {
             "@id": "css:es_ccl4",
-            "cs:vmmParameterId": {
-                "@value": "1674",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -11806,10 +10794,6 @@
         },
         {
             "@id": "css:gechlor__oplosm_",
-            "cs:vmmParameterId": {
-                "@value": "1700",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -11833,10 +10817,6 @@
         },
         {
             "@id": "css:selenas",
-            "cs:vmmParameterId": {
-                "@value": "782",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -11860,10 +10840,6 @@
         },
         {
             "@id": "css:arom_c9",
-            "cs:vmmParameterId": {
-                "@value": "1384",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -11887,10 +10863,6 @@
         },
         {
             "@id": "css:kws_c10-12",
-            "cs:vmmParameterId": {
-                "@value": "989",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -11914,10 +10886,6 @@
         },
         {
             "@id": "css:aeo_c13_vertakt",
-            "cs:vmmParameterId": {
-                "@value": "1840",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -11941,10 +10909,6 @@
         },
         {
             "@id": "css:nvtoc",
-            "cs:vmmParameterId": {
-                "@value": "725",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -11968,10 +10932,6 @@
         },
         {
             "@id": "css:cl_en_so4",
-            "cs:vmmParameterId": {
-                "@value": "1714",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -11995,10 +10955,6 @@
         },
         {
             "@id": "css:bpe___ip_som",
-            "cs:vmmParameterId": {
-                "@value": "1225",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -12022,10 +10978,6 @@
         },
         {
             "@id": "css:pesticiden_t",
-            "cs:vmmParameterId": {
-                "@value": "1722",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -12049,10 +11001,6 @@
         },
         {
             "@id": "css:dcan_t",
-            "cs:vmmParameterId": {
-                "@value": "888",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -12076,10 +11024,6 @@
         },
         {
             "@id": "css:biociden",
-            "cs:vmmParameterId": {
-                "@value": "1666",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -12103,10 +11047,6 @@
         },
         {
             "@id": "css:pct_t",
-            "cs:vmmParameterId": {
-                "@value": "513",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -12130,10 +11070,6 @@
         },
         {
             "@id": "css:tct",
-            "cs:vmmParameterId": {
-                "@value": "58",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -12157,10 +11093,6 @@
         },
         {
             "@id": "css:profam_benzadol",
-            "cs:vmmParameterId": {
-                "@value": "1692",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -12184,10 +11116,6 @@
         },
         {
             "@id": "css:neg_xnmvos",
-            "cs:vmmParameterId": {
-                "@value": "1167",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -12211,10 +11139,6 @@
         },
         {
             "@id": "css:c14pyr",
-            "cs:vmmParameterId": {
-                "@value": "1132",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -12238,10 +11162,6 @@
         },
         {
             "@id": "css:arom_vlucht",
-            "cs:vmmParameterId": {
-                "@value": "1734",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -12265,10 +11185,6 @@
         },
         {
             "@id": "css:neg_oasf",
-            "cs:vmmParameterId": {
-                "@value": "1178",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -12292,10 +11208,6 @@
         },
         {
             "@id": "css:pfoa_som",
-            "cs:vmmParameterId": {
-                "@value": "2144",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -12319,10 +11231,6 @@
         },
         {
             "@id": "css:cl__gebonden",
-            "cs:vmmParameterId": {
-                "@value": "1731",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -12346,10 +11254,6 @@
         },
         {
             "@id": "css:dinyftofdidyft",
-            "cs:vmmParameterId": {
-                "@value": "1543",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -12373,10 +11277,6 @@
         },
         {
             "@id": "css:s_t-h2s_rsh",
-            "cs:vmmParameterId": {
-                "@value": "1321",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -12400,10 +11300,6 @@
         },
         {
             "@id": "css:cfk_tot",
-            "cs:vmmParameterId": {
-                "@value": "1755",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -12427,10 +11323,6 @@
         },
         {
             "@id": "css:os",
-            "cs:vmmParameterId": {
-                "@value": "795",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -12454,10 +11346,6 @@
         },
         {
             "@id": "css:apeo_c10",
-            "cs:vmmParameterId": {
-                "@value": "1827",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -12481,10 +11369,6 @@
         },
         {
             "@id": "css:c18:2admba",
-            "cs:vmmParameterId": {
-                "@value": "1146",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -12508,10 +11392,6 @@
         },
         {
             "@id": "css:br-_i-",
-            "cs:vmmParameterId": {
-                "@value": "460",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -12535,10 +11415,6 @@
         },
         {
             "@id": "css:aisurf",
-            "cs:vmmParameterId": {
-                "@value": "618",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -12562,10 +11438,6 @@
         },
         {
             "@id": "css:c18:1atma",
-            "cs:vmmParameterId": {
-                "@value": "1142",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -12589,10 +11461,6 @@
         },
         {
             "@id": "css:as",
-            "cs:vmmParameterId": {
-                "@value": "1151",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -12639,10 +11507,6 @@
         },
         {
             "@id": "css:oyfolet",
-            "cs:vmmParameterId": {
-                "@value": "1052",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -12666,10 +11530,6 @@
         },
         {
             "@id": "css:pcdbd_t",
-            "cs:vmmParameterId": {
-                "@value": "1338",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -12693,10 +11553,6 @@
         },
         {
             "@id": "css:stof_t",
-            "cs:vmmParameterId": {
-                "@value": "1181",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -12720,10 +11576,6 @@
         },
         {
             "@id": "css:c16quin",
-            "cs:vmmParameterId": {
-                "@value": "1136",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -12747,10 +11599,6 @@
         },
         {
             "@id": "css:naftenaten",
-            "cs:vmmParameterId": {
-                "@value": "2125",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -12774,10 +11622,6 @@
         },
         {
             "@id": "css:cu__pb__ni__zn",
-            "cs:vmmParameterId": {
-                "@value": "1688",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -12801,10 +11645,6 @@
         },
         {
             "@id": "css:eyfol_som",
-            "cs:vmmParameterId": {
-                "@value": "1772",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -12828,10 +11668,6 @@
         },
         {
             "@id": "css:tox___pver_o",
-            "cs:vmmParameterId": {
-                "@value": "1701",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -12855,10 +11691,6 @@
         },
         {
             "@id": "css:7_metalen_totaal",
-            "cs:vmmParameterId": {
-                "@value": "1769",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -12882,10 +11714,6 @@
         },
         {
             "@id": "css:c15eo",
-            "cs:vmmParameterId": {
-                "@value": "1109",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -12909,10 +11737,6 @@
         },
         {
             "@id": "css:latex",
-            "cs:vmmParameterId": {
-                "@value": "1746",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -12936,10 +11760,6 @@
         },
         {
             "@id": "css:sn_anorg_t",
-            "cs:vmmParameterId": {
-                "@value": "1685",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -12963,10 +11783,6 @@
         },
         {
             "@id": "css:hpcdbd_t",
-            "cs:vmmParameterId": {
-                "@value": "1340",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -12990,10 +11806,6 @@
         },
         {
             "@id": "css:apeo_c16",
-            "cs:vmmParameterId": {
-                "@value": "1833",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -13017,10 +11829,6 @@
         },
         {
             "@id": "css:vox",
-            "cs:vmmParameterId": {
-                "@value": "892",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -13044,10 +11852,6 @@
         },
         {
             "@id": "css:7_metalen_opg_",
-            "cs:vmmParameterId": {
-                "@value": "1707",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -13071,45 +11875,37 @@
         },
         {
             "@id": "css:11cea__12cea",
-            "skos:narrowMatch": [
-                {
-                    "@id": "csc:WSLDOOZREJYCGB-UHFFFAOYSA-N"
-                },
-                {
-                    "@id": "csc:SCYULBFZEHDVBN-UHFFFAOYSA-N"
-                }
-            ],
-            "cs:vmmParameterId": {
-                "@value": "1715",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
-                    "@id": "gemet:2912"
+                    "@id": "gemet:9214"
                 },
                 {
-                    "@id": "gemet:9214"
+                    "@id": "gemet:2912"
                 }
             ],
-            "skos:inScheme": {
+            "skos:topConceptOf": {
                 "@id": "vlcs:sommatie_stoffen"
             },
             "skos:prefLabel": {
                 "@language": "nl",
                 "@value": "Som van 1,1 dichloorethaan + 1,2 dichloorethaan"
             },
-            "skos:topConceptOf": {
+            "skos:notation": "(11CEa, 12CEa)",
+            "skos:narrowMatch": [
+                {
+                    "@id": "csc:SCYULBFZEHDVBN-UHFFFAOYSA-N"
+                },
+                {
+                    "@id": "csc:WSLDOOZREJYCGB-UHFFFAOYSA-N"
+                }
+            ],
+            "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
-            "@type": "skos:Concept",
-            "skos:notation": "(11CEa, 12CEa)"
+            "@type": "skos:Concept"
         },
         {
             "@id": "css:aromaten",
-            "cs:vmmParameterId": {
-                "@value": "1729",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -13156,10 +11952,6 @@
         },
         {
             "@id": "css:d15n",
-            "cs:vmmParameterId": {
-                "@value": "1327",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -13183,10 +11975,6 @@
         },
         {
             "@id": "css:doc",
-            "cs:vmmParameterId": {
-                "@value": "302",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -13210,10 +11998,6 @@
         },
         {
             "@id": "css:uranimine",
-            "cs:vmmParameterId": {
-                "@value": "862",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -13237,10 +12021,6 @@
         },
         {
             "@id": "css:sccp",
-            "cs:vmmParameterId": {
-                "@value": "1465",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -13264,10 +12044,6 @@
         },
         {
             "@id": "css:pcb_t_pct_t",
-            "cs:vmmParameterId": {
-                "@value": "1695",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -13291,10 +12067,6 @@
         },
         {
             "@id": "css:dcdfytcea",
-            "cs:vmmParameterId": {
-                "@value": "568",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -13318,10 +12090,6 @@
         },
         {
             "@id": "css:alk_c10-12",
-            "cs:vmmParameterId": {
-                "@value": "1381",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -13345,10 +12113,6 @@
         },
         {
             "@id": "css:tetracea",
-            "cs:vmmParameterId": {
-                "@value": "1740",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -13372,10 +12136,6 @@
         },
         {
             "@id": "css:dbysn_som",
-            "cs:vmmParameterId": {
-                "@value": "1216",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -13399,10 +12159,6 @@
         },
         {
             "@id": "css:eas_ttcee",
-            "cs:vmmParameterId": {
-                "@value": "598",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -13449,10 +12205,6 @@
         },
         {
             "@id": "css:kjn__f",
-            "cs:vmmParameterId": {
-                "@value": "299",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -13476,10 +12228,6 @@
         },
         {
             "@id": "css:c14isoquin",
-            "cs:vmmParameterId": {
-                "@value": "1138",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -13503,10 +12251,6 @@
         },
         {
             "@id": "css:btex",
-            "cs:vmmParameterId": {
-                "@value": "906",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -13530,10 +12274,6 @@
         },
         {
             "@id": "css:p_esters",
-            "cs:vmmParameterId": {
-                "@value": "506",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -13557,10 +12297,6 @@
         },
         {
             "@id": "css:anmvos_t",
-            "cs:vmmParameterId": {
-                "@value": "1171",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -13584,34 +12320,30 @@
         },
         {
             "@id": "css:fosfor_totaal",
+            "dcat:theme": [
+                {
+                    "@id": "gemet:9214"
+                },
+                {
+                    "@id": "gemet:2912"
+                }
+            ],
+            "skos:topConceptOf": {
+                "@id": "vlcs:sommatie_stoffen"
+            },
             "skos:prefLabel": {
                 "@language": "nl",
                 "@value": "Fosfor totaal"
             },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:2912"
-                },
-                {
-                    "@id": "gemet:9214"
-                }
-            ],
-            "cs:vmmParameterId": {
-                "@value": "1780",
-                "@type": "xsd:int"
+            "skos:notation": "fosfor totaal",
+            "skos:inScheme": {
+                "@id": "vlcs:sommatie_stoffen"
             },
             "skos:exactMatch": {
                 "@id": "wise:CAS_7723-14-0"
             },
             "dbo:casNumber": "7723-14-0",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:topConceptOf": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "@type": "skos:Concept",
-            "skos:notation": "fosfor totaal"
+            "@type": "skos:Concept"
         },
         {
             "@id": "css:1c2_3_4nibzs",
@@ -13686,10 +12418,6 @@
                     "@id": "csc:VYZAHLCBVHPDDF-UHFFFAOYSA-N"
                 }
             ],
-            "cs:vmmParameterId": {
-                "@value": "1210",
-                "@type": "xsd:int"
-            },
             "skos:notation": "1C2+3+4NiBzS",
             "dcat:theme": [
                 {
@@ -13713,10 +12441,6 @@
         },
         {
             "@id": "css:c18dadma",
-            "cs:vmmParameterId": {
-                "@value": "1131",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -13740,10 +12464,6 @@
         },
         {
             "@id": "css:alcoholen",
-            "cs:vmmParameterId": {
-                "@value": "1719",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -13767,10 +12487,6 @@
         },
         {
             "@id": "css:pbs",
-            "cs:vmmParameterId": {
-                "@value": "951",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -13817,10 +12533,6 @@
         },
         {
             "@id": "css:c10peo",
-            "cs:vmmParameterId": {
-                "@value": "1113",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -13844,10 +12556,6 @@
         },
         {
             "@id": "css:fol_c__i",
-            "cs:vmmParameterId": {
-                "@value": "1759",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -13871,10 +12579,6 @@
         },
         {
             "@id": "css:apeo_c6",
-            "cs:vmmParameterId": {
-                "@value": "1823",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -13898,10 +12602,6 @@
         },
         {
             "@id": "css:c18:2dadma",
-            "cs:vmmParameterId": {
-                "@value": "1149",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -13925,10 +12625,6 @@
         },
         {
             "@id": "css:pak_16",
-            "cs:vmmParameterId": {
-                "@value": "433",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -13952,10 +12648,6 @@
         },
         {
             "@id": "css:sof",
-            "cs:vmmParameterId": {
-                "@value": "1739",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -13979,10 +12671,6 @@
         },
         {
             "@id": "css:c11eo",
-            "cs:vmmParameterId": {
-                "@value": "1105",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -14006,10 +12694,6 @@
         },
         {
             "@id": "css:vox_i",
-            "cs:vmmParameterId": {
-                "@value": "1750",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -14033,10 +12717,6 @@
         },
         {
             "@id": "css:pak_i",
-            "cs:vmmParameterId": {
-                "@value": "1744",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -14060,10 +12740,6 @@
         },
         {
             "@id": "css:ddt__dde_en_isom",
-            "cs:vmmParameterId": {
-                "@value": "1710",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -14087,10 +12763,6 @@
         },
         {
             "@id": "css:ocp_t",
-            "cs:vmmParameterId": {
-                "@value": "258",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -14114,10 +12786,6 @@
         },
         {
             "@id": "css:cu_ni_cd_cr_pb",
-            "cs:vmmParameterId": {
-                "@value": "1708",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -14141,10 +12809,6 @@
         },
         {
             "@id": "css:dn_t",
-            "cs:vmmParameterId": {
-                "@value": "1520",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -14168,10 +12832,6 @@
         },
         {
             "@id": "css:c16admba",
-            "cs:vmmParameterId": {
-                "@value": "1126",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -14195,10 +12855,6 @@
         },
         {
             "@id": "css:om",
-            "cs:vmmParameterId": {
-                "@value": "301",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -14222,10 +12878,6 @@
         },
         {
             "@id": "css:c18quin",
-            "cs:vmmParameterId": {
-                "@value": "1137",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -14249,10 +12901,6 @@
         },
         {
             "@id": "css:n-fenol",
-            "cs:vmmParameterId": {
-                "@value": "1675",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -14276,10 +12924,6 @@
         },
         {
             "@id": "css:es_ttcee",
-            "cs:vmmParameterId": {
-                "@value": "599",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -14303,10 +12947,6 @@
         },
         {
             "@id": "css:ttcdbd_t",
-            "cs:vmmParameterId": {
-                "@value": "1337",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -14330,10 +12970,6 @@
         },
         {
             "@id": "css:aeo_c18",
-            "cs:vmmParameterId": {
-                "@value": "1844",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -14357,10 +12993,6 @@
         },
         {
             "@id": "css:n_t",
-            "cs:vmmParameterId": {
-                "@value": "31",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -14384,10 +13016,6 @@
         },
         {
             "@id": "css:12cbz_13cbz",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:notation": "12CBz+13CBz",
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -14396,14 +13024,14 @@
                     "@id": "gemet:2912"
                 }
             ],
-            "@type": "skos:Concept",
             "skos:topConceptOf": {
                 "@id": "vlcs:sommatie_stoffen"
             },
-            "cs:vmmParameterId": {
-                "@value": "1761",
-                "@type": "xsd:int"
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Som van 1,2 + 1,3 Dichloorbenzeen"
             },
+            "skos:notation": "12CBz+13CBz",
             "skos:narrowMatch": [
                 {
                     "@id": "csc:RFFLAFLAYFXFSW-UHFFFAOYSA-N"
@@ -14412,17 +13040,13 @@
                     "@id": "csc:ZPQOPVIELGIULI-UHFFFAOYSA-N"
                 }
             ],
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Som van 1,2 + 1,3 Dichloorbenzeen"
-            }
+            "skos:inScheme": {
+                "@id": "vlcs:sommatie_stoffen"
+            },
+            "@type": "skos:Concept"
         },
         {
             "@id": "css:stoffr_no",
-            "cs:vmmParameterId": {
-                "@value": "1314",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -14446,10 +13070,6 @@
         },
         {
             "@id": "css:cresol_c",
-            "cs:vmmParameterId": {
-                "@value": "479",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -14473,10 +13093,6 @@
         },
         {
             "@id": "css:s_t-sox",
-            "cs:vmmParameterId": {
-                "@value": "1287",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -14500,26 +13116,22 @@
         },
         {
             "@id": "css:4eyfol___35myfol",
-            "skos:notation": "4EyFol + 35MyFol",
-            "@type": "skos:Concept",
             "dcat:theme": [
                 {
-                    "@id": "gemet:2912"
+                    "@id": "gemet:9214"
                 },
                 {
-                    "@id": "gemet:9214"
+                    "@id": "gemet:2912"
                 }
             ],
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "cs:vmmParameterId": {
-                "@value": "1668",
-                "@type": "xsd:int"
-            },
             "skos:topConceptOf": {
                 "@id": "vlcs:sommatie_stoffen"
             },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "4-ethylfenol + 3,5 dimethylfenol"
+            },
+            "skos:notation": "4EyFol + 35MyFol",
             "skos:narrowMatch": [
                 {
                     "@id": "csc:HXDOZKJGKXYMEW-UHFFFAOYSA-N"
@@ -14528,17 +13140,13 @@
                     "@id": "csc:QWBBPBRQALCEIZ-UHFFFAOYSA-N"
                 }
             ],
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "4-ethylfenol + 3,5 dimethylfenol"
-            }
+            "skos:inScheme": {
+                "@id": "vlcs:sommatie_stoffen"
+            },
+            "@type": "skos:Concept"
         },
         {
             "@id": "css:pak_2",
-            "cs:vmmParameterId": {
-                "@value": "824",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -14562,10 +13170,6 @@
         },
         {
             "@id": "css:pak_10",
-            "cs:vmmParameterId": {
-                "@value": "817",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -14589,10 +13193,6 @@
         },
         {
             "@id": "css:co_cr_cu_ni_pb_zn",
-            "cs:vmmParameterId": {
-                "@value": "1712",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -14616,10 +13216,6 @@
         },
         {
             "@id": "css:kws_ar",
-            "cs:vmmParameterId": {
-                "@value": "1295",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -14643,10 +13239,6 @@
         },
         {
             "@id": "css:asbest",
-            "cs:vmmParameterId": {
-                "@value": "955",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -14670,10 +13262,6 @@
         },
         {
             "@id": "css:oc",
-            "cs:vmmParameterId": {
-                "@value": "1269",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -14697,10 +13285,6 @@
         },
         {
             "@id": "css:pcdbfur_t",
-            "cs:vmmParameterId": {
-                "@value": "1342",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -14724,10 +13308,6 @@
         },
         {
             "@id": "css:cl_v",
-            "cs:vmmParameterId": {
-                "@value": "23",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -14751,10 +13331,6 @@
         },
         {
             "@id": "css:fol_get_",
-            "cs:vmmParameterId": {
-                "@value": "454",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -14778,10 +13354,6 @@
         },
         {
             "@id": "css:halonen",
-            "cs:vmmParameterId": {
-                "@value": "1177",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -14805,10 +13377,6 @@
         },
         {
             "@id": "css:oyfol_et",
-            "cs:vmmParameterId": {
-                "@value": "961",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -14832,10 +13400,6 @@
         },
         {
             "@id": "css:fol_h2o_vlucht",
-            "cs:vmmParameterId": {
-                "@value": "1683",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -14859,10 +13423,6 @@
         },
         {
             "@id": "css:vocl_i",
-            "cs:vmmParameterId": {
-                "@value": "1747",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -14886,10 +13446,6 @@
         },
         {
             "@id": "css:cyalk",
-            "cs:vmmParameterId": {
-                "@value": "1383",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -14913,10 +13469,6 @@
         },
         {
             "@id": "css:xyl__styr",
-            "cs:vmmParameterId": {
-                "@value": "1718",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -14940,10 +13492,6 @@
         },
         {
             "@id": "css:dyfolet",
-            "cs:vmmParameterId": {
-                "@value": "1054",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -14967,10 +13515,6 @@
         },
         {
             "@id": "css:c13eo",
-            "cs:vmmParameterId": {
-                "@value": "1107",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -14994,10 +13538,6 @@
         },
         {
             "@id": "css:zs",
-            "cs:vmmParameterId": {
-                "@value": "113",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -15021,10 +13561,6 @@
         },
         {
             "@id": "css:clfyl_t",
-            "cs:vmmParameterId": {
-                "@value": "120",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -15048,10 +13584,6 @@
         },
         {
             "@id": "css:c18admba",
-            "cs:vmmParameterId": {
-                "@value": "1127",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -15075,10 +13607,6 @@
         },
         {
             "@id": "css:kws_al",
-            "cs:vmmParameterId": {
-                "@value": "1294",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -15102,10 +13630,6 @@
         },
         {
             "@id": "css:pfos_som",
-            "cs:vmmParameterId": {
-                "@value": "2143",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -15129,10 +13653,6 @@
         },
         {
             "@id": "css:onp_t",
-            "cs:vmmParameterId": {
-                "@value": "897",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -15156,10 +13676,6 @@
         },
         {
             "@id": "css:bde_85_154",
-            "cs:vmmParameterId": {
-                "@value": "954",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -15183,10 +13699,6 @@
         },
         {
             "@id": "css:pak_excl_naftaleen",
-            "cs:vmmParameterId": {
-                "@value": "1756",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -15210,10 +13722,6 @@
         },
         {
             "@id": "css:c16isoquin",
-            "cs:vmmParameterId": {
-                "@value": "1139",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -15237,10 +13745,6 @@
         },
         {
             "@id": "css:cr_zn_mn_cu",
-            "cs:vmmParameterId": {
-                "@value": "1768",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -15264,10 +13768,6 @@
         },
         {
             "@id": "css:mak_t",
-            "cs:vmmParameterId": {
-                "@value": "217",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -15291,17 +13791,6 @@
         },
         {
             "@id": "css:12cbz_14cbz",
-            "skos:inScheme": {
-                "@id": "vlcs:sommatie_stoffen"
-            },
-            "skos:narrowMatch": [
-                {
-                    "@id": "csc:RFFLAFLAYFXFSW-UHFFFAOYSA-N"
-                },
-                {
-                    "@id": "csc:OCJBOOLMMGQPQU-UHFFFAOYSA-N"
-                }
-            ],
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
@@ -15313,23 +13802,26 @@
             "skos:topConceptOf": {
                 "@id": "vlcs:sommatie_stoffen"
             },
-            "cs:vmmParameterId": {
-                "@value": "1778",
-                "@type": "xsd:int"
-            },
-            "@type": "skos:Concept",
             "skos:prefLabel": {
                 "@language": "nl",
                 "@value": "som van 1,2-dichloorbenzeen en 1,4-dichloorbenzeen"
             },
-            "skos:notation": "12CBz+14CBz"
+            "skos:notation": "12CBz+14CBz",
+            "skos:narrowMatch": [
+                {
+                    "@id": "csc:RFFLAFLAYFXFSW-UHFFFAOYSA-N"
+                },
+                {
+                    "@id": "csc:OCJBOOLMMGQPQU-UHFFFAOYSA-N"
+                }
+            ],
+            "skos:inScheme": {
+                "@id": "vlcs:sommatie_stoffen"
+            },
+            "@type": "skos:Concept"
         },
         {
             "@id": "css:cl_an_",
-            "cs:vmmParameterId": {
-                "@value": "1332",
-                "@type": "xsd:int"
-            },
             "dcat:theme": [
                 {
                     "@id": "gemet:9214"
