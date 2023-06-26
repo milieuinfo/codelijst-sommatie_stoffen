@@ -1,0 +1,356 @@
+{
+    "@graph": [
+        {
+            "@id": "omg_distribution:codelijst-sommatie_stoffen.2.0.0.sommatie_stoffen.csv",
+            "dcterms:title": {
+                "@language": "nl",
+                "@value": "Codelijst sommatie_stoffen in text/csv formaat."
+            },
+            "dcterms:format": {
+                "@id": "file_type:CSV"
+            },
+            "@type": "dcat:Distribution",
+            "dcat:accessURL": {
+                "@id": "https://github.com/milieuinfo/codelijst-sommatie_stoffen.git"
+            },
+            "dcterms:issued": {
+                "@value": "2023-06-26",
+                "@type": "xsd:date"
+            },
+            "foaf:page": {
+                "@id": "https://data.omgeving.vlaanderen.be/doc/distribution/codelijst-sommatie_stoffen.2.0.0.sommatie_stoffen.csv.html"
+            },
+            "rdfs:label": {
+                "@language": "nl",
+                "@value": "Codelijst sommatie_stoffen, in text/csv formaat."
+            },
+            "dc:identifier": "be.vlaanderen.omgeving.data.id.distribution.codelijst-sommatie_stoffen.2.0.0.sommatie_stoffen.csv",
+            "dcterms:accessRights": {
+                "@id": "access_right:PUBLIC"
+            },
+            "dcat:downloadURL": {
+                "@id": "https://datasets.omgeving.vlaanderen.be/be.vlaanderen.omgeving.data.id.distribution.codelijst-sommatie_stoffen.2.0.0.sommatie_stoffen.csv"
+            },
+            "dcterms:description": {
+                "@language": "nl",
+                "@value": "Codelijst sommatie_stoffen, geserialiseerd in csv tabelformaat."
+            },
+            "dcat:compressFormat": {
+                "@id": "http://www.iana.org/assignments/media-types/application/gzip"
+            },
+            "dcterms:rightsHolder": {
+                "@id": "ovo:OVO003751"
+            },
+            "dcterms:identifier": {
+                "@id": "omg_distribution:codelijst-sommatie_stoffen.2.0.0.sommatie_stoffen.csv"
+            },
+            "dcat:mediaType": {
+                "@id": "https://www.iana.org/assignments/media-types/text/csv"
+            }
+        },
+        {
+            "@id": "omg_dataset:codelijst-sommatie_stoffen",
+            "dcterms:hasVersion": {
+                "@id": "omg_dataset:codelijst-sommatie_stoffen.2.0.0"
+            },
+            "@type": "dcat:Dataset"
+        },
+        {
+            "@id": "omg_dataset:codelijst-sommatie_stoffen.2.0.0",
+            "dcterms:spatial": [
+                {
+                    "@id": "country:BEL"
+                },
+                {
+                    "@id": "https://www.geonames.org/3337388/flanders"
+                }
+            ],
+            "dcat:theme": [
+                {
+                    "@id": "datatheme_eu:ENVI"
+                },
+                {
+                    "@id": "gemet:10087"
+                },
+                {
+                    "@id": "eurovoc:2407"
+                },
+                {
+                    "@id": "datatheme_be:ENVI"
+                }
+            ],
+            "dcterms:isVersionOf": {
+                "@id": "omg_dataset:codelijst-sommatie_stoffen"
+            },
+            "dcterms:rightsHolder": {
+                "@id": "ovo:OVO003751"
+            },
+            "dcterms:license": {
+                "@id": "http://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0"
+            },
+            "dcterms:issued": {
+                "@value": "2023-06-26",
+                "@type": "xsd:date"
+            },
+            "dcterms:language": {
+                "@id": "language:NLD"
+            },
+            "dcat:distribution": [
+                {
+                    "@id": "omg_id:package/be.vlaanderen.omgeving.data.id.graph.codelijst-sommatie_stoffen.2.0.0"
+                },
+                {
+                    "@id": "omg_distribution:codelijst-sommatie_stoffen.2.0.0.sommatie_stoffen.csv"
+                },
+                {
+                    "@id": "omg_distribution:codelijst-sommatie_stoffen.2.0.0.sommatie_stoffen.jsonld"
+                },
+                {
+                    "@id": "omg_distribution:codelijst-sommatie_stoffen.2.0.0.sommatie_stoffen.ttl"
+                }
+            ],
+            "dc:language": {
+                "@language": "nl",
+                "@value": "nl"
+            },
+            "dcterms:accessRights": {
+                "@id": "access_right:PUBLIC"
+            },
+            "dcterms:title": {
+                "@language": "nl",
+                "@value": "Codelijst sommatie_stoffen"
+            },
+            "dcat:landingPage": {
+                "@id": "https://data.omgeving.vlaanderen.be/doc/catalog/codelijst.html"
+            },
+            "dcterms:accrualPeriodicity": {
+                "@id": "frequency:IRREG"
+            },
+            "void:rootResource": {
+                "@id": "omg_conceptscheme:sommatie_stoffen"
+            },
+            "dc:identifier": "be.vlaanderen.omgeving.data.id.dataset.codelijst-sommatie_stoffen.2.0.0",
+            "dcat:contactPoint": {
+                "@id": "omg_id:vcard/helpdesk"
+            },
+            "rdfs:label": {
+                "@language": "nl",
+                "@value": "Codelijst sommatie_stoffen (2.0.0)"
+            },
+            "foaf:page": {
+                "@id": "https://data.omgeving.vlaanderen.be/doc/dataset/codelijst-sommatie_stoffen.2.0.0.html"
+            },
+            "dcterms:publisher": {
+                "@id": "ovo:OVO003323"
+            },
+            "dcterms:identifier": {
+                "@id": "omg_dataset:codelijst-sommatie_stoffen.2.0.0"
+            },
+            "owl:versionInfo": "2.0.0",
+            "@type": "dcat:Dataset",
+            "dcterms:description": {
+                "@language": "nl",
+                "@value": "Deze dataset bevat een lijst van sommatie_stoffentypes, die gebruikt worden binnen het beleidsdomein omgeving van de Vlaamse Overheid en zoals die initieel binnen het kader van het OSLO thema omgeving is opgesteld."
+            },
+            "dcterms:alternative": {
+                "@language": "nl",
+                "@value": "Dataset codelijst sommatie_stoffen"
+            },
+            "dcterms:temporal": {
+                "@id": "omg_id:periodoftime/dataset_omg"
+            }
+        },
+        {
+            "@id": "omg_id:package/be.vlaanderen.omgeving.data.id.graph.codelijst-sommatie_stoffen.2.0.0",
+            "dcterms:description": {
+                "@language": "nl",
+                "@value": "Codelijst sommatie_stoffen, Jar maven package."
+            },
+            "dc:identifier": "be.vlaanderen.omgeving.data.id.graph.codelijst-sommatie_stoffen.2.0.0",
+            "dcat:downloadURL": {
+                "@id": "https://repo.omgeving.vlaanderen.be/artifactory/release/be/vlaanderen/omgeving/data/id/graph/codelijst-sommatie_stoffen/2.0.0/codelijst-sommatie_stoffen-2.0.0.jar"
+            },
+            "dcterms:accessRights": {
+                "@id": "access_right:PUBLIC"
+            },
+            "spdx:downloadLocation": {
+                "@id": "https://repo.omgeving.vlaanderen.be/artifactory/release/be/vlaanderen/omgeving/data/id/graph/codelijst-sommatie_stoffen/2.0.0/codelijst-sommatie_stoffen-2.0.0.jar"
+            },
+            "dcterms:identifier": {
+                "@id": "omg_id:package/be.vlaanderen.omgeving.data.id.graph.codelijst-sommatie_stoffen.2.0.0"
+            },
+            "dcterms:issued": {
+                "@value": "2023-06-26",
+                "@type": "xsd:date"
+            },
+            "spdx:versionInfo": "2.0.0",
+            "rdfs:label": {
+                "@language": "nl",
+                "@value": "Package codelijst-sommatie_stoffen"
+            },
+            "spdx:packageFileName": "codelijst-sommatie_stoffen-2.0.0.jar",
+            "@type": [
+                "spdx:Package",
+                "dcat:Distribution"
+            ],
+            "dcterms:format": {
+                "@id": "file_type:JAR"
+            },
+            "dcterms:rightsHolder": {
+                "@id": "ovo:OVO003751"
+            },
+            "spdx:packageName": "be.vlaanderen.omgeving.data.id.graph.codelijst-sommatie_stoffen",
+            "dcterms:title": {
+                "@language": "nl",
+                "@value": "Codelijst sommatie_stoffen in jar-formaat."
+            }
+        },
+        {
+            "@id": "omg_catalog:codelijst",
+            "dcat:dataset": {
+                "@id": "omg_dataset:codelijst-sommatie_stoffen"
+            },
+            "@type": "dcat:Catalog"
+        },
+        {
+            "@id": "omg_distribution:codelijst-sommatie_stoffen.2.0.0.sommatie_stoffen.ttl",
+            "dcterms:issued": {
+                "@value": "2023-06-26",
+                "@type": "xsd:date"
+            },
+            "dcat:downloadURL": {
+                "@id": "https://datasets.omgeving.vlaanderen.be/be.vlaanderen.omgeving.data.id.distribution.codelijst-sommatie_stoffen.2.0.0.sommatie_stoffen.ttl"
+            },
+            "dcterms:accessRights": {
+                "@id": "access_right:PUBLIC"
+            },
+            "dcat:compressFormat": {
+                "@id": "http://www.iana.org/assignments/media-types/application/gzip"
+            },
+            "rdfs:label": {
+                "@language": "nl",
+                "@value": "Codelijst sommatie_stoffen, in Turtle rdf-formaat."
+            },
+            "dcterms:title": {
+                "@language": "nl",
+                "@value": "Codelijst sommatie_stoffen in Turtle rdf-formaat."
+            },
+            "dcat:accessURL": {
+                "@id": "https://github.com/milieuinfo/codelijst-sommatie_stoffen.git"
+            },
+            "dcterms:identifier": {
+                "@id": "omg_distribution:codelijst-sommatie_stoffen.2.0.0.sommatie_stoffen.ttl"
+            },
+            "@type": "dcat:Distribution",
+            "dcterms:description": {
+                "@language": "nl",
+                "@value": "Codelijst sommatie_stoffen, geserialiseerd in Turtle bestand."
+            },
+            "foaf:page": {
+                "@id": "https://data.omgeving.vlaanderen.be/doc/distribution/codelijst-sommatie_stoffen.2.0.0.sommatie_stoffen.ttl.html"
+            },
+            "dcat:mediaType": {
+                "@id": "https://www.iana.org/assignments/media-types/text/turtle"
+            },
+            "dcterms:rightsHolder": {
+                "@id": "ovo:OVO003751"
+            },
+            "dc:identifier": "be.vlaanderen.omgeving.data.id.distribution.codelijst-sommatie_stoffen.2.0.0.sommatie_stoffen.ttl",
+            "dcterms:format": {
+                "@id": "file_type:RDF_TURTLE"
+            }
+        },
+        {
+            "@id": "omg_distribution:codelijst-sommatie_stoffen.2.0.0.sommatie_stoffen.jsonld",
+            "dcterms:issued": {
+                "@value": "2023-06-26",
+                "@type": "xsd:date"
+            },
+            "@type": "dcat:Distribution",
+            "dcat:compressFormat": {
+                "@id": "http://www.iana.org/assignments/media-types/application/gzip"
+            },
+            "dcat:mediaType": {
+                "@id": "https://www.iana.org/assignments/media-types/application/ld+json"
+            },
+            "dcterms:description": {
+                "@language": "nl",
+                "@value": "Codelijst sommatie_stoffen, geserialiseerd in een jsonld bestand."
+            },
+            "dcterms:title": {
+                "@language": "nl",
+                "@value": "Codelijst sommatie_stoffen in jsonld rdf-formaat."
+            },
+            "dcat:accessURL": {
+                "@id": "https://github.com/milieuinfo/codelijst-sommatie_stoffen.git"
+            },
+            "dcterms:rightsHolder": {
+                "@id": "ovo:OVO003751"
+            },
+            "dc:identifier": "be.vlaanderen.omgeving.data.id.distribution.codelijst-sommatie_stoffen.2.0.0.sommatie_stoffen.jsonld",
+            "dcat:downloadURL": {
+                "@id": "https://datasets.omgeving.vlaanderen.be/be.vlaanderen.omgeving.data.id.distribution.codelijst-sommatie_stoffen.2.0.0.sommatie_stoffen.jsonld"
+            },
+            "dcterms:accessRights": {
+                "@id": "access_right:PUBLIC"
+            },
+            "dcterms:format": {
+                "@id": "file_type:JSON_LD"
+            },
+            "foaf:page": {
+                "@id": "https://data.omgeving.vlaanderen.be/doc/distribution/codelijst-sommatie_stoffen.2.0.0.sommatie_stoffen.jsonld.html"
+            },
+            "rdfs:label": {
+                "@language": "nl",
+                "@value": "Codelijst sommatie_stoffen, in jsonld rdf-formaat."
+            },
+            "dcterms:identifier": {
+                "@id": "omg_distribution:codelijst-sommatie_stoffen.2.0.0.sommatie_stoffen.jsonld"
+            }
+        }
+    ],
+    "@context": {
+        "country": "http://publications.europa.eu/resource/authority/country/",
+        "formats": "http://www.w3.org/ns/formats/",
+        "spdx": "http://spdx.org/rdf/terms#",
+        "omg_catalog": "https://data.omgeving.vlaanderen.be/id/catalog/",
+        "owl": "http://www.w3.org/2002/07/owl#",
+        "ssd": "http://www.w3.org/ns/sparql-service-description#",
+        "omg_graphcollection": "https://data.omgeving.vlaanderen.be/id/graphcollection/",
+        "xsd": "http://www.w3.org/2001/XMLSchema#",
+        "skos": "http://www.w3.org/2004/02/skos/core#",
+        "datatheme_eu": "http://publications.europa.eu/resource/authority/data-theme/",
+        "eurovoc": "http://eurovoc.europa.eu/",
+        "language": "http://publications.europa.eu/resource/authority/language/",
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "omg_id": "https://data.omgeving.vlaanderen.be/id/",
+        "access_right": "http://publications.europa.eu/resource/authority/access-right/",
+        "omg_dataset": "https://data.omgeving.vlaanderen.be/id/dataset/",
+        "frequency": "http://publications.europa.eu/resource/authority/frequency/",
+        "sd": "http://www.w3.org/ns/sparql-service-description#",
+        "omg_collection": "https://data.omgeving.vlaanderen.be/id/collection/",
+        "omg_periodoftime": "https://data.omgeving.vlaanderen.be/id/periodoftime/",
+        "file_type": "http://publications.europa.eu/resource/authority/file-type/",
+        "dcterms": "http://purl.org/dc/terms/",
+        "dcat": "http://www.w3.org/ns/dcat#",
+        "assettype": "http://purl.org/adms/assettype/",
+        "foaf": "http://xmlns.com/foaf/0.1/",
+        "omg_dataservice": "https://data.omgeving.vlaanderen.be/id/dataservice/",
+        "void": "http://rdfs.org/ns/void#",
+        "adms": "http://www.w3.org/ns/adms#",
+        "gemet": "http://www.eionet.europa.eu/gemet/concept/",
+        "omg_named_graph": "https://data.omgeving.vlaanderen.be/id/namedgraph/",
+        "omg_vcard": "https://data.omgeving.vlaanderen.be/id/vcard/",
+        "ovo": "http://data.vlaanderen.be/id/organisatie/",
+        "vcard": "http://www.w3.org/2006/vcard/ns#",
+        "omg_ontology": "https://data.omgeving.vlaanderen.be/id/ontology/",
+        "omg_graph": "https://data.omgeving.vlaanderen.be/id/graph/",
+        "omg_distribution": "https://data.omgeving.vlaanderen.be/id/distribution/",
+        "omg_service": "https://data.omgeving.vlaanderen.be/id/service/",
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "datatheme_be": "http://vocab.belgif.be/auth/datatheme/",
+        "omg_conceptscheme": "https://data.omgeving.vlaanderen.be/id/conceptscheme/",
+        "omg_package": "https://data.omgeving.vlaanderen.be/id/package/",
+        "dc": "http://purl.org/dc/elements/1.1/"
+    }
+}
