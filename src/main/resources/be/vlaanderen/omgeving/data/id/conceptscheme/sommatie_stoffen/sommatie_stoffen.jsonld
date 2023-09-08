@@ -1662,6 +1662,14 @@
         },
         {
             "@id": "css:pfk_imjv_lucht",
+            "dcat:theme": [
+                {
+                    "@id": "gemet:270"
+                },
+                {
+                    "@id": "gemet:2912"
+                }
+            ],
             "skos:narrowMatch": [
                 {
                     "@id": "csc:KAVGMUDTWQVPDF-UHFFFAOYSA-N"
@@ -1705,14 +1713,6 @@
                 "@language": "nl",
                 "@value": "som van CF4, C2F6, C3F8, C4F10, c-C4F8, C5F12, C6F14"
             },
-            "dcat:theme": [
-                {
-                    "@id": "gemet:9214"
-                },
-                {
-                    "@id": "gemet:2912"
-                }
-            ],
             "skos:topConceptOf": {
                 "@id": "vlcs:sommatie_stoffen"
             }
@@ -15144,9 +15144,6 @@
                     "@id": "css:hpcdbd_t"
                 },
                 {
-                    "@id": "css:pfk_imjv_lucht"
-                },
-                {
                     "@id": "css:sn_anorg_t"
                 },
                 {
@@ -15973,6 +15970,9 @@
                 "@value": "Collectie van verzameling stoffen die in lucht worden gemeten"
             },
             "skos:member": [
+                {
+                    "@id": "css:pfk_imjv_lucht"
+                },
                 {
                     "@id": "css:pm10"
                 },
