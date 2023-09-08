@@ -66,6 +66,14 @@
       "@id" : "http://www.w3.org/2004/02/skos/core#broadMatch",
       "@type" : "@id"
     },
+  "narrower" : {
+    "@id" : "http://www.w3.org/2004/02/skos/core#narrower",
+    "@type" : "@id"
+  },
+  "broader" : {
+    "@id" : "http://www.w3.org/2004/02/skos/core#broader",
+    "@type" : "@id"
+  },
     "vmmParameterId" : {
       "@id" : "https://data.vlaanderen.be/ns/chemische_stof#vmmParameterId",
       "@type" : "http://www.w3.org/2001/XMLSchema#int"

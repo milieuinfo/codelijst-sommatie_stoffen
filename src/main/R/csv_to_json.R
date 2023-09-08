@@ -4,6 +4,19 @@ library(dplyr)
 library(jsonlite)
 library(stringr)
 
+narrower_from_broader  <- function(df) {
+  # narrower uit "inverse" relatie broader
+  broaders <- na.omit(distinct(df['broader']))
+  for (broad in as.list(broaders$broader)) {
+    relation <- subset(df, broader == broad ,
+                       select=c(uri, broader))
+    narrowers <- as.list(relation["uri"])
+    df2 <- data.frame(broad, narrowers)
+    names(df2) <- c("uri","narrower")
+    df <- bind_rows(df, df2)
+  }
+  return(df)
+}
 
 df <- read.csv(file = "../resources/be/vlaanderen/omgeving/data/id/conceptscheme/sommatie_stoffen/sommatie_stoffen.csv", sep=",", na.strings=c("","NA"))
 # fix voor vctrs_error_incompatible in pubchem column
@@ -35,6 +48,7 @@ for (scheme in as.list(schemes$topConceptOf)) {
   names(df2) <- c("uri","hasTopConcept")
   df <- bind_rows(df, df2)
 }
+df <- narrower_from_broader(df)
 
 df <- df %>%
   rename("@id" = uri,
