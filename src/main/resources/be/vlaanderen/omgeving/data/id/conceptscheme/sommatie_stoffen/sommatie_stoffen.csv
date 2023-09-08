@@ -517,7 +517,7 @@ skos:Concept,css:apolairekoolwaterstoffen_fractiec10-c12,"Apolairekoolwaterstoff
 skos:Concept,css:apolairekoolwaterstoffen_fractiec12-c20,"Apolairekoolwaterstoffen,fractieC12-C20","Apolaire koolwaterstoffen, fractie C12-C20",,,,,vlcs:sommatie_stoffen,gemet:9214|gemet:2912,vlcs:sommatie_stoffen,,,,,,,,
 skos:Concept,css:apolairekoolwaterstoffen_fractiec20-c30,"Apolairekoolwaterstoffen,fractieC20-C30","Apolaire koolwaterstoffen, fractie C20-C30",,,,,vlcs:sommatie_stoffen,gemet:9214|gemet:2912,vlcs:sommatie_stoffen,,,,,,,,
 skos:Concept,css:apolairekoolwaterstoffen_fractiec30-c40,"Apolairekoolwaterstoffen,fractieC30-C40","Apolaire koolwaterstoffen, fractie C30-C40",,,,,vlcs:sommatie_stoffen,gemet:9214|gemet:2912,vlcs:sommatie_stoffen,,,,,,,,
-skos:Concept,css:pm10,PM10,PM10,fijn stof kleiner dan 10 µm,,,coss:lucht,vlcs:sommatie_stoffen,gemet:9214|gemet:2912,,css:fijn_stof,,,,,,,
-skos:Concept,css:pm2.5,PM2.5,"PM2,5","fijn stof kleiner dan 2,5 µm",,,coss:lucht,vlcs:sommatie_stoffen,gemet:9214|gemet:2912,,css:fijn_stof,,,,,,,
-skos:Concept,css:pm0.1,PM0.1,"PM0,1","fijn stof kleiner dan 0,1 µm",,,coss:lucht,vlcs:sommatie_stoffen,gemet:9214|gemet:2912,,css:fijn_stof,,,,,,,"niet voor het imjv, wel algemeen luchtkwaliteit"
-skos:Concept,css:fijn_stof,fijnstof,fijn stof,,,,coss:lucht,vlcs:sommatie_stoffen,gemet:9214|gemet:2912,vlcs:sommatie_stoffen,,,,,,,,
+skos:Concept,css:pm10,PM10,PM10,fijn stof kleiner dan 10 µm,,,coss:lucht,vlcs:sommatie_stoffen,gemet:270|gemet:2912,,css:fijn_stof,,,,,,,
+skos:Concept,css:pm2.5,PM2.5,"PM2,5","fijn stof kleiner dan 2,5 µm",,,coss:lucht,vlcs:sommatie_stoffen,gemet:270|gemet:2912,,css:fijn_stof,,,,,,,
+skos:Concept,css:pm0.1,PM0.1,"PM0,1","fijn stof kleiner dan 0,1 µm",,,coss:lucht,vlcs:sommatie_stoffen,gemet:270|gemet:2912,,css:fijn_stof,,,,,,,"niet voor het imjv, wel algemeen luchtkwaliteit"
+skos:Concept,css:fijn_stof,fijnstof,fijn stof,,,,coss:lucht,vlcs:sommatie_stoffen,gemet:270|gemet:2912,vlcs:sommatie_stoffen,,,,,,,,

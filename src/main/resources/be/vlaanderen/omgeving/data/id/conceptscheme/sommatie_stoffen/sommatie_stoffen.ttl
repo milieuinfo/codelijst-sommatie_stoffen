@@ -29,7 +29,7 @@ css:pm2.5  a             skos:Concept;
         skos:inScheme    vlcs:sommatie_stoffen;
         skos:notation    "PM2.5";
         skos:prefLabel   "PM2,5"@nl;
-        dcat:theme       gemet:2912 , gemet:9214 .
+        dcat:theme       gemet:2912 , gemet:270 .
 
 css:apeo_c13  a            skos:Concept;
         skos:inScheme      vlcs:sommatie_stoffen;
@@ -70,7 +70,7 @@ css:pm10  a              skos:Concept;
         skos:inScheme    vlcs:sommatie_stoffen;
         skos:notation    "PM10";
         skos:prefLabel   "PM10"@nl;
-        dcat:theme       gemet:2912 , gemet:9214 .
+        dcat:theme       gemet:2912 , gemet:270 .
 
 css:dicnibzsom  a          skos:Concept;
         skos:inScheme      vlcs:sommatie_stoffen;
@@ -2149,7 +2149,7 @@ css:fijn_stof  a           skos:Concept;
         skos:notation      "fijnstof";
         skos:prefLabel     "fijn stof"@nl;
         skos:topConceptOf  vlcs:sommatie_stoffen;
-        dcat:theme         gemet:2912 , gemet:9214 .
+        dcat:theme         gemet:2912 , gemet:270 .
 
 css:anmvos_t  a            skos:Concept;
         skos:inScheme      vlcs:sommatie_stoffen;
@@ -3446,7 +3446,7 @@ css:pm0.1  a             skos:Concept;
         skos:inScheme    vlcs:sommatie_stoffen;
         skos:notation    "PM0.1";
         skos:prefLabel   "PM0,1"@nl;
-        dcat:theme       gemet:2912 , gemet:9214 .
+        dcat:theme       gemet:2912 , gemet:270 .
 
 css:24_25-cfol  a          skos:Concept;
         skos:inScheme      vlcs:sommatie_stoffen;

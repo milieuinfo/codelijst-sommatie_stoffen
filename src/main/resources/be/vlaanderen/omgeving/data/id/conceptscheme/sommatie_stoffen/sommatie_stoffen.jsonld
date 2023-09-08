@@ -1580,7 +1580,7 @@
             "@id": "css:pm2.5",
             "dcat:theme": [
                 {
-                    "@id": "gemet:9214"
+                    "@id": "gemet:270"
                 },
                 {
                     "@id": "gemet:2912"
@@ -1610,7 +1610,7 @@
                     "@id": "gemet:2912"
                 },
                 {
-                    "@id": "gemet:9214"
+                    "@id": "gemet:270"
                 }
             ],
             "skos:topConceptOf": {
@@ -1773,7 +1773,7 @@
             "@id": "css:pm10",
             "dcat:theme": [
                 {
-                    "@id": "gemet:9214"
+                    "@id": "gemet:270"
                 },
                 {
                     "@id": "gemet:2912"
@@ -14742,7 +14742,7 @@
             "@id": "css:pm0.1",
             "dcat:theme": [
                 {
-                    "@id": "gemet:9214"
+                    "@id": "gemet:270"
                 },
                 {
                     "@id": "gemet:2912"
