@@ -2692,6 +2692,7 @@ css:xnmvos_t  a            skos:Concept;
         dcat:theme         gemet:2912 , gemet:9214 .
 
 css:mbas  a                skos:Concept;
+        skos:definition    "Oppervlakte actieve stoffen (reagerend op methyleenblauw)"@nl;
         skos:inScheme      vlcs:sommatie_stoffen;
         skos:notation      "MBAS";
         skos:prefLabel     "Methyleenblauw actieve stoffen"@nl;

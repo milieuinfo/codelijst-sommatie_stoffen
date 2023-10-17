@@ -10060,6 +10060,10 @@
             "skos:inScheme": {
                 "@id": "vlcs:sommatie_stoffen"
             },
+            "skos:definition": {
+                "@language": "nl",
+                "@value": "Oppervlakte actieve stoffen (reagerend op methyleenblauw)"
+            },
             "@type": "skos:Concept"
         },
         {

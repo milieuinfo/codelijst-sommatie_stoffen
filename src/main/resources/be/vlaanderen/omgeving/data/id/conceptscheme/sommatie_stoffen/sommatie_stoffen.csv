@@ -239,7 +239,7 @@ skos:Concept,css:latex,Latex,Latex,,,,coss:water,vlcs:sommatie_stoffen,gemet:921
 skos:Concept,css:m_ol_kws,M.ol+KWS,Minerale oliën en KWS,,,,coss:water,vlcs:sommatie_stoffen,gemet:9214|gemet:2912,vlcs:sommatie_stoffen,,,,,,,,
 skos:Concept,css:mak_i,MAK i,Monocyclische aromatische koolwaterstoffen ind. ,,,,coss:water,vlcs:sommatie_stoffen,gemet:9214|gemet:2912,vlcs:sommatie_stoffen,,,,,,,,
 skos:Concept,css:mak_t,MAK t,"Monoaromatische KWS, totaal",,,,coss:water,vlcs:sommatie_stoffen,gemet:9214|gemet:2912,vlcs:sommatie_stoffen,,,,,,,,
-skos:Concept,css:mbas,MBAS,Methyleenblauw actieve stoffen,,,,coss:water,vlcs:sommatie_stoffen,gemet:9214|gemet:2912,vlcs:sommatie_stoffen,,,,,,,,
+skos:Concept,css:mbas,MBAS,Methyleenblauw actieve stoffen,Oppervlakte actieve stoffen (reagerend op methyleenblauw),,,coss:water,vlcs:sommatie_stoffen,gemet:9214|gemet:2912,vlcs:sommatie_stoffen,,,,,,,,
 skos:Concept,css:mercapt,Mercapt,Mercaptanen,,,,coss:water,vlcs:sommatie_stoffen,gemet:9214|gemet:2912,vlcs:sommatie_stoffen,,,,,,,,
 skos:Concept,css:met_ex_zn_fe_mn_pb_a,"Met ex Zn,Fe,Mn,Pb,A","Som metalen zonder Zn,Fe,Mn,Pb,As,Cd",,,,coss:water,vlcs:sommatie_stoffen,gemet:9214|gemet:2912,vlcs:sommatie_stoffen,,,,,,,,
 skos:Concept,css:met_excl_zn_fe_mn_al,"met excl Zn,Fe,Mn,Al","Som metalen excl Zn,Fe,Mn,Al",,,,coss:water,vlcs:sommatie_stoffen,gemet:9214|gemet:2912,vlcs:sommatie_stoffen,,,,,,,,
