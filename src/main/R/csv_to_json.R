@@ -18,7 +18,7 @@ narrower_from_broader  <- function(df) {
   return(df)
 }
 
-df <- read.csv(file = "../resources/be/vlaanderen/omgeving/data/id/conceptscheme/sommatie_stoffen/sommatie_stoffen.csv", sep=",", na.strings=c("","NA"))
+df <- read.csv(file = "../resources/source/codelijst_sommatie_stoffen_source.csv", sep=",", na.strings=c("","NA"))
 # fix voor vctrs_error_incompatible in pubchem column
 df <- df %>%
   mutate_all(list(~ str_c("", .)))
@@ -54,7 +54,7 @@ df <- df %>%
   rename("@id" = uri,
          "@type" = type)
 write.csv(df,"../resources/be/vlaanderen/omgeving/data/id/conceptscheme/sommatie_stoffen/sommatie_stoffen_separate_rows.csv", row.names = FALSE)
-context <- jsonlite::read_json("../resources/be/vlaanderen/omgeving/data/id/conceptscheme/sommatie_stoffen/context.json")
+context <- jsonlite::read_json("../resources/source/codelijst_context.json")
 df_in_list <- list('@graph' = df, '@context' = context)
 df_in_json <- toJSON(df_in_list, auto_unbox=TRUE)
 write(df_in_json, "/tmp/sommatie_stoffen.jsonld")
