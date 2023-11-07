@@ -46,7 +46,7 @@ df <- read.csv(file = csv_file, sep=",")
 df <- collapse_df_on_pipe(df, 'uri') 
 df[is.na(df)] = ""
 write.csv(df, target_csv_file,  row.names=FALSE)
-write.xlsx(df, excel_file, sheetName = 'codelijst chemische stoffen', row.names=FALSE)
+write.xlsx(df, excel_file, sheetName = 'codelijst sommatie stoffen', row.names=FALSE)
 
 
 
