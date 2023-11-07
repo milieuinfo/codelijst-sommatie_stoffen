@@ -1,19 +1,20 @@
-@prefix co:       <https://data.omgeving.vlaanderen.be/id/concept/observatieprocedure/> .
-@prefix compound: <https://pubchem.ncbi.nlm.nih.gov/compound/> .
-@prefix coss:     <https://data.omgeving.vlaanderen.be/id/collection/sommatie_stoffen/> .
-@prefix cs:       <https://data.vlaanderen.be/ns/chemische_stof#> .
-@prefix csc:      <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/> .
-@prefix css:      <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/> .
-@prefix dbo:      <http://dbpedia.org/ontology/> .
-@prefix dc:       <http://purl.org/dc/elements/1.1/> .
-@prefix dcat:     <http://www.w3.org/ns/dcat#> .
-@prefix dct:      <http://purl.org/dc/terms/> .
-@prefix gemet:    <http://www.eionet.europa.eu/gemet/concept/> .
-@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
-@prefix vlcs:     <https://data.omgeving.vlaanderen.be/id/conceptscheme/> .
-@prefix wise:     <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/> .
-@prefix xsd:      <http://www.w3.org/2001/XMLSchema#> .
+@prefix co:          <https://data.omgeving.vlaanderen.be/id/concept/observatieprocedure/> .
+@prefix compound:    <https://pubchem.ncbi.nlm.nih.gov/compound/> .
+@prefix coss:        <https://data.omgeving.vlaanderen.be/id/collection/sommatie_stoffen/> .
+@prefix cs:          <https://data.vlaanderen.be/ns/chemische_stof#> .
+@prefix csc:         <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/> .
+@prefix css:         <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/> .
+@prefix dbo:         <http://dbpedia.org/ontology/> .
+@prefix dc:          <http://purl.org/dc/elements/1.1/> .
+@prefix dcat:        <http://www.w3.org/ns/dcat#> .
+@prefix dct:         <http://purl.org/dc/terms/> .
+@prefix gemet:       <http://www.eionet.europa.eu/gemet/concept/> .
+@prefix omg_dataset: <https://data.omgeving.vlaanderen.be/id/dataset/> .
+@prefix rdfs:        <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:        <http://www.w3.org/2004/02/skos/core#> .
+@prefix vlcs:        <https://data.omgeving.vlaanderen.be/id/conceptscheme/> .
+@prefix wise:        <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/> .
+@prefix xsd:         <http://www.w3.org/2001/XMLSchema#> .
 
 css:dbt  a                 skos:Concept;
         skos:altLabel      "DBT"@nl;
@@ -403,6 +404,8 @@ css:vpkaromatentotaal
 
 vlcs:sommatie_stoffen
         a                   skos:ConceptScheme;
+        <http://rdf-vocabulary.ddialliance.org/xkos#belongsTo>
+                omg_dataset:codelijst-sommatie_stoffen;
         skos:hasTopConcept  css:niet-ionischedetergenten , css:alk_c10-14 , css:aromaten , css:apeo_c11 , css:met_excl_zn_fe_mn_al , css:mineraleoliec17 , css:mineraleoliec6-c10 , css:oliënenvetten , css:dcan_t , css:aeo_c14_vertakt , css:apeo_c8 , css:tam , css:anionischedetergenten , css:n-fenol , css:na-zouten , css:mineraleoliec16-c20 , css:bap___bbflu_som , css:ttcdbd_t , css:mineraleoliec28-c32 , css:c14dadma , css:apeo_c16 , css:pyrethroïden , css:111cea_112cea , css:pak_10 , css:aeo_c15 , css:som1_1_1-trichloorethaan_per-_tri-entetrachloorethyleen , css:c14isoquin , css:stoffr_o , css:3_4cfol , css:ocp_t_imjv , css:opgelostebestanddelentds , css:apolairekoolwaterstoffen_fractiec30-c40 , css:f_an_ , css:alifatengroterdanec8totec10 , css:nyfolet , css:cresol_c , css:latex , css:aromatenc13 , css:benzine , css:12cbz_14cbz , css:pcb_ind , css:toc , css:c9peo , css:om , css:mno4_k , css:1c2_3_4nibzs , css:cd_cr_cu_ni_pb_zn , css:3_4myfol , <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/las/abs> , css:cl_an_ , css:pak_15 , css:c18quin , css:ocp_i , css:ddt__dde_en_isom , css:cl_ot , css:c18dadma , css:vrijalkali , css:hcdbfur_t , css:c14eo , css:persist__min__olie , css:pak_6 , css:hpc_epx , css:apeo_c18 , css:c14quin , css:aeo_c18 , css:onbekendealifatischeverbinding , css:ddt_t , css:fosfor_totaal , css:mineraleoliec8-c12 , css:nh3_no2- , css:vos , css:as , css:opgl__vt , css:mineraleoliekleinerdanc25 , css:1buteen__ , css:cyalk , css:doc , css:calux , css:dinyft_didyft , css:c18:1dadma , css:pesticiden_t , css:thm_t_excl_3clethyl , css:cr_cu_ni_pb_zn , css:anmvos_t , css:cfols , css:aromatengroterdanec12totec16 , css:c16admba , css:onbekendechloorverbinding , css:ac_acrol , css:met_ex_zn_fe_mn_pb_a , css:acrylaatpolymeren , css:arseentrioxideenarseenpentoxide_as , css:cl_v , css:mineraleoliec8-c10 , css:pfk_imjv_lucht , css:onbekendebroomverbinding , css:det_met_gisting , css:ccl4 , css:apeo_c10 , css:nyfol_et , css:apolairekoolwaterstoffen_fractiec12-c20 , css:kisurf , css:es_ttcee , css:apeo_c19 , css:halonen , css:23_35myfol_4eyfol , css:apeo , css:apeo_c6 , css:cl_en_so4 , css:pcdd_pcdf , css:kws_ar , css:c12eo , css:ompxyl , css:oasf_t , css:mineraleoliec5-c9 , css:aeo_c11_vertakt , css:sb_as_pb_cr_co_cu_mn_ni_v_sn , css:9_metalen_totaal , css:profam_benzadol , css:olie , css:dieselolie , css:1_2-dichloorethaan_vinylchloride , css:aeo_c13 , css:sb_as_pb_cr_co_cu_mn_ni_v , css:opp_t , css:bde_85_154 , css:nso , css:buta_tria_ala_acet , css:mineraleoliegroterdanc15 , css:ftal , css:pbs , css:12cbz_13cbz , css:selenas , css:ont_s , css:apolairekoolwaterstoffen_fractiec20-c30 , css:mineraleoliec20-c30 , css:mineraleoliec9-c15 , css:tpht , css:dinyftofdidyft , css:onbekendestikstofverbinding , css:p_esters , css:c10eo , css:es_pe , css:vocl_t , css:bde_t_6 , css:kws_t_vlucht , css:mineraleoliec32-c36 , css:fol_h2o_vlucht , css:vl_sol , css:mineraleoliec10-c25 , <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/hpo3²-> , css:pak_14 , css:pcdbfur_t , css:kjn__f , css:fe_al , css:cnyl_t , css:pak_5 , css:d13c , css:aes , css:mineraleoliec36-c40 , css:c16:1atma , css:oliezuur , css:8_metalen_totaal , css:mineraleoliec2-c6 , css:onbekendereekszuurstofverbindingen , css:persistente_kws , css:neg_nmvos , css:d15n , css:snver_ot , css:opvv_t , css:tmybz , css:aeo_c10 , css:sccp , css:vetzurenwaterdampvluchtig , css:bs , css:solvent , css:alk__gt_c13 , css:organischkoolstof , css:co_cr_ni_pb_zn , css:vetvrij , css:kws_c12-20 , css:c18isoquin , css:aisurf , css:c12quin , css:fol_c , css:naftenaten , css:s_t-h2s_rsh , css:biociden , css:h3o_ , css:cu_ni_zn_cr , css:mineraleoliec10-c12 , css:vpktotaal , css:pft_t , css:as_co_ni_cd_se_cr.vi , css:onp_t , css:stoffr_t , css:pcb_t , css:dcee , css:alifatengroterdanec12totec16 , css:cl , css:c18:1atma , css:s_t-sox , css:ipytol , css:arom_vlucht , css:c18eo , css:mineraleoliec26-c34 , css:24_25-cfol , css:dcbzdines , css:apeo_c15 , css:neg_oasf , css:zs , css:hfk , css:chol , css:4eyfol___35myfol , css:mineraleoliec5-c8 , css:npoc , <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/s=___merc_> , css:tox___pver_o , css:kws_ap_ , css:n_t , css:c18admba , css:kws_c30-40 , css:al_comp_ , css:neg_xnmvos , css:aeo_c12 , css:tocl , css:xyl__eybz , css:bjflu_bep , css:wasbenzine , css:c18atma , css:vluchtigechloorkoolwaterstoffensom , css:dmyfol_som , css:arom_c9 , css:kationischedetergenten , css:arom_c9-c10 , css:min_oliec10-c40 , css:mineraleoliec10-c20 , css:extrah__st_ , css:onbekendezuurstofverbinding , css:butanol , css:alif__ox , css:oyfolet , css:aromatengroterdanec12totec13 , css:kalk_os , css:vetextraheerbaar , css:c14admba , css:kws_t , css:mineraleoliec6-c12 , css:aromatenc12 , css:pfoa_som , css:alifatengroterdanec16totec21 , css:aox , css:nmvos_t , css:dn_t , css:tcees , css:cfk , css:cl__gebonden , css:tbt , css:mineraleoliec16-c22 , css:3_4eyfol , css:vpkaromatentotaal , css:7_metalen_totaal , css:stoffr_no , css:gechl__arom , css:basurf , css:apeo_c17 , css:bc , css:aeo_c17 , css:mineraleolievluchtigtotaal , css:vluchtigeveturenalsazijnzuur , css:f-verb , css:epkaromatentotaal , css:arom__gt_c13 , css:fol_get_ , css:kws_al , css:alkanen_alkenen , css:dyfolet , css:pfos__pfba__pfbs , css:dcbz , css:asbest , css:mineraleoliec30-c40 , css:cl-verb , css:mineraleoliec6-c40 , css:aromatengroterdanec21totec35 , css:dicnibzsom , css:24_25myfol , css:arom_c10 , css:mbas , css:furanen , css:xnmvos_t , css:omethoaat , css:kjn , css:oyfolsom , css:pak_tot , css:alk_c10-12 , css:pcb_28_31 , css:c15eo , css:n_o , css:organischestofhumus , css:mak_i , css:opgelostorganischkoolstofdoc , css:aromatenc10som , css:organischestofvandefractiekleinerdan2mm , css:oplosmiddelen , css:bflu_som , css:pak_2 , css:surf_kid_nid , css:aromatengroterdanec10totec12 , css:apeo_c14 , css:stof_t , css:aromatenc9som , css:pfc_exl_pfos__pfoa , css:sn_anorg_t , css:c18pyr , css:thm_t , css:pox , css:c18:2atma , css:es_ccl4 , css:dbysn_som , css:btbdpe , css:vocl_i , css:cu_ni_cd_cr_pb , css:aromatengroterdanec6totec8 , css:cu__pb__ni__zn , css:c12admba , css:cd_tl , css:aeo_c15_vertakt , css:btex , css:mineraleoliec12-c22 , css:xyl__styr , css:tiverb_ot_-ti , css:cresol , css:ctols , css:as_co_ni_cd_se_cr.vi_sb_pb_cr.iii_cu_mn_v_sn , css:hcdbd_t , css:c13eo , css:apeo_c12 , css:aromatenc11 , css:dmyfol_eyfol_2ipyfol , css:apeo_c9 , css:pak_excl_naftaleen , css:pak_i , css:nisurf , css:mineraleoliec24-c28 , css:nvooc , css:aromatengroteredanec8totec10 , css:trs-s_so2-s , css:onbekendereekspropoxyverbindingen , css:mineraleoliec10-c40 , css:mineraleoliec6-c8 , css:can_i , css:tct , css:pak_4 , css:nyfolsom , css:aeo_c16 , css:mineraleoliec14-c20 , css:c16isoquin , css:oyfol_et , css:surf_ion , css:hpcdbd_t , css:mno4_w , css:onbekendealkaanachtigeverbinding , css:alifatenec5totec6 , css:nvtoc , css:neg_anmvos , css:ddt_2_som , css:onbekendeverbinding , css:vetzurenvluchtig , css:vox_i , css:trs , css:dcpa , css:zs_as , css:aeo_c13_vertakt , css:alifatengroterdanec21totec35 , css:c18:2dadma , css:min_oliec6-c10 , css:se_v_u_th_te , css:eox , css:dbt , css:pak_16 , css:sox_so2 , css:pfos_som , css:mineraleoliec22-c30 , css:alifatengroterdanec6totec8 , css:arom_kws__mak___pak , css:arom_vlucht_i , css:pcdbd_t , css:cbzsom , css:uranimine , css:tcee__dcee_tcea , css:m_ol_kws , css:mineraleoliec12-c16 , css:pcb_t_pct_t , css:1235_1245cbz , css:n_n_n , css:c18:1admba , css:c10peo , css:tap , css:hcfk , css:c14pyr , css:cr_zn_mn_cu , css:vpkalifatentotaal , css:diesel , css:apolairekoolwaterstoffen_fractiec10-c12 , css:fijn_stof , css:pver_o , css:aeo_c11 , css:dioxines , css:c16quin , css:vrijkoolzuur , css:ocp_t , css:cfk_ind , css:mno4_kf , css:mno4_wf , css:sp_opp_ , css:alcoholen , css:sox , css:dcdfytcea , css:nox_no2 , css:ddd_e_t , css:mercapt , css:fol_c__i , css:som129_excl_ox , css:onbekendecycloalkaan , css:dioxinenenfuranen , css:ctine , css:c16eo , css:fol_t , css:sn_t_ , css:apeo_c7 , css:kws_c10-12 , css:surf_t , css:vluchtigeverbindingen , css:os , css:vox , css:wateroplosbarestof , css:mineraleoliec6-c16 , css:hpcepx , css:cnitol , css:tas , css:tricfolsom , css:oc , css:eas_ttcee , css:ttcdbfur_t , css:niet-ionogeneenkationischeoppervlakteactievestoffen , css:alifatengroterdanec10totec12 , css:vetzurensom , css:epktotaal , css:7_metalen_opg_ , css:aeo_c14 , css:co_cr_cu_ni_pb_zn , css:ti_t_ , css:nox , css:tetracea , css:11cea__12cea , css:tcee__ttcee__dcma , css:aeo_c10_vertakt , css:onbekendearomatischeverbinding , css:aromatengroterdanec16totec21 , css:pcb_pct_t , css:tfysn_som , css:mineraleoliec20-c24 , css:cfk_tot , css:br-_i- , css:nh4_zt , css:alk_c , css:ftal_excl_dehp , css:hch , css:mineraleoliec10-c16 , css:sof , css:sb_pb_cr_cu_mn_v_sn , css:mineraleoliec34-c40 , css:epkalifatentotaal , css:metalen_excl__al_fe , css:fuh_t , css:onopgelostebestanddelen , css:2345_2346cfol , css:gechlor__oplosm_ , css:kws_nm , css:bpe___ip_som , css:dioxineachtigepcb , css:n_n , css:c18:2admba , css:white-spirit , css:siver_o , css:c11eo , css:pct_t , css:c16:1admba , css:eyfol_som , css:mak_t , css:clfvfs , css:anionischeoppervlakteactievestoffen , css:mineraleoliec12-c14 , css:apeo_c13 , css:ol_water , css:ash3_sbh3 , css:mpxyl , css:cans , css:tvplds , css:triazine , css:aeo_c12_vertakt , css:det_zonder_gisting , css:metalenenmetalloidenmetuitzonderingvankwik , css:onbekendereeksftalaten , css:adeidrin , css:mineraleoliec25-c40 , css:kws_c20-30 , css:mineraleoliec30-c36 , css:mineraleoliec20-c26 , css:2_3_4cfol , css:clfyl_t , css:c14atma , css:bde;
         skos:prefLabel      "Codelijst groeperingen en sommaties van chemische stoffen"@nl .
 
@@ -3207,17 +3210,16 @@ css:mpxyl  a               skos:Concept;
         skos:topConceptOf  vlcs:sommatie_stoffen;
         dcat:theme         gemet:2912 , gemet:9214 .
 
-css:pcb_t  a                skos:Concept;
-        dct:isReferencedBy  co:CMA_3_I;
-        skos:altLabel       "(7 PCB: 28,52,101,118,138,153,180)"@nl;
-        skos:broadMatch     wise:CAS_1336-36-3 , csc:CHEMONTID_0003030;
-        skos:exactMatch     wise:EEA_33-38-5;
-        skos:inScheme       vlcs:sommatie_stoffen;
-        skos:narrowMatch    csc:BZTYNSQSZHARAZ-UHFFFAOYSA-N , csc:WBHQEUPUMONIKF-UHFFFAOYSA-N , csc:LAHWLEDBADHJGA-UHFFFAOYSA-N , csc:IUTPYMGCWINGEY-UHFFFAOYSA-N , csc:RPUMZMSNLZHIGZ-UHFFFAOYSA-N , csc:HCWZEPKLWVAEOV-UHFFFAOYSA-N , csc:MVWHGTYKUMDIHL-UHFFFAOYSA-N;
-        skos:notation       "PCB t";
-        skos:prefLabel      "PCB totaal"@nl;
-        skos:topConceptOf   vlcs:sommatie_stoffen;
-        dcat:theme          gemet:9214 , gemet:2912 .
+css:pcb_t  a               skos:Concept;
+        skos:altLabel      "(7 PCB: 28,52,101,118,138,153,180)"@nl;
+        skos:broadMatch    wise:CAS_1336-36-3 , csc:CHEMONTID_0003030;
+        skos:exactMatch    wise:EEA_33-38-5;
+        skos:inScheme      vlcs:sommatie_stoffen;
+        skos:narrowMatch   csc:BZTYNSQSZHARAZ-UHFFFAOYSA-N , csc:WBHQEUPUMONIKF-UHFFFAOYSA-N , csc:LAHWLEDBADHJGA-UHFFFAOYSA-N , csc:IUTPYMGCWINGEY-UHFFFAOYSA-N , csc:RPUMZMSNLZHIGZ-UHFFFAOYSA-N , csc:HCWZEPKLWVAEOV-UHFFFAOYSA-N , csc:MVWHGTYKUMDIHL-UHFFFAOYSA-N;
+        skos:notation      "PCB t";
+        skos:prefLabel     "PCB totaal"@nl;
+        skos:topConceptOf  vlcs:sommatie_stoffen;
+        dcat:theme         gemet:9214 , gemet:2912 .
 
 css:thm_t_excl_3clethyl
         a                  skos:Concept;

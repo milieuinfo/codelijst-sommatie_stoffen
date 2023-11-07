@@ -1,4 +1,4 @@
-type,uri,notation,prefLabel,definition,prefLabel_en,altLabel,collection,inScheme,theme,topConceptOf,broader,exactMatch,broadMatch,narrowMatch,seeAlso,casNumber,isReferencedBy,comment
+type,uri,notation,prefLabel,definition,prefLabel_en,altLabel,collection,inScheme,theme,topConceptOf,broader,exactMatch,broadMatch,narrowMatch,seeAlso,casNumber,comment,belongsTo
 skos:Collection,coss:lucht,,Collectie van verzameling stoffen die in lucht worden gemeten,,,,,vlcs:sommatie_stoffen,,,,,,,,,,
 skos:Collection,coss:water,,Collectie van verzameling stoffen die in water worden gemeten,,,,,vlcs:sommatie_stoffen,,,,,,,,,,
 skos:Concept,css:clfvfs,Clfvfs,Chloorfenvinfos,,,Cfvinfos,coss:water,vlcs:sommatie_stoffen,gemet:9214|gemet:2912,vlcs:sommatie_stoffen,,,,csc:FSAVDKDHPDSCTO-WQLSENKSSA-N|csc:FSAVDKDHPDSCTO-XYOKQWHBSA-N,compound:Chlorfenvinphos,470-90-6,,
@@ -306,7 +306,7 @@ skos:Concept,css:pcb_28_31,PCB 28+31,"2,4,4' + 2,4',5-Trichloorbifenyl (PCB28+31
 skos:Concept,css:pcb_ind,PCB ind,PCB individueel,,,,coss:water,vlcs:sommatie_stoffen,gemet:9214|gemet:2912,vlcs:sommatie_stoffen,,,,,,,,
 skos:Concept,css:pcb_pct_t,PCB+PCT t,"Polychloorbifenyl en polychloorterfenyl, totaal",,,,coss:water,vlcs:sommatie_stoffen,gemet:9214|gemet:2912,vlcs:sommatie_stoffen,,,,,,,,
 skos:Concept,css:pcb_t_pct_t,"(PCB t,PCT t)",Som van PCB totaal en PCT totaal,,,,coss:water,vlcs:sommatie_stoffen,gemet:9214|gemet:2912,vlcs:sommatie_stoffen,,,,,,,,
-skos:Concept,css:pcb_t,PCB t,PCB totaal,,,"(7 PCB: 28,52,101,118,138,153,180)",coss:water,vlcs:sommatie_stoffen,gemet:9214|gemet:2912,vlcs:sommatie_stoffen,,wise:EEA_33-38-5,wise:CAS_1336-36-3|csc:CHEMONTID_0003030,csc:BZTYNSQSZHARAZ-UHFFFAOYSA-N|csc:HCWZEPKLWVAEOV-UHFFFAOYSA-N|csc:LAHWLEDBADHJGA-UHFFFAOYSA-N|csc:IUTPYMGCWINGEY-UHFFFAOYSA-N|csc:RPUMZMSNLZHIGZ-UHFFFAOYSA-N|csc:MVWHGTYKUMDIHL-UHFFFAOYSA-N|csc:WBHQEUPUMONIKF-UHFFFAOYSA-N,,,co:CMA_3_I,
+skos:Concept,css:pcb_t,PCB t,PCB totaal,,,"(7 PCB: 28,52,101,118,138,153,180)",coss:water,vlcs:sommatie_stoffen,gemet:9214|gemet:2912,vlcs:sommatie_stoffen,,wise:EEA_33-38-5,wise:CAS_1336-36-3|csc:CHEMONTID_0003030,csc:BZTYNSQSZHARAZ-UHFFFAOYSA-N|csc:HCWZEPKLWVAEOV-UHFFFAOYSA-N|csc:LAHWLEDBADHJGA-UHFFFAOYSA-N|csc:IUTPYMGCWINGEY-UHFFFAOYSA-N|csc:RPUMZMSNLZHIGZ-UHFFFAOYSA-N|csc:MVWHGTYKUMDIHL-UHFFFAOYSA-N|csc:WBHQEUPUMONIKF-UHFFFAOYSA-N,,,,
 skos:Concept,css:pcdbd_t,PCdBD t,"Pentachloordibenzodioxine, totaal",,,,coss:water,vlcs:sommatie_stoffen,gemet:9214|gemet:2912,vlcs:sommatie_stoffen,,,,,,,,
 skos:Concept,css:pcdbfur_t,PCdBFur t,"Pentachloordibenzofuran, totaal",,,,coss:water,vlcs:sommatie_stoffen,gemet:9214|gemet:2912,vlcs:sommatie_stoffen,,,,,,,,
 skos:Concept,css:pcdd_pcdf,PCDD+PCDF,Dioxines+furanen,,,,coss:water,vlcs:sommatie_stoffen,gemet:9214|gemet:2912,vlcs:sommatie_stoffen,,,,,,,,
@@ -400,7 +400,7 @@ skos:Concept,css:trs-s_so2-s,TRS-S+SO2-S,Gasvormige S (TRS-S + SO2-S),,,,coss:wa
 skos:Concept,css:ash3_sbh3,AsH3+SbH3,Som van AsH3 en SbH3,,,,coss:water,vlcs:sommatie_stoffen,gemet:9214|gemet:2912,vlcs:sommatie_stoffen,,,,,,,,
 skos:Concept,css:som1_1_1-trichloorethaan_per-_tri-entetrachloorethyleen,"Som1,1,1-trichloorethaan,per-,tri-entetrachloorethyleen","1,1,1-trichloorethaan+ perchloorethyleen+ trichloorethyleen+tetrachloorethyleen",,,,coss:water,vlcs:sommatie_stoffen,gemet:9214|gemet:2912,vlcs:sommatie_stoffen,,,,,,,,
 skos:Concept,css:1_2-dichloorethaan_vinylchloride,"1,2-dichloorethaan+vinylchloride","som van 1,2-dichloorethaan en vinylchloride",,,,coss:water,vlcs:sommatie_stoffen,gemet:9214|gemet:2912,vlcs:sommatie_stoffen,,,,,,,,
-skos:ConceptScheme,vlcs:sommatie_stoffen,,Codelijst groeperingen en sommaties van chemische stoffen,,,,,,,,,,,,,,,
+skos:ConceptScheme,vlcs:sommatie_stoffen,,Codelijst groeperingen en sommaties van chemische stoffen,,,,,,,,,,,,,,,omg_dataset:codelijst-sommatie_stoffen
 skos:Concept,css:anionischeoppervlakteactievestoffen,Anionischeoppervlakteactievestoffen,Anionische oppervlakteactieve stoffen,,,,,vlcs:sommatie_stoffen,gemet:9214|gemet:2912,vlcs:sommatie_stoffen,,,,,,,,
 skos:Concept,css:niet-ionogeneenkationischeoppervlakteactievestoffen,Niet-ionogeneenkationischeoppervlakteactievestoffen,Niet-ionogene en kationische oppervlakteactieve stoffen,,,,,vlcs:sommatie_stoffen,gemet:9214|gemet:2912,vlcs:sommatie_stoffen,,,,,,,,
 skos:Concept,css:dbt,DBT,Dibutyltinverbindingen (DBT),,,DBT,,vlcs:sommatie_stoffen,gemet:9214|gemet:2912,vlcs:sommatie_stoffen,,,,,,,,
@@ -519,5 +519,5 @@ skos:Concept,css:apolairekoolwaterstoffen_fractiec20-c30,"Apolairekoolwaterstoff
 skos:Concept,css:apolairekoolwaterstoffen_fractiec30-c40,"Apolairekoolwaterstoffen,fractieC30-C40","Apolaire koolwaterstoffen, fractie C30-C40",,,,,vlcs:sommatie_stoffen,gemet:9214|gemet:2912,vlcs:sommatie_stoffen,,,,,,,,
 skos:Concept,css:pm10,PM10,PM10,fijn stof kleiner dan 10 µm,,,coss:lucht,vlcs:sommatie_stoffen,gemet:270|gemet:2912,,css:fijn_stof,,,,,,,
 skos:Concept,css:pm2.5,PM2.5,"PM2,5","fijn stof kleiner dan 2,5 µm",,,coss:lucht,vlcs:sommatie_stoffen,gemet:270|gemet:2912,,css:fijn_stof,,,,,,,
-skos:Concept,css:pm0.1,PM0.1,"PM0,1","fijn stof kleiner dan 0,1 µm",,,coss:lucht,vlcs:sommatie_stoffen,gemet:270|gemet:2912,,css:fijn_stof,,,,,,,"niet voor het imjv, wel algemeen luchtkwaliteit"
+skos:Concept,css:pm0.1,PM0.1,"PM0,1","fijn stof kleiner dan 0,1 µm",,,coss:lucht,vlcs:sommatie_stoffen,gemet:270|gemet:2912,,css:fijn_stof,,,,,,"niet voor het imjv, wel algemeen luchtkwaliteit",
 skos:Concept,css:fijn_stof,fijnstof,fijn stof,,,,coss:lucht,vlcs:sommatie_stoffen,gemet:270|gemet:2912,vlcs:sommatie_stoffen,,,,,,,,

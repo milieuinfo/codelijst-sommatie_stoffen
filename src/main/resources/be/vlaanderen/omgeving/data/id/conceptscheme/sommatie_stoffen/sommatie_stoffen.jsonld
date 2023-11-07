@@ -1571,6 +1571,9 @@
                 }
             ],
             "@type": "skos:ConceptScheme",
+            "http://rdf-vocabulary.ddialliance.org/xkos#belongsTo": {
+                "@id": "omg_dataset:codelijst-sommatie_stoffen"
+            },
             "skos:prefLabel": {
                 "@language": "nl",
                 "@value": "Codelijst groeperingen en sommaties van chemische stoffen"
@@ -7219,9 +7222,6 @@
             "skos:altLabel": {
                 "@language": "nl",
                 "@value": "(7 PCB: 28,52,101,118,138,153,180)"
-            },
-            "dct:isReferencedBy": {
-                "@id": "co:CMA_3_I"
             },
             "skos:exactMatch": {
                 "@id": "wise:EEA_33-38-5"
@@ -16005,6 +16005,7 @@
         "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
         "co": "https://data.omgeving.vlaanderen.be/id/concept/observatieprocedure/",
         "compound": "https://pubchem.ncbi.nlm.nih.gov/compound/",
+        "omg_dataset": "https://data.omgeving.vlaanderen.be/id/dataset/",
         "cs": "https://data.vlaanderen.be/ns/chemische_stof#",
         "dbo": "http://dbpedia.org/ontology/",
         "vlcs": "https://data.omgeving.vlaanderen.be/id/conceptscheme/",

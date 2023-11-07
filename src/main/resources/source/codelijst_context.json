@@ -46,16 +46,16 @@
       "@id" : "http://www.w3.org/2004/02/skos/core#definition",
       "@language" : "nl"
     },
-    "isReferencedBy" : {
-      "@id" : "http://purl.org/dc/terms/isReferencedBy",
-      "@type" : "@id"
-    },
     "member" : {
       "@id" : "http://www.w3.org/2004/02/skos/core#member",
       "@type" : "@id"
     },
     "exactMatch" : {
       "@id" : "http://www.w3.org/2004/02/skos/core#exactMatch",
+      "@type" : "@id"
+    },
+    "belongsTo" : {
+      "@id" : "http://rdf-vocabulary.ddialliance.org/xkos#belongsTo",
       "@type" : "@id"
     },
     "narrowMatch" : {
@@ -97,5 +97,6 @@
     "dc" : "http://purl.org/dc/elements/1.1/",
     "gemet" : "http://www.eionet.europa.eu/gemet/concept/",
     "wise" : "http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/",
+    "omg_dataset" : "https://data.omgeving.vlaanderen.be/id/dataset/",
     "co" : "https://data.omgeving.vlaanderen.be/id/concept/observatieprocedure/"
 }
