@@ -24,7 +24,7 @@ Build:
   key: BD
   tasks:
     - maven:
-        executable: Maven 3.5
+        executable: Maven 3.8
         jdk: JDK11
         goal: clean deploy
   requirements:
