@@ -323,6 +323,10 @@
   "semanticRelation" : {
     "@id" : "http://www.w3.org/2004/02/skos/core#semanticRelation",
     "@type" : "@id"
+  },
+  "belongsTo" : {
+    "@id" : "http://rdf-vocabulary.ddialliance.org/xkos#belongsTo",
+    "@type" : "@id"
   }
 }
 

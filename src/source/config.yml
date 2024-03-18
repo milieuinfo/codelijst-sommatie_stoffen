@@ -89,6 +89,7 @@ prefixes :
   adms: http://www.w3.org/ns/adms#
   assettype: http://purl.org/adms/assettype/
   chemische_stof: https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/
+  compound : https://pubchem.ncbi.nlm.nih.gov/compound/
   conceptscheme: https://data.omgeving.vlaanderen.be/id/conceptscheme/
   country: http://publications.europa.eu/resource/authority/country/
   datasets: https://datasets.omgeving.vlaanderen.be/
@@ -138,4 +139,5 @@ prefixes :
   vcard: http://www.w3.org/2006/vcard/ns#
   void: http://rdfs.org/ns/void#
   wise: http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/
+  xkos: http://rdf-vocabulary.ddialliance.org/xkos#
   xsd: http://www.w3.org/2001/XMLSchema#

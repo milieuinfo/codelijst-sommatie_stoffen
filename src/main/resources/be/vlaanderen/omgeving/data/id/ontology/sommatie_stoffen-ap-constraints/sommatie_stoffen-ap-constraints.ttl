@@ -36,7 +36,7 @@ omg_ont:sommatie-stoffen-ap-constraints-limited
     xkos:belongsTo  omg_dataset:codelijst-sommatie_stoffen ;
     xhv:last        omg_voc:sommatie-stoffen-ap-constraints-limited ;
     owl:sameAs      omg_voc:sommatie-stoffen-ap-constraints-limited ;
-    owl:versionInfo "Versie 2.0.0  oktober 2023"@en .
+    owl:versionInfo "Versie 3.0.0  maart 2024"@en .
 
 
 omg_voc:sommatie-stoffen-ap-constraints-limited
@@ -99,13 +99,14 @@ ons:sommatie_stoffen
     rdfs:comment     "De uniciteit van een sommatie van stoffen wordt bepaald door haar uri en notatie."@en ;
     rdfs:isDefinedBy omg_ont:sommatie-stoffen-ap-constraints-limited, omg_voc:sommatie-stoffen-ap-constraints-limited ;
     sh:property      omg_ps:sommatie_stoffen_rdf_type, omg_ps:sommatie_stoffen_seeAlso,
-                     omg_ps:sommatie_stoffen_notation,  omg_ps:sommatie_stoffen_exactMatch, omg_ps:sommatie_stoffen_inScheme,
-                     omg_ps:sommatie_stoffen_comment, omg_ps:sommatie_stoffen_definition,
+                     omg_ps:sommatie_stoffen_notation,  omg_ps:sommatie_stoffen_exactMatch, omg_ps:sommatie_stoffen_closeMatch, omg_ps:sommatie_stoffen_inScheme,
+                     omg_ps:sommatie_stoffen_comment, omg_ps:sommatie_stoffen_note, omg_ps:sommatie_stoffen_definition,
                      omg_ps:sommatie_stoffen_altLabel,  omg_ps:sommatie_stoffen_prefLabel, omg_ps:sommatie_stoffen_narrowMatch,
                      omg_ps:sommatie_stoffen_theme, omg_ps:sommatie_stoffen_topConceptOf, omg_ps:sommatie_stoffen_broader, omg_ps:sommatie_stoffen_casNumber,
-                     omg_ps:sommatie_stoffen_narrower, omg_ps:sommatie_stoffen_broadMatch;
+                     omg_ps:sommatie_stoffen_narrower, omg_ps:sommatie_stoffen_narrowerTransitive, omg_ps:sommatie_stoffen_mappingRelation, omg_ps:sommatie_stoffen_broadMatch, omg_ps:sommatie_stoffen_semanticRelation, omg_ps:sommatie_stoffen_broaderTransitive;
     sh:closed true ;
-    sh:targetClass   skos:Concept .
+        sh:targetSubjectsOf dcat:theme .
+    #sh:targetClass   skos:Concept .
 
 
 
@@ -120,6 +121,8 @@ omg_ps:sommatie_stoffen_casNumber
     sh:property      omg_ps:sommatie_stoffen_unique_casNumber ;
     sh:path          dbo:casNumber .
 
+
+
 omg_ps:sommatie_stoffen_broadMatch
     a                sh:PropertyShape ;
     rdfs:label       "breder concept in een ander schema"@en ;
@@ -128,6 +131,25 @@ omg_ps:sommatie_stoffen_broadMatch
     rdfs:isDefinedBy omg_ont:chemische-stof-ap-constraints, omg_voc:chemische-stof-ap-constraints ;
     sh:nodeKind      sh:IRI ;
     sh:path          skos:broadMatch; .
+
+omg_ps:sommatie_stoffen_broaderTransitive
+    a                sh:PropertyShape ;
+    rdfs:label       "breder transitief concept"@en ;
+    sh:name          "breder transitief concept"@en ;
+    sh:description   "breder transitief concept."@en ;
+    rdfs:isDefinedBy omg_ont:chemische-stof-ap-constraints, omg_voc:chemische-stof-ap-constraints ;
+    sh:nodeKind      sh:IRI ;
+    sh:path          skos:broaderTransitive; .
+
+omg_ps:sommatie_stoffen_semanticRelation
+    a                sh:PropertyShape ;
+    rdfs:label       "gerelateerd concept"@en ;
+    sh:name          "gerelateerd concept"@en ;
+    sh:description   "gerelateerd concept."@en ;
+    rdfs:isDefinedBy omg_ont:chemische-stof-ap-constraints, omg_voc:chemische-stof-ap-constraints ;
+    sh:nodeKind      sh:IRI ;
+    sh:path          skos:semanticRelation; .
+
 
 omg_ps:sommatie_stoffen_unique_casNumber
     a                  sh:PropertyShape ;
@@ -161,7 +183,6 @@ omg_ps:sommatie_stoffen_broader
     sh:name          "breder concept"@en ;
     sh:description   "De relatie tussen een concept en een breder, minder specifiek concept binnen hetzelfde schema."@en ;
     rdfs:isDefinedBy omg_ont:sommatie-stoffen-ap-constraints-limited, omg_voc:sommatie-stoffen-ap-constraints-limited ;
-    sh:maxCount      1 ;
     sh:nodeKind      sh:IRI ;
     sh:path          skos:broader .
 
@@ -174,6 +195,27 @@ omg_ps:sommatie_stoffen_narrower
     sh:class         skos:Concept ;
     sh:nodeKind      sh:IRI ;
     sh:path          skos:narrower; .
+
+omg_ps:sommatie_stoffen_narrowerTransitive
+    a                sh:PropertyShape ;
+    rdfs:label       "specifieker concept"@en ;
+    sh:name          "specifieker concept"@en ;
+    sh:description   "De relatie tussen een concept en een nauwer, specifieker concepten binnen hetzelfde schema."@en ;
+    rdfs:isDefinedBy omg_ont:chemische-stof-ap-constraints, omg_voc:chemische-stof-ap-constraints ;
+    sh:class         skos:Concept ;
+    sh:nodeKind      sh:IRI ;
+    sh:path          skos:narrowerTransitive; .
+
+omg_ps:sommatie_stoffen_mappingRelation
+    a                sh:PropertyShape ;
+    rdfs:label       "relatie"@en ;
+    sh:name          "relatie"@en ;
+    sh:description   ""@en ;
+    rdfs:isDefinedBy omg_ont:chemische-stof-ap-constraints, omg_voc:chemische-stof-ap-constraints ;
+    sh:class         skos:Concept ;
+    sh:nodeKind      sh:IRI ;
+    sh:path          skos:mappingRelation; .
+
 
 omg_ps:sommatie_stoffen_inchikey
     a                sh:PropertyShape ;
@@ -247,6 +289,16 @@ omg_ps:sommatie_stoffen_exactMatch
     sh:nodeKind      sh:IRI ;
     sh:path          skos:exactMatch .
 
+omg_ps:sommatie_stoffen_closeMatch
+    a                sh:PropertyShape ;
+    rdfs:label       "heeft nauwe overeenkomst"@en ;
+    sh:name          "heeft nauw verwante overeenkomst"@en ;
+    sh:description   "skos:closeMatch wordt gebruikt om twee concepten te koppelen, wat aangeeft dat er een hoge mate van vertrouwen bestaat dat de concepten onderling uitwisselbaar kunnen worden gebruikt in een breed scala aan toepassingen voor het ophalen van informatie. skos:exactMatch is een transitieve eigenschap en is een subeigenschap van skos:closeMatch"@en ;
+    rdfs:isDefinedBy omg_ont:sommatie-stoffen-ap-constraints-limited, omg_voc:sommatie-stoffen-ap-constraints-limited ;
+    sh:nodeKind      sh:IRI ;
+    sh:path          skos:closeMatch .
+
+
 omg_ps:sommatie_stoffen_theme
     a                sh:PropertyShape ;
     rdfs:label       "thema"@en ;
@@ -308,7 +360,18 @@ omg_ps:sommatie_stoffen_comment
     sh:datatype      rdf:langString ;
     sh:languageIn    ( "nl" ) ;
     sh:nodeKind      sh:Literal ;
-    sh:path          skos:comment .
+    sh:path          rdfs:comment .
+
+omg_ps:sommatie_stoffen_note
+    a                sh:PropertyShape ;
+        rdfs:label       "nota"@en ;
+        sh:name          "nota"@en ;
+        sh:description   "Een nota."@en ;
+        rdfs:isDefinedBy omg_ont:sommatie-stoffen-ap-constraints-limited, omg_voc:sommatie-stoffen-ap-constraints-limited ;
+    sh:datatype      rdf:langString ;
+    sh:languageIn    ( "nl" ) ;
+    sh:nodeKind      sh:Literal ;
+    sh:path          skos:note .
 
 
 
@@ -390,7 +453,6 @@ omg_ps:conceptscheme_prefLabel
     sh:minCount      1 ;
     sh:nodeKind      sh:Literal ;
     sh:path          skos:prefLabel .
-
 
 
 omg_ps:sommatie_stoffen_inScheme

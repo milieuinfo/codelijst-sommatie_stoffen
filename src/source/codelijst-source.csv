@@ -1,4 +1,4 @@
-uri,notation,prefLabel,definition,prefLabel_en,altLabel,collection,inScheme,theme,topConceptOf,broader,exactMatch,broadMatch,narrowMatch,seeAlso,casNumber,comment,belongsTo
+uri,notation,prefLabel,definition,prefLabel_en,altLabel,collections,inScheme,theme,topConceptOf,broader,exactMatch,broadMatch,narrowMatch,seeAlso,casNumber,comment,belongsTo
 collectie:lucht,,Collectie van verzameling stoffen die in lucht worden gemeten,,,,,conceptscheme:sommatie_stoffen,,,,,,,,,,
 collectie:water,,Collectie van verzameling stoffen die in water worden gemeten,,,,,conceptscheme:sommatie_stoffen,,,,,,,,,,
 clfvfs,Clfvfs,Chloorfenvinfos,,,Cfvinfos,collectie:water,conceptscheme:sommatie_stoffen,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,,,,chemische_stof:FSAVDKDHPDSCTO-WQLSENKSSA-N|chemische_stof:FSAVDKDHPDSCTO-XYOKQWHBSA-N,compound:Chlorfenvinphos,470-90-6,,
