@@ -115,7 +115,7 @@ omg_ps:sommatie_stoffen_casNumber
     rdfs:label       "CAS nummer"@en ;
     sh:name          "CAS nummer"@en ;
     sh:description   "Een CAS-nummer is een unieke numerieke identifier voor chemische elementen, componenten, polymeren, en legeringen. CAS staat voor Chemical Abstracts Service, een divisie van de American Chemical Society. Soms zijn er verschillende CAS-nummers (\"other CAS\") die exact hetzelfde betekenen. Dit heeft meestal te maken met oudere CAS-nummers die werden toegekend op het moment dat de stof nog niet helemaal gekarakteriseerd was. Later kan men er aldus op uit komen dat verschillende CAS-nummers op eenzelfde molecule betrekking hebben."@en ;
-    rdfs:isDefinedBy omg_ont:chemische-stof-ap-constraints, omg_voc:chemische-stof-ap-constraints ;
+    rdfs:isDefinedBy omg_ont:sommatie-stoffen-ap-constraints-limited, omg_voc:sommatie-stoffen-ap-constraints-limited ;
     sh:datatype      xsd:string ;
     sh:nodeKind      sh:Literal ;
     sh:property      omg_ps:sommatie_stoffen_unique_casNumber ;
@@ -128,7 +128,7 @@ omg_ps:sommatie_stoffen_broadMatch
     rdfs:label       "breder concept in een ander schema"@en ;
     sh:name          "breder concept in een ander schema"@en ;
     sh:description   "De relatie tussen een concept en een breder, minder specifiek concept binnen een ander schema."@en ;
-    rdfs:isDefinedBy omg_ont:chemische-stof-ap-constraints, omg_voc:chemische-stof-ap-constraints ;
+    rdfs:isDefinedBy omg_ont:sommatie-stoffen-ap-constraints-limited, omg_voc:sommatie-stoffen-ap-constraints-limited ;
     sh:nodeKind      sh:IRI ;
     sh:path          skos:broadMatch; .
 
@@ -137,7 +137,7 @@ omg_ps:sommatie_stoffen_broaderTransitive
     rdfs:label       "breder transitief concept"@en ;
     sh:name          "breder transitief concept"@en ;
     sh:description   "breder transitief concept."@en ;
-    rdfs:isDefinedBy omg_ont:chemische-stof-ap-constraints, omg_voc:chemische-stof-ap-constraints ;
+    rdfs:isDefinedBy omg_ont:sommatie-stoffen-ap-constraints-limited, omg_voc:sommatie-stoffen-ap-constraints-limited ;
     sh:nodeKind      sh:IRI ;
     sh:path          skos:broaderTransitive; .
 
@@ -146,7 +146,7 @@ omg_ps:sommatie_stoffen_semanticRelation
     rdfs:label       "gerelateerd concept"@en ;
     sh:name          "gerelateerd concept"@en ;
     sh:description   "gerelateerd concept."@en ;
-    rdfs:isDefinedBy omg_ont:chemische-stof-ap-constraints, omg_voc:chemische-stof-ap-constraints ;
+    rdfs:isDefinedBy omg_ont:sommatie-stoffen-ap-constraints-limited, omg_voc:sommatie-stoffen-ap-constraints-limited ;
     sh:nodeKind      sh:IRI ;
     sh:path          skos:semanticRelation; .
 
@@ -156,7 +156,7 @@ omg_ps:sommatie_stoffen_unique_casNumber
     rdfs:label         "uniek CAS nummer"@en ;
     sh:name            "uniek CAS nummer"@en ;
     sh:description     "Vanuit 1 CAS nummer kan slechts naar 1 stof worden verwezen."@en ;
-    rdfs:isDefinedBy   omg_ont:chemische-stof-ap-constraints, omg_voc:chemische-stof-ap-constraints ;
+    rdfs:isDefinedBy   omg_ont:sommatie-stoffen-ap-constraints-limited, omg_voc:sommatie-stoffen-ap-constraints-limited ;
     sh:nodeKind        sh:IRI ;
     sh:targetObjectsOf dbo:casNumber ;
     sh:path            [ sh:inversePath dbo:casNumber ] ;
@@ -170,7 +170,7 @@ omg_ps:schema_belongsTo
     rdfs:label       "behoort tot dataset"@en ;
     sh:name          "behoort tot dataset"@en ;
     sh:description   "De relatie tussen een conceptschema en de dataset waartoe het behoort."@en ;
-    rdfs:isDefinedBy omg_ont:chemische-stof-ap-constraints-limited, omg_voc:chemische-stof-ap-constraints-limited ;
+    rdfs:isDefinedBy omg_ont:sommatie-stoffen-ap-constraints-limited-limited, omg_voc:sommatie-stoffen-ap-constraints-limited-limited ;
     sh:nodeKind      sh:IRI ;
     sh:minCount      1 ;
     sh:path          xkos:belongsTo .
@@ -191,7 +191,7 @@ omg_ps:sommatie_stoffen_narrower
     rdfs:label       "specifieker concept"@en ;
     sh:name          "specifieker concept"@en ;
     sh:description   "De relatie tussen een concept en een nauwer, specifieker concepten binnen hetzelfde schema."@en ;
-    rdfs:isDefinedBy omg_ont:chemische-stof-ap-constraints, omg_voc:chemische-stof-ap-constraints ;
+    rdfs:isDefinedBy omg_ont:sommatie-stoffen-ap-constraints-limited, omg_voc:sommatie-stoffen-ap-constraints-limited ;
     sh:class         skos:Concept ;
     sh:nodeKind      sh:IRI ;
     sh:path          skos:narrower; .
@@ -201,7 +201,7 @@ omg_ps:sommatie_stoffen_narrowerTransitive
     rdfs:label       "specifieker concept"@en ;
     sh:name          "specifieker concept"@en ;
     sh:description   "De relatie tussen een concept en een nauwer, specifieker concepten binnen hetzelfde schema."@en ;
-    rdfs:isDefinedBy omg_ont:chemische-stof-ap-constraints, omg_voc:chemische-stof-ap-constraints ;
+    rdfs:isDefinedBy omg_ont:sommatie-stoffen-ap-constraints-limited, omg_voc:sommatie-stoffen-ap-constraints-limited ;
     sh:class         skos:Concept ;
     sh:nodeKind      sh:IRI ;
     sh:path          skos:narrowerTransitive; .
@@ -211,7 +211,7 @@ omg_ps:sommatie_stoffen_mappingRelation
     rdfs:label       "relatie"@en ;
     sh:name          "relatie"@en ;
     sh:description   ""@en ;
-    rdfs:isDefinedBy omg_ont:chemische-stof-ap-constraints, omg_voc:chemische-stof-ap-constraints ;
+    rdfs:isDefinedBy omg_ont:sommatie-stoffen-ap-constraints-limited, omg_voc:sommatie-stoffen-ap-constraints-limited ;
     sh:class         skos:Concept ;
     sh:nodeKind      sh:IRI ;
     sh:path          skos:mappingRelation; .
@@ -274,7 +274,7 @@ omg_ps:sommatie_stoffen_topConceptOf
     rdfs:label       "topconcept van"@en ;
     sh:name          "topconcept van"@en ;
     sh:description   "De relatie tussen een concept en het schema, waarvan het een topconcept is."@en ;
-    rdfs:isDefinedBy omg_ont:chemische-stof-ap-constraints, omg_voc:chemische-stof-ap-constraints ;
+    rdfs:isDefinedBy omg_ont:sommatie-stoffen-ap-constraints-limited, omg_voc:sommatie-stoffen-ap-constraints-limited ;
     sh:class         skos:ConceptScheme ;
     sh:maxCount      1 ;
     sh:nodeKind      sh:IRI ;
