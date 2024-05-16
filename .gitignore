@@ -12,3 +12,4 @@ codelijst-somparameter.iml
 .mvn/wrapper/maven-wrapper.jar
 .idea/
 node_modules/
+temp/
