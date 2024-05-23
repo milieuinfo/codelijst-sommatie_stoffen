@@ -4,6 +4,9 @@
 Lijst van sommaties en groeperingen van chemische stoffen, zoals die binnen het kader van het OSLO thema omgeving is opgesteld en tools om deze lijst te beheren en om te zetten naar webformaten.
 
 
+## Model
+![Model](src/documentation/model.png)
+
 ## Gebruik
 
 ### Voeg een definitie van een nieuwe sommatie of groeperingtoe aan $PROJECT_HOME/src/source/codelijst-source.csv
