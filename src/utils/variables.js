@@ -193,8 +193,10 @@ const jsonld = [config.skos.path + config.skos.name + '/' + config.skos.name + c
 
 const csv = [config.skos.path + config.skos.name + '/' + config.skos.name + config.skos.csv, frame_skos_no_prefixes]
 
+const virtuoso = config.deploy.virtuoso ;
 
 export {
+    virtuoso,
     ttl,
     nt,
     jsonld,
