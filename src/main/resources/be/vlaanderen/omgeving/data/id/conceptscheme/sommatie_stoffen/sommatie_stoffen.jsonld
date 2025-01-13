@@ -2434,6 +2434,15 @@
             "semanticRelation": "concept:1235_1245cbz"
         },
         {
+            "id": "chemische_stof:JLYXXMFPNIAWKQ-UHFFFAOYSA-N",
+            "type": "skos:Concept",
+            "broadMatch": "concept:hch",
+            "broader": "concept:hch",
+            "broaderTransitive": "concept:hch",
+            "mappingRelation": "concept:hch",
+            "semanticRelation": "concept:hch"
+        },
+        {
             "id": "chemische_stof:JQZFYIGAYWLRCC-UHFFFAOYSA-N",
             "type": "skos:Concept",
             "broadMatch": "concept:f-verb",
@@ -9808,8 +9817,13 @@
             "id": "concept:hch",
             "type": "skos:Concept",
             "inScheme": "conceptscheme:sommatie_stoffen",
+            "mappingRelation": "chemische_stof:JLYXXMFPNIAWKQ-UHFFFAOYSA-N",
+            "narrowMatch": "chemische_stof:JLYXXMFPNIAWKQ-UHFFFAOYSA-N",
+            "narrower": "chemische_stof:JLYXXMFPNIAWKQ-UHFFFAOYSA-N",
+            "narrowerTransitive": "chemische_stof:JLYXXMFPNIAWKQ-UHFFFAOYSA-N",
             "notation": "HCH",
             "prefLabel": "Hexachloorcyclohexaan, alle isomeren",
+            "semanticRelation": "chemische_stof:JLYXXMFPNIAWKQ-UHFFFAOYSA-N",
             "topConceptOf": "conceptscheme:sommatie_stoffen",
             "theme": [
                 "gemet:2912",

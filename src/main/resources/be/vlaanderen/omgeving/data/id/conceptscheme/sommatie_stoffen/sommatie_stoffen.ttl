@@ -935,6 +935,12 @@ chemische_stof:JHBKHLUZVFWLAG-UHFFFAOYSA-N a skos:Concept;
     skos:broaderTransitive <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/1235_1245cbz>;
     skos:mappingRelation <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/1235_1245cbz>;
     skos:semanticRelation <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/1235_1245cbz>.
+chemische_stof:JLYXXMFPNIAWKQ-UHFFFAOYSA-N a skos:Concept;
+    skos:broadMatch sommatie_stoffen:hch;
+    skos:broader sommatie_stoffen:hch;
+    skos:broaderTransitive sommatie_stoffen:hch;
+    skos:mappingRelation sommatie_stoffen:hch;
+    skos:semanticRelation sommatie_stoffen:hch.
 chemische_stof:JQZFYIGAYWLRCC-UHFFFAOYSA-N a skos:Concept;
     skos:broadMatch sommatie_stoffen:f-verb;
     skos:broader sommatie_stoffen:f-verb;
@@ -4001,8 +4007,13 @@ sommatie_stoffen:hcfk a skos:Concept;
     dcat:theme <http://www.eionet.europa.eu/gemet/concept/2912>, <http://www.eionet.europa.eu/gemet/concept/9214>.
 sommatie_stoffen:hch a skos:Concept;
     skos:inScheme conceptscheme:sommatie_stoffen;
+    skos:mappingRelation chemische_stof:JLYXXMFPNIAWKQ-UHFFFAOYSA-N;
+    skos:narrowMatch chemische_stof:JLYXXMFPNIAWKQ-UHFFFAOYSA-N;
+    skos:narrower chemische_stof:JLYXXMFPNIAWKQ-UHFFFAOYSA-N;
+    skos:narrowerTransitive chemische_stof:JLYXXMFPNIAWKQ-UHFFFAOYSA-N;
     skos:notation "HCH";
     skos:prefLabel "Hexachloorcyclohexaan, alle isomeren"@nl;
+    skos:semanticRelation chemische_stof:JLYXXMFPNIAWKQ-UHFFFAOYSA-N;
     skos:topConceptOf conceptscheme:sommatie_stoffen;
     dcat:theme <http://www.eionet.europa.eu/gemet/concept/2912>, <http://www.eionet.europa.eu/gemet/concept/9214>.
 sommatie_stoffen:hfk a skos:Concept;

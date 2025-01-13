@@ -213,7 +213,7 @@ halonen,Halonen,Halonen,,,,collectie:water,conceptscheme:sommatie_stoffen,gemet:
 hcdbd_t,HCdBD t,"Hexachloordibenzodioxine, totaal",,,,collectie:water,conceptscheme:sommatie_stoffen,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,,,,,,,,
 hcdbfur_t,HCdBFur t,"Hexachloordibenzofuran, totaal",,,,collectie:water,conceptscheme:sommatie_stoffen,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,,,,,,,,
 hcfk,HCFK,Chloorfluorkoolwaterstoffen,,,,collectie:water,conceptscheme:sommatie_stoffen,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,,,,,,,,
-hch,HCH,"Hexachloorcyclohexaan, alle isomeren",,,,collectie:water,conceptscheme:sommatie_stoffen,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,,,,,,,,
+hch,HCH,"Hexachloorcyclohexaan, alle isomeren",,,,collectie:water,conceptscheme:sommatie_stoffen,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,,,,chemische_stof:JLYXXMFPNIAWKQ-UHFFFAOYSA-N,,,,
 hfk,HFK,Fluorkoolwaterstoffen,,,,collectie:water,conceptscheme:sommatie_stoffen,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,,,,,,,,
 hpc_epx,HpC+Epx,Heptachloor+epoxyde,,,,collectie:water,conceptscheme:sommatie_stoffen,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,,,,,,,,
 hpcdbd_t,HpCdBD t,"Heptachloordibenzodioxine, totaal",,,,collectie:water,conceptscheme:sommatie_stoffen,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,,,,,,,,
