@@ -157,5 +157,6 @@ prefixes :
   wise: http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/
   xkos: http://rdf-vocabulary.ddialliance.org/xkos#
   xsd: http://www.w3.org/2001/XMLSchema#
+  zorgwekkende_stof: https://data.omgeving.vlaanderen.be/id/concept/zorgwekkende_stof/
 deploy:
   virtuoso: virtuoso-algemeen

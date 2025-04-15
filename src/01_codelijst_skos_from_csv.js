@@ -7,5 +7,6 @@ import {
     csv
 } from './utils/variables.js';
 
+console.log = function() {}
 generate_skos(ttl, jsonld, nt, csv);
 

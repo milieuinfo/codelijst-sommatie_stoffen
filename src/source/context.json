@@ -85,6 +85,10 @@
     "@id" : "http://purl.org/dc/terms/publisher",
     "@type" : "@id"
   },
+  "pubchem" : {
+    "@id" : "http://dbpedia.org/ontology/pubchem",
+    "@type" : "@id"
+  },
   "dct.language" : {
     "@id" : "http://purl.org/dc/terms/language",
     "@type" : "@id"
@@ -262,6 +266,10 @@
     "@id" : "http://www.w3.org/2004/02/skos/core#altLabel",
     "@language" : "nl"
   },
+  "altLabel_en" : {
+    "@id" : "http://www.w3.org/2004/02/skos/core#altLabel",
+    "@language" : "en"
+  },
   "note" : {
     "@id" : "http://www.w3.org/2004/02/skos/core#note",
     "@language" : "nl"
@@ -288,6 +296,9 @@
   "relation" : {
     "@id" : "http://purl.org/dc/terms/relation",
     "@type" : "@id"
+  },
+  "ecNumber" : {
+    "@id" : "http://dbpedia.org/ontology/ecNumber"
   },
   "graph" : {
     "@id" : "@graph"
