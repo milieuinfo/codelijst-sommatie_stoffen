@@ -58,7 +58,7 @@ alkanen_alkenen,Alkanen en Alkenen,,,,,,,,,,collectie:water,,,Alkanen+Alkenen,,,
 anionischedetergenten,Anionische detergenten,,,,,,,,,,,,,Anionischedetergenten,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
 anionischeoppervlakteactievestoffen,Anionische oppervlakteactieve stoffen,,,,,,,,,,,,,Anionischeoppervlakteactievestoffen,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
 anmvos_t,"Aromatische NMVOS, totaal",,,,,,,,,,collectie:water,,,ANMVOS t,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
-aox,Adsorbeerbare organohalogenen,,,,Adsorbeerbare organische halogeenverbindingen (AOX),,,,,,collectie:water,,,AOX,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
+aox,adsorbeerbare organohalogenen,,,,adsorbeerbare organische halogeenverbindingen|AOX,,,,,,collectie:water,,,AOX,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,status: done0126
 apeo,Alkylfenolethoxylaat,,,,,,,,,,collectie:water,,,APEO,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
 apeo_c10,Alkylfenolethoxylaat C10,,,,,,,,,,collectie:water,,,APEO C10,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
 apeo_c11,Alkylfenolethoxylaat C11,,,,,,,,,,collectie:water,,,APEO C11,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
@@ -223,14 +223,14 @@ dmyfol_som,som van de dimethylfenolen,,,,,,,,,,collectie:water,,,DMyFol som,,,ge
 dn_t,"Totaal stikstof, opgelost",,,,,,,,,,collectie:water,,,DN t,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
 doc,"Organische koolstof, opgelost",,,,,,,,,,collectie:water,,,DOC,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
 dyfolet,Decylfenolpolyethoxylaten,,,,,,,,,,collectie:water,,,DyFolEt,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
-eas_ttcee,Tetrachloorethyleen extrah.apol.stoffen,,,,,,,,,,collectie:water,,,EAS TtCEe,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
-eox,Extraheerbare organohalogenen,,,,Extraheerbare organische halogeenverbindingen (EOX),,,,,,collectie:water,,,EOX,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
+eas_ttcee,tetrachlooretheen extraheerbare apolaire stoffen,,,,TCE extraheerbare apolaire stoffen|tetrachloorethyleen extraheerbare apolaire stoffen,,,,,,collectie:water,,,EAS TtCEe,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,status: done0126
+eox,extraheerbare organohalogenen,,,,extraheerbare organische halogeenverbindingen|EOX,,,,,,collectie:water,,,EOX,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,status: done0126
 epkalifatentotaal,EPK Alifaten totaal,,,,,,,,,,,,,EPKAlifatentotaal,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
 epkaromatentotaal,EPK Aromaten totaal,,,,,,,,,,,,,EPKAromatentotaal,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
 epktotaal,EPK totaal,,,,,,,,,,,,,EPKtotaal,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
 es_ccl4,CCL4 extraheerbare stoffen,,,,,,,,,,collectie:water,,,ES CCL4,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
-es_pe,Petroleumether extraheerbare stoffen,,,,,,,,,,collectie:water,,,ES pe,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
-es_ttcee,Tetrachloorethyleen extrah.stoffen,,,,,,,,,,collectie:water,,,ES TtCEe,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
+es_pe,petroleumether extraheerbare stoffen,,,,,,,,,,collectie:water,,,ES pe,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,status: done0126
+,,,,,,,,,,,,,,,,,,,,,status: done0126
 extrah__st_,Extraheerbare stoffen,,,,,,,,,,collectie:water,,,Extrah. St.,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
 eyfol_som,"som van 2-, 3- en 4-ethylfenol",,,,,,,,,,collectie:water,,,EyFol som,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
 f_an_,Fluor en zijn anorganische verbindingen,,,,,,,,,,collectie:water,,,F an.,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
@@ -239,7 +239,7 @@ fe_al,som van metalen ijzer en aluminium,,,,,,,,,,collectie:water,,,"(Fe,Al)",,,
 fijn_stof,fijn stof,,,,,,,,,,collectie:lucht,,,fijnstof,,,gemet:270|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
 fol_c,"Fenolen, gechloreerde",,,,,,,,,,collectie:water,,,Fol c,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
 fol_c__i,"Gechloreerde fenolen, individueel",,,,,,,,,,collectie:water,,,"Fol c, i",,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
-fol_get_,Fenol getal,,,,,,,,,,collectie:water,,,Fol get.,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
+fol_get_,fenolindex,,,,fenolindex volgens ISO 14402|fenol getal,,,,,,collectie:water,,,Fol get.,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,status: done0126
 fol_h2o_vlucht,met waterdamp vluchtige fenolen,,,,,,,,,,collectie:water,,,Fol h2o_vlucht,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
 fol_t,Fenolen totaal,Phenols,64743-03-9,,fenolen,,,,,chemische_stof:CHEMONTID_0002448,collectie:water,wise:CAS_64743-03-9|chemische_stof:CHEMONTID_0000134,chemische_stof:CHEMONTID_0002320|chemische_stof:CHEMONTID_0001286|chemische_stof:CHEMONTID_0000139|chemische_stof:CHEMONTID_0001272|chemische_stof:CHEMONTID_0004646|chemische_stof:CHEMONTID_0004647|chemische_stof:CHEMONTID_0004628|chemische_stof:CHEMONTID_0000190|chemische_stof:CHEMONTID_0000141,Fol t,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
 fosfor_totaal,Fosfor totaal,,7723-14-0,,,,,,,,collectie:water,wise:CAS_7723-14-0,,fosfor totaal,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
@@ -289,7 +289,7 @@ metalen_excl__al_fe,som van metalen excl aluminium en ijzer,,,,,,,,,,collectie:w
 metalenenmetalloidenmetuitzonderingvankwik,"metalen en metalloïden met uitzondering van
 kwik (As, Cd, Co, Cr, Cu, Mn, Ni, Pb, Sb, Se, Tl,
 V, Zn)",,,,,,,,,,collectie:water,,,metalenenmetalloidenmetuitzonderingvankwik,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
-min_oliec10-c40,Minerale olie C10-C40,,,,,,,,,,collectie:water,,,Min.olieC10-C40,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
+min_oliec10-c40,minerale olie,,,,minerale olie C10-C40|minerale olie GC,,,,,,collectie:water,,,Min.olieC10-C40,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,status: done0126
 min_oliec6-c10,minerale olie C6-C10,,,,,,,,,,collectie:water,,,Min.olieC6-C10,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
 mineraleoliec10-c12,Minerale olie C10 - C12,,,,,,,,,,,,,MineraleolieC10-C12,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
 mineraleoliec10-c16,Minerale olie C10 - C16,,,,,,,,,,,,,MineraleolieC10-C16,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
@@ -436,7 +436,7 @@ pft_t,"Perfluorverbindingen, totaal",,,,,,,,,chemische_stof:CHEMONTID_0001517,co
 pm0.1,"PM0,1",,,,,,"niet voor het imjv, wel algemeen luchtkwaliteit","fijn stof kleiner dan 0,1 µm",fijn_stof,,collectie:lucht,,,PM0.1,,,gemet:270|gemet:2912,,conceptscheme:sommatie_stoffen,,
 pm10,PM10,,,,,,,fijn stof kleiner dan 10 µm,fijn_stof,,collectie:lucht,,,PM10,,,gemet:270|gemet:2912,,conceptscheme:sommatie_stoffen,,
 pm2.5,"PM2,5",,,,,,,"fijn stof kleiner dan 2,5 µm",fijn_stof,,collectie:lucht,,,PM2.5,,,gemet:270|gemet:2912,,conceptscheme:sommatie_stoffen,,
-pox,Purgeerbare organohalogenen,,,,Purgeerbare organische halogeenverbindingen (POX),,,,,,collectie:water,,,POX,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
+pox,purgeerbare organohalogenen,,,,purgeerbare organische halogeenverbindingen|POX,,,,,,collectie:water,,,POX,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,status: done0126
 profam_benzadol,"som van chloorprofam, profam en thiabenzadol",,,,,,,,,,collectie:water,,,"(profam,benzadol)",,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
 pver_o,Organofosforverbindingen,,,,,,,,,,collectie:water,,,Pver o,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
 pyrethroïden,Pyrethroïden,,,,,,,,,,collectie:water,,,pyrethroïden,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
@@ -1857,7 +1857,7 @@ tas,Tensio actieve stoffen,,,,,,,,,,collectie:water,,,TAS,,,gemet:9214|gemet:291
 tbt,Tributyltinverbindingen (TBT),,,,TBT,,,,,,,,,TBT,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
 tcee__dcee_tcea,"trichlooretheen, dichlooretheen en trichloorethaan",,,,,,,,,,collectie:water,,,"TCEe, DCEe,TCEa",,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
 tcee__ttcee__dcma,"Som tri- en tetrachlooretheen, dichloormethaan ",,,,,,,,,,collectie:water,,,"(TCEe, TtCEe, DCMa)",,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
-tcees,Tetrachlooretheenextraheerbare stoffen,,,,,,,,,,,,,tcees,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
+tcees,tetrachlooretheen extraheerbare stoffen,,,,TCE extraheerbare stoffen|tetrachloorethyleen extraheerbare stoffen,,,,,,,,,tcees,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,status: done0126
 tct,Toxichromotest - EC50,,,,,,,,,,collectie:water,,,TCT,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
 tetracea,TetraChloorethaan,,,,,,,,,,collectie:water,,,TetraCEa,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
 tfysn_som,"Trifenyltinacetaat, chloride, hydroxide",,,,,,,,,,collectie:water,,,TFySn som,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
@@ -1905,3 +1905,4 @@ xyl__eybz,Som van Xylenen en Ethylbenzeen,,,,,,,,,,collectie:water,,,"(Xyl, EyBz
 xyl__styr,"Som van o,p,m-xyleen + styreen",,,,,,,,,,collectie:water,,,"(Xyl, Styr)",,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
 zs,Zwevende stoffen,,,,,,,,,,collectie:water,,,ZS,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
 zs_as,"Zwevende stof, as",,,,,,,,,,collectie:water,,,ZS as,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
+aof,adsorbeerbaar organisch fluor,,,,AOF,,,,,,collectie:water,,,AOX,,,,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,status: done0126
