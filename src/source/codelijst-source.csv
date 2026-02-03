@@ -116,7 +116,7 @@ biociden,Biociden,,,,,,,,,,collectie:water,,,biociden,,,gemet:9214|gemet:2912,co
 bjflu_bep,Benzo(j)fluorantheen+Benzo(e)pyreen,,,,,,,,,,collectie:water,,,B(j)Flu+B(e)P,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
 bpe___ip_som,"PAK Benzo(g,h,i)peryleen + Indeno(1,2,3-cd)pyreen",,,,,,,,,,collectie:water,,,BPe + IP som,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
 br-_i-,Bromide + Iodide,,,,,,,,,,collectie:water,,,Br-+I-,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
-bs,Bezinkbare stoffen,,,,,,,,,,collectie:water,,,BS,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
+bs,Bezinkbare stoffen,,,,,,,,,,collectie:water,,,BS,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,Status: done01.2026
 btbdpe,bis(Tribroomdifenoxy)-ethaan,,,,,,,,,,collectie:water,,,BTBDPE,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
 btex,"Benzeen, tolueen, ethylbenzeen, xylenen",,,,,,,,,,collectie:water,,,BTEX,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
 buta_tria_ala_acet,"Som van Butachloor, Triallat,Alachloor,Acetochloor",,,,,,,,,,collectie:water,,,"(Buta,Tria,Ala,Acet)",,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
@@ -281,7 +281,7 @@ latex,Latex,,,,,,,,,,collectie:water,,,Latex,,,gemet:9214|gemet:2912,conceptsche
 m_ol_kws,Minerale oliën en KWS,,,,,,,,,,collectie:water,,,M.ol+KWS,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
 mak_i,Monocyclische aromatische koolwaterstoffen ind. ,,,,,,,,,,collectie:water,,,MAK i,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
 mak_t,"Monoaromatische KWS, totaal",,,,,,,,,,collectie:water,,,MAK t,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
-mbas,Methyleenblauw actieve stoffen,,,,,,,Oppervlakte actieve stoffen (reagerend op methyleenblauw),,,collectie:water,,,MBAS,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
+mbas,Methyleenblauw actieve stoffen,,,,MBAS,,,Oppervlakte actieve stoffen (reagerend op methyleenblauw),,,collectie:water,,,MBAS,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,Status: done01.2026
 mercapt,Mercaptanen,,,,,,,,,,collectie:water,,,Mercapt,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
 met_ex_zn_fe_mn_pb_a,"Som metalen zonder Zn,Fe,Mn,Pb,As,Cd",,,,,,,,,,collectie:water,,,"Met ex Zn,Fe,Mn,Pb,A",,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
 met_excl_zn_fe_mn_al,"Som metalen excl Zn,Fe,Mn,Al",,,,,,,,,,collectie:water,,,"met excl Zn,Fe,Mn,Al",,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
@@ -332,7 +332,7 @@ mineraleoliekleinerdanc25,Minerale olie kleiner dan C25,,,,,,,,,,,,,Mineraleolie
 mineraleolievluchtigtotaal,Minerale olie (vluchtig totaal),,,,,,,,,,,,,Mineraleolie(vluchtigtotaal),,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
 mno4_k,"Permanganaatverbruik, koud",,,,,,,,,,collectie:water,,,MnO4 k,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
 mno4_kf,"Permanganaatverbruik, koud gefiltreerd",,,,,,,,,,collectie:water,,,MnO4 kf,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
-mno4_w,"Permanganaatverbruik, warm",,,,,,,,,,collectie:water,,,MnO4 w,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
+mno4_w,Permanganaatindex,,,,Oxideerbaarheid bij warmte,,,Kaliumpermanganaatverbruik bij verwarmde oxidatie,,,collectie:water,,,MnO4 w,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,Status: done01.2026
 mno4_wf,"Permanganaatverbruik, warm gefiltreerd",,,,,,,,,,collectie:water,,,MnO4 wf,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
 mpxyl,Xylenen (m+p),,,,,,,,,,collectie:water,,,mpXyl,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
 n_n,Nitraat+nitriet,,,,,,,,,,collectie:water,,,N+N,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
@@ -363,7 +363,7 @@ nyfol_et,Nonylfenolen + ethoxylaten,,,,,,,,,,collectie:water,,,NyFol+et,,,gemet:
 nyfolet,Nonylfenolpolyethoxylaten,,,,,,,,,,collectie:water,,,NyFolEt,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
 nyfolsom,Nonylfenolen,,,,,,,,,,collectie:water,,,NyFolsom,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
 oasf_t,"Ozonafbrekende stoffen en F-gassen, totaal",,,,,,,,,,collectie:water,,,OASF t,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
-oc,Organische koolstof,,,,,,,,,,collectie:water,,,OC,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
+oc,Organische koolstof,,,,,,,,,,collectie:water,,,OC,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,Status: done01.2026
 ocp_i,Organochloorpesticiden individueel,,,,,,,,,,collectie:water,,,OCP i,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
 ocp_t,"Organochloorpesticiden, totaal",,,,,,,,,,collectie:water,,,OCP t,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
 ocp_t_imjv,"Organochloorpesticiden, totaal (IMJV)",,,,"Totaal organochloorpesticiden waarvan individuele drempelwaarde = 0,1 kg/jaar",,,,,,collectie:water,,,OCP t (IMJV),,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
@@ -1851,8 +1851,8 @@ stoffr_t,"Stoffractie, totaal",,,,,,,,,,collectie:water,,,Stoffr t,,,gemet:9214|
 surf_ion,"Surfactanten,Ionisch (AISurf+KISurf excl NISurf)",,,,,,,,,,collectie:water,,,Surf ION,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
 surf_kid_nid,"Surfactanten, Kationische + Niet-ionogen",,,,,,,,,,collectie:water,,,Surf KID+NID,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
 surf_t,"Surfactanten, totaal",,,,,,,,,,collectie:water,,,Surf t,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
-tam,Alkaliniteit met methyloranje,,,,,,,,,,collectie:water,,,TAM,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
-tap,Alkaliniteit met fenolftaleine,,,,,,,,,,collectie:water,,,TAP,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
+tam,"Alkaliniteit, totaal",,,,Alkaliniteit met methyloranje,,,Alkaliniteit bepaald door zuurtitratie tot eindpunt pH 4.5,,,collectie:water,,,TAM,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,Status: done01.2026
+tap,"Alkaliniteit, samengesteld",,,,Alkaliniteit met fenolftaleine,,,Alkaliniteit bepaald door zuurtitratie tot eindpunt pH 8.3,,,collectie:water,,,TAP,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,Status: done01.2026
 tas,Tensio actieve stoffen,,,,,,,,,,collectie:water,,,TAS,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
 tbt,Tributyltinverbindingen (TBT),,,,TBT,,,,,,,,,TBT,,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
 tcee__dcee_tcea,"trichlooretheen, dichlooretheen en trichloorethaan",,,,,,,,,,collectie:water,,,"TCEe, DCEe,TCEa",,,gemet:9214|gemet:2912,conceptscheme:sommatie_stoffen,conceptscheme:sommatie_stoffen,,
