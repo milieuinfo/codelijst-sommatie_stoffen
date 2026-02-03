@@ -457,6 +457,26 @@
             ]
         },
         {
+            "id": "wise:CAS_470-90-6",
+            "type": "skos:Concept",
+            "closeMatch": [
+                "wise:CAS_470-90-6",
+                "concept:clfvfs"
+            ],
+            "exactMatch": [
+                "wise:CAS_470-90-6",
+                "concept:clfvfs"
+            ],
+            "mappingRelation": [
+                "wise:CAS_470-90-6",
+                "concept:clfvfs"
+            ],
+            "semanticRelation": [
+                "wise:CAS_470-90-6",
+                "concept:clfvfs"
+            ]
+        },
+        {
             "id": "wise:CAS_64743-03-9",
             "type": "skos:Concept",
             "closeMatch": [
@@ -478,6 +498,26 @@
                 "wise:CAS_64743-03-9",
                 "chemische_stof:CHEMONTID_0000134",
                 "concept:fol_t"
+            ]
+        },
+        {
+            "id": "wise:CAS_70776-03-3",
+            "type": "skos:Concept",
+            "closeMatch": [
+                "wise:CAS_70776-03-3",
+                "concept:70776-03-3"
+            ],
+            "exactMatch": [
+                "wise:CAS_70776-03-3",
+                "concept:70776-03-3"
+            ],
+            "mappingRelation": [
+                "wise:CAS_70776-03-3",
+                "concept:70776-03-3"
+            ],
+            "semanticRelation": [
+                "wise:CAS_70776-03-3",
+                "concept:70776-03-3"
             ]
         },
         {
@@ -521,6 +561,26 @@
             ]
         },
         {
+            "id": "wise:CAS_85535-85-9",
+            "type": "skos:Concept",
+            "closeMatch": [
+                "wise:CAS_85535-85-9",
+                "concept:85535-85-9"
+            ],
+            "exactMatch": [
+                "wise:CAS_85535-85-9",
+                "concept:85535-85-9"
+            ],
+            "mappingRelation": [
+                "wise:CAS_85535-85-9",
+                "concept:85535-85-9"
+            ],
+            "semanticRelation": [
+                "wise:CAS_85535-85-9",
+                "concept:85535-85-9"
+            ]
+        },
+        {
             "id": "wise:EEA_33-38-5",
             "type": "skos:Concept",
             "closeMatch": [
@@ -560,6 +620,7 @@
             "member": [
                 "concept:ompxyl",
                 "concept:pcb_t",
+                "concept:clfvfs",
                 "concept:fol_t",
                 "concept:fosfor_totaal",
                 "concept:alk_c",
@@ -612,6 +673,7 @@
                 "concept:alk_c10-14",
                 "concept:alkanen_alkenen",
                 "concept:anmvos_t",
+                "concept:aof",
                 "concept:aox",
                 "concept:apeo",
                 "concept:apeo_c10",
@@ -712,7 +774,6 @@
                 "concept:cl_en_so4",
                 "concept:cl_ot",
                 "concept:cl_v",
-                "concept:clfvfs",
                 "concept:clfyl_t",
                 "concept:cnitol",
                 "concept:cnyl_t",
@@ -758,7 +819,6 @@
                 "concept:eox",
                 "concept:es_ccl4",
                 "concept:es_pe",
-                "concept:es_ttcee",
                 "concept:extrah__st_",
                 "concept:eyfol_som",
                 "concept:f-verb",
@@ -15159,7 +15219,23 @@
             "ecNumber": "274-864-4",
             "source": "zorgwekkende_stof:zorgwekkende_stof",
             "altLabel_en": "Naphthalene, chloro derivs.",
+            "closeMatch": [
+                "wise:CAS_70776-03-3",
+                "concept:70776-03-3"
+            ],
+            "exactMatch": [
+                "wise:CAS_70776-03-3",
+                "concept:70776-03-3"
+            ],
             "inScheme": "conceptscheme:sommatie_stoffen",
+            "mappingRelation": [
+                "wise:CAS_70776-03-3",
+                "concept:70776-03-3"
+            ],
+            "semanticRelation": [
+                "wise:CAS_70776-03-3",
+                "concept:70776-03-3"
+            ],
             "topConceptOf": "conceptscheme:sommatie_stoffen"
         },
         {
@@ -16544,23 +16620,29 @@
             "topConceptOf": "conceptscheme:sommatie_stoffen"
         },
         {
-            "id": "concept:85535-84-8",
-            "type": "skos:Concept",
-            "casNumber": "85535-84-8",
-            "ecNumber": "287-476-5",
-            "source": "zorgwekkende_stof:zorgwekkende_stof",
-            "altLabel_en": "Alkanes, C10-13, chloro (Short Chain Chlorinated Paraffins)",
-            "inScheme": "conceptscheme:sommatie_stoffen",
-            "topConceptOf": "conceptscheme:sommatie_stoffen"
-        },
-        {
             "id": "concept:85535-85-9",
             "type": "skos:Concept",
             "casNumber": "85535-85-9",
             "ecNumber": "287-477-0",
             "source": "zorgwekkende_stof:zorgwekkende_stof",
             "altLabel_en": "Alkanes, C14-17, chloro",
+            "closeMatch": [
+                "wise:CAS_85535-85-9",
+                "concept:85535-85-9"
+            ],
+            "exactMatch": [
+                "wise:CAS_85535-85-9",
+                "concept:85535-85-9"
+            ],
             "inScheme": "conceptscheme:sommatie_stoffen",
+            "mappingRelation": [
+                "wise:CAS_85535-85-9",
+                "concept:85535-85-9"
+            ],
+            "semanticRelation": [
+                "wise:CAS_85535-85-9",
+                "concept:85535-85-9"
+            ],
             "topConceptOf": "conceptscheme:sommatie_stoffen"
         },
         {
@@ -21807,6 +21889,9 @@
             "id": "concept:alk_c",
             "type": "skos:Concept",
             "casNumber": "85535-84-8",
+            "ecNumber": "287-476-5",
+            "source": "zorgwekkende_stof:zorgwekkende_stof",
+            "altLabel_en": "Alkanes, C10-13, chloro (Short Chain Chlorinated Paraffins)",
             "broadMatch": "chemische_stof:CHEMONTID_0001026",
             "broader": "chemische_stof:CHEMONTID_0001026",
             "broaderTransitive": "chemische_stof:CHEMONTID_0001026",
@@ -21910,12 +21995,24 @@
             ]
         },
         {
-            "id": "concept:aox",
+            "id": "concept:aof",
             "type": "skos:Concept",
-            "altLabel": "Adsorbeerbare organische halogeenverbindingen (AOX)",
+            "altLabel": "AOF",
             "inScheme": "conceptscheme:sommatie_stoffen",
             "notation": "AOX",
-            "prefLabel": "Adsorbeerbare organohalogenen",
+            "prefLabel": "adsorbeerbaar organisch fluor",
+            "topConceptOf": "conceptscheme:sommatie_stoffen"
+        },
+        {
+            "id": "concept:aox",
+            "type": "skos:Concept",
+            "altLabel": [
+                "AOX",
+                "adsorbeerbare organische halogeenverbindingen"
+            ],
+            "inScheme": "conceptscheme:sommatie_stoffen",
+            "notation": "AOX",
+            "prefLabel": "adsorbeerbare organohalogenen",
             "topConceptOf": "conceptscheme:sommatie_stoffen",
             "theme": [
                 "gemet:2912",
@@ -23320,8 +23417,18 @@
             "casNumber": "470-90-6",
             "pubchem": "compound:Chlorfenvinphos",
             "altLabel": "Cfvinfos",
+            "closeMatch": [
+                "wise:CAS_470-90-6",
+                "concept:clfvfs"
+            ],
+            "exactMatch": [
+                "wise:CAS_470-90-6",
+                "concept:clfvfs"
+            ],
             "inScheme": "conceptscheme:sommatie_stoffen",
             "mappingRelation": [
+                "wise:CAS_470-90-6",
+                "concept:clfvfs",
                 "chemische_stof:FSAVDKDHPDSCTO-WQLSENKSSA-N",
                 "chemische_stof:FSAVDKDHPDSCTO-XYOKQWHBSA-N"
             ],
@@ -23340,6 +23447,8 @@
             "notation": "Clfvfs",
             "prefLabel": "Chloorfenvinfos",
             "semanticRelation": [
+                "wise:CAS_470-90-6",
+                "concept:clfvfs",
                 "chemische_stof:FSAVDKDHPDSCTO-WQLSENKSSA-N",
                 "chemische_stof:FSAVDKDHPDSCTO-XYOKQWHBSA-N"
             ],
@@ -24136,9 +24245,13 @@
         {
             "id": "concept:eas_ttcee",
             "type": "skos:Concept",
+            "altLabel": [
+                "TCE extraheerbare apolaire stoffen",
+                "tetrachloorethyleen extraheerbare apolaire stoffen"
+            ],
             "inScheme": "conceptscheme:sommatie_stoffen",
             "notation": "EAS TtCEe",
-            "prefLabel": "Tetrachloorethyleen extrah.apol.stoffen",
+            "prefLabel": "tetrachlooretheen extraheerbare apolaire stoffen",
             "topConceptOf": "conceptscheme:sommatie_stoffen",
             "theme": [
                 "gemet:2912",
@@ -24148,10 +24261,13 @@
         {
             "id": "concept:eox",
             "type": "skos:Concept",
-            "altLabel": "Extraheerbare organische halogeenverbindingen (EOX)",
+            "altLabel": [
+                "EOX",
+                "extraheerbare organische halogeenverbindingen"
+            ],
             "inScheme": "conceptscheme:sommatie_stoffen",
             "notation": "EOX",
-            "prefLabel": "Extraheerbare organohalogenen",
+            "prefLabel": "extraheerbare organohalogenen",
             "topConceptOf": "conceptscheme:sommatie_stoffen",
             "theme": [
                 "gemet:2912",
@@ -24211,19 +24327,7 @@
             "type": "skos:Concept",
             "inScheme": "conceptscheme:sommatie_stoffen",
             "notation": "ES pe",
-            "prefLabel": "Petroleumether extraheerbare stoffen",
-            "topConceptOf": "conceptscheme:sommatie_stoffen",
-            "theme": [
-                "gemet:2912",
-                "gemet:9214"
-            ]
-        },
-        {
-            "id": "concept:es_ttcee",
-            "type": "skos:Concept",
-            "inScheme": "conceptscheme:sommatie_stoffen",
-            "notation": "ES TtCEe",
-            "prefLabel": "Tetrachloorethyleen extrah.stoffen",
+            "prefLabel": "petroleumether extraheerbare stoffen",
             "topConceptOf": "conceptscheme:sommatie_stoffen",
             "theme": [
                 "gemet:2912",
@@ -25604,9 +25708,13 @@
         {
             "id": "concept:fol_get_",
             "type": "skos:Concept",
+            "altLabel": [
+                "fenol getal",
+                "fenolindex volgens ISO 14402"
+            ],
             "inScheme": "conceptscheme:sommatie_stoffen",
             "notation": "Fol get.",
-            "prefLabel": "Fenol getal",
+            "prefLabel": "fenolindex",
             "topConceptOf": "conceptscheme:sommatie_stoffen",
             "theme": [
                 "gemet:2912",
@@ -26208,6 +26316,7 @@
         {
             "id": "concept:mbas",
             "type": "skos:Concept",
+            "altLabel": "MBAS",
             "definition": "Oppervlakte actieve stoffen (reagerend op methyleenblauw)",
             "inScheme": "conceptscheme:sommatie_stoffen",
             "notation": "MBAS",
@@ -26282,9 +26391,13 @@
         {
             "id": "concept:min_oliec10-c40",
             "type": "skos:Concept",
+            "altLabel": [
+                "minerale olie C10-C40",
+                "minerale olie GC"
+            ],
             "inScheme": "conceptscheme:sommatie_stoffen",
             "notation": "Min.olieC10-C40",
-            "prefLabel": "Minerale olie C10-C40",
+            "prefLabel": "minerale olie",
             "topConceptOf": "conceptscheme:sommatie_stoffen",
             "theme": [
                 "gemet:2912",
@@ -26798,9 +26911,12 @@
         {
             "id": "concept:mno4_w",
             "type": "skos:Concept",
+            "altLabel": "Oxideerbaarheid bij warmte",
+            "definition": "Kaliumpermanganaatverbruik bij verwarmde oxidatie",
             "inScheme": "conceptscheme:sommatie_stoffen",
             "notation": "MnO4 w",
-            "prefLabel": "Permanganaatverbruik, warm",
+            "note": "Kaliumpermanganaatverbruik bij verwarmde oxidatie",
+            "prefLabel": "Permanganaatindex",
             "topConceptOf": "conceptscheme:sommatie_stoffen",
             "theme": [
                 "gemet:2912",
@@ -28247,10 +28363,13 @@
         {
             "id": "concept:pox",
             "type": "skos:Concept",
-            "altLabel": "Purgeerbare organische halogeenverbindingen (POX)",
+            "altLabel": [
+                "POX",
+                "purgeerbare organische halogeenverbindingen"
+            ],
             "inScheme": "conceptscheme:sommatie_stoffen",
             "notation": "POX",
-            "prefLabel": "Purgeerbare organohalogenen",
+            "prefLabel": "purgeerbare organohalogenen",
             "topConceptOf": "conceptscheme:sommatie_stoffen",
             "theme": [
                 "gemet:2912",
@@ -28620,9 +28739,12 @@
         {
             "id": "concept:tam",
             "type": "skos:Concept",
+            "altLabel": "Alkaliniteit met methyloranje",
+            "definition": "Alkaliniteit bepaald door zuurtitratie tot eindpunt pH 4.5",
             "inScheme": "conceptscheme:sommatie_stoffen",
             "notation": "TAM",
-            "prefLabel": "Alkaliniteit met methyloranje",
+            "note": "Alkaliniteit bepaald door zuurtitratie tot eindpunt pH 4.5",
+            "prefLabel": "Alkaliniteit, totaal",
             "topConceptOf": "conceptscheme:sommatie_stoffen",
             "theme": [
                 "gemet:2912",
@@ -28632,9 +28754,12 @@
         {
             "id": "concept:tap",
             "type": "skos:Concept",
+            "altLabel": "Alkaliniteit met fenolftaleine",
+            "definition": "Alkaliniteit bepaald door zuurtitratie tot eindpunt pH 8.3",
             "inScheme": "conceptscheme:sommatie_stoffen",
             "notation": "TAP",
-            "prefLabel": "Alkaliniteit met fenolftaleine",
+            "note": "Alkaliniteit bepaald door zuurtitratie tot eindpunt pH 8.3",
+            "prefLabel": "Alkaliniteit, samengesteld",
             "topConceptOf": "conceptscheme:sommatie_stoffen",
             "theme": [
                 "gemet:2912",
@@ -28693,9 +28818,13 @@
         {
             "id": "concept:tcees",
             "type": "skos:Concept",
+            "altLabel": [
+                "TCE extraheerbare stoffen",
+                "tetrachloorethyleen extraheerbare stoffen"
+            ],
             "inScheme": "conceptscheme:sommatie_stoffen",
             "notation": "tcees",
-            "prefLabel": "Tetrachlooretheenextraheerbare stoffen",
+            "prefLabel": "tetrachlooretheen extraheerbare stoffen",
             "topConceptOf": "conceptscheme:sommatie_stoffen",
             "theme": [
                 "gemet:2912",
@@ -29274,9 +29403,12 @@
             "hasTopConcept": [
                 "concept:ompxyl",
                 "concept:pcb_t",
+                "concept:clfvfs",
                 "concept:fol_t",
+                "concept:70776-03-3",
                 "concept:fosfor_totaal",
                 "concept:alk_c",
+                "concept:85535-85-9",
                 "concept:fijn_stof",
                 "concept:pfk_imjv_lucht",
                 "concept:111cea_112cea",
@@ -29328,6 +29460,7 @@
                 "concept:alk_c10-14",
                 "concept:alkanen_alkenen",
                 "concept:anmvos_t",
+                "concept:aof",
                 "concept:aox",
                 "concept:apeo",
                 "concept:apeo_c10",
@@ -29428,7 +29561,6 @@
                 "concept:cl_en_so4",
                 "concept:cl_ot",
                 "concept:cl_v",
-                "concept:clfvfs",
                 "concept:clfyl_t",
                 "concept:cnitol",
                 "concept:cnyl_t",
@@ -29474,7 +29606,6 @@
                 "concept:eox",
                 "concept:es_ccl4",
                 "concept:es_pe",
-                "concept:es_ttcee",
                 "concept:extrah__st_",
                 "concept:eyfol_som",
                 "concept:f-verb",
@@ -30521,7 +30652,6 @@
                 "concept:70592-76-6",
                 "concept:70592-77-7",
                 "concept:70592-78-8",
-                "concept:70776-03-3",
                 "concept:70879-91-3",
                 "concept:70969-47-0",
                 "concept:70995-63-0",
@@ -30648,8 +30778,6 @@
                 "concept:852541-25-4",
                 "concept:85409-17-2",
                 "concept:85480-75-7",
-                "concept:85535-84-8",
-                "concept:85535-85-9",
                 "concept:85536-17-0",
                 "concept:85536-19-2",
                 "concept:85536-20-5",

@@ -27,6 +27,15 @@
 <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_1336-36-3> <http://www.w3.org/2004/02/skos/core#semanticRelation> <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/RPUMZMSNLZHIGZ-UHFFFAOYSA-N> .
 <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_1336-36-3> <http://www.w3.org/2004/02/skos/core#semanticRelation> <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/WBHQEUPUMONIKF-UHFFFAOYSA-N> .
 <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_1336-36-3> <http://www.w3.org/2004/02/skos/core#semanticRelation> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/pcb_t> .
+<http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_470-90-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_470-90-6> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_470-90-6> .
+<http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_470-90-6> <http://www.w3.org/2004/02/skos/core#closeMatch> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/clfvfs> .
+<http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_470-90-6> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_470-90-6> .
+<http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_470-90-6> <http://www.w3.org/2004/02/skos/core#exactMatch> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/clfvfs> .
+<http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_470-90-6> <http://www.w3.org/2004/02/skos/core#mappingRelation> <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_470-90-6> .
+<http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_470-90-6> <http://www.w3.org/2004/02/skos/core#mappingRelation> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/clfvfs> .
+<http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_470-90-6> <http://www.w3.org/2004/02/skos/core#semanticRelation> <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_470-90-6> .
+<http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_470-90-6> <http://www.w3.org/2004/02/skos/core#semanticRelation> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/clfvfs> .
 <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_64743-03-9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_64743-03-9> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_64743-03-9> .
 <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_64743-03-9> <http://www.w3.org/2004/02/skos/core#closeMatch> <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/CHEMONTID_0000134> .
@@ -40,6 +49,15 @@
 <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_64743-03-9> <http://www.w3.org/2004/02/skos/core#semanticRelation> <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_64743-03-9> .
 <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_64743-03-9> <http://www.w3.org/2004/02/skos/core#semanticRelation> <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/CHEMONTID_0000134> .
 <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_64743-03-9> <http://www.w3.org/2004/02/skos/core#semanticRelation> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/fol_t> .
+<http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_70776-03-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_70776-03-3> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_70776-03-3> .
+<http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_70776-03-3> <http://www.w3.org/2004/02/skos/core#closeMatch> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/70776-03-3> .
+<http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_70776-03-3> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_70776-03-3> .
+<http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_70776-03-3> <http://www.w3.org/2004/02/skos/core#exactMatch> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/70776-03-3> .
+<http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_70776-03-3> <http://www.w3.org/2004/02/skos/core#mappingRelation> <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_70776-03-3> .
+<http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_70776-03-3> <http://www.w3.org/2004/02/skos/core#mappingRelation> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/70776-03-3> .
+<http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_70776-03-3> <http://www.w3.org/2004/02/skos/core#semanticRelation> <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_70776-03-3> .
+<http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_70776-03-3> <http://www.w3.org/2004/02/skos/core#semanticRelation> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/70776-03-3> .
 <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_7723-14-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_7723-14-0> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_7723-14-0> .
 <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_7723-14-0> <http://www.w3.org/2004/02/skos/core#closeMatch> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/fosfor_totaal> .
@@ -58,6 +76,15 @@
 <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_85535-84-8> <http://www.w3.org/2004/02/skos/core#mappingRelation> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/alk_c> .
 <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_85535-84-8> <http://www.w3.org/2004/02/skos/core#semanticRelation> <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_85535-84-8> .
 <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_85535-84-8> <http://www.w3.org/2004/02/skos/core#semanticRelation> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/alk_c> .
+<http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_85535-85-9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_85535-85-9> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_85535-85-9> .
+<http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_85535-85-9> <http://www.w3.org/2004/02/skos/core#closeMatch> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/85535-85-9> .
+<http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_85535-85-9> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_85535-85-9> .
+<http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_85535-85-9> <http://www.w3.org/2004/02/skos/core#exactMatch> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/85535-85-9> .
+<http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_85535-85-9> <http://www.w3.org/2004/02/skos/core#mappingRelation> <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_85535-85-9> .
+<http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_85535-85-9> <http://www.w3.org/2004/02/skos/core#mappingRelation> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/85535-85-9> .
+<http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_85535-85-9> <http://www.w3.org/2004/02/skos/core#semanticRelation> <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_85535-85-9> .
+<http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_85535-85-9> <http://www.w3.org/2004/02/skos/core#semanticRelation> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/85535-85-9> .
 <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/EEA_33-38-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/EEA_33-38-5> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/EEA_33-38-5> .
 <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/EEA_33-38-5> <http://www.w3.org/2004/02/skos/core#closeMatch> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/pcb_t> .
@@ -127,6 +154,7 @@
 <https://data.omgeving.vlaanderen.be/id/collection/sommatie_stoffen/water> <http://www.w3.org/2004/02/skos/core#member> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/alk_c> .
 <https://data.omgeving.vlaanderen.be/id/collection/sommatie_stoffen/water> <http://www.w3.org/2004/02/skos/core#member> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/alkanen_alkenen> .
 <https://data.omgeving.vlaanderen.be/id/collection/sommatie_stoffen/water> <http://www.w3.org/2004/02/skos/core#member> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/anmvos_t> .
+<https://data.omgeving.vlaanderen.be/id/collection/sommatie_stoffen/water> <http://www.w3.org/2004/02/skos/core#member> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/aof> .
 <https://data.omgeving.vlaanderen.be/id/collection/sommatie_stoffen/water> <http://www.w3.org/2004/02/skos/core#member> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/aox> .
 <https://data.omgeving.vlaanderen.be/id/collection/sommatie_stoffen/water> <http://www.w3.org/2004/02/skos/core#member> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/apeo> .
 <https://data.omgeving.vlaanderen.be/id/collection/sommatie_stoffen/water> <http://www.w3.org/2004/02/skos/core#member> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/apeo_c10> .
@@ -273,7 +301,6 @@
 <https://data.omgeving.vlaanderen.be/id/collection/sommatie_stoffen/water> <http://www.w3.org/2004/02/skos/core#member> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/eox> .
 <https://data.omgeving.vlaanderen.be/id/collection/sommatie_stoffen/water> <http://www.w3.org/2004/02/skos/core#member> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/es_ccl4> .
 <https://data.omgeving.vlaanderen.be/id/collection/sommatie_stoffen/water> <http://www.w3.org/2004/02/skos/core#member> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/es_pe> .
-<https://data.omgeving.vlaanderen.be/id/collection/sommatie_stoffen/water> <http://www.w3.org/2004/02/skos/core#member> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/es_ttcee> .
 <https://data.omgeving.vlaanderen.be/id/collection/sommatie_stoffen/water> <http://www.w3.org/2004/02/skos/core#member> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/extrah__st_> .
 <https://data.omgeving.vlaanderen.be/id/collection/sommatie_stoffen/water> <http://www.w3.org/2004/02/skos/core#member> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/eyfol_som> .
 <https://data.omgeving.vlaanderen.be/id/collection/sommatie_stoffen/water> <http://www.w3.org/2004/02/skos/core#member> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/f-verb> .
@@ -9761,7 +9788,15 @@
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/70776-03-3> <http://purl.org/dc/terms/source> <https://data.omgeving.vlaanderen.be/id/concept/zorgwekkende_stof/zorgwekkende_stof> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/70776-03-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/70776-03-3> <http://www.w3.org/2004/02/skos/core#altLabel> "Naphthalene, chloro derivs."@en .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/70776-03-3> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_70776-03-3> .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/70776-03-3> <http://www.w3.org/2004/02/skos/core#closeMatch> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/70776-03-3> .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/70776-03-3> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_70776-03-3> .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/70776-03-3> <http://www.w3.org/2004/02/skos/core#exactMatch> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/70776-03-3> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/70776-03-3> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/70776-03-3> <http://www.w3.org/2004/02/skos/core#mappingRelation> <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_70776-03-3> .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/70776-03-3> <http://www.w3.org/2004/02/skos/core#mappingRelation> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/70776-03-3> .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/70776-03-3> <http://www.w3.org/2004/02/skos/core#semanticRelation> <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_70776-03-3> .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/70776-03-3> <http://www.w3.org/2004/02/skos/core#semanticRelation> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/70776-03-3> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/70776-03-3> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/70879-91-3> <http://dbpedia.org/ontology/casNumber> "70879-91-3" .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/70879-91-3> <http://purl.org/dc/terms/source> <https://data.omgeving.vlaanderen.be/id/concept/zorgwekkende_stof/zorgwekkende_stof> .
@@ -10684,19 +10719,20 @@
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/85480-75-7> <http://www.w3.org/2004/02/skos/core#altLabel> "Nickel, 2,2'-thiobis[4-nonylphenol] complexes"@en .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/85480-75-7> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/85480-75-7> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> .
-<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/85535-84-8> <http://dbpedia.org/ontology/casNumber> "85535-84-8" .
-<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/85535-84-8> <http://dbpedia.org/ontology/ecNumber> "287-476-5" .
-<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/85535-84-8> <http://purl.org/dc/terms/source> <https://data.omgeving.vlaanderen.be/id/concept/zorgwekkende_stof/zorgwekkende_stof> .
-<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/85535-84-8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/85535-84-8> <http://www.w3.org/2004/02/skos/core#altLabel> "Alkanes, C10-13, chloro (Short Chain Chlorinated Paraffins)"@en .
-<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/85535-84-8> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> .
-<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/85535-84-8> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/85535-85-9> <http://dbpedia.org/ontology/casNumber> "85535-85-9" .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/85535-85-9> <http://dbpedia.org/ontology/ecNumber> "287-477-0" .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/85535-85-9> <http://purl.org/dc/terms/source> <https://data.omgeving.vlaanderen.be/id/concept/zorgwekkende_stof/zorgwekkende_stof> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/85535-85-9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/85535-85-9> <http://www.w3.org/2004/02/skos/core#altLabel> "Alkanes, C14-17, chloro"@en .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/85535-85-9> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_85535-85-9> .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/85535-85-9> <http://www.w3.org/2004/02/skos/core#closeMatch> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/85535-85-9> .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/85535-85-9> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_85535-85-9> .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/85535-85-9> <http://www.w3.org/2004/02/skos/core#exactMatch> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/85535-85-9> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/85535-85-9> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/85535-85-9> <http://www.w3.org/2004/02/skos/core#mappingRelation> <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_85535-85-9> .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/85535-85-9> <http://www.w3.org/2004/02/skos/core#mappingRelation> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/85535-85-9> .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/85535-85-9> <http://www.w3.org/2004/02/skos/core#semanticRelation> <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_85535-85-9> .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/85535-85-9> <http://www.w3.org/2004/02/skos/core#semanticRelation> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/85535-85-9> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/85535-85-9> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/85536-17-0> <http://dbpedia.org/ontology/casNumber> "85536-17-0" .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/85536-17-0> <http://dbpedia.org/ontology/ecNumber> "287-498-5" .
@@ -14129,7 +14165,10 @@
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/alk_c10-14> <http://www.w3.org/ns/dcat#theme> <http://www.eionet.europa.eu/gemet/concept/2912> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/alk_c10-14> <http://www.w3.org/ns/dcat#theme> <http://www.eionet.europa.eu/gemet/concept/9214> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/alk_c> <http://dbpedia.org/ontology/casNumber> "85535-84-8" .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/alk_c> <http://dbpedia.org/ontology/ecNumber> "287-476-5" .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/alk_c> <http://purl.org/dc/terms/source> <https://data.omgeving.vlaanderen.be/id/concept/zorgwekkende_stof/zorgwekkende_stof> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/alk_c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/alk_c> <http://www.w3.org/2004/02/skos/core#altLabel> "Alkanes, C10-13, chloro (Short Chain Chlorinated Paraffins)"@en .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/alk_c> <http://www.w3.org/2004/02/skos/core#broadMatch> <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/CHEMONTID_0001026> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/alk_c> <http://www.w3.org/2004/02/skos/core#broader> <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/CHEMONTID_0001026> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/alk_c> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/CHEMONTID_0001026> .
@@ -14177,11 +14216,18 @@
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/anmvos_t> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/anmvos_t> <http://www.w3.org/ns/dcat#theme> <http://www.eionet.europa.eu/gemet/concept/2912> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/anmvos_t> <http://www.w3.org/ns/dcat#theme> <http://www.eionet.europa.eu/gemet/concept/9214> .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/aof> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/aof> <http://www.w3.org/2004/02/skos/core#altLabel> "AOF"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/aof> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/aof> <http://www.w3.org/2004/02/skos/core#notation> "AOX" .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/aof> <http://www.w3.org/2004/02/skos/core#prefLabel> "adsorbeerbaar organisch fluor"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/aof> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/aox> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/aox> <http://www.w3.org/2004/02/skos/core#altLabel> "Adsorbeerbare organische halogeenverbindingen (AOX)"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/aox> <http://www.w3.org/2004/02/skos/core#altLabel> "AOX"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/aox> <http://www.w3.org/2004/02/skos/core#altLabel> "adsorbeerbare organische halogeenverbindingen"@nl .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/aox> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/aox> <http://www.w3.org/2004/02/skos/core#notation> "AOX" .
-<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/aox> <http://www.w3.org/2004/02/skos/core#prefLabel> "Adsorbeerbare organohalogenen"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/aox> <http://www.w3.org/2004/02/skos/core#prefLabel> "adsorbeerbare organohalogenen"@nl .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/aox> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/aox> <http://www.w3.org/ns/dcat#theme> <http://www.eionet.europa.eu/gemet/concept/2912> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/aox> <http://www.w3.org/ns/dcat#theme> <http://www.eionet.europa.eu/gemet/concept/9214> .
@@ -15001,9 +15047,15 @@
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/clfvfs> <http://dbpedia.org/ontology/pubchem> <https://pubchem.ncbi.nlm.nih.gov/compound/Chlorfenvinphos> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/clfvfs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/clfvfs> <http://www.w3.org/2004/02/skos/core#altLabel> "Cfvinfos"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/clfvfs> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_470-90-6> .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/clfvfs> <http://www.w3.org/2004/02/skos/core#closeMatch> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/clfvfs> .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/clfvfs> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_470-90-6> .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/clfvfs> <http://www.w3.org/2004/02/skos/core#exactMatch> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/clfvfs> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/clfvfs> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/clfvfs> <http://www.w3.org/2004/02/skos/core#mappingRelation> <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_470-90-6> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/clfvfs> <http://www.w3.org/2004/02/skos/core#mappingRelation> <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/FSAVDKDHPDSCTO-WQLSENKSSA-N> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/clfvfs> <http://www.w3.org/2004/02/skos/core#mappingRelation> <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/FSAVDKDHPDSCTO-XYOKQWHBSA-N> .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/clfvfs> <http://www.w3.org/2004/02/skos/core#mappingRelation> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/clfvfs> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/clfvfs> <http://www.w3.org/2004/02/skos/core#narrowMatch> <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/FSAVDKDHPDSCTO-WQLSENKSSA-N> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/clfvfs> <http://www.w3.org/2004/02/skos/core#narrowMatch> <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/FSAVDKDHPDSCTO-XYOKQWHBSA-N> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/clfvfs> <http://www.w3.org/2004/02/skos/core#narrower> <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/FSAVDKDHPDSCTO-WQLSENKSSA-N> .
@@ -15012,8 +15064,10 @@
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/clfvfs> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/FSAVDKDHPDSCTO-XYOKQWHBSA-N> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/clfvfs> <http://www.w3.org/2004/02/skos/core#notation> "Clfvfs" .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/clfvfs> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chloorfenvinfos"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/clfvfs> <http://www.w3.org/2004/02/skos/core#semanticRelation> <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/CAS_470-90-6> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/clfvfs> <http://www.w3.org/2004/02/skos/core#semanticRelation> <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/FSAVDKDHPDSCTO-WQLSENKSSA-N> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/clfvfs> <http://www.w3.org/2004/02/skos/core#semanticRelation> <https://data.omgeving.vlaanderen.be/id/concept/chemische_stof/FSAVDKDHPDSCTO-XYOKQWHBSA-N> .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/clfvfs> <http://www.w3.org/2004/02/skos/core#semanticRelation> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/clfvfs> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/clfvfs> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/clfvfs> <http://www.w3.org/ns/dcat#theme> <http://www.eionet.europa.eu/gemet/concept/2912> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/clfvfs> <http://www.w3.org/ns/dcat#theme> <http://www.eionet.europa.eu/gemet/concept/9214> .
@@ -15542,17 +15596,20 @@
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/dyfolet> <http://www.w3.org/ns/dcat#theme> <http://www.eionet.europa.eu/gemet/concept/2912> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/dyfolet> <http://www.w3.org/ns/dcat#theme> <http://www.eionet.europa.eu/gemet/concept/9214> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/eas_ttcee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/eas_ttcee> <http://www.w3.org/2004/02/skos/core#altLabel> "TCE extraheerbare apolaire stoffen"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/eas_ttcee> <http://www.w3.org/2004/02/skos/core#altLabel> "tetrachloorethyleen extraheerbare apolaire stoffen"@nl .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/eas_ttcee> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/eas_ttcee> <http://www.w3.org/2004/02/skos/core#notation> "EAS TtCEe" .
-<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/eas_ttcee> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tetrachloorethyleen extrah.apol.stoffen"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/eas_ttcee> <http://www.w3.org/2004/02/skos/core#prefLabel> "tetrachlooretheen extraheerbare apolaire stoffen"@nl .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/eas_ttcee> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/eas_ttcee> <http://www.w3.org/ns/dcat#theme> <http://www.eionet.europa.eu/gemet/concept/2912> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/eas_ttcee> <http://www.w3.org/ns/dcat#theme> <http://www.eionet.europa.eu/gemet/concept/9214> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/eox> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/eox> <http://www.w3.org/2004/02/skos/core#altLabel> "Extraheerbare organische halogeenverbindingen (EOX)"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/eox> <http://www.w3.org/2004/02/skos/core#altLabel> "EOX"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/eox> <http://www.w3.org/2004/02/skos/core#altLabel> "extraheerbare organische halogeenverbindingen"@nl .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/eox> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/eox> <http://www.w3.org/2004/02/skos/core#notation> "EOX" .
-<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/eox> <http://www.w3.org/2004/02/skos/core#prefLabel> "Extraheerbare organohalogenen"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/eox> <http://www.w3.org/2004/02/skos/core#prefLabel> "extraheerbare organohalogenen"@nl .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/eox> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/eox> <http://www.w3.org/ns/dcat#theme> <http://www.eionet.europa.eu/gemet/concept/2912> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/eox> <http://www.w3.org/ns/dcat#theme> <http://www.eionet.europa.eu/gemet/concept/9214> .
@@ -15587,17 +15644,10 @@
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/es_pe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/es_pe> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/es_pe> <http://www.w3.org/2004/02/skos/core#notation> "ES pe" .
-<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/es_pe> <http://www.w3.org/2004/02/skos/core#prefLabel> "Petroleumether extraheerbare stoffen"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/es_pe> <http://www.w3.org/2004/02/skos/core#prefLabel> "petroleumether extraheerbare stoffen"@nl .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/es_pe> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/es_pe> <http://www.w3.org/ns/dcat#theme> <http://www.eionet.europa.eu/gemet/concept/2912> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/es_pe> <http://www.w3.org/ns/dcat#theme> <http://www.eionet.europa.eu/gemet/concept/9214> .
-<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/es_ttcee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/es_ttcee> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> .
-<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/es_ttcee> <http://www.w3.org/2004/02/skos/core#notation> "ES TtCEe" .
-<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/es_ttcee> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tetrachloorethyleen extrah.stoffen"@nl .
-<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/es_ttcee> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> .
-<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/es_ttcee> <http://www.w3.org/ns/dcat#theme> <http://www.eionet.europa.eu/gemet/concept/2912> .
-<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/es_ttcee> <http://www.w3.org/ns/dcat#theme> <http://www.eionet.europa.eu/gemet/concept/9214> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/extrah__st_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/extrah__st_> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/extrah__st_> <http://www.w3.org/2004/02/skos/core#notation> "Extrah. St." .
@@ -16914,9 +16964,11 @@
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/fol_c__i> <http://www.w3.org/ns/dcat#theme> <http://www.eionet.europa.eu/gemet/concept/2912> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/fol_c__i> <http://www.w3.org/ns/dcat#theme> <http://www.eionet.europa.eu/gemet/concept/9214> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/fol_get_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/fol_get_> <http://www.w3.org/2004/02/skos/core#altLabel> "fenol getal"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/fol_get_> <http://www.w3.org/2004/02/skos/core#altLabel> "fenolindex volgens ISO 14402"@nl .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/fol_get_> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/fol_get_> <http://www.w3.org/2004/02/skos/core#notation> "Fol get." .
-<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/fol_get_> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fenol getal"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/fol_get_> <http://www.w3.org/2004/02/skos/core#prefLabel> "fenolindex"@nl .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/fol_get_> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/fol_get_> <http://www.w3.org/ns/dcat#theme> <http://www.eionet.europa.eu/gemet/concept/2912> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/fol_get_> <http://www.w3.org/ns/dcat#theme> <http://www.eionet.europa.eu/gemet/concept/9214> .
@@ -17286,6 +17338,7 @@
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/mak_t> <http://www.w3.org/ns/dcat#theme> <http://www.eionet.europa.eu/gemet/concept/2912> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/mak_t> <http://www.w3.org/ns/dcat#theme> <http://www.eionet.europa.eu/gemet/concept/9214> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/mbas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/mbas> <http://www.w3.org/2004/02/skos/core#altLabel> "MBAS"@nl .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/mbas> <http://www.w3.org/2004/02/skos/core#definition> "Oppervlakte actieve stoffen (reagerend op methyleenblauw)"@nl .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/mbas> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/mbas> <http://www.w3.org/2004/02/skos/core#notation> "MBAS" .
@@ -17330,9 +17383,11 @@
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/metalenenmetalloidenmetuitzonderingvankwik> <http://www.w3.org/ns/dcat#theme> <http://www.eionet.europa.eu/gemet/concept/2912> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/metalenenmetalloidenmetuitzonderingvankwik> <http://www.w3.org/ns/dcat#theme> <http://www.eionet.europa.eu/gemet/concept/9214> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/min_oliec10-c40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/min_oliec10-c40> <http://www.w3.org/2004/02/skos/core#altLabel> "minerale olie C10-C40"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/min_oliec10-c40> <http://www.w3.org/2004/02/skos/core#altLabel> "minerale olie GC"@nl .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/min_oliec10-c40> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/min_oliec10-c40> <http://www.w3.org/2004/02/skos/core#notation> "Min.olieC10-C40" .
-<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/min_oliec10-c40> <http://www.w3.org/2004/02/skos/core#prefLabel> "Minerale olie C10-C40"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/min_oliec10-c40> <http://www.w3.org/2004/02/skos/core#prefLabel> "minerale olie"@nl .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/min_oliec10-c40> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/min_oliec10-c40> <http://www.w3.org/ns/dcat#theme> <http://www.eionet.europa.eu/gemet/concept/2912> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/min_oliec10-c40> <http://www.w3.org/ns/dcat#theme> <http://www.eionet.europa.eu/gemet/concept/9214> .
@@ -17631,9 +17686,12 @@
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/mno4_kf> <http://www.w3.org/ns/dcat#theme> <http://www.eionet.europa.eu/gemet/concept/2912> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/mno4_kf> <http://www.w3.org/ns/dcat#theme> <http://www.eionet.europa.eu/gemet/concept/9214> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/mno4_w> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/mno4_w> <http://www.w3.org/2004/02/skos/core#altLabel> "Oxideerbaarheid bij warmte"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/mno4_w> <http://www.w3.org/2004/02/skos/core#definition> "Kaliumpermanganaatverbruik bij verwarmde oxidatie"@nl .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/mno4_w> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/mno4_w> <http://www.w3.org/2004/02/skos/core#notation> "MnO4 w" .
-<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/mno4_w> <http://www.w3.org/2004/02/skos/core#prefLabel> "Permanganaatverbruik, warm"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/mno4_w> <http://www.w3.org/2004/02/skos/core#note> "Kaliumpermanganaatverbruik bij verwarmde oxidatie"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/mno4_w> <http://www.w3.org/2004/02/skos/core#prefLabel> "Permanganaatindex"@nl .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/mno4_w> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/mno4_w> <http://www.w3.org/ns/dcat#theme> <http://www.eionet.europa.eu/gemet/concept/2912> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/mno4_w> <http://www.w3.org/ns/dcat#theme> <http://www.eionet.europa.eu/gemet/concept/9214> .
@@ -18511,10 +18569,11 @@
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/pm2.5> <http://www.w3.org/ns/dcat#theme> <http://www.eionet.europa.eu/gemet/concept/270> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/pm2.5> <http://www.w3.org/ns/dcat#theme> <http://www.eionet.europa.eu/gemet/concept/2912> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/pox> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/pox> <http://www.w3.org/2004/02/skos/core#altLabel> "Purgeerbare organische halogeenverbindingen (POX)"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/pox> <http://www.w3.org/2004/02/skos/core#altLabel> "POX"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/pox> <http://www.w3.org/2004/02/skos/core#altLabel> "purgeerbare organische halogeenverbindingen"@nl .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/pox> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/pox> <http://www.w3.org/2004/02/skos/core#notation> "POX" .
-<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/pox> <http://www.w3.org/2004/02/skos/core#prefLabel> "Purgeerbare organohalogenen"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/pox> <http://www.w3.org/2004/02/skos/core#prefLabel> "purgeerbare organohalogenen"@nl .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/pox> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/pox> <http://www.w3.org/ns/dcat#theme> <http://www.eionet.europa.eu/gemet/concept/2912> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/pox> <http://www.w3.org/ns/dcat#theme> <http://www.eionet.europa.eu/gemet/concept/9214> .
@@ -18729,16 +18788,22 @@
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/surf_t> <http://www.w3.org/ns/dcat#theme> <http://www.eionet.europa.eu/gemet/concept/2912> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/surf_t> <http://www.w3.org/ns/dcat#theme> <http://www.eionet.europa.eu/gemet/concept/9214> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/tam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/tam> <http://www.w3.org/2004/02/skos/core#altLabel> "Alkaliniteit met methyloranje"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/tam> <http://www.w3.org/2004/02/skos/core#definition> "Alkaliniteit bepaald door zuurtitratie tot eindpunt pH 4.5"@nl .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/tam> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/tam> <http://www.w3.org/2004/02/skos/core#notation> "TAM" .
-<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/tam> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alkaliniteit met methyloranje"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/tam> <http://www.w3.org/2004/02/skos/core#note> "Alkaliniteit bepaald door zuurtitratie tot eindpunt pH 4.5"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/tam> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alkaliniteit, totaal"@nl .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/tam> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/tam> <http://www.w3.org/ns/dcat#theme> <http://www.eionet.europa.eu/gemet/concept/2912> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/tam> <http://www.w3.org/ns/dcat#theme> <http://www.eionet.europa.eu/gemet/concept/9214> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/tap> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/tap> <http://www.w3.org/2004/02/skos/core#altLabel> "Alkaliniteit met fenolftaleine"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/tap> <http://www.w3.org/2004/02/skos/core#definition> "Alkaliniteit bepaald door zuurtitratie tot eindpunt pH 8.3"@nl .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/tap> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/tap> <http://www.w3.org/2004/02/skos/core#notation> "TAP" .
-<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/tap> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alkaliniteit met fenolftaleine"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/tap> <http://www.w3.org/2004/02/skos/core#note> "Alkaliniteit bepaald door zuurtitratie tot eindpunt pH 8.3"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/tap> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alkaliniteit, samengesteld"@nl .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/tap> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/tap> <http://www.w3.org/ns/dcat#theme> <http://www.eionet.europa.eu/gemet/concept/2912> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/tap> <http://www.w3.org/ns/dcat#theme> <http://www.eionet.europa.eu/gemet/concept/9214> .
@@ -18772,9 +18837,11 @@
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/tcee__ttcee__dcma> <http://www.w3.org/ns/dcat#theme> <http://www.eionet.europa.eu/gemet/concept/2912> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/tcee__ttcee__dcma> <http://www.w3.org/ns/dcat#theme> <http://www.eionet.europa.eu/gemet/concept/9214> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/tcees> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/tcees> <http://www.w3.org/2004/02/skos/core#altLabel> "TCE extraheerbare stoffen"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/tcees> <http://www.w3.org/2004/02/skos/core#altLabel> "tetrachloorethyleen extraheerbare stoffen"@nl .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/tcees> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/tcees> <http://www.w3.org/2004/02/skos/core#notation> "tcees" .
-<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/tcees> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tetrachlooretheenextraheerbare stoffen"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/tcees> <http://www.w3.org/2004/02/skos/core#prefLabel> "tetrachlooretheen extraheerbare stoffen"@nl .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/tcees> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/tcees> <http://www.w3.org/ns/dcat#theme> <http://www.eionet.europa.eu/gemet/concept/2912> .
 <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/tcees> <http://www.w3.org/ns/dcat#theme> <http://www.eionet.europa.eu/gemet/concept/9214> .
@@ -20108,7 +20175,6 @@
 <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/852541-25-4> .
 <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/85409-17-2> .
 <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/85480-75-7> .
-<https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/85535-84-8> .
 <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/85535-85-9> .
 <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/85536-17-0> .
 <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/85536-19-2> .
@@ -20553,6 +20619,7 @@
 <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/anionischedetergenten> .
 <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/anionischeoppervlakteactievestoffen> .
 <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/anmvos_t> .
+<https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/aof> .
 <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/aox> .
 <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/apeo> .
 <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/apeo_c10> .
@@ -20722,7 +20789,6 @@
 <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/epktotaal> .
 <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/es_ccl4> .
 <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/es_pe> .
-<https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/es_ttcee> .
 <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/extrah__st_> .
 <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/eyfol_som> .
 <https://data.omgeving.vlaanderen.be/id/conceptscheme/sommatie_stoffen> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.omgeving.vlaanderen.be/id/concept/sommatie_stoffen/f-verb> .
